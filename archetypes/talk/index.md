@@ -31,7 +31,8 @@ summary: ""
 
 # Data e horário de início e fim da palestra
 # Formato: 2017-05-29T15:00:00Z
-# Horário de encerramento pode ser omitido usando o prefixo '#'
+# Se a palestra/curso durar o dia todo, basta especificar 'date' e ignorar 'date_end'
+# O horário de encerramento pode ser omitido usando o prefixo '#'
 date: {{ .Date }}
 date_end: {{ .Date }}
 all_day: false
