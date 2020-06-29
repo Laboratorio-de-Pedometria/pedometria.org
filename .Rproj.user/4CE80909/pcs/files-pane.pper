@@ -1,0 +1,13 @@
+{
+    "path": "~/projects/web/teste/themes/hugo-academic/exampleSite/content/publication/conference-paper",
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        },
+        {
+            "columnIndex": 1,
+            "ascending": true
+        }
+    ]
+}
