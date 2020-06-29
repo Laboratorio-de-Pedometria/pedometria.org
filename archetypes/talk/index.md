@@ -86,17 +86,20 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
+# Nome do arquivo dos slides usados na palestra/curso
+# O arquivo pode estar neste diretório (PDF, PPTX, ODP)
+# O arquivo pode estar no diretório `static/slides` (rmarkdown::ioslides_presentation)
+# Para gerar o arquivo HTML, execute o seguinte comando R: `source('R/build.R')`
 url_slides:
 url_code:
 url_pdf:
 url_video:
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+# Slides Markdown (opcional)
+# Associe esta palestra/curso com slides Markdown (reveal.js)
+# Simplesmente entre o nome do arquivo sem a extensão MD
+# Por exemplo: `slides = "example-slides"` referencia `content/slides/example-slides.md`.
+# Do contrário, configure `slides = ""`.
 slides: ""
 
 # Projetos
