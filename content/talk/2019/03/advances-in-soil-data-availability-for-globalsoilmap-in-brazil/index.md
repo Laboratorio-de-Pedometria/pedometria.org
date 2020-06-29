@@ -97,7 +97,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: slides/2019/03/advances-in-soil-data-availability-for-globalsoilmap-in-brazil
 url_code:
 url_pdf: https://www.researchgate.net/publication/332100607
 url_video:
@@ -107,7 +107,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: slides/2019/03/advances-in-soil-data-availability-for-globalsoilmap-in-brazil
+slides: 
 
 # Projetos
 # Associe esta palestra/curso com um ou mais dos projetos do Laboratório de Pedometria

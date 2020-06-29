@@ -1,9 +1,9 @@
 ---
-title: "Advances in soil data availability for GlobalSoilMap in Brazil"
-author: "Alessandro Samuel-Rosa"
-date: "alessandrorosa@utfpr.edu.br"
+title: Advances in soil data availability for GlobalSoilMap in Brazil
+author: Alessandro Samuel-Rosa [alessandrorosa@utfpr.edu.br]
+date: '2019-03-15'
 output:
-  ioslides_presentation:
+  rmarkdown::ioslides_presentation:
     logo: img/logo-utfpr.png
     widescreen: true
     css: styles-slides.css
@@ -16,10 +16,6 @@ output:
     $('footer').attr('label', 'Samuel-Rosa (2019) Advances in soil data availability for GlobalSoilMap in Brazil');
   })
 </script>
-
-```{r, echo=FALSE, include=FALSE}
-library(magrittr)
-```
 
 # What is the problem?
 
@@ -54,9 +50,9 @@ In comparison (Arrouays _et al_. 2017):
 <!-- others for reuse has not been a priority (because it was not valued as a scientific output) at least -->
 <!-- not till recently. -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/dados-no-papel-ilegivel.png")
-```
+<center>
+  <img src="img/dados-no-papel-ilegivel.png" width = "550">
+</center>
 
 # A solution?
 
@@ -88,9 +84,9 @@ knitr::include_graphics("img/dados-no-papel-ilegivel.png")
 
 <!-- IT'S ABOUT DATA... BUT ALSO ABOUT PEOPLE! -->
 
-```{r, fig.align='center', echo=FALSE, out.width=750}
-knitr::include_graphics("img/foto-noticia-expoUT-2018.jpg")
-```
+<center>
+  <img src = "img/foto-noticia-expoUT-2018.jpg" width = "750">
+</center>
 
 # What have we got so far?
 
@@ -100,18 +96,18 @@ knitr::include_graphics("img/foto-noticia-expoUT-2018.jpg")
 <!-- Overall, a poor spatial coverage, with very low density in the agricultural frontier -->
 <!-- (Amazon, Cerrado...) -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/febr-observacao-espaco.png")
-```
+<center>
+  <img src = "img/febr-observacao-espaco.png" width = "550">
+</center>
 
 ---
 
 <!-- About 20% of the observations still miss spatial coordinates. This is an issue for DSM. -->
 <!-- Depending on the quantity of information, this can be estimated with a precision of 30-100 m. -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/febr-observacao-sem-coordenadas.png")
-```
+<center>
+  <img src = "img/febr-observacao-sem-coordenadas.png" width = "550">
+</center>
 
 ---
 
@@ -121,18 +117,18 @@ knitr::include_graphics("img/febr-observacao-sem-coordenadas.png")
 <!-- * end of 1990's: a single survey in Rondônia (Amazônia) -->
 <!-- * begining of 2010's: master and PhD thesis (recent additions) -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/febr-observacao-tempo.png")
-```
+<center>
+  <img src = "img/febr-observacao-tempo.png" width = "550">
+</center>
 
 ---
 
 <!-- Distribution of observations without temporal coordinate: an issue for spatio-temporal modelling, -->
 <!-- for example, of dynamic soil properties such as carbon. -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/febr-observacao-sem-data.png")
-```
+<center>
+  <img src = "img/febr-observacao-sem-data.png" width = "550">
+</center>
 
 ---
 
@@ -140,9 +136,9 @@ knitr::include_graphics("img/febr-observacao-sem-data.png")
 <!-- Once a month we prepare an updated version of a standardized and harmonized dataset with 10 soil -->
 <!-- properties, plus soil classification.  -->
 
-```{r, fig.align='center', echo=FALSE, out.width=550}
-knitr::include_graphics("img/febr-camada-200cm.png")
-```
+<center>
+  <img src = "img/febr-camada-200cm.png" width = 550>
+</center>
 
 # The message
 
@@ -152,9 +148,9 @@ knitr::include_graphics("img/febr-camada-200cm.png")
 <!-- A bottom-up approch is the best way to achieve a significant and lasting cultural change, where  -->
 <!-- people will collaborate and produce soil information together by default. -->
 
-```{r, fig.align='center', echo=FALSE, out.width=750}
-knitr::include_graphics("img/foto-noticia-expoUT-2018.jpg")
-```
+<center>
+  <img src = "img/foto-noticia-expoUT-2018.jpg" width = 750>
+</center>
 
 ## febr | Free Brazilian Repository for Open Soil Data
 
@@ -162,6 +158,6 @@ Download the data at http://www.ufsm.br/febr/dados/
 
 Contact: alessandrorosa@utfpr.edu.br
 
-```{r, fig.align='center', echo=FALSE, out.width=300}
-knitr::include_graphics("img/logo-agrisus-ultimo.jpg")
-```
+<center>
+  <img src = "img/logo-agrisus-ultimo.jpg" width = 300>
+</center>
