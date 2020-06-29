@@ -32,8 +32,8 @@ summary: "Minicurso introdutório para alunos dos cursos da Facultad de Ciencias
 # Data e horário de início e fim da palestra
 # Formato: 2017-05-29T15:00:00Z
 # Horário de encerramento pode ser omitido usando o prefixo '#'
-date: '2020-09-25T16:00:00Z'
-date_end: '2020-09-26T18:00:00Z'
+date: '2019-09-25T16:00:00Z'
+date_end: '2019-09-26T18:00:00Z'
 all_day: false
 
 # Cronograme a data de publicação desta página
