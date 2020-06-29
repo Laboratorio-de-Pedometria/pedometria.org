@@ -1,3 +1,7 @@
+# https://www.pedometria.org
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2a922a3-8420-4a88-be51-8864373e483d/deploy-status)](https://app.netlify.com/sites/jovial-cori-35adc4/deploys)
+
 https://sourcethemes.com/academic/docs/
 
 
