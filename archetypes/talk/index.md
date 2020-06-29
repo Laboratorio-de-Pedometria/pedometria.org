@@ -1,7 +1,7 @@
 ---
 # Documentação: https://sourcethemes.com/academic/docs/managing-content/
 
-# Título da palestra
+# Título da palestra/curso
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "{{ replace .Name "-" " " | title }}"
@@ -21,15 +21,15 @@ address:
   postcode:
   country:
 
-# Resumo da publicação (conforme publicado)
+# Resumo da palestra/curso (conforme publicado no evento)
 abstract: ""
 
-# Descrição sumária da publicação, geralmente mais curta do que o resumo publicado
+# Descrição sumária da palestra/curso, geralmente mais curta do que o resumo publicado
 # Usada para traduzir resumos originalmente publicados em inglês
-# Aparece na página principal do website, abaixo do título dap publicação
+# Aparece na página principal do website, abaixo do título da palestra/curso
 summary: ""
 
-# Data e horário de início e fim da palestra
+# Data e horário de início e fim da palestra/curso
 # Formato: 2017-05-29T15:00:00Z
 # Se a palestra/curso durar o dia todo, basta especificar 'date' e ignorar 'date_end'
 # O horário de encerramento pode ser omitido usando o prefixo '#'
@@ -40,12 +40,12 @@ all_day: false
 # Cronograme a data de publicação desta página
 publishDate: {{ .Date }}
 
-# Autores da publicação
+# Autores da palestra/curso
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
 authors:
   - admin
 
-# Palavras-chave da publicação
+# Palavras-chave da palestra/curso
 tags:
   - ""
 
@@ -66,7 +66,7 @@ categories:
   - Evento
   - ""
 
-# A palestra deve aparecer entre as publicações selecionadas?
+# A palestra/curso deve aparecer entre as publicações selecionadas?
 featured: false
 
 # Featured image
@@ -100,7 +100,7 @@ url_video:
 slides: ""
 
 # Projetos
-# Associe esta postagem com um ou mais dos projetos do Laboratório de Pedometria
+# Associe esta palestra/curso com um ou mais dos projetos do Laboratório de Pedometria
 # Use o nome do diretório do projeto:
 # - febr: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
 # - spsann: Otimização de Amostras Espaciais via Recozimento Simulado (SPSANN)
@@ -108,7 +108,7 @@ slides: ""
 projects: []
 ---
 
-Insira outras informações sobre a publicação que julgar necessário.
+Insira outras informações sobre a palestra/curso que julgar necessário.
 
 ### Agradecimentos
 
