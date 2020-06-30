@@ -17,7 +17,7 @@ tags:
 doi: '10.1016/j.geoderma.2014.12.017'
 url_code: 'https://github.com/samuel-rosa/dnos-sm-rs-1stArticle'
 url_dataset: 'http://coral.ufsm.br/febr/catalog/ctb0003.html'
-header:
-  image: 'headers/FIG5b.png'
+image:
+  preview_only: false
 ---
 
