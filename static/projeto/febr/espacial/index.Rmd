@@ -1,0 +1,65 @@
+---
+output: html_document
+---
+
+```{r, include=FALSE}
+# Load data
+library(magrittr)
+knitr::opts_chunk$set(
+  echo = FALSE, message = FALSE, warning = FALSE, cache = FALSE,
+  results = 'hide', out.width = '100%', out.height = '100vh')
+publico <- path.expand('~/ownCloud/febr-repo/publico/')
+files <- list.files(path = publico, pattern = '-observacao.csv', recursive = TRUE)
+febr <- 
+  parallel::mclapply(files, function (x) {
+    y <- paste(publico, x, sep = '')
+    y <- read.table(file = y, header = TRUE, sep = ';', dec = ',', stringsAsFactors = FALSE)
+    y <- y[, c("observacao_id", "coord_sistema", "coord_x", "coord_y")]
+    y <- data.frame(id = strsplit(x, '/', fixed = TRUE)[[1]][1], y, stringsAsFactors = FALSE)
+    return (y)
+  }
+)
+febr <- do.call(rbind, febr)
+
+# Standardize CRS
+febr$coord_x <- as.numeric(febr$coord_x)
+febr$coord_y <- as.numeric(febr$coord_y)
+febr <- na.exclude(febr)
+febr$coord_sistema <- as.integer(sub('EPSG:', '', febr$coord_sistema))
+febr <- split(febr, febr$coord_sistema)
+febr <- 
+  parallel::mclapply(febr, function (x) {
+    y <- sf::st_as_sf(x, coords = c("coord_x", "coord_y"), crs = x$coord_sistema[1])
+    y <- sf::st_transform(y, crs = 4326)
+    return (y)
+  }
+)
+febr <- do.call(rbind, febr)
+
+# Add hyperlinks
+febr$observacao_id <- paste(febr$observacao_id, '@', febr$id, sep = '')
+catalogo <- 'https://www.ufsm.br/febr/catalog/'
+febr$id <- paste('<a href="', catalogo, febr$id, '.html" target="_blank">Mais informações</a>', sep = '')
+```
+
+```{r results='asis', echo=FALSE}
+# Prepare map
+leaflet::leaflet() %>%
+  leaflet::addProviderTiles("Esri.WorldTopoMap", group = "Esri.WorldTopoMap") %>% 
+  leaflet::addProviderTiles("CartoDB.Positron", group = "CartoDB.Positron") %>% 
+  leaflet::addProviderTiles("Esri.WorldImagery", group = "Esri.WorldImagery") %>% 
+  leaflet::addAwesomeMarkers(
+    lng = sf::st_coordinates(febr)[, 1],
+    lat = sf::st_coordinates(febr)[, 2],
+    icon = leaflet::awesomeIcons(icon = "info-sign", markerColor = "#b22222", iconColor = "#fffff0"),
+    popup = febr$id,
+    clusterOptions = leaflet::markerClusterOptions(),
+    label = febr$observacao_id) %>%
+  leaflet::addLayersControl(
+    baseGroups = c("Esri.WorldTopoMap", "CartoDB.Positron", "Esri.WorldImagery"),
+    options = leaflet::layersControlOptions(collapsed = FALSE)) %>% 
+  leafem::addLogo(img = 'logo.png', url = "https://www.pedometria.org/projeto/febr/") %>% 
+  leafem::addHomeButton(
+    ext = raster::extent(febr), group = "Brasil", position = "bottomleft") %>%
+  leaflet::addMiniMap()
+```
