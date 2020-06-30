@@ -91,4 +91,4 @@ Existem muitas maneiras de participar do projeto do FEBR. Você pode atuar em di
 
 <hr> 
 
-___Aviso legal:___ _Usando os serviços web do FEBR, o usuário aceita a [política de dados][politica] do FEBR na íntegra. Para reconhecer os cientistas e/ou organizações que forneceram dados, o FEBR solicita que os usuários de dados incluam uma citação bibliográfica, para todos os dados fornecidos pelo FEBR, em produtos, websites e publicações._
+___Aviso legal:___ _Usando os serviços web do FEBR, o usuário aceita a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR na íntegra. Para reconhecer os cientistas e/ou organizações que forneceram dados, o FEBR solicita que os usuários de dados incluam uma citação bibliográfica, para todos os dados fornecidos pelo FEBR, em produtos, websites e publicações._
