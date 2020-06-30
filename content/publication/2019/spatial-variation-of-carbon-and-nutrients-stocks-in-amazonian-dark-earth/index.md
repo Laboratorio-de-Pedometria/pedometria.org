@@ -8,19 +8,21 @@ authors:
 - T Hiemstra
 - TW Kuyper
 - WG Teixeira
-date: 2019-03-01
+date: '2019-03-01'
 doi: 10.1016/j.geoderma.2018.09.040
 featured: true
 publication: Geoderma
 publication_short: ""
 publication_url: https://www.journals.elsevier.com/geoderma/
 publication_types: ["2"]
-summary: 'Terra Preta Amazônica é um tipo de solo escuro geralmente rico em C, Ca e P. Neste estudo, nós mapeamos o conteúdo e estoque desses elementos em uma área da Amazônia Central usando a co-krigagem universal com uma covariável criada para representar o enriquecimento antrópico esperado do solo com esses elementos. Nós também separamos as áreas préticas das não-préticas usando simulações gaussianas sequenciais e critérios de classificação do WRB. Nossos resultados mostraram que a área prética está mais relacionada a maiores estoques de Ca e P -- do que de C --, sendo assim marcadores mais eficientes de Terra Preta Amazônica -- do que o C.'
+summary: 'Terra Preta Amazônica é um tipo de solo escuro geralmente rico em C, Ca e P. Neste estudo, nós mapeamos o conteúdo e estoque desses elementos em uma área da Amazônia Central usando a co-krigagem universal com uma covariável criada para representar o enriquecimento antrópico esperado do solo com esses elementos. Nós também separamos as áreas préticas das não-préticas usando simulações gaussianas sequenciais e critérios de classificação do WRB. Nossos resultados mostraram que a área prética está mais relacionada a maiores estoques de Ca e P – do que de C –, sendo assim marcadores mais eficientes de Terra Preta Amazônica – do que o C.'
 tags:
   - Mapeamento Digital do Solo
   - Geoestatística
   - Amazônia
   - Simulação
+  - EMBRAPA
+  - Classificação do Solo
 url_code: https://github.com/samuel-rosa/caldeirao-stocks
 url_dataset: http://coral.ufsm.br/febr/catalog/ctb0018.html
 image:
