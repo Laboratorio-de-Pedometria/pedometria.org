@@ -28,12 +28,12 @@ categories:
 projects:
   - febr
 url_pdf: https://www.researchgate.net/publication/327162497
-url_slides: slides/2018/08/bringing-together-brazilian-soil-scientists-to-share-soil-data
+url_slides: slides.pdf
 ---
 
 ## Agradecimentos
 
-Este trabalho foi realizado em parceria com [Ricardo Simão Diniz Dalmolin][dalmolin], [Paulo Ivonir Gubiani][gubiani], [Stanley Robson de Medeiros Oliveira][stanley], [Wenceslau Geraldes Teixeira][wenceslau], [João Herbert Moreira Viana][herbert], e outros 48 pesquisadores. O desenvolvimento do trabalho e sua apresentação foram viabilizados pelo Programa de Pós-Graduação em Ciência do Solo ([PPGCS][ppgcs]) da Universidade Federal de Santa Maria ([UFSM][ufsm]), via Programa Nacional de Pós Doutorado ([PNPD][pnpd]), e pela Coordenação de Agronomia da Universidade Tecnológica Federal do Paraná -- câmpus Santa Helena ([UTFPR-SH][utfpr]), via Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Paraná ([FA][fa]).
+Este trabalho foi realizado em parceria com [Ricardo Simão Diniz Dalmolin][dalmolin], [Paulo Ivonir Gubiani][gubiani], [Stanley Robson de Medeiros Oliveira][stanley], [Wenceslau Geraldes Teixeira][wenceslau], [João Herbert Moreira Viana][herbert], e outros 48 pesquisadores. O desenvolvimento do trabalho e sua apresentação foram viabilizados pelo Programa de Pós-Graduação em Ciência do Solo ([PPGCS][ppgcs]) da Universidade Federal de Santa Maria ([UFSM][ufsm]), via Programa Nacional de Pós Doutorado ([PNPD][pnpd]), e pela Coordenação de Agronomia da Universidade Tecnológica Federal do Paraná – câmpus Santa Helena ([UTFPR-SH][utfpr]), via Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Paraná ([FA][fa]).
 
 [gubiani]: http://lattes.cnpq.br/7251203817503318
 [dalmolin]: http://lattes.cnpq.br/3735884911693854
