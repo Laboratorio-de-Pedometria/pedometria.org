@@ -12,11 +12,11 @@ authors:
   - admin
   - JM Moura-Bueno
   - RSD Dalmolin
-date: 2021-06-28
+date: '2021-06-28'
 doi: 10.1590/1678-992X-2019-0117
 
 # Cronograme a data de publicação desta página
-publishDate: 2020-06-28T14:26:37-03:00
+publishDate: '2020-06-28T14:26:37-03:00'
 
 # Tipo de publicação (escolha uma única opção)
 # Legend:
@@ -116,4 +116,4 @@ slides: ""
 
 ### Agradecimentos
 
-Somos gratos ao Dr. Pablo Miguel (Universidade Federal de Pelotas -- UFPel) que participou da aquisição de dados. Somos gratos a dois revisores anônimos pelos comentários úteis sobre a versão original do manuscrito, bem como pelos comentários críticos de outros três revisores anônimos em uma versão anterior do manuscrito. A pesquisa para este artigo foi financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e pelo Conselho Nacional Brasileiro de Desenvolvimento Científico e Tecnológico (CNPq).
+Somos gratos ao Dr. Pablo Miguel (Universidade Federal de Pelotas – UFPel) que participou da aquisição de dados. Somos gratos a dois revisores anônimos pelos comentários úteis sobre a versão original do manuscrito, bem como pelos comentários críticos de outros três revisores anônimos em uma versão anterior do manuscrito. A pesquisa para este artigo foi financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e pelo Conselho Nacional Brasileiro de Desenvolvimento Científico e Tecnológico (CNPq).
