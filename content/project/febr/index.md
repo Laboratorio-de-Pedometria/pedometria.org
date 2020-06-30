@@ -1,11 +1,12 @@
 ---
 title: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
+slug: febr
 summary: " "
 authors:
   - admin
 image:
   preview_only: true
-date: 2016-12-05
+date: '2016-12-05'
 categories:
   - Pesquisa
   - Extensão
@@ -65,10 +66,13 @@ Se você ainda não o fez, certifique-se de que conhece a [política de dados](h
 Encontrar os dados de que que você precisa é muito fácil. Você pode iniciar navegando pelo índice de conjuntos de dados até encontrar os dados de sua área de interesse. Feito isso, basta utilizar a URL associada ao conjunto de dados para acessar o diretório online com os dados nos formatos CSV e XLSX. Caso você seja um usuário do R, então poderá usar o pacote `febr` para descarregar o conjunto de dados diretamente no R. Basta você utilizar o código alfanumérico do conjunto de dados de seu interesse.
 
 {{% btn %}}
-  [Descarregar índice de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/JDcb8XBvkpQeyXm)
+  [Índice de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/JDcb8XBvkpQeyXm)
 {{% /btn %}}
 {{% btn %}}
-  [Acessar página do pacote febr para R](https://cran.r-project.org/web/packages/febr/index.html)
+  [Pacote febr para R](https://cran.r-project.org/web/packages/febr/index.html)
+{{% /btn %}}
+{{% btn %}}
+  [Visualização espacial](espacial)
 {{% /btn %}}
 
 Você também pode estar interessado no [super conjunto de dados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG) que publicamos periodicamente a partir do processamento (padronização e harmonização) de todos os conjuntos de dados publicados no FEBR.
