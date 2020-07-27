@@ -34,7 +34,7 @@ Nascido na cidade de Barueri, SP, em 1999. Aos 18 formou-se técnico em eletroel
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2019-11-01<br>
-__Data de término__: 
+__Data de término__: 2020-07-31
 
 {{% btn %}}
   [Plano de trabalho](https://drive.google.com/file/d/1CTHzXZMTtY_ptTeMEHfXEp-6Q5zVmk-Z)
