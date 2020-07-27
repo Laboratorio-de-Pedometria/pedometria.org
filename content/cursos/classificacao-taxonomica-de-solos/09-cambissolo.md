@@ -1,17 +1,17 @@
 ---
 title: Cambissolo
-linktitle: Cambissolo
+linktitle: 09 – Cambissolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 9
 ---
 
 Solo constituído por material predominantemente de origem mineral com pouco desenvolvimento, apresentando horizonte diagnóstico subsuperficial B incipiente. O pequeno desenvolvimento pedogenético é evidenciado pelo pequeno grau de desenvolvimento da estrutura no horizonte B, com alteração da estrutura original da rocha ou da estratificação dos sedimentos ao ponto de quase não ser identificável, geralmente apresentando cores mais vivas e mais vermelhas e/ou conteúdo de argila mais elevado do que os horizontes pedogenéticos subjacentes. Assim, a diferenciação da classe Cambissolo para as demais classes se dá principalmente pela presença de horizonte B incipiente podendo o horizonte superficial ser de qualquer natureza, desde que não satisfaça os requisitos para enquadramento nas classes Vertissolo, Chernossolo, Plintossolo e Organossolo.

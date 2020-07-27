@@ -1,17 +1,17 @@
 ---
 title: Planossolo
-linktitle: Planossolo
+linktitle: 05 – Planossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 11
+weight: 5
 ---
 
 Classificação atribuída a solo de constituição predominantemente mineral, apresentando horizonte B plânico, que pode estar abaixo de qualquer tipo de horizonte, podendo ou não apresentar horizonte E. Trata-se de solo caracterizado por uma vigorosa redução do conteúdo de argila na parte superficial e sua acumulação ou concentração intensa no horizonte subsuperficial. Assim essa classe é diferenciada das demais classes taxonômicas em função da presença de atributos que evidenciem essa intensa redução no conteúdo de argila em superfície, que resulta em transição abrupta dos horizontes superficiais para o horizonte subsuperficial B plânico, bem como com evidências de processo de redução, com ou sem segregação de ferro.

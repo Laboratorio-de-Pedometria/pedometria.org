@@ -1,17 +1,17 @@
 ---
 title: Luvissolo
-linktitle: Luvissolo
+linktitle: 11 – Luvissolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 7
+weight: 11
 ---
 
 Classe atribuída à perfil do solo com horizonte B textural assim como a classe Argissolo. A diferença mais importante é que a atividade da argila e a saturação por bases são altas. Isso resulta da atuação predominante do processo pedogenético de bissialitização conjugada a produção de óxido de ferro e a mobilização da fração argila da parte mais superficial do solo e sua acumulação em horizontes subsuperficiais. Dessa forma, a diferenciação dessa classe em relação às demais se dá pela presença do horizonte diagnóstico subsuperficial B textural que apresenta argila de atividade alta e saturação por bases alta.

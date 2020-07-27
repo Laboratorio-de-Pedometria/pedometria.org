@@ -1,17 +1,17 @@
 ---
 title: Latossolo
-linktitle: Latossolo
+linktitle: 07 – Latossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 7
 ---
 
 Classe correspondente aos perfis do solo com horizonte diagnóstico B latossólico. Trata-se de perfil do solo com evolução muito avançada, onde predomina o processo de latolização (ferralitização), tendo como resultado o intenso intemperismo dos minerais primários e secundários pouco resistentes. Isso causa a concentração relativa de argilominerais resistentes e óxidos de ferro e alumínio. A mobilização e migração de argila é inexpressiva, conferindo ao solo grande homogeneidade vertical em suas características morfológicas. A diferenciação dessa classe em relação às demais é feita, principalmente, pela presença de horizonte diagnóstico B latossólico, com pouco ou nulo incremento do teor de argila em profundidade.

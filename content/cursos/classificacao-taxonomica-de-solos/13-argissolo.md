@@ -1,17 +1,17 @@
 ---
 title: Argissolo
-linktitle: Argissolo
+linktitle: 13 – Argissolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 13
 ---
 
 Solo mineral com horizonte diagnóstico subsuperficial B textural, apresentando argila de atividade baixa, ou alta, desde que associada à baixa saturação por bases ou caráter alítico. Essas características são indicadoras da avançada evolução pedogenética, mas com atuação incompleta do processo de ferralitização. Isso porque a ferralitização estaria associada à outros processos responsáveis pela concentração ou acumulação subsuperficial da argila mobilizada da parte mais superficial do solo, principalmente filossilicatos do tipo 1:1 e óxidos de ferro e alumínio, ou ainda à neoformação de argilas na porção subsuperficial do solo. Assim a diferenciação dessa classe está intimamente relacionada com a presença de horizonte diagnóstico B textural associado a atributos que indiquem a baixar atividade da fração argila ou a presença significativas de alumínio trocável.

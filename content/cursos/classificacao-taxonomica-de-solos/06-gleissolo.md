@@ -1,17 +1,17 @@
 ---
 title: Gleissolo
-linktitle: Gleissolo
+linktitle: 06 – Gleissolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 6
 ---
 
 Classe atribuída a solo que apresenta expressiva atuação do processo de gleização. Esse processo é resultante de condições de hidromorfia, causando intensa redução dos compostos de ferro, em presença de matéria orgânica, e condição de saturação permanente ou periódica. Assim, a principal diferença dessa classe para as demais classes é a manifestação de atributos que evidenciam o processo de gleização no perfil do solo, identificado pela presença do horizonte glei.

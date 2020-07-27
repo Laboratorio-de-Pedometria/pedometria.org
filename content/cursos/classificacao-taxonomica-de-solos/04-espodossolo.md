@@ -1,14 +1,14 @@
 ---
 title: Espodossolo
-linktitle: Espodossolo
+linktitle: 04 – Espodossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4

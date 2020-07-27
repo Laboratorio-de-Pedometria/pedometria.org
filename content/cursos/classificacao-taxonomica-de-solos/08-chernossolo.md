@@ -1,17 +1,17 @@
 ---
 title: Chernossolo
-linktitle: Chernossolo
+linktitle: 08 – Chernossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 8
 ---
 
 Classe caracterizada pela presença de horizonte diagnóstico superficial de constituição predominantemente mineral A chernozêmico, apresentando atividade de argila e saturação por bases altas, podendo haver ainda acumulação de carbonato de cálcio. Essas características são indicativas de solo pouco avançado pedogeneticamente, com predomínio do processo pedogenético de bissialitização, manutenção de cátions básicos divalentes, principalmente cálcio e magnésio, que pode resultar em acumulação de carbonatos e, consequentemente, pH próximo a 7. Esse pH, associado à presença elevada de cálcio, favorece a acumulação da matéria orgânica pela diminuição da sua mineralização. Assim o principal critério para diferenciação da classe Chernossolo das demais classes é a presença do horizonte diagnóstico superficial A chernozêmico, que pode ser seguido de um horizonte C ou de horizonte B textural ou incipiente, mas sempre com atividade da argila e saturação por bases elevadas. Também podem aparecer no perfil horizonte C carbonático ou horizonte cálcico. O horizonte A chernozêmico também pode estar assentado diretamente sobre a rocha.

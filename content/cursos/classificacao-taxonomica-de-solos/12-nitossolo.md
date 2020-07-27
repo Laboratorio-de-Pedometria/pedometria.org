@@ -1,17 +1,17 @@
 ---
 title: Nitossolo
-linktitle: Nitossolo
+linktitle: 12 – Nitossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 9
+weight: 12
 ---
 
 Classe correspondente a solo de constituição predominantemente mineral, como horizonte B nítico, apresentando argila de atividade baixa ou argila de atividade relativamente elevada com predomínio de alumínio trocável. Tais características são resultados da avançada evolução pedogenética com atuação predominante do processo de ferralitização, associada a intensa hidrólise, que resulta em composição caulinítica e oxídica, sendo comum encontrar vermiculita com hidróxi-Al no espaço entre camadas. Assim, o principal critério para diferenciação dessa classe em relação às demais é a presença do horizonte B nítico subjacente a qualquer tipo de horizonte A, com pequeno gradiente textural, mas apresentando cerosidade expressiva nas unidades estruturais, que são dos tipos blocos ou prismas com forte grau de desenvolvimento.

@@ -1,17 +1,17 @@
 ---
 title: Neossolo
-linktitle: Neossolo
+linktitle: 02 – Neossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 8
+weight: 2
 ---
 
 Classificação atribuída a perfil de solo sem horizonte B diagnóstico, caracterizando solo pouco desenvolvido, em vias de formação, seja pela reduzida atuação dos processos pedogenéticos ou pela resistência do material de origem. Assim, essa classe diferencia-se das demais pela insuficiência de expressão de atributos diagnósticos que caracterizem um ou outro processo pedogenético dominante.

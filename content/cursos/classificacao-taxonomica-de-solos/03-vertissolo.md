@@ -1,17 +1,17 @@
 ---
 title: Vertissolo
-linktitle: Vertissolo
+linktitle: 03 – Vertissolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+weight: 3
 ---
 
 Classe indicativa de solo pouco desenvolvido, fruto da grande capacidade de movimentação do material constitutivo, associado ao ambiente de formação, onde predominam as argilas de atividade alta. Assim, a diferenciação dessa classe em relação às demais é feita, fundamentalmente, em função da ocorrência de atributos resultantes dos fenômenos de expansão e contração do material argiloso que constitui solo.

@@ -1,17 +1,17 @@
 ---
 title: Plintossolo
-linktitle: Plintossolo
+linktitle: 10 – Plintossolo
 toc: true
 type: docs
 date: "2020-07-16"
 draft: false
 menu:
   example:
-    parent: Example Topic
-    weight: 1
+    parent: As 13 Ordens
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 12
+weight: 10
 ---
 
 Solo caracterizado pela expressiva plintização, com ou sem formação de petroplintita. Trata-se de um processo de segregação localizada de ferro que atua como cimentante, com elevada capacidade de consolidação. A diferenciação dessa classe em relação às outras é a manifestação preponderante da formação de plintita, concreções ou petroplintita.
