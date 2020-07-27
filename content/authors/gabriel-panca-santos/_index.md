@@ -40,5 +40,5 @@ __Data de término__:
   [Plano de trabalho](https://drive.google.com/file/d/1CTHzXZMTtY_ptTeMEHfXEp-6Q5zVmk-Z)
 {{% /btn %}}
 {{% btn %}}
-  [Relatório de atividades](https://drive.google.com/file/d/1w88ZKfa9CiLGq_pGDQmtOhr9KnxnI7jJ)
+  [Relatório de atividades](https://docs.google.com/document/d/1mYhUgL85znm-QASdDEizIWpDUTnn4ZTR3TY7EjmJ7yU)
 {{% /btn %}}
