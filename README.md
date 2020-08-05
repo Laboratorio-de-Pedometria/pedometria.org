@@ -18,3 +18,10 @@ https://support.google.com/webmasters/answer/7451184?hl=pt-BR
 
 https://freesvg.org/map-location-pin-icon-vector-image
 https://freesvg.org/globe-with-meridians-and-parallels-vector-clip-art
+
+## Comandos úteis
+
+### Criar conteúdo
+
+* authors: `hugo new authors/nome-do-novo-autor`
+* publication: `hugo new publication/ano/titulo-da-publicacao`

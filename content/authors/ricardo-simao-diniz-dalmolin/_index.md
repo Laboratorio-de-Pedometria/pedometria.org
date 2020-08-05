@@ -7,12 +7,12 @@ draft: true
 # Use o Inkscape (https://inkscape.org/pt-br/) ou o Gimp (https://www.gimp.org/) para preparar a imagem
 
 # Seu nome completo
-title: "{{ replace .Name "-" " " | title }}"
+title: "Ricardo Simão Diniz Dalmolin"
 
 # Nome de usuário no website
 # Deve coincidir com o nome do diretório e o nome em publicações
 # Nome completo, em letras minúsculas, sem acentuação, com espaços substituídos por traço
-authors: "{{ urlize .Name }}"
+authors: "ricardo-simao-diniz-dalmolin"
 
 # Não modifique esse parâmetro
 superuser: false
@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Grupo 1
+- Pesquisadores
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
@@ -34,12 +34,12 @@ user_groups:
 # - Coorientado(a) de Doutorado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "<Escolha a opção acima que melhor descreve sua função>"
+role: "Pesquisador Externo"
 
 # Organizações/Afiliações
 organizations:
-  - name: Universidade Tecnológica Federal do Paraná
-    url: http://www.utfpr.edu.br/
+  - name: Universidade Federal de Santa Maria
+    url: http://www.ufsm.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
 bio: "<Redija até duas linhas de texto>"
@@ -89,16 +89,3 @@ social:
 ---
 
 Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
-
-### UTFPR -- PIBIC 2018/2019
-
-__Título__: Título do projeto ou plano de trabalho que você está desenvolvendo<br>
-__Data de início__: YYYY-MM-DD<br>
-__Data de término__: YYYY-MM-DD
-
-{{% btn %}}
-  [Plano de trabalho](url-do-plano-de-trabalho)
-{{% /btn %}}
-{{% btn %}}
-  [Relatório de atividades](url-do-relatorio-de-atividades)
-{{% /btn %}}
