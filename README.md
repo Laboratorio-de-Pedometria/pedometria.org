@@ -21,7 +21,11 @@ https://freesvg.org/globe-with-meridians-and-parallels-vector-clip-art
 
 ## Comandos úteis
 
-### Criar conteúdo
+__Criar conteúdo a partir de arquétipos:__
 
 * authors: `hugo new authors/nome-do-novo-autor`
 * publication: `hugo new publication/ano/titulo-da-publicacao`
+
+__Processar arquivos Rmd:__
+
+No R, executar o seguinte comando: `source("R/build.R")`.
