@@ -43,5 +43,5 @@ __Data de término__: 2020-07-31
   [Relatório de atividades](https://docs.google.com/document/d/1mYhUgL85znm-QASdDEizIWpDUTnn4ZTR3TY7EjmJ7yU)
 {{% /btn %}}
 {{% btn %}}
-  [Artigo SICITE 2020](https://docs.google.com/document/d/1Evd0G46NZM0Hn-VNpMVQhMFfoCGkSUSC)
+  [Artigo SICITE 2020](https://docs.google.com/document/d/1AM-Fj7HtAMbLkQlNB-kFwacbnSprABjNHSvX9H7ofdc)
 {{% /btn %}}

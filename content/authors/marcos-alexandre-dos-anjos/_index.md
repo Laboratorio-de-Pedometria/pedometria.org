@@ -52,5 +52,5 @@ __Data de término__: 2020-09-30
   [Relatório de atividades](https://docs.google.com/document/d/1b9eves6zX1DPj025eALVS-6pmVqZxlIqf3OW2qST0L4/)
 {{% /btn %}}
 {{% btn %}}
-  [Artigo SEI 2020](https://docs.google.com/document/d/1jmnR8r5SMGikeeGae6ClD1ldeOuFHbTo/)
+  [Artigo SEI 2020](https://docs.google.com/document/d/1Shk9t2zDM1RQT9VcOBenaicATSf_30Ov_LCRg-1i55g/)
 {{% /btn %}}
