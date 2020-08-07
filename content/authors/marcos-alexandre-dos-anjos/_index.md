@@ -43,11 +43,14 @@ Atualmente sou bolsista PROREC pela UTFPR, no projeto Repositório Brasileiro Li
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2019-10-01<br>
-__Data de término__: 
+__Data de término__: 2020-09-30
 
 {{% btn %}}
   [Plano de trabalho](https://drive.google.com/file/d/1iGhBVZcmpsL1CeLwxA5FwYFzvYj0q4D0)
 {{% /btn %}}
 {{% btn %}}
-  [Relatório de atividades](https://drive.google.com/file/d/15ydjo99R3k84JEiy8wMZhuLvgnIsQoR5)
+  [Relatório de atividades](https://docs.google.com/document/d/1b9eves6zX1DPj025eALVS-6pmVqZxlIqf3OW2qST0L4/)
+{{% /btn %}}
+{{% btn %}}
+  [Resumo expandido (SEI)](https://docs.google.com/document/d/1jmnR8r5SMGikeeGae6ClD1ldeOuFHbTo/)
 {{% /btn %}}
