@@ -39,11 +39,11 @@ Estudante de Ciência da Computação na Universidade Tecnológica Federal do Pa
 
 Atualmente sou bolsista PROREC pela UTFPR, no projeto Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR). Experiência de trabalhar com organização dos datasets, curadoria dos dados, extração de dados em documentos PDF, sistema de catalogação e gerenciamento de metadados.
 
-### UTFPR -- PIBEX 2019/2020
+### UTFPR -- PROREC 2019/2020
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
-__Data de início__: 2019-10-01<br>
-__Data de término__: 2020-09-30
+__Data de início__: 2019-09-01<br>
+__Data de término__: 2020-08-31
 
 {{% btn %}}
   [Plano de trabalho](https://drive.google.com/file/d/1iGhBVZcmpsL1CeLwxA5FwYFzvYj0q4D0)
@@ -54,3 +54,19 @@ __Data de término__: 2020-09-30
 {{% btn %}}
   [Artigo SEI 2020](https://docs.google.com/document/d/1Shk9t2zDM1RQT9VcOBenaicATSf_30Ov_LCRg-1i55g/)
 {{% /btn %}}
+
+### UTFPR -- PROREC 2020/2021
+
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
+__Data de início__: 2020-09-01<br>
+__Data de término__: 2021-08-31
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/12w2Fhw1Az3A7mD5QdFqOf6uWZnOv1EF2oy-v7qX7yIM)
+{{% /btn %}}
+<!-- {{% btn %}}
+  [Relatório de atividades]()
+{{% /btn %}}
+{{% btn %}}
+  [Artigo SEI 2021]()
+{{% /btn %}} -->
