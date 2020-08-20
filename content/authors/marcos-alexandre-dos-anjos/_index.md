@@ -64,9 +64,9 @@ __Data de término__: 2021-08-31
 {{% btn %}}
   [Plano de trabalho](https://docs.google.com/document/d/12w2Fhw1Az3A7mD5QdFqOf6uWZnOv1EF2oy-v7qX7yIM)
 {{% /btn %}}
-<!-- {{% btn %}}
-  [Relatório de atividades]()
-{{% /btn %}}
 {{% btn %}}
+  [Relatório de atividades](https://docs.google.com/document/d/1RhhxTI5OlXb0kJXsqnIljWyRcH-kRPx8JL9JquaLfY8/)
+{{% /btn %}}
+<!-- {{% btn %}}
   [Artigo SEI 2021]()
 {{% /btn %}} -->
