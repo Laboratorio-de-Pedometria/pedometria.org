@@ -4,7 +4,7 @@ linktitle: 04 – Espodossolo
 toc: true
 type: docs
 date: "2020-07-16"
-draft: false
+draft: true
 menu:
   example:
     parent: As 13 Ordens
