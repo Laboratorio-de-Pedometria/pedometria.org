@@ -14,7 +14,9 @@ menu:
 weight: 1
 ---
 
-## Semana 1
+## Semana 1—(Re)Início das atividades
+
+### Encontro—Planejamento de Atividades (25 min de duração)
 
 ### Questionário—Gênese e Morfologia do Solo (10 min de duração)
 
@@ -345,3 +347,26 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 <img src="https://live.staticflickr.com/4091/5094937726_ca401869a8.jpg" alt="Trincheira" width=300><br>Fonte: John Kelly (2009)
 
 * trincheira
+
+## Semana II—Dados e Informações Usados na Classificação de Solos
+
+### Leitura—Manual Técnico de Pedologia (37 min de leitura)
+
+* https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf
+* Leitura da seção _1.2.2 Principais determinações e métodos de análises utilizados em levantamentos de solos no Brasil_, p.151-169
+
+### Questionário—Dados para Classificação de Solos (10 min de duração)
+
+#### Propriedades do Solo
+
+##### Determinações físicas
+
+(Múltipla escolha) São determinações físicas utilizadas para classificação de solos:
+
+* [X] Argila dispersa em água
+* [X] Relação silte/argila
+* [_] Bases trocáveis
+* [_] Carbono orgânico
+* [_] Mineralogia da fração argila
+
+### Fórum I—Fontes de Dados e Informações do Solo (20 min de participação)
