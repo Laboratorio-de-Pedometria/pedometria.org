@@ -18,6 +18,17 @@ weight: 1
 
 ### Questionário—Gênese e Morfologia do Solo (10 min de duração)
 
+<video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
+<source src="https://cloud.utfpr.edu.br/index.php/s/68gWsgXDEsBDwNZ/download" type="video/mp4">
+</video>
+O questionário desta semana faz parte da primeira avaliação individual da disciplina AG63C Classificação do Solo. O objetivo é aferir seu conhecimento sobre gênese e morfologia do solo após ter concluído a disciplina homônima do curso de Agronomia da UTFPR Santa Helena.
+
+O questionário é composto de 10 questões selecionadas, aleatoriamente, de um banco de questões. Algumas questões vão exigir mais de você do que outras. Assim, você tem, em média, um minuto para responder a cada questão. Caso seu desempenho não seja satisfatório, você dispõe de mais duas tentativas para melhorar sua nota. A cada tentativa, outras 10 novas questões lhe serão apresentadas. A nota final será a média aritmética de todas as tentativas.
+
+Antes de responder ao questionário, você pode refrescar a memória revendo suas anotações pessoais ou o material disponibilizado pelo professor da disciplina [AG62B Gênese e Morfologia do Solo](http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/santa-helena/sh-agronomia/matriz-e-docentes). Você também pode reler a seção _1.1 Caracterização Morfológica e Descrição dos Solos_ do [Manual Técnico de Pedologia](https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf) (IBGE, 2015, p. 39-151).
+
+Bom trabalho e até breve!
+
 #### Gênese do Solo
 
 ##### Formação do Solo (I)
