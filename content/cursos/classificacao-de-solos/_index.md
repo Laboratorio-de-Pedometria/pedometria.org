@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Produção de Informação do Solo – Classificação Taxonômica
-summary: Material de apoio à disciplina AG63C Classificação do Solo, do curso de bacharelado em Agronomia da Universidade Tecnológica Federal do Paraná, câmpus Santa Helena.
+linktitle: Classificação de Solos
+summary: Material de apoio à disciplina AG63C Classificação de Solos, do curso de bacharelado em Agronomia da Universidade Tecnológica Federal do Paraná, câmpus Santa Helena.
 weight: 1
 
 # Page metadata.
