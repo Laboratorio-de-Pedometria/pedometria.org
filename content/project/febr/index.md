@@ -37,7 +37,7 @@ tags:
   Pacote febr para o Ambiente R
 </a>
 
-## Estou Procurando Dados
+## Procurar Dados
 
 Se você é um _usuário_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
 
@@ -57,6 +57,7 @@ Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 | Item                           | Quantidade      |
 | ------------------------------ | --------------- |
 | Conjuntos de dados publicados  | 247             |
+| Conjuntos de dados do BDSolos  | 205             |
 | Conjuntos de dados processados | 235             |
 | Observações processadas        | 14 043          |
 | Amostras processadas           | 50 470          |
@@ -65,6 +66,7 @@ Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 
 <!-- dados <- read.table("/home/alessandrorosa/ownCloud/febr-repo/publico/febr-superconjunto.txt", dec = ",", header = TRUE, sep = ";")
 data.frame(
+  bdsolos = sum(as.numeric(sub("ctb", "", unique(dados$dataset_id))) > 100),
   processados = length(unique(dados$dataset_id)),
   observacoes = nrow(unique(dados[, c("dataset_id", "observacao_id")])),
   amostras = nrow(dados),
@@ -72,10 +74,9 @@ data.frame(
   data = nrow(unique(dados[!is.na(dados$observacao_data), c("dataset_id", "observacao_id")]))
 ) -->
 
-<hr>
+---
 
-
-## Quero Compartilhar Dados
+## Compartilhar Dados
 
 Se você é um _produtor_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades do solo de qualquer local do país.
 
@@ -111,19 +112,16 @@ Veja algumas recomendações sobre como organizar dados para publicação.
   </ul> 
 </div>
 
-<hr>
+---
 
-## Quero Participar do Projeto
+## Participar do Projeto
 
-Existem muitas maneiras de participar do projeto do FEBR. Você pode atuar em diferentes frentes de trabalho, tanto promovendo a melhoria da qualidade dos dados publicados no FEBR, como auxiliando no desenvolvimento dos métodos e técnicas utilizados no gerenciamento e tratamento dos dados. Algumas dessas frentes de trabalho são brevemente descritas a seguir.
+Existem muitas maneiras de participar do projeto e contribuir para o desenvolvimento do FEBR. No momento, gostaríamos de contar com a sua ajuda num dos três pacotes de trabalho abaixo.
 
-* Compilação de dados abertos:
-  * Resgate de dados produzidos no século passado, especialmente de áreas do território brasileiro ainda sub representadas no FEBR;
-* Curadoria de conjuntos de dados:
-  * Revisão de dados de conjuntos de dados publicados no FEBR, incluindo estratégias de estimativa de coordenadas geográficas para viabilizar o uso dos dados em aplicações espaciais;
-* Codificação e descrição de métodos analíticos:
-  * Desenvolvimento e consolidação de sistema de identificação de métodos de análise de solo para fins de harmonização de dados de diferentes conjuntos de dados;
+* __Compilação de dados__: Resgate de dados de solo produzidos no século passado, especialmente de áreas do território brasileiro ainda sub representadas no FEBR, como são os casos das regiões Centro-Oeste, Nordeste e Norte. Dados tabulares podem ser resgatados de documentos PDF utilizando o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/).
+* __Curadoria de dados__: Revisão de dados de conjuntos de dados já publicados no FEBR, resgatando dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros.
+* __Dicionário de Dados__: Desenvolvimento e consolidação um [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
 
-<hr>
+---
 
 ___Aviso legal:___ _Usando os serviços web do FEBR, o usuário aceita a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR na íntegra. Para reconhecer os cientistas e/ou organizações que forneceram dados, o FEBR solicita que os usuários de dados incluam uma citação bibliográfica, para todos os dados fornecidos pelo FEBR, em produtos, websites e publicações._
