@@ -39,7 +39,7 @@ tags:
 
 ## Estou Procurando Dados
 
-Se você é um usuário de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
+Se você é um _usuário_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
 
 {{% alert note %}}
 Você já conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR?
@@ -48,9 +48,9 @@ Você já conhece a [política de dados](https://docs.google.com/document/d/11c0
 Encontrar os dados de que você precisa é muito fácil!
 
 1. Recomendamos que inicie usando a [plataforma de busca e descarregamento](https://pedometria.shinyapps.io/febr/) de dados.
-2. Mas você também pode navegar pela tabela com a [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
-3. Outra alternativa é descarregar os conjuntos de dados usando o [pacote `febr` para o ambiente R](https://CRAN.R-project.org/package=febr).
-4. Finalmente, você pode acessar o [super conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG), padronizados e harmonizados, que preparamos periodicamente.
+1. Mas você também pode navegar pela tabela com a [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
+1. Outra alternativa é descarregar os conjuntos de dados usando o [pacote `febr` para o ambiente R](https://CRAN.R-project.org/package=febr).
+1. Finalmente, você pode acessar o [super conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG), padronizados e harmonizados, que preparamos periodicamente.
 
 Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 
@@ -77,31 +77,39 @@ data.frame(
 
 ## Quero Compartilhar Dados
 
-Se você é um produtor de dados do solo e chegou até esta página, então é porque você está interessando em compartilhar os dados que produziu em seus estudos. Você quer ser um provedor de dados!
+Se você é um _produtor_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades do solo de qualquer local do país.
 
 {{% alert note %}}
-  Antes de continuar, certifique-se de que conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR!
+  Conheça a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR!
 {{% /alert %}}
 
-Com o FEBR, ficou muito fácil compartilhar dados do solo. São apenas duas etapas. Primeiro você organiza os dados em uma planilha eletrônica no formato XLSX. Ao fazê-lo, você só precisa seguir três regras bastante simples:
+Compartilhar dados do solo é muito fácil!
 
-* Forneça todos os dados de identificação do conjunto de dados:
-  * Use a aba `identificacao` para registrar dados como título, autoria, área do conhecimento, licença de uso, fontes de financiamento e publicações em que os dados foram usados;
-* Descreva os métodos usados para produzir os dados de cada uma das variáveis:
-  * Quando mais detalhes metodológicos forem registrados na aba `metadado`, mais fácil será para terceiros decidirem se e como utilizar os dados que você produziu;
-* Organize os dados com os registros nas linhas e as variáveis nas colunas:
-  * Para evitar repetição de dados, organize aqueles relativos aos locais de observação e amostragem (coordenadas, data, classe taxonômica, uso da terra etc) na aba `observacao`, e os dados analíticos das camadas amostradas na aba `camada`.
+1. Primeiro, organize os dados usando uma [planilha eletrônica no formato XLSX](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI).
+1. Em seguida, carregue a planilha eletrônica na [portal de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX) do FEBR.
+1. Finalmente, envie uma [mensagem de email](../../#contato) à nossa equipe para confirmar o recebimento do conjunto de dados.
 
-A segunda etapa consiste em carregar a planilha eletrônica com os dados para o servidor do FEBR. Se a planilha eletrônica não apresentar nenhuma inconsistência, ela estará disponível ao público em poucos dias. Simples assim!
+Caso queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos uma solução apropriada.
 
-{{% btn %}}
-  [Descarregar modelo de planilha XLSX](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI)
-{{% /btn %}}
-{{% btn %}}
-  [Acessar página de carregamento de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
-{{% /btn %}}
+Veja algumas recomendações sobre como organizar dados para publicação.
 
-Caso você queira compartilhar um grande volume de dados, ou muitos conjuntos de dados de uma só vez, entre em [contato](../../#contact) conosco para que possamos viabilizar uma solução apropriada para seu caso.
+<div style="border: 1px solid #ddd; padding: 8px; background-color: #f9f9f9; font-size: 0.8rem; line-height: 1.43; vertical-align: top; box-sizing: border-box;">
+  <ul>
+    <li>Forneça todos os dados de identificação do conjunto de dados:</li>
+    <ul>
+      <li>Use a aba <code>identificacao</code> para registrar título, autoria, licença de uso e publicações em que os dados foram usados;</li>
+    </ul>
+    <li>Descreva detalhadamente os métodos usados para produzir os dados:</li>
+    <ul>
+      <li>Quanto mais detalhes forem registrados na aba <code>metadado</code>, mais fácil será para terceiros decidirem se e como utilizar os dados;</li>
+    </ul>
+    <li>Organize os dados com registros nas linhas e variáveis nas colunas:</li>
+    <ul>
+      <li>Coloque dados pontuais dos locais de amostragem (coordenadas, data, classe taxonômica, uso da terra etc) na aba <code>observacao</code>;</li>
+      <li>Coloque os dados analíticos das camadas e/ou horizontes amostrados na aba <code>camada</code>.</li>
+    </ul>
+  </ul> 
+</div>
 
 <hr>
 
