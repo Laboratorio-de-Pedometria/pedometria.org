@@ -329,11 +329,11 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 
 * trincheira
 
-### Propriedades do Solo
+## Propriedades do Solo
 
-## Determinações físicas
+### Determinações físicas
 
-(Múltipla escolha) São determinações físicas utilizadas para classificação de solos:
+(Múltipla escolha) São determinações físicas utilizadas para produzir dados usados na classificação de solos:
 
 * [X] Argila dispersa em água
 * [X] Relação silte/argila
@@ -341,3 +341,158 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 * [_] Carbono orgânico
 * [_] Mineralogia da fração argila
 
+### Determinações físicas (I)
+
+(Múltipla escolha) São determinações físicas utilizadas para produzir dados usados na classificação de solos:
+
+* [X] Quantificação da fração argila
+* [X] Grau de floculação
+* [X] Densidade de partículas
+* [_] Condutividade elétrica
+* [_] Matéria orgânica
+
+### Distribuição do tamanho de partículas
+
+(Múltipla escolha) A fração grossa (> 2 mm) do solo é composta das seguintes classes de tamanho de partícula:
+
+* [X] Cascalho
+* [X] Calhau
+* [_] Areia grossa
+* [_] Silte
+* [_] Argila
+* [_] Terra fina
+
+### Distribuição do tamanho de partículas (I)
+
+(Múltipla escolha) A fração fina (< 2 mm) do solo é composta das seguintes classes de tamanho de partícula:
+
+* [_] Cascalho
+* [_] Calhau
+* [X] Areia grossa
+* [X] Silte
+* [X] Argila
+* [X] Areia fina
+
+### pH
+
+(Associação) Identifique a solução usada para determinar a atividade do íon H<sup>+</sup> no solo:
+
+* pH em H<sub>2</sub>O --- pH em água
+* pH em KCl ---- pH em cloreto de potássio
+* pH em CaCl<sub>2</sub> --- pH em cloreto de cálcio
+
+### Elementos e compostos químicos
+
+(Associação) Identifique os elementos e compostos químicos relacionados às determinações químicas utilizadas para produzir dados usados na classificação de solos:
+
+* KCl --- cloreto de potássio
+* CaCl<sub>2</sub> --- cloreto de cálcio
+* H<sup>+</sup> -- próton
+* Ca<sup>2+</sup> --- íon cálcio
+* Mg<sup>2+</sup> --- íon magnésio
+* K<sup>+</sup> --- íon potássio
+
+### Elementos e compostos químicos (I)
+
+(Associação) Identifique os elementos e compostos químicos relacionados às determinações químicas utilizadas para produzir dados usados na classificação de solos:
+
+* Na<sup>+</sup> --- íon sódio
+* HCl --- ácido clorídrico
+* Al<sup>3+</sup> --- íon alumínio
+* BaCl<sub>2</sub> --- cloreto de bário
+* H<sub>2</sub>SO<sub>4</sub> --- ácido sulfúrico
+* Cu --- cobre
+
+### Elementos e compostos químicos (II)
+
+(Associação) Identifique os elementos e compostos químicos relacionados às determinações químicas utilizadas para produzir dados usados na classificação de solos:
+
+* Zn --- zinco
+* Fe --- ferro
+* Mn --- manganês
+* N --- nitrogênio
+* CuSO<sub>4</sub> --- sulfato de cobre
+* Na<sub>2</sub>SO<sub>4</sub> --- sulfato de sódio
+* __ --- magnésio
+* __ --- zircônio
+
+### Elementos e compostos químicos (III)
+
+(Associação) Identifique os elementos e compostos químicos relacionados às determinações químicas utilizadas para produzir dados usados na classificação de solos:
+
+* CaCO<sub>3</sub> --- carbonato de cálcio
+* NaOH --- hidróxido de sódio
+* HCl --- ácido clorídrico
+* KCl --- cloreto de potássio
+* H<sup>+</sup> --- próton
+* OH<sup>-</sup> --- hidroxila
+
+### Elementos e compostos químicos (IV)
+
+(Associação) Identifique os elementos e compostos químicos relacionados às determinações químicas utilizadas para produzir dados usados na classificação de solos:
+
+* CO<sub>3</sub><sup>2-</sup> --- íon carbonato
+* HCO<sub>3</sub><sup>-</sup> --- íon bicarbonato
+* Cl<sup>-</sup> --- íon cloreto
+* SO<sub>4</sub><sup>2-</sup> --- íon sulfato
+* Fe<sub>2</sub>O<sub>3</sub> --- óxido férrico
+* S --- enxofre
+
+### Unidades de medida
+
+(Associação) Identifique as unidades de medida de dados usados na classificação de solos:
+
+* dm<sup>3</sup> --- decímetro cúbico
+* mEq/100 cm<sup>3</sup> --- miliequivalente por 100 centímetros cúbicos
+* mmhos cm<sup>-1</sup> --- milimhos por centímetro
+* dS m<sup>-1</sup> --- decisiemens por metro
+* atm --- atmosfera
+* kg kg<sup>-1</sup> --- quilograma por quilograma
+* __ --- kilograma por kilograma
+
+### Unidades de medida (II)
+
+(Associação) Identifique as unidades de medida de dados usados na classificação de solos:
+
+* mS cm<sup>-1</sup> --- milisiemens por centímetro
+* ppm --- partes por milhão
+* mg kg<sup>-1</sup> --- miligrama por quilograma
+* cmol<sub>c</sub> kg<sup>-1</sup> --- centimol de carga por quilograma
+* m<sup>3</sup> m<sup>-3</sup> --- metros cúbicos por metro cúbico
+* cm h<sup>-1</sup> --- centímetros po hora
+
+### Soma de bases trocáveis
+
+(Numérico) A soma de bases trocáveis corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup> no solo. Qual é a soma de bases trocáveis no horizonte Bt do perfil de solo abaixo?
+
+| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
+| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
+| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
+| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
+| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+
+* 2,75 cmolc/kg
+
+### Capacidade de troca de cátions
+
+(Numérico) A capacidade de troca de cátions (CTC) corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup>, e dos componentes da acidez potencial ou total do solo, H<sup>+</sup> e Al<sup>3+</sup>. Qual é a CTC no horizonte Bt do perfil de solo abaixo?
+
+| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
+| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
+| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
+| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
+| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+
+* 10,25 cmolc/kg
+
+### Acidez potencial
+
+(Numérico) A acidez potencial ou total do solo corresponde ao somatório do conteúdo de H<sup>+</sup> e Al<sup>3+</sup> no solo. Qual é a acidez potencial no horizonte Bt do perfil de solo abaixo?
+
+| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
+| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
+| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
+| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
+| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+
+* 7,5 cmolc/kg
