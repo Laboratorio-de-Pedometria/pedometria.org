@@ -20,13 +20,16 @@ weight: 1
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/FxliWdbPlevj8SR/download" type="video/mp4">
 </video>
-O encontro desta semana será nosso primeiro encontro desde março, quando as aulas presenciais foram suspensas por razão da pandemia do COVID‑19. Além de saber como você está, o objetivo é revisar o planejamento de atividades para o período não-presencial que vai até dezembro. Nós conversaremos sobre as leituras semanais que você terá que fazer de trechos do <a href="https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf">Manual Técnico de Pedologia</a> e do <a href="https://ainfo.cnptia.embrapa.br/digital/bitstream/item/199517/1/SiBCS-2018-ISBN-9788570358004.pdf">Sistema Brasileiro de Classificação de Solos</a>. Também conversaremos sobre as avaliações individuais, que envolvem questionários e fóruns semanais. Por último, vamos tratar do trabalho em grupo, que consiste na participação em um projeto de extensão chamado Wikipedon, uma parceria da UTFPR com a Fundação Wikimedia.
+O encontro desta semana será nosso primeiro encontro desde março, quando as aulas presenciais foram suspensas por razão da pandemia do COVID‑19. Além de saber como você está, o objetivo é revisar o planejamento de atividades para o período não-presencial que vai até dezembro. Nós conversaremos sobre as leituras semanais que você terá que fazer de trechos do <a href="https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf">Manual Técnico de Pedologia</a> e do <a href="https://ainfo.cnptia.embrapa.br/digital/bitstream/item/199517/1/SiBCS-2018-ISBN-9788570358004.pdf">Sistema Brasileiro de Classificação de Solos</a>. Também conversaremos sobre as avaliações individuais, que envolvem questionários e fóruns semanais. Por último, vamos tratar do trabalho em grupo, que consiste na participação em um projeto de extensão chamado <a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Outreach_Dashboard/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)">Wikipedon</a>, uma parceria da UTFPR com a Fundação Wikimedia.
 </p>
 <p>
 Enquanto nosso encontro não chega, aproveite para se familiarizar com o Sistema Brasileiro de Classificação de Solos. Afinal de contas, ele será nosso companheiro de trabalho por quatro meses.
 </p>
 <p>
 Bom trabalho e até breve!
+</p>
+<p>
+NOTA: Pode ocorrer sobrecarga da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP) durante nosso encontro. Caso isso ocorra, utilizaremos uma sala alternativa do Google Classroom (<a href="https://meet.google.com/lookup/c4saebrx42">Pressione aqui para acessar</a>).
 </p>
 
 ### Questionário—Gênese e Morfologia do Solo (10 min de duração)
