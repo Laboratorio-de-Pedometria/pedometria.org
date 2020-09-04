@@ -32,6 +32,16 @@ Bom trabalho e até breve!
 NOTA: Pode ocorrer sobrecarga da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP) durante nosso encontro. Caso isso ocorra, utilizaremos uma sala alternativa do Google Classroom (<a href="https://meet.google.com/lookup/c4saebrx42">Pressione aqui para acessar</a>).
 </p>
 
+### Wikipedon—Formação dos Grupos de Trabalho
+
+__URL externa__. https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Outreach_Dashboard/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)
+
+__Descrição__. A primeira tarefa da Fase II consiste na criação de grupos de trabalho constituídos por três alunos. Feito isso, você deve inscrever-se no [WMF Outreach Dashboard](https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnológica_Federal_do_Paraná/Wikipedon_2020-02_(2020)?enroll=nitossolo) e selecionar, em acordo com os demais integrantes de seu grupo de trabalho, um dos municípios paranaenses disponíveis selecionados na Fase I.
+
+Bom trabalho e até breve!
+
+NOTA: Para inscrever-se na atividade no WMF Outreach Dashboard, é preciso que você tenha uma [conta de usuário da Wikipédia](https://pt.wikipedia.org/w/index.php?title=Especial:Criar_conta).
+
 ### Questionário—Gênese e Morfologia do Solo (10 min de duração)
 
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
@@ -48,7 +58,7 @@ Bom trabalho e até breve!
 
 ### Leitura—Manual Técnico de Pedologia (37 min de leitura)
 
-<video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
+<video width="300" style="float: right; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/ZVVYvhtY2tT1b6F/download" type="video/mp4">
 </video>
 
