@@ -3,16 +3,18 @@ title: Semana 02—Dados e Informações Usados na Classificação de Solos
 linktitle: Dados e Informações Usados na Classificação de Solos
 toc: true
 type: docs
-# date: "2020-08-26"
+date: "2020-09-08"
 draft: false
 menu:
   example:
     parent: Moodle
-    weight: 2
-weight: 1
+    weight: 3
+# weight: 3
 ---
 
 ## Leitura—Manual Técnico de Pedologia (37 min de leitura)
+
+<!-- Descrição -->
 
 <video width="300" style="float: right; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/ZVVYvhtY2tT1b6F/download" type="video/mp4">
@@ -26,6 +28,8 @@ Boa leitura e até breve!
 
 ## Questionário—Dados para Classificação de Solos (10 min de duração)
 
+<!-- Descrição -->
+
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/5p7ugEDpAx5nP6y/download" type="video/mp4">
 </video>
@@ -36,6 +40,27 @@ Você não precisa se preocupar com o fato de ainda não cursado disciplinas que
 
 Bom trabalho e até breve!
 
-## Fórum I—Fontes de Dados e Informações do Solo (20 min de participação)
+## Fórum I—Fontes de dados e informações do solo (20 min de participação)
+
+<!-- Duração: de 3 semanas -->
+
+<!-- Descrição -->
+
+<video width="300" style="float: right; margin: 0 20px 5px 0;" controls>
+<source src="https://cloud.utfpr.edu.br/index.php/s/UIlbZUJOyEUCLCK/download" type="video/mp4">
+</video>
+
+Você já deve saber que o seu papel como engenheiro(a) será o de resolver problemas agronômicos de interesse da sociedade. A forma mais eficiente de fazer isso é aplicando os princípios do método científico. Independente do problema que você terá que resolver, um dos primeiros passos vai sempre consistir em compilar os dados e informações existentes sobre o problema à mão. Depois de analisar esses dados e informações, você terá condições de decidir se necessita coletar mais dados ou se já consegue formular uma resposta satisfatória o problema.
+
+Neste primeiro fórum, que tem duração de três semana, o objetivo é responder a duas perguntas fundamentais:
+
+1. Quais são as estratégias mais eficientes para __encontrar fontes__ de dados e informações de recursos do solo e da terra de uma determinada região geográfica?
+2. Quais são as características que permitem identificar uma __fonte confiável__ de dados e informações de recursos do solo e da terra?
+
+Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez por semana para completar essa atividade.
+
+Bom trabalho e até breve!
 
 ## Encontro—Dúvidas da Semana (50 min de duração)
+
+<!-- Descrição -->
