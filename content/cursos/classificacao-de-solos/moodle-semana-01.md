@@ -3,16 +3,18 @@ title: Semana 01—(Re)Início das Atividades
 linktitle: (Re)Início das Atividades
 toc: true
 type: docs
-# date: "2020-08-26"
+date: "2020-09-08"
 draft: false
 menu:
   example:
     parent: Moodle
     weight: 2
-weight: 1
+# weight: 2
 ---
 
 ## Encontro—Planejamento de Atividades (50 min de duração)
+
+<!-- Descrição -->
 
 <p>
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
@@ -36,15 +38,19 @@ Bom trabalho e até breve!
 <b>NOTA 3:</b> O encontro será realizado em sala virtual do Moodle, utilizando o <i>plugin</i> BibBlueButtonBN e a infraestrutura da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP). A sala virtual será aberta às 10 h e 55 min. Para acessar, basta pressionar no título dessa atividade logo acima.
 </p>
 
-## Wikipedon—Formação dos Grupos de Trabalho
+## Wikipedon—Formação dos grupos de trabalho
 
-__URL externa__. https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Outreach_Dashboard/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)
+<!-- URL externa -->
 
-__Descrição__. A primeira tarefa da Fase II consiste na criação de grupos de trabalho constituídos por três alunos. Feito isso, você deve inscrever-se no [WMF Outreach Dashboard](https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnológica_Federal_do_Paraná/Wikipedon_2020-02_(2020)?enroll=nitossolo) e selecionar, em acordo com os demais integrantes de seu grupo de trabalho, um dos municípios paranaenses disponíveis selecionados na Fase I.
+https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)
+
+<!-- Descrição -->
+
+Essa é a primeira etapa do [trabalho em grupo](https://pt.wikiversity.org/wiki/Wikipedon) e algumas tarefas importante precisam ser cumpridas. A primeira delas consiste exatamente em constituir seu grupo de trabalho. Para isso, você precisa identificar dois colegas com os quais gostaria de trabalhar durante todo o semestre letivo. Em seguida, você e seus colegas de trabalho devem escolher um dos quinze [municípios paranaenses](https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)/articles/available) participantes do projeto Wikipedon. Esse é o município para o qual seu grupo terá que produzir conteúdo sobre os recursos do solo e da terra.
+
+Depois de formado o grupo de trabalho e selecionado o município de interesse, você precisa se inscrever no [WMF Outreach Dashboard](https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnológica_Federal_do_Paraná/Wikipedon_2020-02_(2020)?locale=pt-br&enroll=nitossolo?locale=pt-br). O WMF Outreach Dashboard é a plataforma que nós utilizaremos para gerir o trabalho em grupo (você precisa ter uma [conta de usuário da Wikipédia](https://pt.wikipedia.org/w/index.php?title=Especial:Criar_conta) para se inscrever). Completada a inscrição, você só precisa registrar no WMF Outreach Dashboard o município com o qual vai trabalhar. (Nós preparamos um [tutorial](https://pt.wikiversity.org/wiki/Wikipedon) para lhe auxiliar nessa tarefa.)
 
 Bom trabalho e até breve!
-
-NOTA: Para inscrever-se na atividade no WMF Outreach Dashboard, é preciso que você tenha uma [conta de usuário da Wikipédia](https://pt.wikipedia.org/w/index.php?title=Especial:Criar_conta).
 
 ## Questionário—Gênese e Morfologia do Solo (10 min de duração)
 
