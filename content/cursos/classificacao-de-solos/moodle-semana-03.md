@@ -16,7 +16,7 @@ menu:
 
 ## Leitura—Boletim Informativo da SBCS
 
-## Questionário—Fontes de Dados e Informações do Solo
+## Questionário—Fontes de dados e informações do solo
 
 ## Fórum I—Fontes de dados e informações do solo (20 min de participação)
 
@@ -41,4 +41,6 @@ Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez p
 
 Bom trabalho e até breve!
 
-## WIKIPEDON—Encontrar Dados e Informações de Recursos do Solo e da Terra
+## WIKIPEDON—Encontrar dados e informações de recursos do solo e da terra
+
+## Encontro—Dúvidas da semana (50 min de duração)
