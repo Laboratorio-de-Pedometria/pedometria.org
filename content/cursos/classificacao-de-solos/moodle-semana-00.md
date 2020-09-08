@@ -3,13 +3,13 @@ title: Semana 00—Planejamento de Atividades
 linktitle: Planejamento de Atividades
 toc: true
 type: docs
-# date: "2020-09-26"
+date: "2020-09-08"
 draft: false
 menu:
   example:
     parent: Moodle
-    weight: 2
-weight: 1
+    weight: 1
+# weight: 1
 ---
 
 ## Avaliações
