@@ -1,9 +1,9 @@
 ---
-title: Planejamento de Atividades
-linktitle: Planejamento de Atividades
+title: Semana 01—(Re)Início das Atividades
+linktitle: (Re)Início das Atividades
 toc: true
 type: docs
-date: "2020-08-26"
+# date: "2020-08-26"
 draft: false
 menu:
   example:
@@ -12,9 +12,7 @@ menu:
 weight: 1
 ---
 
-## Semana 01—(Re)Início das Atividades
-
-### Encontro—Planejamento de Atividades (50 min de duração)
+## Encontro—Planejamento de Atividades (50 min de duração)
 
 <p>
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
@@ -29,10 +27,16 @@ Enquanto nosso encontro não chega, aproveite para se familiarizar com o Sistema
 Bom trabalho e até breve!
 </p>
 <p>
-NOTA: Pode ocorrer sobrecarga da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP) durante nosso encontro. Caso isso ocorra, utilizaremos uma sala alternativa do Google Classroom (<a href="https://meet.google.com/lookup/c4saebrx42">Pressione aqui para acessar</a>).
+<b>NOTA 1:</b> Pode ocorrer sobrecarga da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP) durante nosso encontro. Caso isso ocorra, utilizaremos uma sala alternativa do Google Classroom (<a href="https://meet.google.com/lookup/c4saebrx42">Pressione aqui para acessar</a>).
+</p>
+<p>
+<b>NOTA 2:</b> Não se preocupe caso não consiga participar do encontro síncrono. Nosso encontro será gravado e ficará disponível aqui no Moodle para você assistir quando tiver condições.
+</p>
+<p>
+<b>NOTA 3:</b> O encontro será realizado em sala virtual do Moodle, utilizando o <i>plugin</i> BibBlueButtonBN e a infraestrutura da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP). A sala virtual será aberta às 10 h e 55 min. Para acessar, basta pressionar no título dessa atividade logo acima.
 </p>
 
-### Wikipedon—Formação dos Grupos de Trabalho
+## Wikipedon—Formação dos Grupos de Trabalho
 
 __URL externa__. https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Outreach_Dashboard/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)
 
@@ -42,7 +46,7 @@ Bom trabalho e até breve!
 
 NOTA: Para inscrever-se na atividade no WMF Outreach Dashboard, é preciso que você tenha uma [conta de usuário da Wikipédia](https://pt.wikipedia.org/w/index.php?title=Especial:Criar_conta).
 
-### Questionário—Gênese e Morfologia do Solo (10 min de duração)
+## Questionário—Gênese e Morfologia do Solo (10 min de duração)
 
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/IjRCcmjedt0PD3i/download" type="video/mp4">
@@ -53,31 +57,3 @@ O questionário desta semana faz parte da primeira avaliação individual da dis
 Antes de responder ao questionário, você pode refrescar a memória revendo suas anotações pessoais ou o material disponibilizado pelo professor da disciplina [AG62B Gênese e Morfologia do Solo](http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/santa-helena/sh-agronomia/matriz-e-docentes). Você também pode reler a seção _1.1 Caracterização Morfológica e Descrição dos Solos_ do [Manual Técnico de Pedologia](https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf) (IBGE, 2015, p. 39-151).
 
 Bom trabalho e até breve!
-
-## Semana 02—Dados e Informações Usados na Classificação de Solos
-
-### Leitura—Manual Técnico de Pedologia (37 min de leitura)
-
-<video width="300" style="float: right; margin: 0 20px 5px 0;" controls>
-<source src="https://cloud.utfpr.edu.br/index.php/s/ZVVYvhtY2tT1b6F/download" type="video/mp4">
-</video>
-
-A leitura obrigatória desta semana traz a seção _1.2.2 Principais determinações e métodos de análises utilizados em levantamentos de solos no Brasil_ do [Manual Técnico de Pedologia](https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf) (IBGE, 2015, p. 151-169). Ela tem como objetivo fazer com que você se familiarize com essas determinações e métodos de análise. Conhecê-las é de fundamental importância, pois a classificação de solos requer a caracterização completa do solo. E isso só pode ser feito enviando amostras para laboratórios de análise qualificados.
-
-À primeira vista, o tema pode lhe parecer complexo, sobretudo porque você ainda não deve ter cursado nenhuma disciplina que tratasse especificamente dos métodos de análise química e física do solo. Contudo, como foi dito acima, o objetivo é que você apenas se familiarize com as principais determinações e métodos de análise. Sem isso, você terá bastante dificuldade para utilizar o Sistema Brasileiro de Classificação de Solos.
-
-Boa leitura e até breve!
-
-### Questionário—Dados para Classificação de Solos (10 min de duração)
-
-<video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
-<source src="https://cloud.utfpr.edu.br/index.php/s/5p7ugEDpAx5nP6y/download" type="video/mp4">
-</video>
-
-Este questionário também faz parte da primeira avaliação individual da nossa disciplina. Aqui, o objetivo é aferir seu conhecimento sobre os dados morfológicos, químicos e físicos utilizados para a classificação de solos. Assim como no questionário anterior, são 10 questões a serem respondidas em até 10 minutos. Você continua dispondo de três tentativas para responder ao questionário, sendo sua nota dada pela média aritmética de todas as tentativas.
-
-Você não precisa se preocupar com o fato de ainda não cursado disciplinas que tratassem especificamente de métodos de análise química e física do solo. A leitura atenta da seção _1.2.2 Principais Determinações e Métodos de Análises Utilizados em Levantamentos de Solos no Brasil_ do [Manual Técnico de Pedologia](https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf) (IBGE, 2015, p. 151-169) é suficiente para você ter sucesso na resolução do questionário.
-
-Bom trabalho e até breve!
-
-### Fórum I—Fontes de Dados e Informações do Solo (20 min de participação)
