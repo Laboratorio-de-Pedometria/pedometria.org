@@ -12,7 +12,7 @@ menu:
 # weight: 2
 ---
 
-## Encontro—Planejamento de Atividades (50 min de duração)
+## Encontro—Planejamento de atividades (50 min de duração)
 
 <!-- Descrição -->
 
@@ -52,7 +52,7 @@ Depois de formado o grupo de trabalho e selecionado o município de interesse, v
 
 Bom trabalho e até breve!
 
-## Questionário—Gênese e Morfologia do Solo (10 min de duração)
+## Questionário—Gênese e morfologia do solo (10 min de duração)
 
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/IjRCcmjedt0PD3i/download" type="video/mp4">

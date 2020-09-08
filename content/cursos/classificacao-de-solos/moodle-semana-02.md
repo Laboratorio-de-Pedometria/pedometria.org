@@ -1,6 +1,6 @@
 ---
-title: Semana 02—Dados e Informações Usados na Classificação de Solos
-linktitle: Dados e Informações Usados na Classificação de Solos
+title: Semana 02—Dados e informações usados na classificação de solos
+linktitle: Dados e informações usados na classificação de solos
 toc: true
 type: docs
 date: "2020-09-08"
@@ -26,7 +26,7 @@ A leitura obrigatória desta semana traz a seção _1.2.2 Principais determinaç
 
 Boa leitura e até breve!
 
-## Questionário—Dados para Classificação de Solos (10 min de duração)
+## Questionário—Dados para classificação de solos (10 min de duração)
 
 <!-- Descrição -->
 
@@ -61,6 +61,6 @@ Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez p
 
 Bom trabalho e até breve!
 
-## Encontro—Dúvidas da Semana (50 min de duração)
+## Encontro—Dúvidas da semana (50 min de duração)
 
 <!-- Descrição -->
