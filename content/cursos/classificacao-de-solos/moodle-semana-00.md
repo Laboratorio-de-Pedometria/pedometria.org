@@ -51,3 +51,9 @@ Se você tiver desempenho insatisfatório e reprovar no primeiro turno da discip
 NF = max{(0,2 x MP + 0,8 x RA), MP}
 
 Note que, em nenhuma hipótese, lhe será permitido realizar a reavaliação caso tenha sido aprovado em primeiro turno e queira apenas melhorar sua nota final. Isso significa que voc6e está dispensado de frequentar a atividade no dia da realização da reavaliação (Resolução nº 71/2018 - COGEP).
+
+## Caixa de sugestões
+
+<!-- Descrição -->
+
+Sua opinião é muito importante!
