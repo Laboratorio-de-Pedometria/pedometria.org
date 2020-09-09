@@ -151,7 +151,10 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 
 <img src="https://live.staticflickr.com/4665/28395490759_996884f1e2_b.jpg" alt="Blocos angulares" width=300><br>Fonte: John Kelly (2008)
 
-* blocos angulares
+* 100%: blocos angulares
+* 100%: *locos angulares*
+* 50%: blocos
+* 50%: *locos*
 
 ### Estrutura em blocos subangulares
 
@@ -159,7 +162,10 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 
 <img src="https://live.staticflickr.com/4603/40143092442_f7034ffc5f_b.jpg" alt="Blocos subangulares" width=300><br>Fonte: John Kelly (2010)
 
-* blocos subangulares
+* 100%: blocos subangulares
+* 100%: *locos subangulares*
+* 50%: blocos
+* 50%: *locos*
 
 ### Estrutura colunar
 
@@ -168,6 +174,7 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 <img src="https://wps.prenhall.com/wps/media/objects/57/58641/fig10_16.gif" alt="Colunar" width=300>
 
 * colunar
+* *olunar*
 
 ### Estrutura granular
 
@@ -176,6 +183,7 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 <img src="https://live.staticflickr.com/4708/28395479059_ccc3d08403_b.jpg" alt="Granular" width=300><br>Fonte: John Kelly (2007)
 
 * granular
+* *ranular*
 
 ### Estrutura laminar
 
@@ -184,6 +192,7 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 <img src="https://www.mississippi-crops.com/wp-content/uploads/2014/08/IMGP3337.jpg" alt="Laminar" width=300>
 
 * laminar
+* *aminar*
 
 ### Estrutura prismática
 
@@ -191,7 +200,9 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 
 <img src="https://live.staticflickr.com/4761/25436575047_44ec9480b6_b.jpg" alt="Prismática" width=300><br>Fonte: John Kelly (2008)
 
-* prismática
+* 100%: prismática
+* 100%: *rismática*
+* 10%: *rism*tic*
 
 ### Estrutura e movimento de água
 
@@ -320,6 +331,7 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 (Resposta curta) Como se chama o esquema mostrado na figura baixo?<br><img src="https://www.qualisolo.com.br/imagens/servicos/triangulo-textural.jpg" width="300">
 
 * triângulo textural
+* *riângulo *extural*
 
 ### Trincheira
 
@@ -328,6 +340,7 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 <img src="https://live.staticflickr.com/4091/5094937726_ca401869a8.jpg" alt="Trincheira" width=300><br>Fonte: John Kelly (2009)
 
 * trincheira
+* *rincheira*
 
 ## Propriedades do Solo
 
