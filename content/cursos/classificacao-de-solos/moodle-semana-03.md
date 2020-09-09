@@ -18,7 +18,7 @@ menu:
 
 ## Questionário—Fontes de dados e informações do solo
 
-## Fórum I—Fontes de dados e informações do solo (20 min de participação)
+## Fórum I—Fontes de dados e informações do solo (20 min)
 
 <!-- Rótulo -->
 
@@ -43,4 +43,4 @@ Bom trabalho e até breve!
 
 ## WIKIPEDON—Encontrar dados e informações de recursos do solo e da terra
 
-## Encontro—Dúvidas da semana (50 min de duração)
+## Encontro—Dúvidas da semana (50 min)

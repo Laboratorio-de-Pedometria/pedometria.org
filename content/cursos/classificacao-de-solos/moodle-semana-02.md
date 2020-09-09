@@ -12,7 +12,11 @@ menu:
 # weight: 3
 ---
 
-## Leitura—Manual Técnico de Pedologia (37 min de leitura)
+## Encontro—Dúvidas da semana (50 min)
+
+<!-- Descrição -->
+
+## Leitura—Manual Técnico de Pedologia (37 min)
 
 <!-- Descrição -->
 
@@ -26,7 +30,7 @@ A leitura obrigatória desta semana traz a seção _1.2.2 Principais determinaç
 
 Boa leitura e até breve!
 
-## Questionário—Dados para classificação de solos (10 min de duração)
+## Questionário—Dados para classificação de solos (10 min)
 
 <!-- Descrição -->
 
@@ -40,7 +44,7 @@ Você não precisa se preocupar com o fato de ainda não cursado disciplinas que
 
 Bom trabalho e até breve!
 
-## Fórum I—Fontes de dados e informações do solo (20 min de participação)
+## Fórum I—Fontes de dados e informações do solo (20 min)
 
 <!-- Duração: de 3 semanas -->
 
@@ -60,7 +64,3 @@ Neste primeiro fórum, que tem duração de três semana, o objetivo é responde
 Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez por semana para completar essa atividade.
 
 Bom trabalho e até breve!
-
-## Encontro—Dúvidas da semana (50 min de duração)
-
-<!-- Descrição -->

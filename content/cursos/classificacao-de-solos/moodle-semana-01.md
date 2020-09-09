@@ -12,7 +12,7 @@ menu:
 # weight: 2
 ---
 
-## Encontro—Planejamento de atividades (50 min de duração)
+## Encontro—Planejamento de atividades (50 min)
 
 <!-- Descrição -->
 
@@ -38,7 +38,7 @@ Bom trabalho e até breve!
 <b>NOTA 3:</b> O encontro será realizado em sala virtual do Moodle, utilizando o <i>plugin</i> BibBlueButtonBN e a infraestrutura da <a href="https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa">Rede Nacional de Ensino e Pesquisa</a> (RNP). A sala virtual será aberta às 10 h e 55 min. Para acessar, basta pressionar no título dessa atividade logo acima.
 </p>
 
-## Wikipedon—Formação dos grupos de trabalho
+## Wikipedon—Formação dos grupos de trabalho (10 min)
 
 <!-- URL externa -->
 
@@ -56,7 +56,7 @@ Depois de formado o grupo de trabalho e selecionado o município de interesse, v
 
 Bom trabalho e até breve!
 
-## Questionário—Gênese e morfologia do solo (10 min de duração)
+## Questionário—Gênese e morfologia do solo (10 min)
 
 <video width="300" style="float: left; margin: 0 20px 5px 0;" controls>
 <source src="https://cloud.utfpr.edu.br/index.php/s/IjRCcmjedt0PD3i/download" type="video/mp4">
