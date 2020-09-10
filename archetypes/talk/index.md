@@ -111,8 +111,8 @@ slides: ""
 projects: []
 ---
 
-Insira outras informações sobre a palestra/curso que julgar necessário.
+<!-- Insira outras informações sobre a palestra/curso que julgar necessário. -->
 
-### Agradecimentos
+<!-- ### Agradecimentos -->
 
-Insira agradecimentos e informações sobre as fontes de recursos.
+<!-- Insira agradecimentos e informações sobre as fontes de recursos. -->
