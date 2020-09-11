@@ -509,3 +509,184 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 | Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
 
 * 7,5 cmolc/kg
+
+## Fontes de dados
+
+### Pedometria
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+A [[1]] é a disciplina da Ciência do Solo dedicada ao estudo da variação [[2]] e [[3]] do solo e, assim da [[4]], lançando mão de tecnologias da informação (TIs) para a coleta, armazenamento, manipulação, modelagem e distribuição de dados do solo.
+
+<!-- Opções -->
+* [[1]] pedometria
+* [[2]] espacial
+* [[3]] temporal
+* [[4]] pedogênese
+
+### Dados e variáveis
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+O insumo básico de uma aplicação pedométrica são os [[1]], que adquirem o papel de [[2]], ou dependentes. As variáveis de resposta são aquelas variáveis que se deseja compreender ou estimar, ou seja, os atributos, características, [[3]], como o [[4]] e a classe taxonômica.
+
+<!-- Opções -->
+* [[1]] dados do solo
+* [[2]] variáveis de resposta
+* [[3]] propriedades do solo
+* [[4]] conteúdo de argila
+
+### Fatores de formação do solo
+
+<!-- Resposta curta -->
+
+<!-- Texto da questão -->
+O mapeamento digital do solo é um método pedométrico que pressupõe que o solo e suas propriedades são resultado de processos controlados pelos componentes ambientais que moldam a paisagem. Nesse caso, dados representando os componentes ambientais na paisagem são usados como variáveis explicativas ou independentes para predizer variáveis de resposta do solo.
+
+Como são chamados os componentes ambientais que moldam a paisagem e controlam os processos dos quais resultam as propriedades do solo?
+
+<!-- Respostas -->
+* Fatores de formação do solo
+
+### Função de pedotransferência
+
+<!-- Verdadeiro/Falso -->
+
+<!-- Texto da questão -->
+Os dados do solo também podem servir como variáveis explicativas, como no caso das chamadas funções de pedotransferência, em que uma variável do solo pode ser estimada a partir de outra variável. Por exemplo, o conteúdo de matéria orgânica pode ser estimado a partir da cor do solo. Para solos de mesma constituição granulométrica e mineralógica, quanto mais escura for sua cor, maior tende a ser o conteúdo de matéria orgânica.
+
+<!-- Resposta certa -->
+* Verdadeiro
+
+### Dados legados
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Marque a(s) alternativa(s) correta(s).
+
+<!-- Respostas -->
+* 33: Historicamente, a maneira mais comum de obtenção de dados do solo foi a sua amostragem, usando métodos e ferramentas para sua coleta e descrição no campo, seguidos pela análise das amostras no laboratório.
+* 33: A amostragem de campo foi a maneira pela qual inúmeros projetos de levantamento e pesquisa de solos geraram, ao longo de décadas, um grande volume de dados legados, literalmente 'deixados para as próximas gerações'.
+* 33: Parte considerável dos dados legados está armazenada em repositórios institucionais, com abrangências nacional, regional e global, porém uma boa parte deles encontra-se dispersa e sob o risco de não ser reaproveitada ou mesmo ser perdida para sempre.
+
+### Bases de dados de solos (I)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+Associe a base de dados de solos e sua instituição mantenedora ou região geográfica de abrangência.
+
+<!-- Respostas -->
+* Continente africano --- Africa Soil Profiles Database
+* México --- Archivo Digital de Perfiles de Suelo de México
+* EMBRAPA --- Sistema de Informação de Solos Brasileiros
+* ESALQ/USP --- BrazilSoilDB
+* ISRIC --- World Soil Information Service
+
+### Bases de dados de solos (II)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+Associe a base de dados de solos e sua instituição mantenedora ou região geográfica de abrangência.
+
+<!-- Respostas -->
+* EMBRAPA --- Sistema de Informação de Solos Brasileiros
+* Argentina --- Sistema de Información de Suelos del INTA
+* Austrália --- Soil and Landscape Grid of Australia
+* Estados Unidos da América --- USA National Cooperative Soil Survey
+* ISRIC --- World Soil Information Service
+
+### Bases de dados de solos (III)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Marque a(s) alternativa(s) correta(s).
+
+<!-- Respostas -->
+* 33: Até meados de 2017, a principal fonte de dados de solos no Brasil era o Sistema de Informação de Solos Brasileiros, da Embrapa.
+* 33: O IBGE sempre foi uma importante fonte de dados de solos, disponibilizando principalmente dados do Projeto Radambrasil.
+* 33: Os dados sob salvaguarda da Embrapa e do IBGE somam cerca de 10 mil observações (pontos amostrais, perfis) do solo de todo o Brasil.
+* -10: Atualmente, a principal fonte de dados de solos no Brasil é o repositório do USA National Cooperative Soil Survey.
+
+### Siglas (I)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+Associe as siglas às respectivas instituições ou bases de dados.
+
+<!-- Respostas -->
+* EMBRAPA --- Empresa Brasileira de Pesquisa Agropecuária
+* BDSolos --- Sistema de Informação de Solos Brasileiros
+* WoSIS --- World Soil Information Service
+
+### Siglas (II)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+Associe as siglas às respectivas instituições ou bases de dados.
+
+<!-- Respostas -->
+* ISRIC --- International Soil Reference and Information Centre
+* FEBR --- Repositório Brasileiro Livre para Dados Abertos do Solo
+* IBGE -- Instituto Brasileiro de Geografia e Estatística
+
+### Amostragem e análise (I)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Marque a(s) alternativa(s) correta(s).
+
+<!-- Respostas -->
+* 50: Existem métodos para definir os locais de amostragem do solo segundo critérios objetivos via técnicas de inteligência artificial.
+* -10: O único modo de obter dados confiáveis de solo no campo é via métodos convencionais de amostragem.
+* 50: Algumas propriedades do solo pode ser quantificadas de maneira mais limpa e não-destrutiva como é o caso da espectrometria de infravermelho.
+* -10: A única maneira confiável para quantificar as propriedades do solo é via análises químicas tradicionais.
+
+### Sensoriamento proximal
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+O [[1]] do solo abrange métodos de obtenção de dados do solo sem a necessidade de [[5]]. Isso significa que é possível analisar as amostras de terra de maneira mais limpa e [[2]] do que ocorre numa [[3]] tradicional. Dentre esses métodos estão a [[4]] e a análise da susceptibilidade magnética do solo.
+
+<!-- Opções -->
+* [[1]] sensoriamento proximal
+* [[2]] não-destrutiva
+* [[3]] análise química
+* [[4]] espectrometria de infravermelho
+* [[5]] coletar amostras de terra
+
+### Gerenciamento de dados
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Marque a(s) alternativa(s) correta(s).
+
+<!-- Respostas -->
+* 33: Dados do solo devem ser armazenados e organizados apropriadamente para possibilitar sua distribuição e facilitar o uso atual e futuro.
+* 33: Existem inúmeras alternativas tecnológicas para o armazenamento de dados, desde planilhas eletrônicas até as bases de dados relacionais.
+* 33: Um sistema de gerenciamento de dados do solo deve possui características mínimas necessárias para as etapas posteriores de reúso dos dados.
+* -10: As alternativas tecnológicas para o armazenamento de dados do solo são limitadas e escassas.
+
+### Gerenciamento de dados (I)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+São três características desejáveis em um sistema nacional de gerenciamento de dados do solo aberto ao público:
+
+<!-- Respostas -->
+* 33: Ferramentas básicas de visualização dos dados como zoom, inspeção de atributos, entre outros.
+* 33: Exportação dos dados em formatos de arquivo abertos, como CSV e KML.
+* 33: Ferramentas de manutenção, conferência e atualização dos dados pelos usuários.
+* -10: Interface arrojada, baseada nas últimas e mais modernas tecnologias disponíveis, sendo atualizada constantemente.
+
