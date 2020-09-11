@@ -12,6 +12,20 @@ menu:
 # weight: 1
 ---
 
+## Apresentação
+
+<img src="https://moodle.utfpr.edu.br/draftfile.php/440178/user/draft/331714569/mapa-pedologico-brasil.jpeg" alt="Mapa de solos do Brasil na escala 1:5.000.000" style="display: block; float: right; margin: 5px;" width="320" height="308"/>
+
+Após a conclusão bem sucedida desta disciplina, ofertada no terceiro período do curso de Agronomia, espera-se que você saiba __organizar__ informações sobre o meio físico de extensões territoriais rurais, em especial a cobertura pedológica, selecionando variáveis, materiais e ferramentas que se apliquem ao contexto analisado, demonstrando atitude cooperativa e com comunicação efetiva. Especificamente, espera-se que você seja capaz de (1) __encontrar__ fontes confiáveis de informação sobre o meio físico, (2) __sumariar__ informações encontradas, (3) __reportar__ relações existentes entre variáveis selecionadas, e (4) __produzir__ conteúdo digital sobre classificação de solos e terras para comunicação.
+
+A seguir você encontra links para documentos e informações importantes sobre a disciplina e seu andamento:
+
+* [Plano de ensino da disciplina](https://utfws.utfpr.edu.br/acad00/sistema/mpPlanoEnsinoInformativo.pcPrintInfoPlaEns?p_Disccodnr=280&p_Plaenscodnr=12177&p_Unidcodnr=13)
+* [Diretrizes e regulamentos dos cursos de graduação da UTFPR](http://portal.utfpr.edu.br/documentos/graduacao-e-educacao-profissional/prograd/diretrizes-e-regulamentos)
+* [Google Classroom](https://classroom.google.com) (Código da turma: huqmdli)
+* [Projeto Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon)
+* [WMF Outreach Dashboard](https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)) (Código de acesso: nitossolo)
+
 ## Avaliações
 
 <!-- Descrição -->
