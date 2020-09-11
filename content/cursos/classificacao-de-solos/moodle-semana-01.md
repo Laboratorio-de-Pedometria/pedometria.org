@@ -4,7 +4,7 @@ linktitle: (Re)Início das Atividades
 toc: true
 type: docs
 date: "2020-09-08"
-draft: false
+draft: true
 menu:
   example:
     parent: Moodle

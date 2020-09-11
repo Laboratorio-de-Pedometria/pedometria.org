@@ -4,7 +4,7 @@ linktitle: Dados e informações usados na classificação de solos
 toc: true
 type: docs
 date: "2020-09-08"
-draft: false
+draft: true
 menu:
   example:
     parent: Moodle
