@@ -637,6 +637,30 @@ Associe as siglas às respectivas instituições ou bases de dados.
 * FEBR --- Repositório Brasileiro Livre para Dados Abertos do Solo
 * IBGE -- Instituto Brasileiro de Geografia e Estatística
 
+### Siglas (III)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+O Brasil possui vários repositórios de dados do solo. Dentre os mais conhecidos estão:
+
+<!-- Respostas -->
+* BDiA --- Banco de Dados de Informações Ambientais
+* HYBRAS --- Banco de Dados Hidrofísicos para Solos Brasileiros
+* BESB --- Biblioteca Espectral de Solos do Brasil
+
+### Siglas (IV)
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+O Brasil possui vários repositórios de dados do solo. Dentre os mais conhecidos estão:
+
+<!-- Respostas -->
+* BESB --- Biblioteca Espectral de Solos do Brasil
+* BDSolos --- Sistema de Informação de Solos Brasileiros
+* FEBR --- Repositório Brasileiro Livre para Dados Abertos do Solo
+
 ### Amostragem e análise (I)
 
 <!-- Múltipla escolha -->
@@ -690,3 +714,89 @@ São três características desejáveis em um sistema nacional de gerenciamento 
 * 33: Ferramentas de manutenção, conferência e atualização dos dados pelos usuários.
 * -10: Interface arrojada, baseada nas últimas e mais modernas tecnologias disponíveis, sendo atualizada constantemente.
 
+### Leis dos dados abertos
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Dados abertos são dados que podem ser encontrados, reutilizados e redistribuídos. Segundo as três leis dos dados abertos:
+
+<!-- Respostas -->
+* 33: Se um conjunto de dados não puder ser encontrado por meio de uma simples busca na internet, então é como se ele não existisse.
+* 33: Não basta ser possível encontrar um conjunto de dados na internet: ele deve estar organizado e armazenado de maneira que permita sua imediata leitura e manipulação em programas de computador.
+* 33: Para que um conjunto de dados seja útil, não deve haver nenhum impedimento legal ao reúso, redistribuição e compartilhamento dos produtos dele derivados.
+
+### Princípios dos dados abertos (I)
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+Para que um conjunto de dados seja considerado aberto, ele precisa seguir oito princípios. Os dados precisam ser [[1]] (todos os dados são públicos, não apenas uma parte deles), [[2]] (publicados como encontrados na fonte, não uma versão agregada ou transformada), [[3]] (publicados o mais rápido o possível a fim de garantir seu valor), [[4]] (disponibilizados para o maior público para a maior variedade de usos), processáveis por máquina (estruturados em formato processável por máquina sem intervenção manual), de acesso não discriminatório (disponíveis a todos, sem necessidade de cadastro ou identificação), estar em formato de arquivo não-proprietário (distribuídos usando formatos de arquivo que não estão sob controle exclusivo de uma empresa ou organização), e ser livres de licenças (não estarem sujeitos à regulações de direitos autorais ou segredo industrial).
+
+<!-- Opções -->
+* [[1]] completos
+* [[2]] primários
+* [[3]] atuais
+* [[4]] acessíveis
+
+### Princípios dos dados abertos (II)
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+Para que um conjunto de dados seja considerado aberto, ele precisa seguir oito princípios. Os dados precisam ser completos (todos os dados são públicos, não apenas uma parte deles), primários (publicados como encontrados na fonte, não uma versão agregada ou transformada), atuais (publicados o mais rápido o possível a fim de garantir seu valor), acessíveis (disponibilizados para o maior público para a maior variedade de usos), [[1]] (estruturados em formato processável por máquina sem intervenção manual), de [[2]] (disponíveis a todos, sem necessidade de cadastro ou identificação), estar em [[3]] (distribuídos usando formatos de arquivo que não estão sob controle exclusivo de uma empresa ou organização), e ser [[4]] (não estarem sujeitos à regulações de direitos autorais ou segredo industrial).
+
+<!-- Opções -->
+* [[1]] processáveis por máquina
+* [[2]] acesso não discriminatório
+* [[3]] formato de arquivo não-proprietário
+* [[4]] livres de licenças
+
+### Formatos de arquivo
+
+<!-- Escolha as palavras que faltam -->
+
+<!-- Texto da questão -->
+Se um conjunto de dados não respeita qualquer das três leis ou oito princípios, então ele não é considerado um conjunto de dados abertos. Dados em documentos impressos, digitais não estruturados como DOCX e PDF, ou em planilhas eletrônicas e sistemas de gerenciamento de banco de dados proprietários como MDB e ACCDB, por exemplo, [[1]] considerados dados abertos.
+
+<!-- Opções -->
+* [[1]] não são
+* [[2]] são
+
+### Repositório de dados
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+A maneira mais eficiente de disponibilizar os dados da pesquisa é publicando-os em um repositório de dados:
+
+<!-- Respostas -->
+* 50: Um repositório de dados, também chamado de arquivo ou biblioteca de dados, é que uma infraestrutura de tecnologias da informação (TI) usada para armazenar e distribuir dados via web.
+* 50: Um componente importante de um repositório de dados é a política e as licenças de uso dos conjuntos de dados.
+* 0: Uma maneira eficiente de disponibilizar dados é via repositórios particulares, pois oferecem maior garantia de que os dados continuarão disponíveis no futuro.
+
+### Características de repositórios
+
+<!-- Associação -->
+
+<!-- Texto da questão -->
+Existem centenas de repositórios de dados da pesquisa em todo o mundo, alguns deles de maior importância para a ciência do solo. Associe os repositórios às suas características.
+
+<!-- Respostas -->
+* Possui escopo limitado, lidando predominantemente com dados de levantamentos pedológicos --- BDSolos
+* Dentre as razões para sua criação está a necessidade de contornar as principais limitações dos repositórios existentes no Brasil --- FEBR
+* Considerado o mais importante repositório de dados da pesquisa sobre os sistemas terrestres --- PANGAEA
+* Inclui o processamento dos dados do solo provenientes de diferentes origens e sua distribuição em formato padronizado e harmonizado --- ISRIC
+
+### Escolha repositórios
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Quais dos repositórios de dados da pesquisa em ciência do solo abaixo você visitaria para procurar dados sobre o solo de um município brasileiro?
+
+<!-- Respostas -->
+* 50: FEBR
+* 50: BDSolos
+* 0: ISRIC
+* 0: PANGAEA
