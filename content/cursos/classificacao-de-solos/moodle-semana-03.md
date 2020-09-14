@@ -12,46 +12,29 @@ menu:
 # weight: 3
 ---
 
-## Encontro—Dúvidas da semana (50 min)
+Nesta semana, você conhecerá algumas das mais importantes fontes de dados de recursos do solo do Brasil e do mundo. Você vai conhecer as características desejáveis de uma base pública de dados do solo, bem como maneiras alternativas de produção de dados do solo. Também lhe serão apresentadas as três leis e os oito princípios dos dados abertos, e como cada repositório de dados do solo atende a essas leis e princípios. Ao final da semana, espera-se que você seja capaz de selecionar fontes confiáveis de dados de recursos do solo de regiões geográficas do território brasileiro.
 
-<!-- Descrição -->
+Para alcançar esse objetivo, você deve fazer a leitura de dois artigos publicados no [Boletim Informativo](https://www.sbcs.org.br/?post_type=boletim) da Sociedade Brasileira de Ciência do Solo ([SBCS](https://www.sbcs.org.br)). Esses artigos servirão de base para você responder ao questionário da semana, momento em que você poderá verificar seu aprendizado. Eles também proverão elementos para sua segunda participação no fórum sobre fontes de dados e informações do solo. Finalmente, você e seus colegas de trabalho encontrarão pistas importantes sobre onde buscar dados dos recursos do solo e da terra do município com o qual estão trabalhando no projeto [Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon).
+
+## Encontro—Dúvidas da semana (Paluno, 50 min)
 
 ## Leitura—Boletim Informativo da SBCS (7 min + 15 min)
 
 <!-- URL externa -->
-
 https://www.sbcs.org.br/?post_type=boletim
 
-
 <!-- Descrição -->
-
-A leitura obrigatória desta semana traz dois artigos publicados no [Boletim Informativo](https://www.sbcs.org.br/?post_type=boletim) da Sociedade Brasileira de Ciência do Solo ([SBCS](https://www.sbcs.org.br)). São eles:
-
-1. _Dados para Aplicações Pedométricas em Larga Escala no Brasil_ [(Samuel-Rosa e Vasques, 2017, p. 22-24)](https://www.sbcs.org.br/wp-content/uploads/2018/01/boletimsbcs32017ebook_03_01_2018_10_45_30_id_36404.pdf)
-2. _Vamos Abrir os Dados da Pesquisa Sobre o Solo?_  [(Samuel-Rosa, 2019, p. 27-31)](https://www.sbcs.org.br/wp-content/uploads/2019/06/Boletim-SBCS-Volume-45-N%C3%BAmero-1.pdf)
-
-O objetivo principal é que você conheça as mais importantes fontes de dados de recursos do solo do Brasil e do mundo. Além disso, você vai aprender um pouco sobre métodos alternativos de produção de dados do solo, características desejáveis de uma base pública de dados do solo...
+* SAMUEL-ROSA, A.; VASQUES, G. M. Dados para aplicações pedométricas em larga escala no Brasil. Boletim Informativo da SBCS, v. 43, n. 3, p. 22–24, 2017. Disponível em: <https://www.sbcs.org.br/wp-content/uploads/2018/01/boletimsbcs32017ebook_03_01_2018_10_45_30_id_36404.pdf>
+* SAMUEL-ROSA, A. Vamos abrir os dados da pesquisa sobre o solo? Boletim Informativo da SBCS, v. 45, n. 1, p. 27–31, 2019. Disponível em: <https://www.sbcs.org.br/wp-content/uploads/2019/06/Boletim-SBCS-Volume-45-N%C3%BAmero-1.pdf>
 
 ## Questionário—Fontes de dados e informações do solo (10 min)
 
 ## Fórum I—Fontes de dados e informações do solo (20 min)
 
 <!-- Rótulo -->
-
-<!-- Texto do rótulo -->
-
 <img src="https://moodle.utfpr.edu.br/theme/image.php/classic/forum/1586623256/icon"> Fórum I—Fontes de dados e informações do solo (20 min)
 
-<video width="300" style="float: right; margin: 0 20px 5px 0;" controls>
-<source src="https://cloud.utfpr.edu.br/index.php/s/UIlbZUJOyEUCLCK/download" type="video/mp4">
-</video>
+## Wikipedon—Encontrar dados e informações de recursos do solo e da terra (20 min)
 
-Você já deve saber que o seu papel como engenheiro(a) será o de resolver problemas agronômicos de interesse da sociedade. A forma mais eficiente de fazer isso é aplicando os princípios do método científico. Independente do problema que você terá que resolver, um dos primeiros passos vai sempre consistir em compilar os dados e informações existentes sobre o problema à mão. Depois de analisar esses dados e informações, você terá condições de decidir se necessita coletar mais dados ou se já consegue formular uma resposta satisfatória o problema.
-
-Neste primeiro fórum, que tem duração de três semana, o objetivo é responder a duas questões fundamentais. Primeiro, quais são as estratégias mais eficientes para encontrar fontes de dados e informações de recursos do solo e da terra de uma determinada região geográfica? Segundo, quais são as características que permitem identificar que uma dessas fontes é confiável?
-
-Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez por semana para completar essa atividade.
-
-Bom trabalho e até breve!
-
-## WIKIPEDON—Encontrar dados e informações de recursos do solo e da terra
+<!-- URL externa -->
+https://pt.wikiversity.org/wiki/Wikipedon#Fase_II_%E2%80%93_Compila%C3%A7%C3%A3o_de_Dados_e_Informa%C3%A7%C3%B5es
