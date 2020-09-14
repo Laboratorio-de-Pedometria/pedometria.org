@@ -12,9 +12,7 @@ menu:
 # weight: 3
 ---
 
-## Encontro—Dúvidas da semana (50 min)
-
-<!-- Descrição -->
+## Encontro—Dúvidas da semana (Paluno, 50 min)
 
 ## Leitura—Manual Técnico de Pedologia (37 min)
 
