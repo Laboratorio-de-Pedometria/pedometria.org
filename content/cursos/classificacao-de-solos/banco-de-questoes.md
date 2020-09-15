@@ -102,6 +102,32 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 * Paleossolo --- Solo formado em uma paisagem numa época passada e que foi posteriormente recoberto por sedimentos. Os paleossolos podem estar à superfície caso tenham sido expostos pela erosão do manto de sedimentos sobrejacente.
 * Solo halomórfico --- Solo cuja gênese foi muito influenciada pelo excesso de sais.
 
+### Conceito de solo (I)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Sobre a definição de solo, marque a(s) alternativa(s) correta(s):
+
+<!-- Respostas -->
+* 33: Solo—Material mineral e/ou orgânico inconsolidado na superfície da terra que serve como meio natural para o crescimento e desenvolvimento de plantas terrestres.
+* 33: Solum—Parte superior e pressupostamente mais intemperizada do perfil do solo, compreendendo somente os horizontes `A` e `B` (excluído o `BC`).
+* -10: Solo alóctone—Solo desenvolvido a partir de material de origem proveniente das rochas imediatamente subjacentes.
+* 33: Solo autóctone—Solo desenvolvido a partir de material de origem proveniente das rochas imediatamente subjacentes.
+
+### Conceito de solo (II)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
+
+<!-- Respostas -->
+* -10: Solo—Material mineral e/ou orgânico inconsolidado na superfície da terra que serve como meio natural para o crescimento e desenvolvimento de plantas terrestres.
+* -10: Solum—Parte superior e pressupostamente mais intemperizada do perfil do solo, compreendendo somente os horizontes `A` e `B` (excluído o `BC`).
+* 100: Solo alóctone—Solo desenvolvido a partir de material de origem proveniente das rochas imediatamente subjacentes.
+* -10: Solo autóctone—Solo desenvolvido a partir de material de origem proveniente das rochas imediatamente subjacentes.
+
 ### Geologia
 
 (Associação) Dois itens importantes da descrição ambiental do local de observação do solo são a litologia e o material de origem. Relacione cada um deles à sua respectiva definição.
@@ -202,6 +228,7 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 
 * 100%: prismática
 * 100%: *rismática*
+* 50%: *rismátic*
 * 10%: *rism*tic*
 
 ### Estrutura e movimento de água
@@ -209,13 +236,67 @@ Prezado autor, após leitura cuidadosa de seu texto, recomendo que adote as duas
 O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita.
 
 <div style="overflow:hidden;">
-   <img height="300" src="https://onlinelibrary.wiley.com/cms/asset/c8849008-c9ab-4097-826a-81523de7f224/jcwr3186-fig-0007-m.jpg" alt="" style="margin:0px 0px -12px 0px;"/>
+   <img height="300" src="https://onlinelibrary.wiley.com/cms/asset/c8849008-c9ab-4097-826a-81523de7f224/jcwr3186-fig-0007-m.jpg" alt="" style="margin:0px 0px -15px 0px;"/>
 </div>
 
 * 1 --- Granular
 * 2 --- Prismática
 * 3 --- Blocos
 * 4 --- Laminar
+
+### Estrutura e movimento de água (I)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita, e marque a(s) alternativa(s) incorreta(s).
+
+<div style="overflow:hidden;">
+   <img height="300" src="https://onlinelibrary.wiley.com/cms/asset/c8849008-c9ab-4097-826a-81523de7f224/jcwr3186-fig-0007-m.jpg" alt="" style="margin:0px 0px -15px 0px;"/>
+</div>
+
+<!-- Respostas -->
+* -10: 1—Granular
+* -10: 2—Prismática
+* -10: 3—Blocos
+* -10: 4—Laminar
+* 100: Todas incorretas
+
+### Estrutura e movimento de água (II)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita, e marque a(s) alternativa(s) correta(s).
+
+<div style="overflow:hidden;">
+   <img height="300" src="https://onlinelibrary.wiley.com/cms/asset/c8849008-c9ab-4097-826a-81523de7f224/jcwr3186-fig-0007-m.jpg" alt="" style="margin:0px 0px -15px 0px;"/>
+</div>
+
+<!-- Respostas -->
+* 20: 1—Granular
+* 20: 2—Prismática
+* 20: 3—Blocos
+* 20: 4—Laminar
+* 20: Todas corretas
+
+### Estrutura e movimento de água (III)
+
+<!-- Múltipla escolha -->
+
+<!-- Texto da questão -->
+O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita, e marque a(s) alternativa(s) correta(s).
+
+<div style="overflow:hidden;">
+   <img height="300" src="https://onlinelibrary.wiley.com/cms/asset/c8849008-c9ab-4097-826a-81523de7f224/jcwr3186-fig-0007-m.jpg" alt="" style="margin:0px 0px -15px 0px;"/>
+</div>
+
+<!-- Respostas -->
+* 25: 1—Granular
+* 25: 2—Prismática
+* 25: 3—Blocos
+* 25: 4—Laminar
+* -10: Todas incorretas
 
 ### Símbolos dos horizontes
 
