@@ -157,8 +157,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * [[2]] mesclado
 
 ### Estrutura (I)
-
-(Múltipla escolha) A estrutura é o modo de arranjamento das partículas primárias do solo. Esse arranjamento é consequência dos processos de formação do solo. Dele resultam os agregados. Indique, da lista abaixo, quais são tipos de estrutura do solo:
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+A estrutura é o modo de arranjamento das partículas primárias do solo. Esse arranjamento é consequência dos processos de formação do solo. Dele resultam os agregados. Indique, da lista abaixo, quais são tipos de estrutura do solo:
 
 * [X] Laminar
   * Feedback: A estrutura laminar é aquela onde as partículas do solo estão arranjadas em torno de uma linha horizontal, configurando lâminas de espessura variável, ou seja, figuras geométricas regulares onde as dimensões horizontais são sempre maiores que as verticais.
@@ -172,8 +173,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
   * Feedback: Fiável não é um tipo de estrutura do solo, e sim uma classe de avaliação da consistência do solo, especificamente, sua resistência ao esboroamento num estado de umidade aproximadamente intermediário entre seco ao ar e a capacidade de campo.
 
 ### Estrutura em blocos angulares
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo, de faces planas, arestas e ângulos aguçados, mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo, de faces planas, arestas e ângulos aguçados, mostrada na figura abaixo?
 
 <img src="https://live.staticflickr.com/4665/28395490759_996884f1e2_b.jpg" alt="Blocos angulares" width=300><br>Fonte: John Kelly (2008)
 
@@ -183,8 +185,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * 50%: *locos*
 
 ### Estrutura em blocos subangulares
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo, de faces planas e arredondadas, com poucas arestas e ângulos suavizados, mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo, de faces planas e arredondadas, com poucas arestas e ângulos suavizados, mostrada na figura abaixo?
 
 <img src="https://live.staticflickr.com/4603/40143092442_f7034ffc5f_b.jpg" alt="Blocos subangulares" width=300><br>Fonte: John Kelly (2010)
 
@@ -194,8 +197,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * 50%: *locos*
 
 ### Estrutura colunar
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo, de topo arredondado, mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo, de topo arredondado, mostrada na figura abaixo?
 
 <img src="https://wps.prenhall.com/wps/media/objects/57/58641/fig10_16.gif" alt="Colunar" width=300>
 
@@ -203,8 +207,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * *olunar*
 
 ### Estrutura granular
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo mostrada na figura abaixo?
 
 <img src="https://live.staticflickr.com/4708/28395479059_ccc3d08403_b.jpg" alt="Granular" width=300><br>Fonte: John Kelly (2007)
 
@@ -212,8 +217,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * *ranular*
 
 ### Estrutura laminar
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo mostrada na figura abaixo?
 
 <img src="https://www.mississippi-crops.com/wp-content/uploads/2014/08/IMGP3337.jpg" alt="Laminar" width=300>
 
@@ -221,8 +227,9 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * *aminar*
 
 ### Estrutura prismática
-
-(Resposta curta) Qual é o nome dado ao tipo de estrutura do solo, com eixo vertical maior do que o horizontal e faces e arestas bem definidas, mostrada na figura abaixo?
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Qual é o nome dado ao tipo de estrutura do solo, com eixo vertical maior do que o horizontal e faces e arestas bem definidas, mostrada na figura abaixo?
 
 <img src="https://live.staticflickr.com/4761/25436575047_44ec9480b6_b.jpg" alt="Prismática" width=300><br>Fonte: John Kelly (2008)
 
@@ -230,6 +237,15 @@ Sobre a definição de solo, marque a(s) alternativa(s) incorreta(s):
 * 100%: *rismática*
 * 50%: *rismátic*
 * 10%: *rism*tic*
+
+### Estrutura (II)
+<!-- Associação de resposta curta aleatória -->
+<!-- Categoria  -->
+Estrutura do solo
+<!-- Texto da questão -->
+Identifique o tipo de estrutura do solo.
+<!-- Número de questões para selecionar  -->
+3
 
 ### Estrutura e movimento de água
 
@@ -263,9 +279,7 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 * 100: Todas incorretas
 
 ### Estrutura e movimento de água (II)
-
 <!-- Múltipla escolha -->
-
 <!-- Texto da questão -->
 O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita, e marque a(s) alternativa(s) correta(s).
 
@@ -281,9 +295,7 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 * 20: Todas corretas
 
 ### Estrutura e movimento de água (III)
-
 <!-- Múltipla escolha -->
-
 <!-- Texto da questão -->
 O esquema da figura abaixo mostra o movimento vertical da água (infiltração) em perfis de solo com tipos de estrutura de diferentes. Identifique o tipo de estrutura predominante em cada perfil, considerando sua ordem da esquerda para a direita, e marque a(s) alternativa(s) correta(s).
 
@@ -556,40 +568,109 @@ O esquema da figura abaixo mostra o movimento vertical da água (infiltração) 
 * cm h<sup>-1</sup> --- centímetros po hora
 
 ### Soma de bases trocáveis
+<!-- Numérico -->
+<!-- Texto da questão -->
+A soma de bases trocáveis corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup> no solo. Qual é a soma de bases trocáveis no horizonte Bt do perfil de solo abaixo?
 
-(Numérico) A soma de bases trocáveis corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup> no solo. Qual é a soma de bases trocáveis no horizonte Bt do perfil de solo abaixo?
-
-| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
-| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
-| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
-| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
-| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | 1,5             | 1,0             | 0,2           | 0,05           | 2,7           | 4,8             |
 
 * 2,75 cmolc/kg
 
+### Soma de bases trocáveis (I)
+<!-- Cálculo simples -->
+<!-- Texto da questão -->
+A soma de bases trocáveis corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup> no solo. Qual é a soma de bases trocáveis no horizonte Bt do perfil de solo abaixo?
+
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | {Ca}            | {Mg}            | {K}           | {Na}           | 2,7           | 4,8             |
+<!-- Respostas -->
+{Ca}+{Mg}+{K}+{Na}
+<!-- Unidade -->
+cmolc/kg
+<!-- Faixa de valores -->
+* Ca: 1,00 -- 2,00
+* Mg: 0,50 -- 1,50
+* K: 0,00 -- 0,50
+* Na: 0,00 -- 0,10
+
 ### Capacidade de troca de cátions
+<!-- Numérico -->
+<!-- Texto da questão -->
+A capacidade de troca de cátions (CTC) corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup>, e dos componentes da acidez potencial ou total do solo, H<sup>+</sup> e Al<sup>3+</sup>. Qual é a CTC no horizonte Bt do perfil de solo abaixo?
 
-(Numérico) A capacidade de troca de cátions (CTC) corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup>, e dos componentes da acidez potencial ou total do solo, H<sup>+</sup> e Al<sup>3+</sup>. Qual é a CTC no horizonte Bt do perfil de solo abaixo?
-
-| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
-| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
-| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
-| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
-| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | 1,5             | 1,0             | 0,2           | 0,05           | 2,7           | 4,8             |
 
 * 10,25 cmolc/kg
 
+### Capacidade de troca de cátions (I)
+<!-- Cálculo simples -->
+<!-- Texto da questão -->
+A capacidade de troca de cátions (CTC) corresponde ao somatório do conteúdo dos cátions básicos Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> e Na<sup>+</sup>, e dos componentes da acidez potencial ou total do solo, H<sup>+</sup> e Al<sup>3+</sup>. Qual é a CTC no horizonte `Bt` do perfil de solo abaixo?
+
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | {Ca}            | {Mg}            | {K}           | {Na}           | {H}           | {Al}            |
+<!-- Respostas -->
+{Ca}+{Mg}+{K}+{Na}+{H}+{Al}
+<!-- Unidade -->
+cmolc/kg
+<!-- Faixa de valores -->
+* Ca: 1,00 -- 2,00
+* Mg: 0,50 -- 1,50
+* K: 0,00 -- 0,50
+* Na: 0,00 -- 0,10
+* H: 2,20 -- 3,20
+* Al: 4,30 -- 5,30
+
 ### Acidez potencial
+<!-- Numérico -->
+<!-- Texto da questão -->
+A acidez potencial ou total do solo corresponde ao somatório do conteúdo de H<sup>+</sup> e Al<sup>3+</sup> no solo. Qual é a acidez potencial no horizonte Bt do perfil de solo abaixo?
 
-(Numérico) A acidez potencial ou total do solo corresponde ao somatório do conteúdo de H<sup>+</sup> e Al<sup>3+</sup> no solo. Qual é a acidez potencial no horizonte Bt do perfil de solo abaixo?
-
-| Horizonte | Ca<sup>2+</sup> (cmolc/kg) | Mg<sup>2+</sup> (cmolc/kg) | K<sup>+</sup> (cmolc/kg) | Na<sup>+</sup> (cmolc/kg) | H<sup>+</sup> (cmolc/kg) | Al<sup>3+</sup> (cmolc/kg) |
-| --------- | -------------------------- | --------------- -----------| ------------------------ | ------------------------- | ------------------------ | -------------------------- |
-| Ap        | 2,5                        | 1,5                        | 0,5                      | 0,2                       | 0,9                      | 1,2                        |
-| AB        | 2,0                        | 1,2                        | 0,3                      | 0,1                       | 1,3                      | 2,1                        |
-| Bt        | 1,5                        | 1,0                        | 0,2                      | 0,05                      | 2,7                      | 4,8                        |
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | 1,5             | 1,0             | 0,2           | 0,05           | 2,7           | 4,8             |
 
 * 7,5 cmolc/kg
+
+### Acidez potencial (I)
+<!-- Cálculo simples -->
+<!-- Texto da questão -->
+A acidez potencial ou total do solo corresponde ao somatório do conteúdo de H<sup>+</sup> e Al<sup>3+</sup> no solo. Qual é a acidez potencial no horizonte `Bt` do perfil de solo abaixo?
+
+| Hz | Ca<sup>2+</sup> | Mg<sup>2+</sup> | K<sup>+</sup> | Na<sup>+</sup> | H<sup>+</sup> | Al<sup>3+</sup> |
+| -- | --------------- | --------------- | ------------- | -------------- | ------------- | --------------- |
+| -  | (cmolc/kg)      | (cmolc/kg)      | (cmolc/kg)    | (cmolc/kg)     | (cmolc/kg)    | (cmolc/kg)      |
+| Ap | 2,5             | 1,5             | 0,5           | 0,20           | 0,9           | 1,2             |
+| AB | 2,0             | 1,2             | 0,3           | 0,10           | 1,3           | 2,1             |
+| Bt | 1,5             | 1,0             | 0,2           | 0,05           | {H}           | {Al}            |
+<!-- Respostas -->
+{H}+{Al}
+<!-- Unidade -->
+cmolc/kg
+<!-- Faixa de valores -->
+* H: 2,20 -- 3,20
+* Al: 4,30 -- 5,30
 
 ## Fontes de dados
 
