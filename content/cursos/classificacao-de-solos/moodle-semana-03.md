@@ -37,4 +37,4 @@ https://www.sbcs.org.br/?post_type=boletim
 ## Wikipedon—Encontrar dados e informações de recursos do solo e da terra (20 min)
 
 <!-- URL externa -->
-https://pt.wikiversity.org/wiki/Wikipedon#Fase_II_%E2%80%93_Compila%C3%A7%C3%A3o_de_Dados_e_Informa%C3%A7%C3%B5es
+https://pt.wikiversity.org/wiki/Wikipedon
