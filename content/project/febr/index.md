@@ -109,7 +109,7 @@ Veja algumas recomendações sobre como organizar dados para publicação.
       <li>Coloque dados pontuais dos locais de amostragem (coordenadas, data, classe taxonômica, uso da terra etc) na aba <code>observacao</code>;</li>
       <li>Coloque os dados analíticos das camadas e/ou horizontes amostrados na aba <code>camada</code>.</li>
     </ul>
-  </ul> 
+  </ul>
 </div>
 
 ---
@@ -119,7 +119,7 @@ Veja algumas recomendações sobre como organizar dados para publicação.
 Existem muitas maneiras de participar do projeto e contribuir para o desenvolvimento do FEBR. No momento, gostaríamos de contar com a sua ajuda num dos três pacotes de trabalho abaixo.
 
 * __Compilação de dados__: Resgate de dados de solo produzidos no século passado, especialmente de áreas do território brasileiro ainda sub representadas no FEBR, como são os casos das regiões Centro-Oeste, Nordeste e Norte. Dados tabulares podem ser resgatados de documentos PDF utilizando o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/).
-* __Curadoria de dados__: Revisão de dados de conjuntos de dados já publicados no FEBR, resgatando dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros.
+* __Curadoria de dados__: Revisão de conjuntos de dados publicados no FEBR, resgatando dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros. Saiba mais em [febr-curadoria](https://github.com/samuel-rosa/febr-curadoria).
 * __Dicionário de Dados__: Desenvolvimento e consolidação um [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
 
 ---
