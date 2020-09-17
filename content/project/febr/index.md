@@ -26,22 +26,27 @@ tags:
 <!-- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp -->
 <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button">
   Plataforma de Busca e Descarregamento de Dados
-</a></br>
+</a>
 <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-success btn-block" role="button">
   Modelo de Planilha para Organização de Dados
-</a></br>
+</a>
 <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-warning btn-block" role="button">
   Interface de Entrada de Conjuntos de Dados
-</a></br>
-<a href="https://CRAN.R-project.org/package=febr" class="btn btn-danger btn-block" role="button">
+ </a>
+ <a href="https://CRAN.R-project.org/package=febr" class="btn btn-danger btn-block" role="button">
   Pacote febr para o Ambiente R
-</a>
+ </a>
+
+</br>
+{{% alert note %}}
+Publicações relacionadas ao projeto estão no final desta página!
+{{% /alert %}}
 
 ## Procurar Dados
 
 Se você é um _usuário_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
 
-{{% alert note %}}
+{{% alert warning %}}
 Você já conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR?
 {{% /alert %}}
 
@@ -80,7 +85,7 @@ data.frame(
 
 Se você é um _produtor_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades do solo de qualquer local do país.
 
-{{% alert note %}}
+{{% alert warning %}}
   Conheça a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR!
 {{% /alert %}}
 
@@ -116,11 +121,11 @@ Veja algumas recomendações sobre como organizar dados para publicação.
 
 ## Participar do Projeto
 
-Existem muitas maneiras de participar do projeto e contribuir para o desenvolvimento do FEBR. No momento, gostaríamos de contar com a sua ajuda num dos três pacotes de trabalho abaixo.
+Existem muitas maneiras de participar do projeto e contribuir para o desenvolvimento do FEBR. No momento, gostaríamos de contar com a sua ajuda num dos três pacotes de trabalho abaixo:
 
-* __Compilação de dados__: Resgate de dados de solo produzidos no século passado, especialmente de áreas do território brasileiro ainda sub representadas no FEBR, como são os casos das regiões Centro-Oeste, Nordeste e Norte. Dados tabulares podem ser resgatados de documentos PDF utilizando o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/).
-* __Curadoria de dados__: Revisão de conjuntos de dados publicados no FEBR, resgatando dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros. Saiba mais em [febr-curadoria](https://github.com/samuel-rosa/febr-curadoria).
-* __Dicionário de Dados__: Desenvolvimento e consolidação um [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
+* __Resgate de dados legados__: Resgate de dados de solo produzidos no século XX, muitos dos quais sob risco de serem perdidos para sempre, especialmente de áreas do território brasileiro ainda sub representadas no FEBR, como são os casos das regiões Centro-Oeste, Nordeste e Norte. Dados tabulares podem ser resgatados de documentos PDF utilizando o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/).
+* __Curadoria de dados publicados__: Revisão de conjuntos de dados publicados no FEBR, inserindo dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros. Visite a [plataforma de curadoria](https://github.com/samuel-rosa/febr-curadoria) de conjuntos de dados.
+* __Dicionário de dados do solo__: Desenvolvimento e consolidação de [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
 
 ---
 
