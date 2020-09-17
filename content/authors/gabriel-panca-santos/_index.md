@@ -22,6 +22,9 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/4370209214074560
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gabrielpanzza
 superuser: false
 title: Gabriel Panca Santos
 user_groups:
