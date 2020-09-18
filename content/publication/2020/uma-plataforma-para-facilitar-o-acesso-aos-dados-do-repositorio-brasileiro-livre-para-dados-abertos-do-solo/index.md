@@ -50,7 +50,7 @@ abstract: "Neste artigo apresentamos os principais sistemas de gerenciamento de 
 # Descrição sumária da publicação, geralmente mais curta do que o resumo publicado
 # Usada para traduzir resumos originalmente publicados em inglês
 # Aparece na página principal do website, abaixo do título dap publicação
-summary: ""
+summary: "Neste artigo, analisamos os principais sistemas de gerenciamento de metadados em repositórios de dados da pesquisa. Dentre as alternativas mais populares cadastradas no Registry of Research Data Repositories ([re3data](https://en.wikipedia.org/wiki/Registry_of_Research_Data_Repositories)), concluímos que o [DataVerse](https://en.wikipedia.org/wiki/Dataverse), desenvolvido na Universidade de Harvard, é o mais indicado para adoção no Repositório Brasileiro Livre para Dados Abertos do Solo."
 
 # Palavras-chave da publicação
 tags:

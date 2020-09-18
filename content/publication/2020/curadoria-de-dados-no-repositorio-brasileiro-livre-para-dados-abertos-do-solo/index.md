@@ -50,7 +50,7 @@ abstract: "Este artigo apresenta sugestões e soluções para a curadoria de dad
 # Descrição sumária da publicação, geralmente mais curta do que o resumo publicado
 # Usada para traduzir resumos originalmente publicados em inglês
 # Aparece na página principal do website, abaixo do título dap publicação
-summary: "Este artigo apresenta sugestões e soluções para a curadoria de dados no Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR), com destaque para a melhoria da qualidade da descrição dos métodos de análise de solo. Para isso, foi realizado levantamento do padrão de descrição de métodos analíticos em trabalhos que se basearam na edição de 1979 do Manual de Métodos de Análise de Solo da Embrapa."
+summary: "Este artigo apresenta sugestões e soluções para a curadoria de dados no Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR), com destaque para a melhoria da qualidade da descrição dos métodos de análise de solo. Para isso, foi realizado levantamento do padrão de descrição de métodos analíticos em trabalhos que se basearam na [edição de 1979](http://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/330592) do Manual de Métodos de Análise de Solo da Embrapa."
 
 # Palavras-chave da publicação
 tags:
