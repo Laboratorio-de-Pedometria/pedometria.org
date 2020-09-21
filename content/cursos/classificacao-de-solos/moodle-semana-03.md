@@ -19,10 +19,6 @@ Para alcançar esse objetivo, você deve fazer a leitura de dois artigos publica
 ## Encontro—Dúvidas da semana (Paluno, 50 min)
 
 ## Leitura—Boletim Informativo da SBCS (7 min + 15 min)
-
-<!-- URL externa -->
-https://www.sbcs.org.br/?post_type=boletim
-
 <!-- Descrição -->
 * SAMUEL-ROSA, A.; VASQUES, G. M. Dados para aplicações pedométricas em larga escala no Brasil. Boletim Informativo da SBCS, v. 43, n. 3, p. 22–24, 2017. Disponível em: <https://www.sbcs.org.br/wp-content/uploads/2018/01/boletimsbcs32017ebook_03_01_2018_10_45_30_id_36404.pdf>
 * SAMUEL-ROSA, A. Vamos abrir os dados da pesquisa sobre o solo? Boletim Informativo da SBCS, v. 45, n. 1, p. 27–31, 2019. Disponível em: <https://www.sbcs.org.br/wp-content/uploads/2019/06/Boletim-SBCS-Volume-45-N%C3%BAmero-1.pdf>
@@ -30,11 +26,9 @@ https://www.sbcs.org.br/?post_type=boletim
 ## Questionário—Fontes de dados e informações do solo (10 min)
 
 ## Fórum I—Fontes de dados e informações do solo (20 min)
-
-<!-- Rótulo -->
-<img src="https://moodle.utfpr.edu.br/theme/image.php/classic/forum/1586623256/icon"> Fórum I—Fontes de dados e informações do solo (20 min)
+<!-- Descrição -->
+Quais são as estratégias mais eficientes para encontrar fontes de dados e informações de recursos do solo e da terra de uma determinada região geográfica? Quais são as características que permitem identificar que uma dessas fontes é confiável? ([Acessar o fórum](https://moodle.utfpr.edu.br/mod/forum/view.php?id=549655))
 
 ## Wikipedon—Encontrar dados e informações de recursos do solo e da terra (20 min)
-
-<!-- URL externa -->
-https://pt.wikiversity.org/wiki/Wikipedon
+<!-- Descrição -->
+Encontrar dados e informações dos recursos do solo e da terra do município que você e seus colegas de trabalho escolheram, usando a respectiva página de rascunho de teste para sua organização. Mais informações na página do projeto [Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon).
