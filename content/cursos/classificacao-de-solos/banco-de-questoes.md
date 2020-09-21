@@ -962,3 +962,410 @@ Quais dos repositórios de dados da pesquisa em ciência do solo abaixo você vi
 * 50: BDSolos
 * 0: ISRIC
 * 0: PANGAEA
+
+## SiBCS: estrutura e funcionamento
+
+### Classe e elemento formativo (I)
+<!-- Associação -->
+<!-- Texto da questão -->
+Relacione o elemento formativo do nome da classe taxonômica à sua conotação ou significado implícito.
+<!-- Respostas -->
+* Conotativo de planície ou depressão com encharcamento estacional --- Plano
+* Conotativo de excesso de água, hidromorfia --- Glei
+* Conotativo de solo muito intemperizado --- Lato
+* Conotativo de solo rico em matéria orgânica, com coloração escura --- Cherno
+* Conotativo de solo em formação/transformação --- Cambi
+* Conotativo de materiais argilosos coloridos que endurecem quando expostos ao ar --- Plinto
+
+### Classe e elemento formativo (II)
+<!-- Associação -->
+<!-- Texto da questão -->
+Relacione o elemento formativo do nome da classe taxonômica à sua conotação ou significado implícito.
+<!-- Respostas -->
+* Conotativo de maior expressão da constituição orgânica --- Organo
+* Conotativo de pouco desenvolvimento pedogenético --- Neo
+* Conotativo de movimento do material do solo --- Verti
+* Conotativo de acumulação iluvial de MO humificada e Al e/ou Fe --- Espodo
+* Conotativo de acumulação de argila --- Luvi
+* Conotativo de superfícies brilhantes --- Nito
+
+### Sobre a taxonomia de solos (I)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+Sobre a taxonomia de solos no Brasil, maque a(s) alternativa(s) correta(s).
+<!-- Respostas -->
+* 33: Depois de descrito e caracterizado, o solo deve ser enquadrado em sistemas taxonômicos organizados com este propósito.
+* 33: O enquadramento do solo num sistema taxonômico é feito com base em critérios e características diagnósticas.
+* 33: Um sistema taxonômico usa nomenclatura que expressa características do solo importantes para determinado fim.
+* 0: O Sistema Americano de Classificação de Solos está estruturado até o seu quinto nível categórico.
+
+### Sobre a taxonomia de solos (II)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+Sobre a taxonomia de solos no Brasil, maque a(s) alternativa(s) correta(s).
+<!-- Respostas -->
+* 33: A classificação taxonômica do solo requer sua prévia descrição e caracterização seguindo procedimentos padronizados.
+* 33: Um sistema taxonômico é uma forma de comunicação.
+* 33: O Sistema Brasileiro de Classificação de Solos está estruturado até o quinto nível categórico.
+* -33: O Sistema Brasileiro de Classificação de Solos foi organizado para atender às condições de clima temperado.
+
+### Sobre a taxonomia de solos (III)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+Sobre a taxonomia de solos no Brasil, maque a(s) alternativa(s) incorreta(s).
+<!-- Respostas -->
+* 0: O enquadramento do solo num sistema taxonômico é feito com base em critérios e características diagnósticas.
+* 0: Um sistema taxonômico é uma forma de comunicação.
+* 100: Um sistema taxonômico usa nomenclatura que expressa características do solo importantes para a agricultura.
+* 0: O Sistema Brasileiro de Classificação de Solos foi organizado para atender às condições de clima tropical.
+
+### Sistema aberto
+<!-- Verdadeiro/Falso -->
+<!-- Texto da questão -->
+Uma das principais características do Sistema Brasileiro de Classificação de Solos (SiBCS) é ser um sistema aberto. Isso significa que está sujeito a constantes modificações a título de complementações e aperfeiçoamentos. A demanda por essas complementações e aperfeiçoamentos surge com a evolução do conhecimento sobre solos tropicais e subtropicais.
+<!-- Resposta certa -->
+* Verdadeiro
+
+### Etimologia (I)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: Do latim _argilla_, argila; conotativo de solo com processo de acumulação de argila em subsuperfície.
+* Característica associada: horizonte diagnóstico subsuperficial B textural.
+<!-- Respostas -->
+* Argissolo
+* Argissolo*
+
+### Etimologia (II)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _cambiare_, trocar; conotativo de solo em formação (transformação).
+* Característica associada: horizonte diagnóstico subsuperficial B incipiente.
+<!-- Respostas -->
+* Cambissolo
+* Cambissolo*
+
+### Etimologia (III)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do russo _chern_, negro; conotativo de solo ricos em matéria orgânica, com coloração escura.
+* Características associadas: horizonte diagnóstico superficial A chernozêmico; preto; rico em cátions básicos trocáveis.
+<!-- Respostas -->
+* Chernossolo
+* Chernossolo*
+
+### Etimologia (IV)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do grego _spodos_, cinza vegetal; conotativo de solo com horizonte subsuperficial de acumulação de materiais orgânicos e outros.
+* Característica associada: horizonte diagnóstico subsuperficial B espódico.
+<!-- Respostas -->
+* Espodossolo
+* Espodossolo*
+
+### Etimologia (V)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do russo _gley_, massa de solo pastosa; conotativo de solo com excesso de água.
+* Característica associada: horizonte diagnóstico subsuperficial glei.
+<!-- Respostas -->
+* Gleissolo
+* Gleissolo*
+
+### Etimologia (VI)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _lat_, material altamente alterado (tijolo); conotativo de solo muito intemperizado, com elevado conteúdo de sesquióxidos.
+* Característica associada: horizonte diagnóstico subsuperficial B latossólico.
+<!-- Respostas -->
+* Latossolo
+* Latossolo*
+
+### Etimologia (VII)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _luere_, lavar; conotativo de solo com acumulação de argila em subsuperfície.
+* Características associadas: elevada saturação por cátions básicos trocáveis; acumulação de argila em subsuperfície; argila de alta atividade.
+<!-- Respostas -->
+* Luvissolo
+* Luvissolo*
+
+### Etimologia (VIII)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do grego _néos_, novo, moderno; conotativo de solo jovem, em início de formação.
+* Característica associada: pequeno desenvolvimento.
+<!-- Respostas -->
+* Neossolo
+* Neossolo*
+
+### Etimologia (IX)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _nitidus_, brilhante; conotativo de solo com unidades estruturais de superfícies brilhantes.
+* Característica associada: horizonte diagnóstico subsuperficial B nítico.
+<!-- Respostas -->
+* Nitossolo
+* Nitossolo*
+
+### Etimologia (X)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do grego _organikós_, pertinente ou próprio dos compostos de carbono; conotativo de solo de constituição orgânica.
+* Característica associada: horizonte diagnóstico superficial hístico.
+<!-- Respostas -->
+* Organossolo
+* Organossolo*
+
+### Etimologia (XI)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _planus_, plano, horizontal; conotativo de solo desenvolvido com encharcamento superficial estacional.
+* Característica associada: horizonte diagnóstico subsuperficial B plânico.
+<!-- Respostas -->
+* Planossolo
+* Planossolo*
+
+### Etimologia (XII)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do grego _plinthos_, ladrilho; conotativo de solo contendo materiais argilosos coloridos que endurecem quando expostos às condições atmosféricas.
+* Característica associada: horizonte diagnóstico subsuperficial plíntico.
+<!-- Respostas -->
+* Plintossolo
+* Plintossolo*
+
+### Etimologia (XIII)
+<!-- Resposta curta -->
+<!-- Texto da questão -->
+Que solo é esse?
+
+* Etimologia: do latim _vertere_; conotativo de movimento na superfície do solo (expansão/contração).
+* Característica associada: horizonte diagnóstico subsuperficial vértico.
+<!-- Respostas -->
+* Vertissolo
+* Vertissolo*
+
+### Etimologia (XIV)
+<!-- Associação aleatória de resposta curta aleatória -->
+<!-- Texto da questão -->
+Relacione nomenclatura, etimologia e características associadas de classes de solo do Sistema Brasileiro de Classificação de Solos.
+
+### Sobre o SiBCS (I)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+Sobre o Sistema Brasileiro de Classificação de Solos, maque a(s) alternativa(s) correta(s).
+<!-- Respostas -->
+* 50: O SiBCS caracteriza-se por ser multi categórico, hierárquico e aberto.
+* 50: Está planejado para incluir seis níveis categóricos, sendo que cinco deles já estão estruturados e em uso.
+* -10: O SiBCS consiste numa evolução das primeiras versões do sistema europeu de classificação de solos.
+* -10: Está planejado para incluir seis níveis categóricos, sendo que todos eles já estão estruturados e em uso.
+
+### Sobre o SiBCS (II)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+Sobre o Sistema Brasileiro de Classificação de Solos, maque a(s) alternativa(s) correta(s).
+<!-- Respostas -->
+* 50: O SiBCS visa tornar possível a classificação de todos os solos existentes no território nacional.
+* -10: O SiBCS é de responsabilidade da Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA).
+* -50: O SiBCS caracteriza-se por ser multi categórico e hierárquico, sem abertura para complementações e aperfeiçoamentos.
+* 50: O SiBCS consiste numa evolução das primeiras versões do sistema americano de classificação de solos.
+
+### Sobre o SiBCS (III)
+<!-- Arrastar e soltar sobre o texto -->
+<!-- Texto da questão -->
+Complete as afirmações sobre o Sistema Brasileiro de Classificação de Solos:
+
+* Caracteriza-se por ser multi categórico, [[1]] e aberto.
+* Está planejado para incluir [[2]] níveis categóricos, sendo que [[3]] deles já estão estruturados e em uso.
+* Consiste numa evolução das primeiras versões do sistema [[4]] de classificação de solos.
+* É de responsabilidade [[5]] entre várias instituições de ensino e pesquisa no Brasil.
+* Visa tornar possível a classificação de todos os solos existentes no [[6]].
+* Seu desenvolvimento foi motivado por necessidades decorrentes de [[7]].
+
+* [[1]] hierárquico
+* [[2]] seis
+* [[3]] cinco
+* [[4]] americano
+* [[5]] compartilhada
+* [[6]] território nacional
+* [[7]] levantamentos pedológicos
+* [[8]] europeu
+* [[9]] investimentos privados
+
+### Símbolo da ordem
+<!-- Associação -->
+<!-- Texto da questão -->
+Associe a ordem do Sistema Brasileiro de Classificação de Solos ao respectivo símbolo.
+<!-- Respostas -->
+* Argissolo --- P
+* Cambissolo --- C
+* Chernossolo --- M
+* Espodossolo --- E
+* Gleissolo --- G
+* Latossolo --- L
+* Luvissolo --- T
+* Neossolo --- R
+* Nitossolo --- N
+* Organossolo --- O
+* Planossolo --- S
+* Plintossolo --- F
+* Vertissolo --- V
+
+### Ordens (I)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+O primeiro nível categórico do Sistema Brasileiro de Classificação de Solos possui 13 classes. Dentre elas estão:
+<!-- Respostas -->
+* 20: Argissolo
+* 20: Cambissolo
+* 20: Chernossolo
+* 20: Gleissolo
+* 20: Planossolo
+* -20: Regossolo
+* -20: Arenossolo
+
+### Ordens (II)
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+O primeiro nível categórico do Sistema Brasileiro de Classificação de Solos possui 13 classes. Dentre elas estão:
+<!-- Respostas -->
+* 33: Chernossolo
+* 33: Luvissolo
+* 33: Vertissolo
+* -33: Fluvissolo
+* -33: Regossolo
+* -33: Litossolo
+
+### Primeiro nível categórico
+<!-- Verdadeiro/Falso -->
+<!-- Texto da questão -->
+O primeiro nível categórico do Sistema Brasileiro de Classificação de Solos possui 13 classes. Essas classes são separadas pela presença ou ausência de atributos, horizontes diagnósticos ou propriedades medidas em laboratório. Estes atributos, horizontes e propriedades mostram diferenças no tipo e grau de desenvolvimento de um conjunto de processos que atuaram na formação do solo.
+<!-- Feedback -->
+O primeiro nível categórico do Sistema Brasileiro de Classificação de Solos possui 13 classes. Essas classes são separadas pela presença ou ausência de atributos, horizontes diagnósticos ou propriedades __que podem ser identificadas no campo__. Estes atributos, horizontes e propriedades mostram diferenças no tipo e grau de desenvolvimento de um conjunto de processos que atuaram na formação do solo.
+<!-- Resposta -->
+Falsa
+
+### Segundo nível categórico
+<!-- Múltipla escolha -->
+<!-- Texto da questão -->
+No segundo nível categórico do Sistema Brasileiro de Classificação de Solos, as classes são separadas por propriedades ou características diferenciais que:
+<!-- Respostas e feedback -->
+* 25: Refletem a atuação de processos secundários de formação do solo.
+* 25: Envolvem características resultantes da gênese do solo que são importantes para o crescimento vegetal.
+* 25: Ressaltam características responsáveis pela ausência de diferenciação de horizontes diagnósticos.
+* 25: Ressaltam características diferenciais que representam variações importantes dentro das ordens.
+* -25: São passíveis de identificação no campo.
+  * Algumas características diferenciais utilizadas no segundo nível categórico podem ser identificadas no campo, enquanto outras exigem determinações laboratoriais.
+
+### Terceiro nível categórico
+<!-- Arrastar e soltar sobre o texto -->
+<!-- Texto da questão -->
+No terceiro nível categórico do Sistema Brasileiro de Classificação de Solos, as classes foram separadas por uma ou mais das seguintes características:
+
+* Tipo e arranjamento de [[1]];
+* Atividade da [[2]]; condição de saturação do complexo sortivo por bases ou por [[5]], ou por sódio e/ou por sais solúveis; e
+* Presença de horizontes ou propriedades que [[3]] o desenvolvimento das raízes e afetam o movimento de [[4]] no solo.
+<!-- Respostas -->
+* [[1]] horizontes
+* [[2]] argila
+* [[3]] restringem
+* [[4]] água
+* [[5]] alumínio
+* camadas
+* microbiota
+* favorecem
+* raízes
+* fósforo
+
+### Quarto nível categórico
+<!-- Verdadeiro/Falso -->
+<!-- Texto da questão -->
+No quarto nível categórico do Sistema Brasileiro de Classificação de Solos, as classes são separadas por uma das seguintes características:
+
+* Representam o conceito central da classe.
+* Representam os intermediários para o primeiro, segundo ou terceiro níveis categóricos.
+* Representam os solos com características extraordinárias.
+<!-- Resposta -->
+Verdadeiro
+
+### Termos usados (I)
+<!-- Associação -->
+<!-- Texto da questão -->
+Associe o termo e o nível categórico do Sistema Brasileiro de Classificação de Solos em que é utilizado.
+<!-- Respostas -->
+* Argissolo --- 1
+* Argilúvico --- 2
+* Argissólico --- 4
+* ___ --- 3
+
+### Termos usados (II)
+<!-- Associação -->
+<!-- Texto da questão -->
+Associe o termo e o nível categórico do Sistema Brasileiro de Classificação de Solos em que é utilizado.
+<!-- Respostas -->
+* Chenossolo --- 1
+* Melânico --- 2
+* Chernossólico --- 4
+* ___ --- 3
+
+### Termos usados (III)
+<!-- Associação -->
+<!-- Texto da questão -->
+Associe o termo e o nível categórico do Sistema Brasileiro de Classificação de Solos em que é utilizado.
+<!-- Respostas -->
+* Latossolo --- 1
+* Crômico --- 2
+* Perférrico --- 3
+* Latossólico --- 4
+
+### Quinto nível categórico (I)
+<!-- Verdadeiro/Falso -->
+<!-- Texto da questão -->
+O quinto nível categórico do Sistema Brasileiro de Classificação de Solos é utilizado para atender a funções pragmáticas. Por isso, são priorizadas características diferenciais e propriedades que afetam o uso e o manejo do solo para fins diversos.
+<!-- Resposta -->
+Verdadeiro
+
+### Quinto nível categórico (II)
+<!-- Verdadeiro/Falso -->
+<!-- Texto da questão -->
+O quinto nível categórico do Sistema Brasileiro de Classificação de Solos é utilizado para atender a funções pragmáticas. Por isso, são priorizadas características diferenciais e propriedades que afetam o uso e o manejo do solo para fins agrícolas.
+<!-- Feedback -->
+O quinto nível categórico do Sistema Brasileiro de Classificação de Solos é utilizado para atender a funções pragmáticas. Por isso, são priorizadas características diferenciais e propriedades que afetam o uso e o manejo do solo para __fins diversos, inclusive agrícolas__.
+<!-- Resposta -->
+Falso
+
+### Nome do nível
+<!-- Associação -->
+<!-- Texto da questão -->
+Identifique a designação dos níveis categóricos do Sistema Brasileiro de Classificação de Solos.
+<!-- Respostas -->
+* Ordem --- 1
+* Subordem --- 2
+* Grande grupo --- 3
+* Subgrupo --- 4
+* Família --- 5
+* Série --- 6
