@@ -679,13 +679,13 @@ cmolc/kg
 <!-- Escolha as palavras que faltam -->
 
 <!-- Texto da questão -->
-A [[1]] é a disciplina da Ciência do Solo dedicada ao estudo da variação [[2]] e [[3]] do solo e, assim da [[4]], lançando mão de tecnologias da informação (TIs) para a coleta, armazenamento, manipulação, modelagem e distribuição de dados do solo.
+A [[1]] é a disciplina da Ciência do Solo dedicada ao estudo da variação [[2]] e temporal do solo e, assim da [[3]], lançando mão de tecnologias da informação (TIs) para a coleta, armazenamento, manipulação, modelagem e distribuição de [[4]].
 
 <!-- Opções -->
 * [[1]] pedometria
 * [[2]] espacial
-* [[3]] temporal
-* [[4]] pedogênese
+* [[3]] pedogênese
+* [[4]] dados do solo
 
 ### Dados e variáveis
 
@@ -948,14 +948,14 @@ Existem centenas de repositórios de dados da pesquisa em todo o mundo, alguns d
 * Possui escopo limitado, lidando predominantemente com dados de levantamentos pedológicos --- BDSolos
 * Dentre as razões para sua criação está a necessidade de contornar as principais limitações dos repositórios existentes no Brasil --- FEBR
 * Considerado o mais importante repositório de dados da pesquisa sobre os sistemas terrestres --- PANGAEA
-* Inclui o processamento dos dados do solo provenientes de diferentes origens e sua distribuição em formato padronizado e harmonizado --- ISRIC
+* Inclui o processamento dos dados do solo provenientes de diferentes países e sua distribuição em formato padronizado e harmonizado --- ISRIC
 
 ### Escolha repositórios
 
 <!-- Múltipla escolha -->
 
 <!-- Texto da questão -->
-Quais dos repositórios de dados da pesquisa em ciência do solo abaixo você visitaria para procurar dados sobre o solo de um município brasileiro?
+Quais dos repositórios de dados da pesquisa em ciência do solo abaixo você deve visitar primeiro para procurar dados sobre o solo de um município brasileiro?
 
 <!-- Respostas -->
 * 50: FEBR
