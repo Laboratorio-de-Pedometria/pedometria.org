@@ -27,10 +27,10 @@ tags:
 <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button">
   Plataforma de Busca e Descarregamento de Dados
 </a>
-<a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-success btn-block" role="button">
+<a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-success btn-block" role="button">
   Modelo de Planilha para Organização de Dados
 </a>
-<a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-warning btn-block" role="button">
+<a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button">
   Interface de Entrada de Conjuntos de Dados
  </a>
  <a href="https://CRAN.R-project.org/package=febr" class="btn btn-danger btn-block" role="button">
