@@ -91,7 +91,7 @@ image:
 # O arquivo pode estar neste diretório (PDF, PPTX, ODP)
 # O arquivo pode estar no diretório `static/slides` (rmarkdown::ioslides_presentation)
 # Para gerar o arquivo HTML, execute o seguinte comando R: `source('R/build.R')`
-url_slides:
+url_slides: slides/2020/10/acesso-aberto-aos-dados-da-pesquisa-em-ciencia-do-solo
 url_code:
 url_pdf:
 url_video:
