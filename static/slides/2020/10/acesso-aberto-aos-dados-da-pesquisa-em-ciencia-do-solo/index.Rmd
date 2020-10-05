@@ -1,8 +1,7 @@
 ---
 title: "Acesso Aberto aos Dados da Pesquisa em Ciência do Solo"
 subtitle: "A #Pedometria (e cada um de nós) para o sucesso do #PronaSolos"
-author: Alessandro Samuel-Rosa
-license: <img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+author: Alessandro Samuel-Rosa [alessandrorosa@utfpr.edu.br],</br>com contribuições de Gustavo Vasques [gustavo.vasques@embrapa.br]
 date: 2020-10-05
 output:
   ioslides_presentation:
@@ -12,29 +11,28 @@ output:
 bibliography: biblio.bib
 colorlinks: true
 nocite: |
-  @DitzlerEtAl2006
+  @DitzlerEtAl2006, @Basher1997, @PolidoroEtAl2016, @Samuel-RosaEtAl2017d, @Samuel-RosaEtAl2020,
+  @SamuelRosa2019
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script>
     $(document).ready(function() {
     $('slide:not(.title-slide, .backdrop, .segue)').append('<footer></footer>');
-    $('footer').attr('label', 'Samuel-Rosa (2020) Acesso Aberto a Dados do Solo');
+    $('footer').attr('label', 'Samuel-Rosa (2020) Acesso Aberto aos Dados da Pesquisa em Ciência do Solo');
   })
 </script>
 
-<img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+<!-- <img src="https://i.creativecommons.org/l/by/4.0/88x31.png"/> -->
 
 ## Quantos pontos a figura contém? {.columns-2}
 
 * Os pontos ao lado representam locais de amostragem do solo
   * São locais para onde temos ___dados abertos do solo___
 
-Registre sua estimativa em</br>
-[www.pedometria.org/projeto/febr/](https://www.pedometria.org/projeto/febr/)
-<!-- https://forms.gle/PJSjpNfkqKYjDp3H8 -->
+Registre sua estimativa em [www.pedometria.org/quantos-pontos](https://www.pedometria.org/quantos-pontos)
 
-O sócio da SBCS cuja estimativa chegar mais perto do número correto receberá um prêmio pedológico!
+O estudante cuja estimativa estiver mais próxima do número correto—e estiver presente—receberá um prêmio pedológico no final da _live_!
 
 ```{r, echo=FALSE, fig.align='center', out.width='100%'}
 knitr::include_graphics("img/pontos-pronasolos.png")
@@ -44,11 +42,11 @@ knitr::include_graphics("img/pontos-pronasolos.png")
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaruWRUvvDwpU7TQ7yDNqKMYeodNr-y8HUXe_kLopBRkBcwiEEUK3Fsp1W2lpoyiL3_Pp0xPERVA9k/pubchart?oid=536920078&format=image" title="Quantos pontos a figura contém?"></iframe>
 
-# Um pouco de história
+# Um pouco de contexto
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-Para falar sobre acesso aberto aos dados da pesquisa em ciência do solo, eu primeiro vou tentar demarcar o ponto da história da ciência do solo brasileira em que, hoje, início da terceira década do século XXI, nós nos encontramos.
+Para falar sobre acesso aberto aos dados da pesquisa em ciência do solo, primeiro eu vou tentar demarcar o ponto da história da ciência do solo, principalmente a ciência do solo brasileira, em que nós nos encontramos hoje, início da terceira década do século XXI.
 </p></div>
 <!-- Annotations -->
 
@@ -62,7 +60,7 @@ knitr::include_graphics("img/pronasolos.jpeg")
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-Como já é de amplo conhecimento, recentemente fora lançado o Programa Nacional de Levantamento e Interpretação de Solos do Brasil, o PronaSolos. Coordenado pela Embrapa, o PronaSolos está planejado, inicialmente, para ter duração de três décadas, ou seja, até a metade deste século. Nesse período de 30 anos, se almeja produzir e distribuir informação atualizada e detalhada sobre o solo de todo o País. Para isso, o programa conta com inúmeras instituições parceiras de norte a sul e leste a oeste do Brasil.
+Como já é de amplo conhecimento, recentemente fora lançado o Programa Nacional de Levantamento e Interpretação de Solos do Brasil, o PronaSolos, tema do evento de hoje. Coordenado pela Embrapa, o PronaSolos está planejado, inicialmente, para ter uma duração de três décadas, ou seja, até a metade deste século. Nesse período de 30 anos, se almeja produzir e distribuir informação atualizada e detalhada sobre o solo de todo o País. Para isso, o programa conta com inúmeras instituições parceiras de norte a sul e leste a oeste do Brasil.
 </p></div>
 <!-- Annotations -->
 
@@ -106,9 +104,7 @@ Olhando para esses esforços nacionais de produção de informação do solo, me
 </p></div>
 <!-- Annotations -->
 
-## 1985–2015 (ferramentas) {.columns-2}
-
-__Pedometria__
+## 1985–2015 | Ferramentas: pedometria e mapeamento digital do solo {.columns-2}
 
 * 1985–2000
   * computadores
@@ -117,7 +113,7 @@ __Pedometria__
   * sensoriamento remoto
   * sistemas de informação geográfica
 
-__Mapeamento digital do solo__
+<p></p>
 
 * 2000–2015
   * sensoriamento proximal
@@ -128,18 +124,17 @@ __Mapeamento digital do solo__
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-UM aspecto importante é que as ferramentas usadas anteriormente não são descartadas. O que ocorre é que as novas ferramentas são agregadas.
-
+Para muitos cientistas do solo, e por bastante tempo, as últimas décadas foram vistas com muito pessimisto. Para alguns, a pedologia estaria morta e enterrada. Contudo, se prestarmos alguma atenção, veremos que o período entre 1985 e 2015 foi marcado por um desenvolvimento tecnológico muito grande, de velocidade nunca antes vista pela humanidade. E as novas tecnologias foram muito rapidamente adotadas na ciência do solo, passando a fazer parte da caixa de ferramentas de muitos cientistas do solo. É nesse período que são cunhados os termos "pedometria" e "mapeamento digital do solo", termos que vêm definir algo que já se conhecia há bastante tempo, mas que era aplicado de maneira dispersa e experimental. Termos que hoje definem aquela que pode ser a disciplina mais vanguardista da ciência do solo.
 </p></div>
 <!-- Annotations -->
 
-## 1985–2015 (procedimentos)
+## 1985–2015 | Métodos: digitalização, decentralização, diversificação
 
-![](img/3ds.png)
+![](img/3ds-positivos.png)
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-
+Esse período obviamente trouxe mudanças, muitas delas positivas, mudanças essas que eu vou chamar de os 3Ds+: digitalização, decentralização, diversificação.
 </p></div>
 <!-- Annotations -->
 
@@ -151,7 +146,7 @@ knitr::include_graphics("img/digital.jpg")
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-
+Quando eu falo em digitalização, estou me referindo ao fato de que o tramento e análise dos dados e a produção de informação do solo passaram quase que totalmente para o meio digital. Em alguns casos, os dados já começam a deixar a trincheira em meio digital. Essa mudança foi positiva por inúmeras razões. Ela permitiu o tratamento mais rápido de um volume cada vez maior de dados. Permitiu também o uso de novas e mais complexas ferramentas de análise de dados. E, é claro, facilitou o compartilhamento e acesso aos dados e à informação para produtores e usuários de dados, bem como para os usuários de informações do solo.
 </p></div>
 <!-- Annotations -->
 
@@ -163,7 +158,7 @@ knitr::include_graphics("img/network.png")
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-
+A decentralização de que eu falo se refere ao fato de que a produção de dados e informação do solo deixou de ser responsabilidade e interesse principal de algumas poucas instituições como IBGE, CPRM e EMBRAPA. Essas instituições lançaram as bases da produção de dados e informação do solo e promoveram, com as universidades, a formação de centenas de cientistas do solo. Essa sólida formação científica, aliada ao maior acesso aos dados existentes de recursos do solo e da terra, à popularização das ferramentas computacionais e desenvolvimentos tecnológicos, facilitou muito a produção de novos dados e informação do solo. Universidades, instituições de pesquisa e extensão, profissionais liberais, empresas de consultoria, cooperativas, associações... Em resumo, a produção de dados e informação do solo se popularizou.
 </p></div>
 <!-- Annotations -->
 
@@ -175,45 +170,66 @@ knitr::include_graphics("img/diversidade.jpg")
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-
+Por fim, a diversificação. Se a digitalização facilitou a decentralização da produção de dados e informação do solo, a última facilitou a sua diversificação. As iniciativas passaram a produzir dados para atender a demandas locais ou regionais bem mais específicas. São demandas por informação sobre uma ou mais propriedades químicas ou físicas ou biológicas do solo. Demandas vindas da agricultura de precisão, do licenciamento ambiental, do zoneamento agroecológico, do planejamento de uso da terra, da recuperação de áreas contaminadas, entre muitos outros. Em resumo, o uso de dados e informação do solo se popularizou.
 </p></div>
 <!-- Annotations -->
 
-## 1985–2015 (dados do solo) {.columns-2}
+## 1985–2015 | Métodos: dispersão, desorganização, desperdício
 
-<!-- {.columns-2} -->
-```{r, echo=FALSE, out.width='100%'}
-knitr::include_graphics("img/pontos-ibge.png")
+![](img/3ds-negativos.png)
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+É claro que sempre há um lado negativo das coisas, que é aquele que fica pra ser resolvido pelas próximas gerações, e que eu vou chamar aqui de os 3Ds negativos: dispersão, desorganização, desperdício.
+</p></div>
+<!-- Annotations -->
+
+## Dispersão, Desorganização {.columns-2}
+
+```{r, echo=FALSE, fig.align='center', out.width='90%'}
+knitr::include_graphics("img/2015iys.jpg")
 ```
 
-```{r, echo=FALSE, out.width='100%'}
-knitr::include_graphics("img/pontos-febr-question.png")
+```{r, echo=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics("img/gsp.jpeg")
 ```
 
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-
+A falta de uma organização coletiva dos esforços de produção de dados e informação do solo é uma marca bastante característica das últimas décadas. Sabe-se pouco sobre os métodos e procedimentos utilizados nas diferentes situações, sobre quais locais já foram estudados e amostrados, sobre qual é a acurácia e precisão dos dados e informações gerados, e mesmo onde estão esses dados e informações. Não é difícil imaginar que, num cenário de dispersão de esforços, estudos quase idênticos já tenham sido realizados sem que um soubesse da existência do outro. Iniciativas internacionais, como a Aliança Global pelo Solo, e nacionais, como o PronaSolos, são resultado da preocupação, em todo o mundo, não apenas de cientistas do solo, mas também de tomadores dos decisão, com esse cenário.
 </p></div>
 <!-- Annotations -->
 
-<!-- Toda pesquisa em ciência do solo utiliza dados, sejam eles produzidos no campo ou em laboratório. Apesar do esforço para sua produção, esses dados costumam ser usados poucas vezes. Muitos acabam se perdendo para sempre. Imagine se todos os dados já produzidos estivessem organizados e disponíveis para reúso? Quantas velhas perguntas seríamos capazes responder? Quantas novas perguntas poderíamos formular? -->
-<!--  Na live da SBCS do dia 05 de outubro, você vai conhecer como o compartilhamento dos dados que você produziu pode contribuir para o sucesso do PronaSolos. -->
+## Desperdício
 
-# O que são dados abertos?
-
----
-
-```{r, echo=FALSE, fig.align='center', out.width='85%'}
-knitr::include_graphics(
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Locked_up_data.jpg/1024px-Locked_up_data.jpg"
-)
+```{r, echo=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics("img/1024px-Locked_up_data.jpg")
 ```
 
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+A desorganização e dispersão dos esforços resulta no desperdício de recursos. Como bem sabemos, toda pesquisa em ciência do solo utiliza dados, sejam eles produzidos no campo ou em laboratório. Mas apesar dos recursos dispendidos para sua produção, os dados da pesquisa em ciência do solo costumam ser usados poucas vezes. Muitos acabam se perdendo para sempre, trancados numa biblioteca. Imaginem se todos os dados do solo já produzidos estivessem organizados e disponíveis para reúso? Quantas velhas perguntas nós seríamos capazes responder? Quantas novas perguntas nós seríamos capazes de formular? É por isso que a abertura dos dados da pesquisa em ciência do solo precisa deixar de ser uma promessa e se tornar realidade. Vamos ver como fazer isso!
+</p></div>
+<!-- Annotations -->
+
+# O que são dados abertos do solo?
+
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+Em geral, a abertura dos dados do solo é um processo bastante simples. O mais importante é que sejam respeitadas as três leis dos dados abertos.
+</p></div>
+<!-- Annotations -->
+
 ## As três leis dos dados abertos
 
 1. Encontrados na Internet
     * Do contrário, é como se os dados não existissem
     * <del>"Os dados estão disponíveis mediante contato com os autores."</del>
+
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+A primeira lei estabelece que dados abertos são aqueles dados que podem ser encontrados na internet, sem a necessidade de ter que contactar seus autores ou responsáveis. Pra facilitar o entendimento, tente imaginar situações como aquelas em que o autor já se aposentou ou faleceu, ou mudou de emprego, ou teve o computador roubado, ou o disco rígido completamente corrompido, ou o autor desorganizado que não fará ideia alguma de onde os dados se encontram 25 anos após a sua produção.
+</p></div>
+<!-- Annotations -->
 
 ## As três leis dos dados abertos
 
@@ -221,38 +237,59 @@ knitr::include_graphics(
     * Do contrário, é como se os dados não existissem
     * <del>"Os dados estão disponíveis mediante contato com os autores."</del>
 2. Formato que permita imediata leitura e manipulação em software
-    * Do contrário, os dados não são dados... são texto ou imagem
+    * Do contrário, é como se a existência dos dados fosse indesejada
     * <del>"Os dados estão disponíveis no apêndice da tese."</del>
 
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+A segunda lei estabelece que os dados devem estar armazenados em um arquivo digital que possa ser lido e manipulado imediatamente em um software de análise de dados. Isso inclui o formato de arquivo, que não deve ser proprietário, ou seja, não deve exigir o uso de um software privado específico. Inclui também a estrutura dos dados dentro do arquivo, que deve ser a mais simples o possível. Exemplos? Dados tabulares em arquivos CSV, TXT, ODS ou XLSX. Disponibilizar dados em arquivos PDF ou DOCX é como se não quiséssemos que os dados realmente sejam reutilizados.
+</p></div>
+<!-- Annotations -->
+
 ## As três leis dos dados abertos
 
 1. Encontrados na Internet
     * Do contrário, é como se os dados não existissem
     * <del>"Os dados estão disponíveis mediante contato com os autores."</del>
 2. Formato que permita imediata leitura e manipulação em software
-    * Do contrário, os dados não são dados... são texto ou imagem
+    * Do contrário, é como se a existência dos dados fosse indesejada
     * <del>"Os dados estão disponíveis no apêndice da tese."</del>
 3. Livres de impedimentos legais ao reúso e redistribuição
     * Do contrário, os dados são inúteis
     * <del>"Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual"</del>
 
-## Oito princípios básicos
-
-1. __Completos:__ todos os dados serem publicizados, não apenas uma parte deles
-2. __Primários:__ como na fonte, não uma versão agregada ou transformada
-3. __Atuais:__ publicados o mais rápido o possível para garantir seu valor
-4. __Acessíveis:__ disponibilizados ao maior público para a maior variedade de usos
-5. __Processáveis por máquina:__ estrutura que não exige intervenção manual
-6. __Acesso não discriminatório:__ disponíveis à todos, sem exigir identificação
-7. __Formato não proprietário:__ fora do controle de empresa ou organização
-8. __Livre de licenças:__ sem regulações de direitos autorais ou segredo industrial
-
 <!-- Annotations -->
 <div class="notes"><p style="font-size:16px">
-Add presenter notes to a slide.
-
-To enable presenter mode add ?presentme=true to the URL of the presentation.
+Por fim, a terceira lei: os dados não devem ter impedimento legal ao seu reúso. Do contrário, eles são inúteis. Em outras palavras, de nada adianta os dados estarem bem organizados e disponíveis na internet, se o máximo que permitimos a terceiros é que olhem para os dados. A utilidade dos dados está exatamente na possibilidade de serem reutilizados—especialmente quando produzidos utilizando recursos públicos! Recapitulando...
 </p></div>
 <!-- Annotations -->
 
-## References {.tiny}
+# Vamos abrir alguns dados?
+
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+Que tal praticarmos um pouco?
+</p></div>
+<!-- Annotations -->
+
+## Uma contribuição para o sucesso do PronaSolos {.columns-2}
+
+> Em 24 horas, passar a marca de 20.000 pontos com dados abertos para uso no PronaSolos!
+
+[www.pedometria.org/projeto/febr/](https://www.pedometria.org/projeto/febr/)
+
+* ZIP com __dados de sua autoria__ (XLSX) + publicação onde aparecem (PDF)
+
+Obrigado pela sua contribuição! &#128150;
+
+```{r, echo=FALSE, fig.align='center', out.width='100%'}
+knitr::include_graphics("img/pontos-febr.png")
+```
+
+<!-- Annotations -->
+<div class="notes"><p style="font-size:16px">
+Para aqueles que tentaram adivinhar o número de pontos de observação e amostragem com dados abertos do solo para o PronaSolos, o resultado está na figura ao lado. São 18083 pontos, proveninentes de centenas de trabalhos diferentes conduzidos nos últimos 100 anos. Nós vamos conferir quem é o vencedor e fazer o anúncio após a palestra do Prof. Demattê. OMas ante disso, eu lanço aqui o seguinte desafio: com a sua contribuição, ultrapassar, em 24 horas, a marca dos 20 mil pontos com dados abertos para o PronaSolos. Tudo o que você precisa fazer é submeter dados de sua autoria e a publicação onde aparecem no endereço que aparece na tela. 
+</p></div>
+<!-- Annotations -->
+
+## Bibliografia {.tiny}
