@@ -1,0 +1,1 @@
+http://mapgs.ibge.gov.br:80/geoserver/ows?format_options=charset%3Autf-8&outputFormat=SHAPE-ZIP&request=GetFeature&service=WFS&typeName=BDIAWEB%3Av_pd_ponto_geo_mun&version=1.0.0
