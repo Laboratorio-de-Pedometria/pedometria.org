@@ -1,5 +1,5 @@
 ---
-title: Desafio 20000 em 24 horas
+title: Desafio PronaSolos 20k
 summary: " "
 authors:
   - admin
@@ -22,7 +22,7 @@ Usando métodos pedométricos, o [PronaSolos](https://www.embrapa.br/en/pronasol
 Agora já são 18.173 pontos!
 {{% /alert %}}
 
-### Ajude-nos a chegar à marca de 20.000 pontos!!!
+### Ajude-nos a passar a marca de 20.000 pontos!!!
 
 Você precisa seguir apenas quatro passos para abrir seus dados do solo:
 
@@ -35,4 +35,5 @@ Você precisa seguir apenas quatro passos para abrir seus dados do solo:
 1. Compacte a planilha em um arquivo ZIP acompanhada do arquivo PDF da publicação onde os dados aparecem pela primeira vez
 1. Deposite o arquivo ZIP na [interface de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX) do FEBR
 
-![Quantos pontos a figura contém?](https://raw.githubusercontent.com/samuel-rosa/pedometria.org/master/static/slides/2020/10/acesso-aberto-aos-dados-da-pesquisa-em-ciencia-do-solo/img/pontos-pronasolos.png)
+<!-- ![Quantos pontos a figura contém?](https://raw.githubusercontent.com/samuel-rosa/pedometria.org/master/static/slides/2020/10/acesso-aberto-aos-dados-da-pesquisa-em-ciencia-do-solo/img/pontos-pronasolos.png) -->
+![Quantos pontos a figura contém?](../slides/2020/10/acesso-aberto-aos-dados-da-pesquisa-em-ciencia-do-solo/img/pontos-pronasolos.png)
