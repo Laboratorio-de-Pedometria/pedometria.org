@@ -3,8 +3,6 @@ title: Desafio 20000 em 24 horas
 summary: " "
 authors:
   - admin
-image:
-  preview_only: true
 date: 2020-10-05
 categories:
   - Pesquisa
