@@ -1,5 +1,6 @@
 ---
 title: Desafio PronaSolos 20k
+slug: desafio-pronasolos-20k
 summary: " "
 authors:
   - admin
