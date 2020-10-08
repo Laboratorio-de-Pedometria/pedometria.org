@@ -83,19 +83,19 @@ data.frame(
 
 ## Compartilhar Dados
 
-Se você é um _produtor_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades do solo de qualquer local do país.
+Se você _produz_ dados do solo, no campo ou laboratório, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades solo: granulometria, descrições morfológicas, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
 {{% alert warning %}}
-  Conheça a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR!
+  Conheça nossa [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0)!
 {{% /alert %}}
 
-Compartilhar dados do solo é muito fácil!
+Compartilhar os dados do solo que você produziu é muito fácil!
 
-1. Primeiro, organize os dados usando uma [planilha eletrônica no formato XLSX](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI).
-1. Em seguida, carregue a planilha eletrônica na [portal de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX) do FEBR.
-1. Finalmente, envie uma [mensagem de email](../../#contato) à nossa equipe para confirmar o recebimento do conjunto de dados.
+1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://github.com/samuel-rosa/febr-metadados/raw/master/public/febr-modelo-de-conjunto-de-dados-v3.xlsx) ([quero saber mais](guia-de-organizacao-de-dados))
+1. Em seguida, carregue a planilha eletrônica no [portal de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
+1. Finalmente, nos envie uma [mensagem de email](../../#contato) para confirmar o recebimento do conjunto de dados
 
-Caso queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos uma solução apropriada.
+Caso você queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos a solução mais apropriada.
 
 Veja algumas recomendações sobre como organizar dados para publicação.
 
