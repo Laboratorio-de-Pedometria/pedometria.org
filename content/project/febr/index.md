@@ -21,30 +21,30 @@ tags:
 
 {{% toc %}}
 
-## Acesso Rápido
+## Acesso Rápido às Ferramentas
 
 <!-- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp -->
 <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button">
-  Plataforma de Busca e Descarregamento de Dados
+  Buscar e Descarregar Conjuntos de Dados (shinyapp)
 </a>
 <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-success btn-block" role="button">
-  Modelo de Planilha para Organização de Dados
+  Planilha Modelo de Conjuntos de Dados (v2)
 </a>
 <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button">
-  Interface de Entrada de Conjuntos de Dados
- </a>
- <a href="https://CRAN.R-project.org/package=febr" class="btn btn-danger btn-block" role="button">
-  Pacote febr para o Ambiente R
- </a>
+  Depositar Meu Conjunto de Dados (ownCloud)
+</a>
+<a href="https://github.com/febr-team/febr-package/" class="btn btn-danger btn-block" role="button">
+  Pacote febr para o Ambiente R (GitHub)
+</a>
 
 </br>
 {{% alert note %}}
-Publicações relacionadas ao projeto estão no final desta página!
+Publicações relacionadas ao projeto estão no final da página!
 {{% /alert %}}
 
 ## Procurar Dados
 
-Se você é um _usuário_ de dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
+Se você _usa_ dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país: granulometria, descrições morfológicas, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
 {{% alert warning %}}
 Você já conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR?
@@ -52,10 +52,10 @@ Você já conhece a [política de dados](https://docs.google.com/document/d/11c0
 
 Encontrar os dados de que você precisa é muito fácil!
 
-1. Recomendamos que inicie usando a [plataforma de busca e descarregamento](https://pedometria.shinyapps.io/febr/) de dados.
-1. Mas você também pode navegar pela tabela com a [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
-1. Outra alternativa é descarregar os conjuntos de dados usando o [pacote `febr` para o ambiente R](https://CRAN.R-project.org/package=febr).
-1. Finalmente, você pode acessar o [super conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG), padronizados e harmonizados, que preparamos periodicamente.
+1. Recomendamos que inicie usando a [plataforma de busca e descarregamento](https://pedometria.shinyapps.io/febr/) de conjuntos de dados.
+1. Você também pode navegar pela [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
+1. Outra alternativa é usar o [pacote `febr` para o ambiente R](https://github.com/febr-team/febr-package/).
+1. Finalmente, você pode descarregar o [conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG/download), padronizados e harmonizados, que preparamos periodicamente.
 
 Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 
@@ -91,8 +91,8 @@ Se você _produz_ dados do solo, no campo ou laboratório, então chegou ao luga
 
 Compartilhar os dados do solo que você produziu é muito fácil!
 
-1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://github.com/samuel-rosa/febr-metadados/raw/master/public/febr-modelo-de-conjunto-de-dados-v3.xlsx)
-1. Em seguida, carregue a planilha eletrônica no [portal de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
+1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI)
+1. Em seguida, carregue a planilha eletrônica no [portal de depósito de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
 1. Finalmente, nos envie uma [mensagem de email](../../#contato) para confirmar o recebimento do conjunto de dados
 
 Caso você queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos a solução mais apropriada.
