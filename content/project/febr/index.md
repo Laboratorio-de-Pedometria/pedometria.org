@@ -1,7 +1,7 @@
 ---
 title: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
 slug: febr
-summary: " "
+summary: "A febre dos dados de solo no Brasil"
 authors:
   - admin
 image:
@@ -91,7 +91,7 @@ Se você _produz_ dados do solo, no campo ou laboratório, então chegou ao luga
 
 Compartilhar os dados do solo que você produziu é muito fácil!
 
-1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://github.com/samuel-rosa/febr-metadados/raw/master/public/febr-modelo-de-conjunto-de-dados-v3.xlsx) ([quero saber mais](guia-de-organizacao-de-dados))
+1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://github.com/samuel-rosa/febr-metadados/raw/master/public/febr-modelo-de-conjunto-de-dados-v3.xlsx)
 1. Em seguida, carregue a planilha eletrônica no [portal de entrada de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
 1. Finalmente, nos envie uma [mensagem de email](../../#contato) para confirmar o recebimento do conjunto de dados
 
