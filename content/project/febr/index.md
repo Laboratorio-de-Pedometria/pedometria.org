@@ -33,7 +33,7 @@ tags:
 <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button">
   Depositar Meu Conjunto de Dados (ownCloud)
 </a>
-<a href="https://github.com/febr-team/febr-package/" class="btn btn-danger btn-block" role="button">
+<a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-danger btn-block" role="button">
   Pacote febr para o Ambiente R (GitHub)
 </a>
 
@@ -54,7 +54,7 @@ Encontrar os dados de que você precisa é muito fácil!
 
 1. Recomendamos que inicie usando a [plataforma de busca e descarregamento](https://pedometria.shinyapps.io/febr/) de conjuntos de dados.
 1. Você também pode navegar pela [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
-1. Outra alternativa é usar o [pacote `febr` para o ambiente R](https://github.com/febr-team/febr-package/).
+1. Outra alternativa é usar o [pacote `febr` para o ambiente R](https://github.com/samuel-rosa/febr-package/).
 1. Finalmente, você pode descarregar o [conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG/download), padronizados e harmonizados, que preparamos periodicamente.
 
 Veja algumas estatísticas do FEBR (28 de agosto de 2020).
