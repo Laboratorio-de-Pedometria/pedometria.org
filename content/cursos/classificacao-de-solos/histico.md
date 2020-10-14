@@ -18,22 +18,18 @@ menu:
 
 ```mermaid
 graph TB
-  A[(Dados)]
-  A --> B{Horizonte H?}
-  B -->|Não| C{Horizonte O?}
-  C -->|Não| D{Horizonte<br>ou camada com<br>C<sub>org</sub> >= 80 g/kg?}
-  D -->|Não| N{{Vá para A húmico}}
-  B -->|Sim| E{Sobrejaz contato<br>lítico ou lítico fragmentário<br>ou horizonte e/ou camada<br>com >= 90% do volume de<br>fragmentos grossos?}
-  C -->|Sim| E
-  D -->|Sim| E
-  E -->|Sim| Z{Espessura<br>>= 10 cm?}
-  Z -->|Sim| X[Horizonte hístico]
-  Z -->|Não| M{{Vá para A húmico}}
-  E -->|Não| I{Tecido vegetal<br>constitui >= 75% de<br>seu volume?}
-  I -->|Sim| J{Espessura<br>>= 40 cm?}
-  I -->|Não| L{Espessura<br>>= 20 cm?}
-  L -->|Sim| R[Horizonte hístico]
-  J -->|Sim| Q[Horizonte hístico]
-  J -->|Não| S{{Vá para A húmico}}
-  L -->|Não| P{{Vá para A húmico}}
+  A[(Dados de<br>perfil de solo)]
+  A --> B{Há horizonte<br>ou camada com<br>C<sub>org</sub> >= 80 g/kg?}
+  B -->|Não| N{{Procure por<br>um horizonte A<br>chernozêmico}}
+  B -->|Sim| E{Ele sobrejaz contato<br>lítico ou lítico fragmentário<br>ou horizonte e/ou camada<br>com >= 90% do volume de<br>fragmentos grossos?}
+  E -->|Sim| Z{Sua espessura<br>é >= 10 cm?}
+  Z -->|Não| M{{Procure por<br>um horizonte A<br>húmico}}
+  Z -->|Sim| X[Esse é um<br>horizonte H ou O<br>hístico]
+  E -->|Não| I{Seu volume<br>é constituído por<br>>= 75% de tecido<br>vegetal?}
+  I -->|Sim| J{Sua espessura<br>é >= 40 cm?}
+  I -->|Não| L{Sua espessura<br>é >= 20 cm?}
+  J -->|Não| S{{Procure por<br>um horizonte A<br>húmico}}
+  L -->|Não| P{{Procure por<br>um horizonte A<br>húmico}}
+  L -->|Sim| R[Esse é um<br>horizonte H ou O<br>hístico]
+  J -->|Sim| Q[Esse é um<br>horizonte H ou O<br>hístico]
 ```
