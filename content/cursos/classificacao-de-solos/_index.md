@@ -19,6 +19,9 @@ menu:
   example:
     name: Apresentação
     weight: 1
+  horizon:
+    name: Horizontes diagnósticos
+    weight: 2
 ---
 
 * Apresentação
@@ -29,17 +32,17 @@ menu:
 * Horizontes Diagnósticos Subsuperficiais
 * Atributos Diagnósticos
 * As 13 Ordens
-    + Organossolo
-    + Neossolo
-    + Vertissolo
-    + Espodossolo
-    + Planossolo
-    + Gleissolo
-    + Latossolo
-    + Chernossolo
-    + Cambissolo
-    + Plintossolo
-    + Luvissolo
-    + Nitossolo
-    + Argissolo
+  + Organossolo
+  + Neossolo
+  + Vertissolo
+  + Espodossolo
+  + Planossolo
+  + Gleissolo
+  + Latossolo
+  + Chernossolo
+  + Cambissolo
+  + Plintossolo
+  + Luvissolo
+  + Nitossolo
+  + Argissolo
 * Chave para as Ordens

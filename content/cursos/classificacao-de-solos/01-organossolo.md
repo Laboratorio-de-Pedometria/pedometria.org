@@ -4,14 +4,14 @@ linktitle: 01 – Organossolo
 toc: true
 type: docs
 date: "2020-07-16"
-draft: true
+draft: false
 menu:
   example:
     parent: As 13 Ordens
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 2
 ---
 
 Classe atribuída a solo orgânico. Nessas condições, as propriedades do solo são determinadas pelos constituintes orgânicos presentes. A diferenciação dessa classe das demais é dada em função de atributos dos constituintes orgânicos, bem como de condições ambientais que favoreçam a acumulação desses constituintes orgânicos, como a saturação por água ou a baixa temperatura.
