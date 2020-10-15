@@ -7,7 +7,7 @@ date: "2020-10-14"
 draft: false
 menu:
   horizon:
-    parent: Horizontes diagnósticos superficiais
+    parent: Horizontes diagnósticos
     weight: 1
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
@@ -18,7 +18,7 @@ menu:
 
 ```mermaid
 graph TB
-  DADOS[(Dados de um<br>perfil de solo)]
+  DADOS[("Dados de um<br>perfil de solo")]
     --> ORGANICO{"Há uma seção,<br>superficial ou soterrada,<br>em que C<sub>org</sub> ≥ 80 g kg<sup>-1</sup>?"}
   ORGANICO
     -->|Sim| VEGETAL{"O C<sub>org</sub> provém<br>de acumulações<br>naturais de resíduos<br>vegetais?"}
