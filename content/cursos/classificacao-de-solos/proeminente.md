@@ -1,6 +1,6 @@
 ---
-title: Horizonte A húmico
-linktitle: Horizonte A húmico
+title: Horizonte A proeminente
+linktitle: Horizonte A proeminente
 toc: true
 type: docs
 date: "2020-10-16"
@@ -8,7 +8,7 @@ draft: false
 menu:
   horizon:
     parent: Horizontes diagnósticos
-    weight: 3
+    weight: 4
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # weight: 1
 ---
