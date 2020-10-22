@@ -15,7 +15,7 @@ menu:
 
 ```mermaid
 graph TB
-  DADOS[("Dados de um<br>perfil de solo")] --> HUMANOS{"A seção<br>mineral superficial<br>possui vestígios de<br>atividades humanas<br>pretéritas?"}
+  DADOS[("Dados de um<br>perfil de solo")] --> HUMANOS{"A seção<br>superficial possui vestígios de<br>atividades humanas<br>pretéritas?"}
   
   HUMANOS -->|Sim| ESPESSURA{"Sua<br>espessura é<br>≥ 20 cm?"}
   HUMANOS -->|Não| FRACO1{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
