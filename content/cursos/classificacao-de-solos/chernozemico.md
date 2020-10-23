@@ -13,179 +13,79 @@ menu:
 # weight: 1
 ---
 
-<!-- A seção superficial mineral está assentada sobre rocha?
-  Sim: Sua espessura é ≥ 10 cm?
-    Sim: Segue a análise
-    Não: Sua espessura é < 5 cm?
-      Sim: Neossolo Litólico com A fraco
-      Não: Neossolo Litólico com A moderado
-  Não: A profundidade do solo é < 75 cm?
-    Sim: Sua espessura é ≥ 18 cm e > 1/3 da profundidade do solo?
-      Sim: Segue a análise
-    Não: Sua espessura é ≥ 25 cm?
-      Sim: Segue a análise
-
-  Sim: A espessura do solum é < 75 cm?
-    Sim: A espessura do A é >= 18 cm e mais que 1/3 da espessura do solum?
-    Não: A espessura do A é >= 25 cm?
-  Não: O horizonte A está assentado sobre rocha?
-    Sim: A espessura do A é >= 10 cm?
-    Não: A espessura do A+C < 75 cm? -->
-
 ```mermaid
 graph TB
   DADOS[("Dados de um<br>perfil de solo")]
-    --> ROCHA{"A porção<br>mineral superficial<br>está assentada sobre<br>rocha?"}
+  DADOS  --> DELGADO{"A espessura<br>da porção mineral<br>superficial do solo<br>é ≥ 10 cm?"}
 
-  ROCHA
-    -->|Sim| DELGADO{"Sua<br>espessura é<br>≥ 10 cm?"}
-  ROCHA
-    -->|Não| 18CM{"Sua<br>espessura é<br>≥ 18 cm?"}
-  DELGADO
-    -->|Sim| SATURACAO1{"Ela possui<br>uma seção com<br>saturação por<br>bases ≥ 65%?"}
-  DELGADO
-    -->|Não| FRACO1{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  DELGADO -->|Sim| ROCHA{"Ela está<br>assentada sobre<br>rocha?"}
+  %% A húmico e A proeminente exigem a mesma espessura, e A antrópico exige ≥ 20 cm. Então será A fraco ou A moderado.
+  DELGADO -->|Não| FRACO1{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
 
-  18CM
-    -->|Sim| SAPROLITO{"Ela está<br>assentada sobre<br>horizonte ou<br>camada C?"}
-  18CM
-    -->|Não| FRACO2{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  ROCHA -->|Sim| C6{"O conteúdo<br>de C<sub>org</sub> é ≥ 6 g kg<sup>-1</sup>"}
+  ROCHA -->|Não| 18CM{"Sua<br>espessura é<br>≥ 18 cm?"}
 
-  SAPROLITO
-    -->|Sim| REGOLITO75{"A espessura<br>do regolito é<br>< 75 cm?"}
-  SAPROLITO
-    -->|Não| SOLUM75{"A espessura<br>do <em>solum</em> é<br>< 75 cm?"}
+  18CM -->|Sim| SAPROLITO{"Ela está<br>assentada sobre<br>horizonte ou<br>camada C?"}
+  18CM -->|Não| FRACO{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
 
-  REGOLITO75
-    -->|Sim| 33REGOLITO{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br>regolito?"}
-  REGOLITO75
-    -->|Não| SATURACAO2{"Ela possui<br>uma seção com<br>saturação por<br>bases ≥ 65%?"}
+  SAPROLITO -->|Sim| REGOLITO75{"A espessura<br>do regolito é<br>< 75 cm?"}
+  SAPROLITO -->|Não| SOLUM75{"A espessura<br>do <em>solum</em> é<br>< 75 cm?"}
 
-  SOLUM75
-    -->|Sim| 33SOLUM{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br><em>solum</em>?"}
-  SOLUM75
-    -->|Não| 25CM{"A espessura<br>da porção mineral<br>superficial é<br>≥ 25 cm?"}
+  REGOLITO75 -->|Sim| 33REGOLITO{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br>regolito?"}
+  REGOLITO75 -->|Não| C6
 
-  33REGOLITO
-    -->|Não| FRACO3{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
-  33REGOLITO
-    -->|Sim| SATURACAO2
+  SOLUM75 -->|Sim| 33SOLUM{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br><em>solum</em>?"}
+  SOLUM75 -->|Não| 25CM{"A espessura<br>da porção mineral<br>superficial é<br>≥ 25 cm?"}
 
-  33SOLUM
-    -->|Sim| SATURACAO2
-  33SOLUM
-    -->|Não| FRACO4{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  33REGOLITO -->|Sim| C6
+%% Pode ser A antrópico se a espessura for ≥ 20 cm
+  33REGOLITO -->|Não| ANTROPICO1{{"Procure por<br>um horizonte<br><a href='../antropico/'>A antrópico</a>"}}
 
-  25CM
-    -->|Sim| SATURACAO2
-  25CM
-    -->|Não| FRACO4
-```
+  33SOLUM -->|Sim| C6
+  33SOLUM -->|Não| ANTROPICO1
 
+  25CM -->|Sim| C6
+  25CM -->|Não| ANTROPICO1
 
+  C6 -->|Sim| COR5{"Ambos<br>valor e croma<br>da cor do solo úmido<br>são ≤ 5?"}
+  C6 -->|Não| ANTROPICO2{{"Procure por<br>um horizonte<br><a href='../antropico/'>A antrópico</a>"}}
 
+  COR5 -->|Sim| CACO3{"O conteúdo de<br>CaCO<sub>3</sub> equivalente<br>é ≥ 400 g kg<sup>-1</sup>?"}
+  COR5 -->|Não| ANTROPICO2
 
-```mermaid
-graph TB
-  DADOS[("Dados de um<br>perfil de solo")]
-    --> SATURACAO{"A porção<br>mineral superficial<br>possui alguma seção com<br>saturação por<br>bases ≥ 65%?"}
+  CACO3 -->|Sim| 18CM_CACO3{"A espessura<br>da seção é<br>≥ 18 cm?"}
+  CACO3 -->|Não| COR3{"Ambos<br>valor e croma<br>da cor do solo úmido<br>são ≤ 3?"}  
 
-  SATURACAO
-    -->|Sim| ROCHA{"A porção<br>mineral superficial<br>está assentada sobre<br>rocha?"}
-  SATURACAO
-    -->|Não| HUMICO1{{"Procure por<br>um horizonte<br><a href='../humico/'>A húmico</a>"}}
+  COR3 -->|Sim| COR3SECO{"O valor<br>da cor do solo<br>seco é ≤ 5?"}
+  COR3 -->|Não| HUMICO1{Pode ser<br>A húmico}
 
-  ROCHA
-    -->|Sim| DELGADO{"Sua<br>espessura é<br>≥ 10 cm?"}
-  ROCHA
-    -->|Não| C{"A porção<br>mineral superficial<br>está assentada sobre<br>horizonte ou<br>camada C?"}
+  COR3SECO -->|Sim| FORTE{"O grau de<br>desenvolvimento da<br>estrutura é moderado<br>ou forte?"}
+  COR3SECO -->|Não| HUMICO1
 
+  18CM_CACO3 -->|Sim| C_CACO3{"O conteúdo<br>de C<sub>org</sub> nos 18 cm<br>superficiais é<br>≥ 25 g kg<sup>-1</sup>?"}
+  18CM_CACO3 -->|Não| FRACO2{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
 
-  DELGADO
-    -->|Sim| y{x}
-  DELGADO
-    -->|Não| FRACO1{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
-```
+  C_CACO3 -->|Sim| FORTE
+%%  C_CACO3 -->|Não| COR4{"Ambos<br>valor e croma<br>da cor do solo úmido<br>são ≤ 4?"}
+  C_CACO3 -->|Não| HUMICO1
 
-```mermaid
-graph TB
-  DADOS[("Dados de um<br>perfil de solo")]
-    --> ROCHA{"A seção<br>mineral superficial<br>está assentada sobre<br>rocha?"}
+%%  COR4 -->|Sim| HUMICO1
+%%  COR4 -->|Não| ANTROPICO3{{"Procure por<br>um horizonte<br><a href='../antropico/'>A antrópico</a>"}}
 
-  ROCHA
-    -->|Sim| DELGADO{"Sua<br>espessura é<br>≥ 10 cm?"}
-  ROCHA
-    -->|Não| SOLUM{"A espessura<br>do <em>solum<em> é<br>> 75 cm?"}
+  FORTE -->|Sim| MACICA{"A estrutura<br>é maciça?"}
+  FORTE -->|Não| HUMICO1
   
-  DELGADO
-    -->|Sim| SATURACAO{"Ela<br>apresenta saturação<br>por bases ≥ 65%?"}
-  DELGADO
-    -->|Não| FRACO1{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  MACICA -->|Sim| HUMICO1
+  MACICA -->|Não| CONSISTENCIA{"A consistência<br>do solo seco é<br>dura, muito dura<br>ou extremamente<br>dura?"}
 
-  SOLUM
-    -->|Sim| ESPESSO{"Sua<br>espessura é<br>≥ 25 cm?"}
-  SOLUM
-    -->|Não| B{"O <em>solum</em><br>apresenta horizonte<br>genético B?"}
-  
-  SATURACAO
-    -->|Sim| saturacao_sim{saturacao_sim}
-  SATURACAO
-    -->|Não| saturacao_nao{saturacao_nao}
+  CONSISTENCIA -->|Sim| HUMICO1
+  CONSISTENCIA -->|Não| PRISMAS{"A unidades<br>estruturais básicas são<br>prismas muito a<br>extremamente<br>grandes?"}
 
-  ESPESSO
-    -->|Sim| x{x}
-  ESPESSO
-    -->|Não| FRACO2{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
-```
+  PRISMAS -->|Sim| HUMICO1
+  PRISMAS -->|Não| SATBASES{"A saturação por<br>bases é ≥ 65%?"}
 
-
-
-
-
-```mermaid
-graph TB
-  DADOS[("Dados de um<br>perfil de solo")]
-    --> FORTE{"A seção<br>mineral superficial<br>possui estrutura de<br>grau moderado<br>ou forte?"}
-  FORTE
-    -->|Sim| DURA{"Sua estrutura é<br>maciça e a consistência<br>é dura a extremamente<br>dura quando o solo<br>está seco?"}
-  FORTE
-    -->|Não| x1{x1}
-  DURA
-    -->|Sim| x2{x2}
-  DURA
-    -->|Não| PRISMAS{"As unidades<br>estruturais básicas são<br>prismas muito a<br>extremamente<br>grandes?"}
-  PRISMAS
-    -->|Sim| x3{x3}
-  PRISMAS
-    -->|Não| CACO3_1{"O conteúdo<br>de CaCO<sub>3</sub> equivalente<br>é ≥ 400 g kg<sup>-1</sup>?"}
-  CACO3_1
-    -->|Sim| COR_2{"A cor úmida<br>possui valor e<br>croma =< 5?"}
-  CACO3_1
-    -->|Não| COR_1{"A cor úmida possui<br>valor e croma =< 3<br>e a cor seca possui<br>valor =< 5?"}
-  COR_2
-    -->|Sim| SAT_BASES{"A saturação por<br>bases é ≥ 65%?"}
-  COR_2
-    -->|Não| x5{x5}
-  COR_1
-    -->|Sim| SAT_BASES
-  COR_1
-    -->|Não| x4{x4}
-  SAT_BASES
-    -->|Sim| CACO3_2{"O conteúdo<br>de CaCO<sub>3</sub> equivalente<br>é ≥ 400 g kg<sup>-1</sup>?"}
-  SAT_BASES
-    -->|Não| x6{x6}
-  CACO3_2
-    -->|Sim| CARBONO_2{"O C<sub>org</sub> é ≥ 25 g kg<sup>-1</sup><br>e < 80 g kg<sup>-1</sup> nos 18 cm<br>superficiais?"}
-  CACO3_2
-    -->|Não| CARBONO_1{"O C<sub>org</sub> é ≥ 6 g kg<sup>-1</sup><br>e < 80 g kg<sup>-1</sup> em toda<br>a extensão?"}
-  CARBONO_2
-    -->|Sim| ESPESSURA
-  CARBONO_2
-    -->|Não| xxxxxxxx{xxxxxxxxx}
-  CARBONO_1
-    -->|Sim| ESPESSURA{Espessura}
-  CARBONO_1
-    -->|Não| xxxxxxx{xxxxxxxx}
+  SATBASES -->|Sim| CHENOZEMICO["Esse é um<br>horizonte<br>A chernozêmico"]
+  SATBASES -->|Não| HUMICO0{Pode ser<br>A húmico ou<br>A proeminente}
 ```
 
 É um horizonte mineral superficial, relativamente espesso, de cor escura, com alta saturação por bases.
