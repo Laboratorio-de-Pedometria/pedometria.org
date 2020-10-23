@@ -16,17 +16,46 @@ menu:
 ```mermaid
 graph TB
   DADOS[("Dados de um<br>perfil de solo")]
-  DADOS  --> DELGADO{"A espessura<br>da porção mineral<br>superficial do solo<br>é ≥ 10 cm?"}
+  DADOS --> ORGANICO{"Há uma<br>seção, superficial ou<br>subsuperficial, em que<br>C<sub>org</sub> ≥ 80 g kg<sup>-1</sup>?"}
+
+  ORGANICO -->|TRUE| VEGETAL{"O C<sub>org</sub> provém<br>de acumulações<br>naturais de resíduos<br>vegetais?"}
+  ORGANICO -->|FALSE| DELGADO{"A espessura<br>da porção mineral<br>superficial do solo<br>é ≥ 10 cm?"}
+
+  VEGETAL -->|TRUE| O_LITICO{"A seção<br>orgânica está<br>assentada sobre<br>rocha?"}
+  VEGETAL -->|FALSE| SUPERFICIE{"A seção<br>rica em C<sub>org</sub><br>está à superfície<br>do solo?"}
+
+  O_LITICO -->|TRUE| 10CM{"Sua espessura<br>é ≥ 10 cm?"}
+  O_LITICO -->|FALSE| O_FRAGMENTARIO{"A seção<br>orgânica está<br>assentada sobre<br>camada fragmetária?"}
+
+  O_FRAGMENTARIO -->|TRUE| 10CM
+  O_FRAGMENTARIO -->|FALSE| CASCALHO{"A seção<br>orgânica está<br>assentada sobre seção<br>com ≥ 90% do volume de<br>fração mineral<br>grossa?"}
+
+  CASCALHO -->|TRUE| 10CM
+  CASCALHO -->|FALSE| TECIDO{"Seu volume<br>é constituído por<br>≥ 75% de tecido<br>vegetal?"}
+
+  10CM -->|TRUE| HISTICO["VOCÊ ENCONTROU<br>UM HORIZONTE<br>H/O HÍSTICO"]
+  10CM -->|FALSE| 5CM
+
+  SUPERFICIE -->|TRUE| 20CM
+  SUPERFICIE -->|FALSE| B_ESPODICO{{"Procure por<br>um horizonte<br><a href='../espodico/'>B espódico</a>"}}
+
+  TECIDO --> |TRUE| O_ESPESSO{"Sua espessura<br>é ≥ 40 cm?"}
+  TECIDO --> |FALSE| O_TIPICO{"Sua espessura<br>é ≥ 20 cm?"}
+
+  O_ESPESSO -->|TRUE| HISTICO
+  O_ESPESSO -->|FALSE| 5CM
+
+  O_TIPICO -->|TRUE| HISTICO
+  O_TIPICO -->|FALSE| 5CM
 
   DELGADO -->|TRUE| ROCHA{"Ela está<br>assentada sobre<br>rocha?"}
-  DELGADO -->|FALSE| FRACO{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  DELGADO -->|FALSE| 5CM{"A seção<br>mineral superficial<br>possui espessura<br>< 5 cm?"}
 
   ROCHA -->|TRUE| C6{"O conteúdo<br>de C<sub>org</sub> é ≥ 6 g kg<sup>-1</sup>"}
   ROCHA -->|FALSE| 18CM{"Sua<br>espessura é<br>≥ 18 cm?"}
 
   18CM -->|TRUE| SAPROLITO{"Ela está<br>assentada sobre<br>horizonte ou<br>camada C?"}
-  18CM -->|FALSE| FRACO
-%%  18CM -->|FALSE| FRACO_2{{"Procure por<br>um horizonte<br><a href='../fraco/'>A fraco</a>"}}
+  18CM -->|FALSE| 5CM
 
   SAPROLITO -->|TRUE| REGOLITO75{"A espessura<br>do regolito é<br>< 75 cm?"}
   SAPROLITO -->|FALSE| SOLUM75{"A espessura<br>do <em>solum</em> é<br>< 75 cm?"}
@@ -47,7 +76,7 @@ graph TB
   25CM -->|FALSE| 20CM
 
   20CM -->|TRUE| FOSFORO{"O conteúdo<br>de P<sub>Mehlich-1</sub> é<br>≥ 30 mg kg<sup>-1</sup>?"}
-  20CM -->|FALSE| FRACO
+  20CM -->|FALSE| 5CM
 
   C6 -->|TRUE| COR5{"Ambos<br>valor e croma<br>da cor do solo úmido<br>são ≤ 5?"}
   C6 -->|FALSE| 20CM
@@ -95,10 +124,31 @@ graph TB
   INEQUACAO -->|FALSE| 20CM
 
   FOSFORO -->|TRUE| ANTROPICO["VOCÊ ENCONTROU<br>UM HORIZONTE<br>A ANTRÓPICO"]
-  FOSFORO -->|FALSE| FRACO
+  FOSFORO -->|FALSE| 5CM
 
-  linkStyle 1,3,5,7,9,11,13,15,17,19,21,23,25,27,19,31,33,35,37,39,41,43,45,47 stroke:mediumseagreen,stroke-width:2px;
-  linkStyle 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48 stroke:mediumpurple,stroke-width:2px;
+  5CM -->|TRUE| A_FRACO["VOCÊ ENCONTROU<br>UM HORIZONTE<br><a href='../fraco/'>A FRACO</a>"]
+  5CM -->|FALSE| C_BAIXO{"O conteúdo<br>de C<sub>org</sub> é<br>< 6 g kg<sup>-1</sup>?"}
+
+  C_BAIXO -->|Sim| COR_UMIDO_4{"O valor<br>da cor do solo<br>úmido é ≥ 4?"}
+  C_BAIXO -->|Não| A_MODERADO["VOCÊ ENCONTROU<br>UM HORIZONTE<br><a href='../moderado/'>A MODERADO</a>"]
+
+  COR_UMIDO_4 -->|TRUE| COR_SECO_6{"O valor<br>da cor do solo<br>seco é ≥ 6?"}
+  COR_UMIDO_4 -->|FALSE| A_MODERADO
+
+  COR_SECO_6 -->|TRUE| GRAO_SIMPLES{"A estrutura<br>é em grãos simples?"}
+  COR_SECO_6 -->|FALSE| A_MODERADO
+
+  GRAO_SIMPLES -->|TRUE| A_FRACO
+  GRAO_SIMPLES -->|FALSE| FRACO_MACICA{"A estrutura<br>é maciça?"}
+
+  FRACO_MACICA -->|TRUE| A_FRACO
+  FRACO_MACICA -->|FALSE| GRAU_FRACO{"O grau de<br>desenvolvimento da<br>estrutura é<br>fraco?"}
+
+  GRAU_FRACO -->|TRUE| A_FRACO
+  GRAU_FRACO -->|FALSE| A_MODERADO
+
+  linkStyle 1,3,5,7,9,11,13,15,17,19,21,23,25,27,19,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65 stroke:mediumseagreen,stroke-width:2px;
+  linkStyle 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66 stroke:mediumpurple,stroke-width:2px;
 ```
 
 É um horizonte mineral superficial, relativamente espesso, de cor escura, com alta saturação por bases.
