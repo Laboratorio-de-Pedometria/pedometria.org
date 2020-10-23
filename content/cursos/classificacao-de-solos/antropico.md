@@ -13,7 +13,7 @@ menu:
 # weight: 1
 ---
 
-```mermaid
+```
 graph TB
   DADOS[("Dados de um<br>perfil de solo")] --> HUMANOS{"A seção<br>superficial possui vestígios de<br>atividades humanas<br>pretéritas?"}
   
