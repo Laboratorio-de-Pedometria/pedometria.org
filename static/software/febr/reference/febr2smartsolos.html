@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Get soil data — readFEBR • febr</title>
+<title>Conversion between FEBR and SMARTSolos soil profile data formats — febr2smartsolos • febr</title>
 
 
 <!-- jquery -->
@@ -33,9 +33,9 @@
 
 
 
-<meta property="og:title" content="Get soil data — readFEBR" />
-<meta property="og:description" content="Download soil data from one or more data sets published in the Free Brazilian Repository for Open Soil Data
--- FEBR, https://www.pedometria.org/projeto/febr/." />
+<meta property="og:title" content="Conversion between FEBR and SMARTSolos soil profile data formats — febr2smartsolos" />
+<meta property="og:description" content="Export FEBR soil profile data to the JSON file format required by the SMARTSolos API—and the other way
+around." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -108,64 +108,51 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Get soil data</h1>
-    <small class="dont-index">Fonte: <a href='https://github.com/samuel-rosa/febr-package/blob/master/R/readFEBR.R'><code>R/readFEBR.R</code></a></small>
-    <div class="hidden name"><code>readFEBR.Rd</code></div>
+    <h1>Conversion between FEBR and SMARTSolos soil profile data formats</h1>
+    <small class="dont-index">Fonte: <a href='https://github.com/samuel-rosa/febr-package/blob/master/R/febr2smartsolos.R'><code>R/febr2smartsolos.R</code></a></small>
+    <div class="hidden name"><code>febr2smartsolos.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>Download soil data from one or more data sets published in the Free Brazilian Repository for Open Soil Data
--- FEBR, <a href='https://www.pedometria.org/projeto/febr/'>https://www.pedometria.org/projeto/febr/</a>.</p>
+    <p>Export FEBR soil profile data to the JSON file format required by the SMARTSolos API—and the other way
+around.</p>
     </div>
 
-    <pre class="usage"><span class='fu'>readFEBR</span>(
-  <span class='no'>data.set</span>,
-  <span class='kw'>data.table</span> <span class='kw'>=</span> <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/c'>c</a></span>(<span class='st'>"identificacao"</span>, <span class='st'>"versionamento"</span>, <span class='st'>"metadado"</span>, <span class='st'>"observacao"</span>, <span class='st'>"camada"</span>),
-  <span class='kw'>verbose</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>,
-  <span class='no'>...</span>
-)</pre>
+    <pre class="usage"><span class='fu'>febr2smartsolos</span>(<span class='no'>profiles</span>, <span class='no'>horizons</span>, <span class='no'>file</span>, <span class='no'>...</span>)
+
+<span class='fu'>smartsolos2febr</span>(<span class='no'>file</span>, <span class='no'>...</span>)</pre>
 
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
     <colgroup><col class="name" /><col class="desc" /></colgroup>
     <tr>
-      <th>data.set</th>
-      <td><p>Character vector indicating the identification code of one or more data sets. Use
-<code>data.set = "all"</code> to download all data sets.</p></td>
+      <th>profiles</th>
+      <td><p>Data frame with soil profile data, i.e. observation locations.</p></td>
     </tr>
     <tr>
-      <th>data.table</th>
-      <td><p>Character vector indicating one or more data tables, with supported values
-<code>"identificacao"</code>, <code>"versionamento"</code>, <code>"metadado"</code>, <code>"observacao"</code>, and <code>"camada"</code>.</p></td>
+      <th>horizons</th>
+      <td><p>Data frame with soil horizon data, i.e. sampling layers.</p></td>
     </tr>
     <tr>
-      <th>verbose</th>
-      <td><p>(optional) Logical value indicating if informative messages should be displayed. Generally
-useful to identify issues—please report to <a href='mailto:febr-forum@googlegroups.com'>febr-forum@googlegroups.com</a> if you find any.</p></td>
+      <th>file</th>
+      <td><p>Character string naming the JSON file to be read from or written to disk.</p></td>
     </tr>
     <tr>
       <th>...</th>
-      <td><p>(optional) Arguments passed to <code><a href='https://www.rdocumentation.org/packages/utils/topics/read.table'>read.table</a></code>.</p></td>
+      <td><p>(optional) Arguments passed to <code><a href='https://www.rdocumentation.org/packages/base/topics/writeLines'>writeLines</a></code> and <code><a href='https://www.rdocumentation.org/packages/jsonlite/topics/fromJSON'>fromJSON</a></code>.</p></td>
     </tr>
     </table>
 
-    <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
-
-    <p>A list of data frames with data from the chosen data sets.</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='no'>res</span> <span class='kw'>&lt;-</span> <span class='fu'>readFEBR</span>(<span class='kw'>data.set</span> <span class='kw'>=</span> <span class='st'>"ctb0003"</span>)</div><div class='output co'>#&gt; <span class='message'>Downloading...</span>
-#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&amp;files=ctb0003-identificacao.txt</span>
-#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&amp;files=ctb0003-versionamento.txt</span>
-#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&amp;files=ctb0003-metadado.txt</span>
-#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&amp;files=ctb0003-observacao.txt</span>
-#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&amp;files=ctb0003-camada.txt</span></div></pre>
+    <pre class="examples"><div class='input'><span class='no'>soil</span> <span class='kw'>&lt;-</span> <span class='fu'>readFEBR</span>(<span class='st'>"ctb0770"</span>, <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/c'>c</a></span>(<span class='st'>"observacao"</span>, <span class='st'>"camada"</span>))<span class='kw'>[[</span><span class='fl'>1</span>]]</div><div class='output co'>#&gt; <span class='message'>Downloading...</span>
+#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0770&amp;files=ctb0770-observacao.txt</span>
+#&gt; <span class='message'>https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0770&amp;files=ctb0770-camada.txt</span></div><div class='input'><span class='fu'>febr2smartsolos</span>(<span class='kw'>profiles</span> <span class='kw'>=</span> <span class='no'>soil</span>$<span class='no'>observacao</span>, <span class='kw'>horizons</span> <span class='kw'>=</span> <span class='no'>soil</span>$<span class='no'>camada</span>, <span class='kw'>file</span> <span class='kw'>=</span> <span class='st'>"febr2smartsolos.json"</span>)</div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Conteúdo</h2>
     <ul class="nav nav-pills nav-stacked">
       <li><a href="#arguments">Arguments</a></li>
-      <li><a href="#value">Value</a></li>
       <li><a href="#examples">Examples</a></li>
     </ul>
 

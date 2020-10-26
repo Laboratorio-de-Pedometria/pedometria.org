@@ -5,11 +5,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Repositório Brasileiro Livre para Dados Abertos do Solo – Guia Básico • febr</title>
+<title>Repositório Brasileiro Livre para Dados Abertos do Solo -- Guia Básico • febr</title>
 <!-- jquery --><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><!-- Bootstrap --><link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/simplex/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
 <!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script><!-- sticky kit --><script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script><!-- pkgdown --><link href="../pkgdown.css" rel="stylesheet">
-<script src="../pkgdown.js"></script><meta property="og:title" content="Repositório Brasileiro Livre para Dados Abertos do Solo – Guia Básico">
+<script src="../pkgdown.js"></script><meta property="og:title" content="Repositório Brasileiro Livre para Dados Abertos do Solo -- Guia Básico">
 <meta property="og:description" content="">
 <meta name="twitter:card" content="summary">
 <!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" integrity="sha256-nvJJv9wWKEm88qvoQl9ekL2J+k/RWIsaSScxxlsrv8k=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/config/TeX-AMS-MML_HTMLorMML.js" integrity="sha256-84DKXVJXs0/F8OTMzX4UR909+jtl4G7SPypPavF+GfA=" crossorigin="anonymous"></script><!--[if lt IE 9]>
@@ -30,7 +30,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.2.4</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.3.1</span>
       </span>
     </div>
 
@@ -68,13 +68,13 @@
 <!--/.navbar -->
 
       
-      </header><script src="febr_files/accessible-code-block-0.0.1/empty-anchor.js"></script><div class="row">
+      </header><div class="row">
   <div class="col-md-9 contents">
     <div class="page-header toc-ignore">
-      <h1>Repositório Brasileiro Livre para Dados Abertos do Solo – Guia Básico</h1>
+      <h1>Repositório Brasileiro Livre para Dados Abertos do Solo -- Guia Básico</h1>
                         <h4 class="author">Alessandro Samuel-Rosa</h4>
             
-            <h4 class="date">13-10-2020</h4>
+            <h4 class="date">26-10-2020</h4>
       
       <small class="dont-index">Fonte: <a href="https://github.com/samuel-rosa/febr-package/blob/master/vignettes/febr.Rmd"><code>vignettes/febr.Rmd</code></a></small>
       <div class="hidden name"><code>febr.Rmd</code></div>
@@ -86,20 +86,20 @@
 <div id="introdução" class="section level1">
 <h1 class="hasAnchor">
 <a href="#introdu%C3%A7%C3%A3o" class="anchor"></a>Introdução</h1>
-<p>O pacote febr para <a href="https://www.r-project.org/">R</a> <span class="citation">(R Core Team <a href="#ref-r" role="doc-biblioref">2017</a>)</span> foi criado para facilitar o acesso aos conjuntos de dados publicados no Repositório Brasileiro Livre para Dados Abertos do Solo, também conhecido como <a href="https://www.pedometria.org/projeto/febr/">FEBR</a> (/ˈfɛ.bɾe/). Ele pode ser descarregado do <a href="https://CRAN.R-project.org/package=febr">CRAN</a> da seguinte maneira:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw"><a href="https://www.rdocumentation.org/packages/utils/topics/install.packages">install.packages</a></span>(<span class="st">"febr"</span>)</span></code></pre></div>
-<p>Já a versão de desenvolvimento, disponível no <a href="https://github.com/samuel-rosa/febr-package">GitHub</a>, pode ser instalada, usando o pacote <code>remotes</code> <span class="citation">(Hester et al. <a href="#ref-remotes" role="doc-biblioref">2020</a>)</span>, da seguinte maneira:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="cf">if</span> (<span class="op">!</span><span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/library">require</a></span>(remotes)) {</span>
-<span id="cb2-2"><a href="#cb2-2"></a>  <span class="kw"><a href="https://www.rdocumentation.org/packages/utils/topics/install.packages">install.packages</a></span>(<span class="dt">pkgs =</span> <span class="st">"remotes"</span>)</span>
-<span id="cb2-3"><a href="#cb2-3"></a>}</span>
-<span id="cb2-4"><a href="#cb2-4"></a>remotes<span class="op">::</span><span class="kw"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"samuel-rosa/febr-package"</span>)</span></code></pre></div>
+<p>O pacote febr para <a href="https://www.r-project.org/">R</a> <span class="citation">(R Core Team <a href="#ref-r">2017</a>)</span> foi criado para facilitar o acesso aos conjuntos de dados publicados no Repositório Brasileiro Livre para Dados Abertos do Solo, também conhecido como <a href="https://www.pedometria.org/projeto/febr/">FEBR</a> (/ˈfɛ.bɾe/). Ele pode ser descarregado do <a href="https://CRAN.R-project.org/package=febr">CRAN</a> da seguinte maneira:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw"><a href="https://www.rdocumentation.org/packages/utils/topics/install.packages">install.packages</a></span>(<span class="st">"febr"</span>)</code></pre></div>
+<p>Já a versão de desenvolvimento, disponível no <a href="https://github.com/samuel-rosa/febr-package">GitHub</a>, pode ser instalada, usando o pacote <code>remotes</code> <span class="citation">(Hester et al. <a href="#ref-remotes">2020</a>)</span>, da seguinte maneira:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="cf">if</span> (<span class="op">!</span><span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/library">require</a></span>(remotes)) {
+  <span class="kw"><a href="https://www.rdocumentation.org/packages/utils/topics/install.packages">install.packages</a></span>(<span class="dt">pkgs =</span> <span class="st">"remotes"</span>)
+}
+remotes<span class="op">::</span><span class="kw"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"samuel-rosa/febr-package"</span>)</code></pre></div>
 <p>O pacote febr possui três grupos de funções: estruturais, acesso e auxiliares—veja tabela abaixo. Uma demonstração básica da forma de uso e aplicações dessas funções é apresentada nas próximas seções.</p>
 <table class="table">
-<caption>Funções disponíveis no pacote febr 1.2.4.</caption>
+<caption>Funções disponíveis no pacote febr 1.3.1.</caption>
 <colgroup>
-<col width="26%">
-<col width="18%">
-<col width="44%">
+<col width="16%">
+<col width="11%">
+<col width="72%">
 </colgroup>
 <thead><tr class="header">
 <th align="left">Função</th>
@@ -167,34 +167,34 @@
 <p>As funções estruturais servem para conhecer a estrutura das tabelas dos conjuntos de dados publicados no FEBR. Elas também servem para conhecer os padrões de codificação, nomenclatura, unidades de medida e número de casas decimais usados no FEBR.</p>
 <!-- A função `header` (do inglês, *header*, para cabeçalho) serve para descarregar o cabeçalho -- as duas primeiras linhas -- de uma das duas tabelas de dados -- `observacao` ou `camada` -- dos conjuntos de dados. Isso permite verificar quais são as variáveis incluídas nos conjuntos de dados, os códigos de identificação utilizados, e as respectivas unidades de medida. Por exemplo, o cabeçalho completo da tabela `camada` do conjunto de dados `ctb0003` é descarregado da seguinte maneira: -->
 <p>A função <code>standard</code> (do inglês, <em>standard</em>, para padrão) fornece uma interface para descarregar informações sobre os padrões usados para as variáveis incluídas nas tabelas <code>observacao</code> e <code>camada</code> de todos os conjuntos de dados. Isso inclui a codificação e nomenclatura, a descrição de cada variável, a unidade de medida e o número de casas decimais, o tipo de dado e a categoria da variável. Tais informações estão organizadas numa planilha disponível em <a href="https://goo.gl/hi77sB" class="uri">https://goo.gl/hi77sB</a>. Por exemplo, caso tenhamos interesse em conhecer os padrões usados no FEBR para as variáveis <code>argila</code>, <code>densidade</code>, <code>carbono</code> e <code>ph</code>, basta usar o seguinte código:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a>pad &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/standard">standard</a></span>(<span class="dt">variable =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"argila"</span>, <span class="st">"densidade"</span>, <span class="st">"carbono"</span>, <span class="st">"ph"</span>))</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">pad &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/standard">standard</a></span>(<span class="dt">variable =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"argila"</span>, <span class="st">"densidade"</span>, <span class="st">"carbono"</span>, <span class="st">"ph"</span>))</code></pre></div>
 <p>A função <code>unit</code> (do inglês, <em>unit</em>, para unidade) serve de interface para uma planilha (disponível em <a href="https://goo.gl/Vvvsf2" class="uri">https://goo.gl/Vvvsf2</a>) contendo diversas unidades de medida e as constantes utilizadas para a conversão dos dados entre elas. Essas informações são úteis durante o descarregamento dos dados usando as funções <code>observation</code> e <code>layer</code> (veja mais abaixo). Por exemplo, a densidade do solo é comumente expressa em <code>Mg/m^3</code> e <code>kg/dm^3</code>. Para descarregar as constantes de transformação entre essas duas unidades de medida, basta usar o seguinte código:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a>uni &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/unit">unit</a></span>(<span class="dt">source =</span> <span class="st">"Mg/m^3"</span>, <span class="dt">target =</span> <span class="st">"kg/dm^3"</span>)</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">uni &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/unit">unit</a></span>(<span class="dt">source =</span> <span class="st">"Mg/m^3"</span>, <span class="dt">target =</span> <span class="st">"kg/dm^3"</span>)</code></pre></div>
 </div>
 <div id="funções-de-acesso" class="section level1">
 <h1 class="hasAnchor">
 <a href="#fun%C3%A7%C3%B5es-de-acesso" class="anchor"></a>Funções de acesso</h1>
 <p>As funções de acesso servem para descarregar os dados e metadados dos conjuntos de dados publicados no FEBR. Isso inclui as tabelas <code>identificacao</code>, <code>metadado</code>, <code>observacao</code> e <code>camada</code>.</p>
-<p>Os dados de identificação de um ou mais conjuntos de dados, contidos na tabela <code>identificacao</code>, podem ser descarregados usando a função <code>identification</code>. Para isso, basta informar o código de identificação do(s) conjunto(s) de dados que se deseja descarregar (conforme catalogado em <a href="https://pedometria.shinyapps.io/febr/" class="uri">https://pedometria.shinyapps.io/febr/</a>), por exemplo:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a>conj &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/identification">identification</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>))</span></code></pre></div>
+<p>Os dados de identificação de um ou mais conjuntos de dados, contidos na tabela <code>identificacao</code>, podem ser descarregados usando a função <code>identification</code>. Para isso, basta informar o código de identificação do(s) conjunto(s) de dados que se deseja descarregar, por exemplo:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">conj &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/identification">identification</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>))</code></pre></div>
 <p>Já os dados sobre os métodos usados para produzir os dados contidos em um ou mais conjuntos de dados, armazenados na tabela <code>metadado</code>, podem ser descarregados usando a função <code>metadata</code> (do inglês, <em>metadata</em>, para metadados), por exemplo:</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a>meta &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/metadata">metadata</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>))</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">meta &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/metadata">metadata</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>))</code></pre></div>
 <p>Os dados das observações do solo, contidos na tabela <code>observacao</code>, podem ser descarregados usando a função <code>observation</code> (do inglês, <em>observation</em>, para observação). Assim como a função <code>standard</code> vista acima, a função <code>observation</code> também possui o argumento <code>variable</code>, que permite selecionar as variáveis que devem ser retornadas. Por exemplo, para retornar apenas a variável <code>taxon</code> do conjunto de dados <code>ctb0003</code>, usamos o seguinte código:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a>obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/observation">observation</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"taxon"</span>)</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/observation">observation</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"taxon"</span>)</code></pre></div>
 <p>A função <code>layer</code> (do inglês, <em>layer</em>, para camada) serve para descarregar os dados contidos na tabela <code>camada</code> dos conjunto de dados. Por exemplo, para descarregar os dados da tabela <code>camada</code> dos conjuntos de dados <code>ctb0003</code> e <code>ctb0036</code>, retornando apenas as variáveis <code>argila</code>, <code>carbono</code> e <code>densidade</code>, usamos o seguinte código:</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a>cam &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/layer">layer</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>), <span class="dt">variable =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"argila"</span>, <span class="st">"carbono"</span>, <span class="st">"densidade"</span>))</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">cam &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/layer">layer</a></span>(<span class="dt">dataset =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"ctb0003"</span>, <span class="st">"ctb0036"</span>), <span class="dt">variable =</span> <span class="kw"><a href="https://www.rdocumentation.org/packages/base/topics/c">c</a></span>(<span class="st">"argila"</span>, <span class="st">"carbono"</span>, <span class="st">"densidade"</span>))</code></pre></div>
 <p>A última função de acesso é <code>febr</code>. Ela serve para descarregar todos os dados e metadados de um único conjunto de dados. Essa função aceita os mesmos argumentos das funções <code>observation</code> e <code>layer</code> (que são idênticos devido à similaridade da estrutura das tabelas <code>observacao</code> e <code>camada</code>).</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a>tudo &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/febr">febr</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"all"</span>)</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">tudo &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/febr">febr</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"all"</span>)</code></pre></div>
 </div>
 <div id="funções-auxiliares" class="section level1">
 <h1 class="hasAnchor">
 <a href="#fun%C3%A7%C3%B5es-auxiliares" class="anchor"></a>Funções auxiliares</h1>
 <p>As funções auxiliares servem para realizar tarefas complementares às funções estruturais e de acesso, assim apoiando o processamento e uso dos dados descarregados do FEBR, por exemplo, a criação de objetos de outras classes e a exportação dos dados.</p>
-<p>A função <code>febr2sf</code> serve para criar um objeto do tipo <em>simple feature</em> <span class="citation">(Pebesma <a href="#ref-sf" role="doc-biblioref">2018</a>)</span> a partir da tabela <code>observacao</code> descarregada usando a função <code>observation</code>. O código a seguir demonstra como fazer isso.</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1"></a>obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/observation">observation</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"taxon"</span>)</span>
-<span id="cb10-2"><a href="#cb10-2"></a>obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/febr2spdf">febr2sf</a></span>(obs)</span></code></pre></div>
+<p>A função <code>febr2sf</code> serve para criar um objeto do tipo <em>simple feature</em> <span class="citation">(Pebesma <a href="#ref-sf">2018</a>)</span> a partir da tabela <code>observacao</code> descarregada usando a função <code>observation</code>. O código a seguir demonstra como fazer isso.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/observation">observation</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>, <span class="dt">variable =</span> <span class="st">"taxon"</span>)
+obs &lt;-<span class="st"> </span>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/febr2spdf">febr2sf</a></span>(obs)</code></pre></div>
 <p>A segunda função auxiliar do pacote febr é <code>goto</code>. A função <code>goto</code> serve de interface para navegação nas diversas páginas na Internet do FEBR: página principal, visualização geográfica, catálogo de conjuntos de dados, página de busca, manual do mantenedor, pacote para R, GitHub, fórum de discussão, e tabelas com padrões de unidades de medida e de codificação e nomenclatura. Além disso, a função <code>goto</code> serve para visitar as tabelas dos conjuntos de dados. Por exemplo, para visitar as tabelas do conjunto de dados <code>ctb0003</code>, usamos o seguinte código:</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1"></a>febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/goto">goto</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>)</span></code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">febr<span class="op">::</span><span class="kw"><a href="https://www.rdocumentation.org/packages/febr/topics/goto">goto</a></span>(<span class="dt">dataset =</span> <span class="st">"ctb0003"</span>)</code></pre></div>
 <p>Novas funções auxiliares podem ser criadas à medida que as usuárias do pacote febr apontarem a sua necessidade. Alternativamente, as usuárias são encorajadas a submeter funções auxiliares para inclusão no pacote febr seguindo o modelo de desenvolvimento colaborativo <em>fork &amp; pull</em>.</p>
 </div>
 <div id="referências" class="section level1 unnumbered">
@@ -202,13 +202,13 @@
 <a href="#refer%C3%AAncias" class="anchor"></a>Referências</h1>
 <div id="refs" class="references">
 <div id="ref-remotes">
-<p>Hester, J., Csárdi, G., Wickham, H., Chang, W., Morgan, M., Tenenbaum, D. <em>remotes: R Package Installation from Remote Repositories, Including ’GitHub’</em>. [s.l: s.n.]. <a href="https://CRAN.R-project.org/package=remotes">https://CRAN.R-project.org/package=remotes</a>. R package version 2.2.0</p>
+<p>Hester, J., Csárdi, G., Wickham, H., Chang, W., Morgan, M., Tenenbaum, D. <em>remotes: R Package Installation from Remote Repositories, Including ’GitHub’</em>. [s.l: s.n.]. <a href="https://CRAN.R-project.org/package=remotes" class="uri">https://CRAN.R-project.org/package=remotes</a>. R package version 2.2.0</p>
 </div>
 <div id="ref-sf">
 <p>Pebesma, E. Simple Features for R: Standardized Support for Spatial Vector Data. <em>The R Journal</em>, 10(1):439–446, 2018. doi:<a href="https://doi.org/10.32614/RJ-2018-009">10.32614/RJ-2018-009</a>. </p>
 </div>
 <div id="ref-r">
-<p>R Core Team. <em>R: A Language and Environment for Statistical Computing</em>. Vienna, Austria: R Foundation for Statistical Computing, 2017. <a href="https://www.R-project.org/">https://www.R-project.org/</a>. </p>
+<p>R Core Team. <em>R: A Language and Environment for Statistical Computing</em>. Vienna, Austria: R Foundation for Statistical Computing, 2017. <a href="https://www.R-project.org/" class="uri">https://www.R-project.org/</a>. </p>
 </div>
 </div>
 </div>
@@ -218,7 +218,7 @@
 
         <div id="tocnav">
       <h2 class="hasAnchor">
-<a href="#tocnav" class="anchor"></a>Conteúdo</h2>
+<a href="#tocnav" class="anchor"></a>Contents</h2>
       <ul class="nav nav-pills nav-stacked">
 <li><a href="#introdu%C3%A7%C3%A3o">Introdução</a></li>
       <li><a href="#fun%C3%A7%C3%B5es-estruturais">Funções estruturais</a></li>

@@ -69,7 +69,7 @@ soil classification, and so on." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.2.4</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.3.1</span>
       </span>
     </div>
 
@@ -139,8 +139,8 @@ soil classification, and so on.</p>
     <colgroup><col class="name" /><col class="desc" /></colgroup>
     <tr>
       <th>dataset</th>
-      <td><p>Character vector indicating one or more datasets. Identification codes should be as recorded
-in <a href='http://www.ufsm.br/febr/catalog/'>http://www.ufsm.br/febr/catalog/</a>. Use <code>dataset = "all"</code> to download all datasets.</p></td>
+      <td><p>Character vector indicating one or more datasets. Use <code>dataset = "all"</code> to download all
+datasets.</p></td>
     </tr>
     <tr>
       <th>variable</th>
@@ -175,10 +175,10 @@ standard CRS for Brazil -- see more at <a href='https://spatialreference.org/ref
 details.</p></li>
 <li><p><code>units</code> Logical value indicating if the measurement unit(s) of the continuous variable(s) should
 be converted to the standard measurement unit(s). Defaults to <code>units = FALSE</code>, i.e. no conversion is
-performed. See <code><a href='standard.html'>standard</a></code> for more information.</p></li>
+performed. See <code>standard</code> for more information.</p></li>
 <li><p><code>round</code> Logical value indicating if the values of the continuous variable(s) should be rounded
 to the standard number of decimal places. Requires <code>units = TRUE</code>. Defaults to <code>round = FALSE</code>, i.e.
-no rounding is performed. See <code><a href='standard.html'>standard</a></code> for more information.</p></li>
+no rounding is performed. See <code>standard</code> for more information.</p></li>
 </ul></td>
     </tr>
     <tr>
@@ -222,10 +222,9 @@ path can be passed to <code>febr.repo</code> if the user has a local copy of the
 <li><p><code>dataset_id</code>. Identification code of the dataset in the FEBR to which an observation belongs.</p></li>
 <li><p><code>observacao_id</code>. Identification code of an observation in a dataset.</p></li>
 <li><p><code>sisb_id</code>. Identification code of an observation in the Brazilian Soil Information System
-maintained by the Brazilian Agricultural Research Corporation (EMBRAPA) at
-<a href='https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html'>https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html</a>.</p></li>
+maintained by the Brazilian Agricultural Research Corporation (EMBRAPA).</p></li>
 <li><p><code>ibge_id</code>. Identification code of an observation in the database of the Brazilian Institute
-of Geography and Statistics (IBGE) at <a href='https://www.ibge.gov.br/geociencias/downloads-geociencias.html'>https://www.ibge.gov.br/geociencias/downloads-geociencias.html</a>.</p></li>
+of Geography and Statistics (IBGE).</p></li>
 <li><p><code>observacao_data</code>. Date (dd-mm-yyyy) in which an observation was made.</p></li>
 <li><p><code>coord_sistema</code>. EPSG code of the coordinate reference system.</p></li>
 <li><p><code>coord_x</code>. Longitude (deg) or easting (m).</p></li>
@@ -255,7 +254,7 @@ separate variables. But if <code>level = 2</code>, then both variables will be r
 same variable.
     <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
 
-    <div class='dont-index'><p><code><a href='layer.html'>layer</a></code>, <code><a href='standard.html'>standard</a></code>, <code><a href='unit.html'>unit</a></code></p></div>
+    <div class='dont-index'><p><code>layer</code>, <code>standard</code>, <code>unit</code></p></div>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='no'>res</span> <span class='kw'>&lt;-</span> <span class='fu'>observation</span>(<span class='kw'>dataset</span> <span class='kw'>=</span> <span class='st'>"ctb0013"</span>, <span class='kw'>variable</span> <span class='kw'>=</span> <span class='st'>"taxon"</span>)</div><div class='output co'>#&gt; 
