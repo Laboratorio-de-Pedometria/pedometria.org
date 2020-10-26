@@ -56,16 +56,19 @@ image:
 projects: []
 ---
 
+A partir de 2021, você tem duas opções para fazer mestrado no Laboratório de Pedometria. Temos vagas nas áreas de agroecossistemas (ciências agrárias) e tecnologias computacionais para o agronegócio (interdisciplinar).
+
 ## PPG em Tecnologias Computacionais para o Agronegócio
 
 __Inscrições:__ 05/10/2020 à 04/11/2020<br>
 __Vagas:__ 01 (uma)<br>
 __Critérios de seleção:__ currículo Lattes (50%) e projeto de pesquisa (50%)<br>
 __Linha de pesquisa:__ Tecnologias computacionais aplicadas à produção agrícola<br>
+__Público alvo:__ bacharéis em ciência da computação, engenharia agrícola, agronomia e similares
 
 O PPGTCA forma profissionais capazes de atuar na área de inovação de técnicas e produtos para o aumento da produtividade agrícola e agroindustrial em equilíbrio com o ambiente. As pesquisas desenvolvidas pelo Laboratório de Pedometria envolvem a aplicação de métodos como (geo)estatística, inteligência computacional, mineração de dados e processamento de imagens, especialmente no contexto geoespacial dos ambientes agrícolas. Também são projetados e desenvolvidos equipamentos e softwares com o objetivo de melhorar a segurança, diminuir o esforço humano e otimizar e/ou automatizar os processos de produção agrícola.
 
-Mais informações em http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppg-tca/editais/edital-selecao-2021
+Mais informações em <https://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppg-tca/editais/edital-selecao-2021>
 
 ## PPG em Agroecossistemas
 
@@ -73,10 +76,11 @@ __Inscrições:__ 20/10/2020 à 13/11/2020<br>
 __Vagas:__ 01 (uma)<br>
 __Critérios de seleção:__ currículo Lattes (40%), rendimento acadêmico (20%) e projeto de pesquisa (40%)<br>
 __Linha de pesquisa:__ Sistemas integrados de produção e solos<br>
+__Público alvo:__ bacharéis em agronomia, engenharia florestal, engenharia agrícola e similares
 
 O PPGSIS forma profissionais capazes de atuar na área de processos de produção em agroecossistemas com foco no desenvolvimento regional sustentável. As pesquisas desenvolvidas pelo Laboratório de Pedometria envolvem a aplicação de métodos como (geo)estatística, inteligência computacional, mineração de dados e processamento de imagens, especialmente no contexto geoespacial dos agroecossistemas. Também são desenvolvidas soluções tecnológicas com o objetivo de facilitar o acesso da sociedade aos dados e informações sobre os recursos do solo.
 
-Mais informações em portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgsis-dv/
+Mais informações em <http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgsis-dv/destaques/inscricao-e-selecao-para-o-programa-de-pos-graduacao-em-agroecossistemas>
 
 ## Sobre o projeto de pesquisa
 
