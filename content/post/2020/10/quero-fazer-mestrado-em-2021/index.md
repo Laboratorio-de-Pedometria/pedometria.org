@@ -15,7 +15,9 @@ authors:
 
 # Palavras-chave da postagem (especifique três ou mais)
 tags:
-  - ""
+  - Mestrado
+  - PPGSIS
+  - PPGTCA
 
 # Categoria do conteúdo da página (escolha uma ou mais)
 # - Bolsa
@@ -56,10 +58,26 @@ projects: []
 
 ## PPG em Tecnologias Computacionais para o Agronegócio
 
-O processo seletivo de alunos para o ano letivo de 2021 está ABERTO. São ofertadas 18 (dezoito) vagas na categoria de alunos regulares e 09 (nove) vagas na categoria de alunos especiais. As inscrições podem ser realizadas até dia 04/11/2020
+__Inscrições:__ 05/10/2020 à 04/11/2020<br>
+__Vagas:__ 01 (uma)<br>
+__Critérios de seleção:__ currículo Lattes (50%) e projeto de pesquisa (50%)<br>
+__Linha de pesquisa:__ Tecnologias computacionais aplicadas à produção agrícola<br>
 
-Mais informações em portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppg-tca/
+O PPGTCA forma profissionais capazes de atuar na área de inovação de técnicas e produtos para o aumento da produtividade agrícola e agroindustrial em equilíbrio com o ambiente. As pesquisas desenvolvidas pelo Laboratório de Pedometria envolvem a aplicação de métodos como (geo)estatística, inteligência computacional, mineração de dados e processamento de imagens, especialmente no contexto geoespacial dos ambientes agrícolas. Também são projetados e desenvolvidos equipamentos e softwares com o objetivo de melhorar a segurança, diminuir o esforço humano e otimizar e/ou automatizar os processos de produção agrícola.
+
+Mais informações em http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppg-tca/editais/edital-selecao-2021
 
 ## PPG em Agroecossistemas
 
+__Inscrições:__ 20/10/2020 à 13/11/2020<br>
+__Vagas:__ 01 (uma)<br>
+__Critérios de seleção:__ currículo Lattes (40%), rendimento acadêmico (20%) e projeto de pesquisa (40%)<br>
+__Linha de pesquisa:__ Sistemas integrados de produção e solos<br>
+
+O PPGSIS forma profissionais capazes de atuar na área de processos de produção em agroecossistemas com foco no desenvolvimento regional sustentável. As pesquisas desenvolvidas pelo Laboratório de Pedometria envolvem a aplicação de métodos como (geo)estatística, inteligência computacional, mineração de dados e processamento de imagens, especialmente no contexto geoespacial dos agroecossistemas. Também são desenvolvidas soluções tecnológicas com o objetivo de facilitar o acesso da sociedade aos dados e informações sobre os recursos do solo.
+
 Mais informações em portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgsis-dv/
+
+## Sobre o projeto de pesquisa
+
+A apresentação do projeto de pesquisa é um dos requisitos do processo seletivo. Com ele, verificamos seu conhecimento sobre a área de concentração do PPG e linha de pesquisa em que o Laboratório de Pedometria atua. Também é através dele que avaliamos seu nível de compreensão do método científico e propósito de um curso de mestrado. Você precisa deixar evidente qual é o problema a ser enfrentado e apresentar uma solução provisória que possa ser avaliada ao longo de um período de dois anos. Mas tenha em mente que, uma vez aprovada a candidatura ao mestrado, o projeto apresentado no processo seletivo não necessariamente será aquele desenvolvido. Isso dependerá de uma série de fatores a serem discutidos mais tarde junto do PPG e do Laboratório de Pedometria.
