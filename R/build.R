@@ -1,4 +1,4 @@
-blogdown::build_dir("static")
+# rmarkdown::render("content/febr/catalogo/_index.Rmd")
 
 # Editar a linha 92 do arquivo HTML, substituindo
 file <- 'static/projeto/febr/espacial/index.html'
