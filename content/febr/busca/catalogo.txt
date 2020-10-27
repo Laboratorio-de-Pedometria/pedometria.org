@@ -1,0 +1,1239 @@
+{
+  "data": [
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0001.html'>ctb0001<\/a>",
+      "dados_titulo": "Conteúdo de ferro do solo sob dois sistemas de cultivo na Estação Experimental Terras Baixas nos anos de 2012 e 2013",
+      "dados_autor": "José Maria Filippini Alba (jose.filippini@embrapa.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0002.html'>ctb0002<\/a>",
+      "dados_titulo": "Classificação taxonômica do solo em Pinheiral, RJ",
+      "dados_autor": "Elias Mendes Costa (eliasmccosta@yahoo.com.br); Lúcia Helena Cunha dos Anjos (lanjosrural@gmail.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0003.html'>ctb0003<\/a>",
+      "dados_titulo": "Conjunto de dados do solo da bacia do reservatório do DNOS-CORSAN, Santa Maria, RS",
+      "dados_autor": "Alessandro Samuel-Rosa (alessandrosamuelrosa@gmail.com); Pablo Miguel (NA); Jean Michel Moura-Bueno (NA); Andrisa Balbinot (NA); Ricardo Simão Diniz Dalmolin (NA); Lúcia Helena Cunha dos Anjos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0004.html'>ctb0004<\/a>",
+      "dados_titulo": "Conjunto de dados da tese 'Fate of fipronil in soils under sugar cane cultivation from the northeast of Brazil: sorption and degradation'",
+      "dados_autor": "Carmem Sueze Miranda Masutti (carmem.masutti@univasf.edu.br); Ahmet R. Mermut (a.mermut@usask.ca)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0005.html'>ctb0005<\/a>",
+      "dados_titulo": "Identificação do limite entre solo e saprolito em Argissolos Bruno-Acinzentados derivados de rochas sedimentares",
+      "dados_autor": "Rodrigo Bomicieli Oliveira (bomicieli@hotmail.com); Fabrício de Araújo Pedron (fapedron@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0006.html'>ctb0006<\/a>",
+      "dados_titulo": "Zoneamento edáfico de culturas para o município de Santa Maria - RS, visando o ordenamento territorial",
+      "dados_autor": "Carlos Alberto Flores (cflores@terra.com.br); José Maria Filippini Alba (jose.filippini@embrapa.br); Stefan Domingues Nachtigall (xx); Henrique Noguez da Cunha (xx); Rodrigo Thiel Lopes (xx); Ricardo S. Diniz Dalmolin (dalmolinrsd@gmail.com); Fabricio de Araújo Pedron (fapedron@ufsm.br); Jean Michel Moura Bueno (bueno.jean1@gmail.com); Gabriel Antônio Deobald (gantoniod@gmail.com); Pedro Paulo Ramos Ribeiro do Nascimento (pedonpaulo@hotmail.com); André Carnieletto Dotto (andrecdot@gmail.com); João Pedro Moro Flores (m.fjoaopedro@gmail.com); Emilio Buchanelli Bernich (xx); Matheus Ceron Lange (xx)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0007.html'>ctb0007<\/a>",
+      "dados_titulo": "Avaliação da cor e comportamento espectral de algumas classes de solos do Rio Grande do Sul",
+      "dados_autor": "Márcio Ramos Botelho (tchemarcio_rg@yahoo.com.br); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0008.html'>ctb0008<\/a>",
+      "dados_titulo": "Conjunto de dados do artigo 'Caracterização de solos com a chernozêmico na Zona da Mata norte do estado de Pernambuco'",
+      "dados_autor": "Carmem Sueze Silva Miranda (carmem.masutti@univasf.edu.br); Maria da Graça de Vasconcelos Xavier Ferreira (mgvxferreira@gmail.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0009.html'>ctb0009<\/a>",
+      "dados_titulo": "Variáveis pedogeoquímicas e mineralógicas na identificação de fontes de sedimentos em uma bacia hidrográfica de encosta",
+      "dados_autor": "Pablo Miguel (pablo.ufsm@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0010.html'>ctb0010<\/a>",
+      "dados_titulo": "Substâncias húmicas em solos de diferentes feições geomorfológicas no rebordo do planalto do Rio Grande do Sul",
+      "dados_autor": "Fábio Pacheco Menezes (fpmbio@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0011.html'>ctb0011<\/a>",
+      "dados_titulo": "Mineralogia, morfologia e classificação de saprolitos e Neossolos derivados de rochas vulcânicas no Rio Grande do Sul",
+      "dados_autor": "Fabrício de Araújo Pedron (fapedron@ufsm.br); Antonio Carlos Azevedo (aazevedo@esalq.usp.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0012.html'>ctb0012<\/a>",
+      "dados_titulo": "Impacto do uso da terra nos atributos químicos e físicos de solos do rebordo do planalto - RS",
+      "dados_autor": "Jovani Zalamena (jovanizalamena@yahoo.com.br); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0013.html'>ctb0013<\/a>",
+      "dados_titulo": "Caracterização química dos efluentes gerados pelo aterro controlado de Santa Maria e retenção de chumbo e zinco por um Argissolo da depressão central do Rio Grande do Sul",
+      "dados_autor": "Andressa Lauermann (andressa.lauermann@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0014.html'>ctb0014<\/a>",
+      "dados_titulo": "Modelagem do terreno e mapeamento digital de solos por extrapolação das relações solo-paisagem",
+      "dados_autor": "Mário Sérgio Wolski (mariowolski@hotmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0015.html'>ctb0015<\/a>",
+      "dados_titulo": "Suscetibilidade magnética na estimativa de atributos do solo e identificação de compartimentos da paisagem em Latossolos de basalto no planalto do RS",
+      "dados_autor": "Priscila Vogelei Ramos (priscilav.ramos@yahoo.com.br); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0016.html'>ctb0016<\/a>",
+      "dados_titulo": "Matéria orgânica e características físicas, químicas, mineralógicas e espectrais de Latossolos de diferentes ambientes",
+      "dados_autor": "Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br); Eglon Klamt (egonklamt@yahoo.com.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0017.html'>ctb0017<\/a>",
+      "dados_titulo": "Conjunto de dados do trabalho 'Solos da bacia hidrográfica do rio Uberaba'",
+      "dados_autor": "João Chrisóstomo Pedroso Neto (chrisostomo@epamig.ufla.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0018.html'>ctb0018<\/a>",
+      "dados_titulo": "Conjunto de dados do 'Projeto Caldeirão: caracterização e gênese das Terras Pretas de Índio na Amazônia'",
+      "dados_autor": "Wenceslau Geraldes Teixeira (wenceslau.teixeira@embrapa.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0019.html'>ctb0019<\/a>",
+      "dados_titulo": "Conjunto de dados do artigo 'A mosaic of nonallophanic Andosols, Umbrisols and Cambisols on rhyodacite in the southern Brazilian highlands'",
+      "dados_autor": "Alexander Dümig (NA); Peter Schad (schad@wzw.tum.de); Manmath Kohok (NA); Patrick Beyerlein (NA); Wolfgang Schwimmer (NA); Ingrid Kögel-Knabner (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0022.html'>ctb0022<\/a>",
+      "dados_titulo": "Levantamento semidetalhado de solos do Município de Londrina",
+      "dados_autor": "Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (NA); Américo Pereira de Carvalho (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0023.html'>ctb0023<\/a>",
+      "dados_titulo": "Conjunto de dados da dissertação 'Características e Gênense de uma Sequência de Solos nas Ecostas do Nordeste do Rio Grande do Sul'",
+      "dados_autor": "Sandra Barreto de Queiroz (NA); Egon Klant  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0025.html'>ctb0025<\/a>",
+      "dados_titulo": "Os solos do Vale dos Vinhedos",
+      "dados_autor": "Carlos Alberto Flores (cflores@terra.com.br); Reinaldo Oscar Pötter (NA); Eliana Casco Sarmento (eliana.sarmento@ufrgs.br); Eliseu José Weber (eweber@portoweb.com.br); Heinrich Hasenack (hhasenack@ufrgs.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0026.html'>ctb0026<\/a>",
+      "dados_titulo": "Conteúdo de ferro do solo no ano de 1998 (ESALQ-USP)",
+      "dados_autor": "José Alexandre Melo Demattê (jamdemat@usp.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0027.html'>ctb0027<\/a>",
+      "dados_titulo": "Conjunto de dados de ferro de Guarapuava - PR.",
+      "dados_autor": "Aline Marques Genú (agenu@unicentro.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0028.html'>ctb0028<\/a>",
+      "dados_titulo": "Levantamento Pedológico do Campo Experimental da Embrapa Uva e Vinho em Bento Golçalves, RS",
+      "dados_autor": "Gustavo Souza Valladares (valladares@ufpi.edu.br); Naíssa Batista Luz (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0029.html'>ctb0029<\/a>",
+      "dados_titulo": "Carbono e matéria orgânica em amostras do solo do Estado do Rio Grande do Sul por diferentes métodos de determinação",
+      "dados_autor": "Alessandro Samuel-Rosa (alessandrosamuelrosa@gmail.com); Douglas Adams Weiler (douglasweiler@yahoo.com.br); Manoeli Lupatini (mlupatini@gmail.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0030.html'>ctb0030<\/a>",
+      "dados_titulo": "Caracterização pedológica em áreas de encosta do rebordo do planalto do RS",
+      "dados_autor": "Pablo Miguel (pablo.ufsm@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0031.html'>ctb0031<\/a>",
+      "dados_titulo": "Classificação do solo em Arroio Grande, Santa Maria, RS",
+      "dados_autor": "Jean Michel Moura-Bueno (bueno.jean1@gmail.com); Taciara Zborowski Horst (tacihorst@gmail.com); Luciano Campos Cancian (lucianocancian@msn.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0032.html'>ctb0032<\/a>",
+      "dados_titulo": "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia – Dados morfológicos dos horizontes do solo de cada perfil",
+      "dados_autor": "T. T. Cochrane (NA); Thomas A. Cochrane (tom.cochrane@canterbury.ac.nz)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0033.html'>ctb0033<\/a>",
+      "dados_titulo": "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados analíticos de cada horizonte para cada perfil",
+      "dados_autor": "T. T. Cochrane (NA); Thomas A. Cochrane (tom.cochrane@canterbury.ac.nz)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0034.html'>ctb0034<\/a>",
+      "dados_titulo": "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados de retenção da água",
+      "dados_autor": "T. T. Cochrane (NA); Thomas A. Cochrane (tom.cochrane@canterbury.ac.nz)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0036.html'>ctb0036<\/a>",
+      "dados_titulo": "Solo construído no aterro encerrado da Caturrita, Santa Maria (RS)",
+      "dados_autor": "Alessandro Samuel-Rosa (alessandrosamuelrosa@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0037.html'>ctb0037<\/a>",
+      "dados_titulo": "Solo da sub-bacia do Rio Giruazinho, Giruá, RS",
+      "dados_autor": "Jean Michel Moura-Bueno (bueno.jean1@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0038.html'>ctb0038<\/a>",
+      "dados_titulo": "Variabilidade de classes de solos, atributos morfológicos e físico-hídricos no rebordo do planalto meridional",
+      "dados_autor": "Gabriel Antônio Deobald; Fabrício de Araújo Pedron"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0039.html'>ctb0039<\/a>",
+      "dados_titulo": "As Vertentes Características e os Sistemas Pedológicos como Instrumentos de Análise para a Identificação das Fragilidades e Potencialidades Ambientais na Bacia Hidrográfica do Paraná 3",
+      "dados_autor": "Anderson Sandro da Rocha; Maria Teresa de Nóbrega, José Edézio da Cunha"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0042.html'>ctb0042<\/a>",
+      "dados_titulo": "Alteração do pH do solo por influência da diluição, tipo de solvente e tempo de contato",
+      "dados_autor": "José Mário Braga (NA); Lafayette Franco Sobral (NA); Luciano da Silva Souza (NA); Helena F Oliveira (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0045.html'>ctb0045<\/a>",
+      "dados_titulo": "Parâmetros Físicos e Químicos de Referência em Solos de Unidades de Conservação Florestal da Bacia do Paraná 3, Brasil ",
+      "dados_autor": "Juliane Bocardi (julianebocardi@gmail.com); Adelmo Lowe Pletsch; Anderson Sandro da Rocha (andersonrocha@utfpr.edu.br); Sueli Pércio Quinaia"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0046.html'>ctb0046<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Alta Intensidade dos Solos de Duas Áreas Dotadas de Solos Arenosos no Estado de Mato Grosso - Áreas Piloto I e II",
+      "dados_autor": "Virlei Álvaro de Oliveira; Eduardo Guimarães Couto; João Benedito Pereira Leite Sobrinho; Maria Lucidalva C. Moreira"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0047.html'>ctb0047<\/a>",
+      "dados_titulo": "Levantamento semidetalhado de solos e diagnóstico dos remanescentes florestais do município de Cambé - PR",
+      "dados_autor": "Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); Joao Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); Itamar Antonio Bognola (itamar.bognola@embrapa.br); João Henrique Caviglione (jhcaviglione@gmail.com); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0048.html'>ctb0048<\/a>",
+      "dados_titulo": "Levantamento semidetalhado de solos do município de Bela Vista do Paraíso - PR",
+      "dados_autor": "Joao Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0050.html'>ctb0050<\/a>",
+      "dados_titulo": "Projeto RADAMBRASIL. Folha SG.22 Curitiba, parte da folha SG.21 Asunción e folha SG.23 Iguape",
+      "dados_autor": "Isaias Oenning; José Marcos Moser; Sérgio Hideiti Shimizu; Moacir de Jesus Rauen; Américo Pereira de Carvalho"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0051.html'>ctb0051<\/a>",
+      "dados_titulo": "Projeto RADAMBRASIL. Folha SF.22 Paranapanema",
+      "dados_autor": "Virlei Álvaro de Oliveira; Eduardo Leandro da Rosa Macedo; José Augusto Laus Neto; Alcides Cardoso; Reinaldo Oscar Pötter"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0562.html'>ctb0562<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Média Intensidade dos Solos da Região do Alto Paranaíba, Minas Gerais",
+      "dados_autor": "Paulo Emílio Ferreira da Motta (NA); Alfredo Melhem Baruqui (NA); Humberto Gonçalves dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0563.html'>ctb0563<\/a>",
+      "dados_titulo": "Levantamento pedológico de uma área-piloto relacionada ao Projeto BiosBrasil (Conservation and Sustainable Management of Below-Ground Biodiversity: Phase I), Município de Benjamin Constant (AM): janela 6.",
+      "dados_autor": "Coelho (NA); M.R. (NA); Fidalgo (NA); E.C.C. (NA); Araújo (NA); F. de O. (NA); Santos (NA); H.G. dos (NA); Santos (NA); M. de L.M. (NA); Péres (NA); D.V. (NA); Moreira (NA); F.M. de S. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0565.html'>ctb0565<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Alta Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras da Área de Novo Paraíso, Roraima",
+      "dados_autor": "Lima (NA); A. A. C. (NA); Rêgo (NA); R. S. (NA); Silva (NA); B. N. R. da (NA); Duriez (NA); M. A. de M. (NA); Calessen (NA); M. E. C. (NA); Johas (NA); R. A. L. (NA); Araújo (NA); W. S. de (NA); Moreira (NA); G. N. C. (NA); Bloise (NA); R. (NA); Paula (NA); J. L. de (NA); Santos (NA); H. G. dos . (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0566.html'>ctb0566<\/a>",
+      "dados_titulo": "Solos das áreas-piloto do Projeto BiosBrasil (Conservation and Sustainable Management of Below-Ground Biodiversity: phase I), Município de Benjamin Constant, Estado do Amazonas",
+      "dados_autor": "Maurício Rizzato Coelho (NA); Elaine Cristina Cardoso Fidalgo (NA); Fabiano de Oliveira Araújo (NA); Humberto Gonçalves dos Santos (NA); Maria de Lourdes Mendonça Santos (NA); Daniel Vidal Pérez (NA); Fátima Maria de Souza Moreira. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0567.html'>ctb0567<\/a>",
+      "dados_titulo": "Levantamento Semidetalhado dos Solos da Microbacia do Córrego da Tábua, no Município de São Fidélis, Rio de Janeiro",
+      "dados_autor": "Braz Calderano Filho (NA); Humberto Gonçalves dos Santos (NA); Marie Elisabeth Christine Claessen (NA); Elias Pedro Motchi (NA); Klaus Peter Wittern (NA); Livia Derzié Luz (NA); Sebastião Barreiros Calderano (NA); Waldir de Carvalho Júnior (NA); César da Silva Chagas (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0568.html'>ctb0568<\/a>",
+      "dados_titulo": "Levantamento pedológico, vulnerabilidade e potencialidade ao uso das terras: quadrículas de Silva Jardim e Rio das Ostras, Estado do Rio de Janeiro",
+      "dados_autor": "José Francisco Lumbreras (NA); Amaury de Carvalho Filho (NA); Braz Calderano Filho (NA); Raphael David dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0569.html'>ctb0569<\/a>",
+      "dados_titulo": "Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos da Região Centro-Oeste RCC - GO/MT",
+      "dados_autor": "Virlei Álvaro de Oliveira (virlei53@gmail.com); Humberto Gonçalves dos Santos (humberto.santos@embrapa.br); Antônio José Wilman Rios ( rios@ibge.gov.br); Paulo Tito Klinger Jacomine (pauloklinger@hotmail.com\n); Daniel Vidal Pérez (daniel.perez@embrapa.br); Wilson Sant'Anna de Araújo (wilson@cnps.embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0570.html'>ctb0570<\/a>",
+      "dados_titulo": "Levantamento expedito dos solos das reservas florestais de Linhares e Sooretama no Estado do Espírito Santo",
+      "dados_autor": "Raphael David dos Santos (NA); Washington de Oliveira Barreto (NA); Enio Fraga da Silva (NA); Wilson Sant'Anna de Araújo (NA); Marie Elisabeth Christine Claessen (NA); José Lopes de Paula (NA); João Luiz Rodrigues de Souza (NA); Daniel Vidal Pérez (NA); José Silva de Souza. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0572.html'>ctb0572<\/a>",
+      "dados_titulo": "Solos do Estado de Santa Catarina",
+      "dados_autor": "Reinaldo Oscar Potter (NA); Américo Pereira de Carvalho (NA); Carlos Alberto Flores (NA); Itamar Bognola (NA); Pedro Jorge Fasolo (NA); Moacyr Jesus Rauen (NA); Alcides Cardoso (NA); Delcio Peres Hochmuller (NA); Gustavo Cúrcio Ribas (NA); Marcos Fernando Rachwal. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0573.html'>ctb0573<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais.'",
+      "dados_autor": "Santos (NA); H.G. dos (NA); Filho (NA); B.C.  (NA); Claessen (NA); M.E.C.  (NA); Junior (NA); W. de C.  (NA); Chagas (NA); C. da S.  (NA); Wittern (NA); K.P.  (NA); Mothci (NA); E.P.  (NA); Barreto (NA); W. de O.(in memorian) (NA); Araujo (NA); W.S. de (NA); Duriez (NA); M.A.de M.  (NA); Johas (NA); R.A.L.  (NA); Paula (NA); J.L. de (NA); Antonello (NA); L.L. (NA); Fonseca (NA); O.O.M.de (NA); Lemos (NA); A.L.(in memorian).  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0574.html'>ctb0574<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Mapeamento Pedológico e Interpretações Úteis ao Planejamento Ambiental do Município do Rio de Janeiro'",
+      "dados_autor": "Lumbreras (NA); J.F (NA); Gomes (NA); J.B.V (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0577.html'>ctb0577<\/a>",
+      "dados_titulo": "Inventário de Terras: microbacia Concórdia (município de Lontras - SC)",
+      "dados_autor": "Ivan Luiz Zilli Bacic (NA); José Augusto Laus Neto (NA); Yara Maria Alves Chanin (NA); Luiz Albano Hammes (NA); Cristina Pandolfo (NA); Denilson Dortzbach (NA); Gabriel Torquato Silveira (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0578.html'>ctb0578<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Levantamento Detalhado dos Solos da Fazenda Angra-PESAGRO-Rio Estação Experimental de Campos'",
+      "dados_autor": "Enio Fraga da Silva (NA); José Ronaldo de Macedo (NA); Helga Restum Hissa Manzatto (NA); Claudio Lucas Capeche (NA); Rachel Bardy Prado. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0579.html'>ctb0579<\/a>",
+      "dados_titulo": "Inventário de Terras: microbacia Córrego Tarumãzinho (município de Águas Frias - SC)",
+      "dados_autor": "Ivan Luiz Zilli Bacic (NA); José Augusto Laus Neto (NA); Yara Maria Alves Chanin (NA); Luiz Albano Hammes (NA); Cristina Pandolfo (NA); Denilson Dortzbach (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0580.html'>ctb0580<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Levantamento Pedológico Detalhado (1:5.000) da Unidade de Pesquisa e Desenvolvimento de Tatuí (APTA Sudoeste Paulista - SAA / SP)'",
+      "dados_autor": "Maurício Rizzato Coelho (Mauricio.coelho@embrapa.br); Marcio Rossi (menk@fasternet.com.br); Ricardo Marques Coelho (NA); João Roberto Ferreira Menk (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0581.html'>ctb0581<\/a>",
+      "dados_titulo": "Caracterização dos Solos do Município de Castro, PR",
+      "dados_autor": "Pedro J. Fasolo (NA); Américo P. Carvalho (NA); Reinaldo O. Potter (NA); Itamar A. Bognola (NA); Silvio B. Bhering (NA); Lucieta G. Martorano. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0582.html'>ctb0582<\/a>",
+      "dados_titulo": "Caracterização dos Solos do Município de Carambeí, PR",
+      "dados_autor": "Itamar A. Bognola (NA); Reinaldo O. Potter (NA); Américo P. Carvalho (NA); Pedro J. Fasolo (NA); Silvio B. Bhering (NA); Lucieta G. Martorano. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0583.html'>ctb0583<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Microbacia Hidrográfica do Córrego Água Limpa, no Municípío de Alcinópolis-MS'",
+      "dados_autor": "João Souza Martins (NA); Maria José Zaroni (NA); Sebastião Barreiros Calderano (NA); Heitor Luiz Costa Coutinho. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0584.html'>ctb0584<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Microbacia do Córrego Baixadão no Município de São Gabriel do Oeste/MS'",
+      "dados_autor": "João Sousa Martins (NA); Maria José Zaroni (NA); Sebastião Barreiros Calderano (NA); Enio Fraga da Silva. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0585.html'>ctb0585<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Solos do Campo Experimental da Embrapa Milho e Sorgo: suas características e classificação no novo sistema brasileiro'",
+      "dados_autor": "Luzberto Achá Panoso (NA); Doracy Pessoa Ramos (NA); Mitzi Brandão. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0586.html'>ctb0586<\/a>",
+      "dados_titulo": "Inventário de Terras: microbacia Rio Tigre (município de Canoinhas - SC)",
+      "dados_autor": "Ivan Luiz Zilli Bacic (NA); José Augusto Laus Neto (NA); Yara Maria Alves Chanin (NA); Cristina Pandolfo (NA); Luiz Albano Hammes (NA); Denilson Dortzbach (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0588.html'>ctb0588<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Microbacia dos Córregos Barroso/Barrozinho no Município de Camapuã, MS'",
+      "dados_autor": "João Souza Martins (NA); Sebastião Barreiros Calderano (NA); Maria José Zaroni (NA); Heitor Luiz Costa Coutinho (NA); Jesus Fernando Mansilla Baca. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0589.html'>ctb0589<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Solos do Campo Experimental da Embrapa Algodão, em Patos-PB Levantamento Detalhado e Potencial Edáfico'",
+      "dados_autor": "Nivaldo Burgos (NA); Antônio Cabral Cavalcanti (NA); Flávio Hugo Barreto Batista da Silva (NA); Manoel Batista de Oliveira Neto. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0590.html'>ctb0590<\/a>",
+      "dados_titulo": "Caracterização dos Solos do Município de Tibagi - PR",
+      "dados_autor": "Américo P. Carvalho (NA); Pedro J. Fasolo (NA); Itamar A. Bognola (NA); Reinaldo O. Potter (NA); Silvio B. Bhering (NA); Lucieta G. Martorano. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0591.html'>ctb0591<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos da Região Sudeste do Estado do Paraná (áreas 4, 5 e 6)",
+      "dados_autor": "Pedro J. Fasolo (NA); Itamar A. Bognola (NA); Américo P. Carvalho (NA); Reinaldo O. Potter (NA); Silvio B. Bhering. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0593.html'>ctb0593<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'Levantamento de Reconhecimento dos Solos da Região Centro-Leste do Estado do Paraná (área 10)'",
+      "dados_autor": "Itamar A. Bognola (NA); Pedro J. Fasolo (NA); Américo P. Carvalho (NA); Reinaldo O. Potter (NA); Silvio B. Bhering. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0594.html'>ctb0594<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos da Região Central do Estado do Paraná (área 8)",
+      "dados_autor": "Itamar A. Bognola (NA); Pedro J. Fasolo (NA); Reinaldo O. Potter (NA); Américo P. Carvalho (NA); Silvio Barge Bhering (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0595.html'>ctb0595<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Área do Sistema Integrado de Produção Agroecológica (SIPA) - KM 47 - Seropédica, RJ'",
+      "dados_autor": "Raphael David dos Santos (NA); Sebastião Barreiros Calderano (NA); Osório Oscar Marques da Fonseca (NA); Aroaldo Lopes Lemos (NA); Braz Calderano Filho (NA); Washington de Oliveira Barreto (NA); Wilson Sant?Anna de Araújo (NA); Marie Elisabeth Christine Claessen (NA); Daniel Vidal Pérez (NA); José Lopes de Paula (NA); José Silva de Souza (NA); Geovane Barbosa do Nascimento. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0597.html'>ctb0597<\/a>",
+      "dados_titulo": "Levantamento detalhado dos solos do Campo Experimental da Embrapa Meio Ambiente, Jaguariúna, SP",
+      "dados_autor": "Raphael David dos Santos (raphael@cnps.embrapa.br); Braz Calderano Filho (braz@cnps.embrapa.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0598.html'>ctb0598<\/a>",
+      "dados_titulo": "Conjunto de dados do  'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSIDADE DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DO PÓLO JURUÁ-SOLIMÕES, AMAZONAS'",
+      "dados_autor": "Antonio Agostinho Cavalcanti Lima (NA); Raimundo Silva Rêgo (NA); Amarindo Fausto Soares (NA); João Marcos Lima da Silva (NA); João Souza Martins (NA); José Raimundo Natividade Ferreira Gama (NA); Paulo Lacerda dos Santos (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Wilson Sant?Anna de Araújo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Marie Elisabeth Christine Claessen (NA); José Lopes de Paula (NA); João Luiz Rodrigues de Souza (NA); Therezinha Xavier Bastos (NA); Humberto Gonçalves dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0599.html'>ctb0599<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Projeto Parque Frei Veloso - Levantamento Detalhado dos Solos do Campus da Ilha do Fundão UFRJ'",
+      "dados_autor": "Raphael David dos Santos (NA); Fernando Vieira Agarez (NA);  Felipe Noronha (NA); Aroaldo Lopes Lemos (NA); Carlos Alberto Silva (NA); Sebastião Barreiros Calderano (NA); Miriam Miguel Augusto da Cruz (NA); Carlos Renan Ferreira Cruz. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0600.html'>ctb0600<\/a>",
+      "dados_titulo": "Sistemas Pedológicos no Cerrado de Goiás: Município de Silvânia; Região Centro-Oeste do Brasil",
+      "dados_autor": "Philipe Blancaneaux (philippe.Blancaneaux@bondy.ird.fr); Waldir de Carvalho Júnior (waldircj@cnps.embrapa.br); Paulo Emílio Ferreira da Motta (motta@cnps.embrapa.br); Amaury de Carvalho Filho (amaury@cnps.embrapa.br); Nilson Rendeiro Pereira (nilson@cnps.embrapa.br); César da Silva Chagas. (chagas.rj@gmail.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0602.html'>ctb0602<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Guia de Excursão Pedológica do XXX Congresso Brasileiro de Ciência do Solo - Solos da Zona da Mata de Pernambuco'",
+      "dados_autor": "Mateus Rosas Ribeiro Filho (NA); José Coelho de Araújo Filho (NA); Mateus Rosas Ribeiro (NA); Paulo Klinger Tito Jacomine (NA); Mauro Carneiro dos Santos (NA); Lindomário Barros de Oliveira (NA); José Fernando Wanderley Fernandes Lima (NA); Maria da Graça de Vasconcelos Xavier Ferreira (NA); Daniel Vidal Pérez (NA); Alexandre Hugo Cezar Barros (NA); Aldo Pereira Leite. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0603.html'>ctb0603<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Levantamento de Reconhecimento de Baixa Intensidade dos Solos do Entorno do Projeto Salitre - Juazeiro, BA'",
+      "dados_autor": "Uebi Jorge Naime (NA); Waldir de Carvalho Júnior (NA); Fernando Cezar Saraiva do Amaral (NA); Tony Jarbas Ferreira Cunha (NA); Enio Fraga da Silva (NA); Manoel Batista de Oliveira Neto (NA); Luiz Augusto Costa Fernandes (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0604.html'>ctb0604<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos do Trecho Cuiabá-Aripuanã, MT, Para Fins de Correlação e Classificação'",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); João Carlos Ker (NA); Lelis Nogueira Gonzaga (NA); João B. Pereira Leite Sobrinho (NA); Tereza Neide N. Vasconcelos (NA); Sérgio Lins de Melo (NA); Gonçalo Leite Moreira (NA); Luiz Gonzaga de Oliveira (NA); José Lopes de Paula (NA); Maria Amélia de Moraes Duriez (NA); Marie Elisabeth Christine Claessen (NA); Ruth Andrade Leal Johas (NA); Wilson Sant?Anna de Araújo (NA); Washington de Oliveira Barreto (NA); Evanda Maria Rodrigues (NA); Therezinha da Costa Lima (NA); Loiva Lizia Antonello. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0605.html'>ctb0605<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Média Intensidade dos Solos da Zona Campos das Vertentes - MG",
+      "dados_autor": "Alfredo Melhem Baruqui (NA); Uebi Jorge Naime (NA); Paulo Emílio Ferreira da Motta (NA); Amaury de Carvalho Filho (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0606.html'>ctb0606<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Caracterização de Ambientes na Chapada dos Veadeiros / Vale do Rio Paranã: Contribuição para a Classificação Brasileira de Solos'",
+      "dados_autor": "João Roberto Correia (joao.roberto@embrapa.br); Marília Lobo-Burle (marilia.burle@embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br); Silvio Tulio Spera (silvio.spera@embrapa.br); Idarê Azevedo Gomes (-); Raphael David dos Santos (-); José Eloi Guimarães Campos (eloi@unb.br); Manoel Claudio da Silva Júnior (mcsj@unb.br); Roselir de Oliveira Nascimento (roselir@unb.br); Gelson Minela (-); Adriana Reatto (reatto@embrapa.br); Mariza Nascimento Duarte (-)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0607.html'>ctb0607<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade do solos da região dos Tabuleiros Costeiros e da Baixada Litorânea do Estado de Sergipe",
+      "dados_autor": "José Coelho de Araújo Filho (jose.coelho@embrapa.br); Osvaldo Ferreira Lopes (osvaldo.lopes@embrapa.br); Manoel Batista de Oliveira Lopes (manoel.neto@embrapa.br); Lúcia Raquel Queiroz Nogueira (NA); Antônio Carlos Barreto (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0608.html'>ctb0608<\/a>",
+      "dados_titulo": "Conjunto de dados do  'V Reunião de Classificação, Correlação e Aplicação de Levantamentos de Solos'",
+      "dados_autor": "Fernando Barreto Rodrigues e Silva (NA); Antonio Cabral Cavalcanti (NA); Flávio Hugo Barreto Batista da Silva (NA); Nivaldo Burgos (NA); José Coelho de Araújo Filho (NA); Raphael David dos Santos (NA); Idarê Azevedo Gomes (NA); Mauro Carneiro dos Santos (NA); José Carlos Pereira dos Santos (NA); Paulo Cardoso de Lima (NA); Aluísio Granato de Andrade (NA); Marie Elisabeth Cristine Claesson (NA); Washington de Oliveira Barreto (NA); Mariza Nascimento Duarte (NA); Sebastião B. Calderano (NA); Brivaldo Gomes de Almeida. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0609.html'>ctb0609<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de baixa intensidade 'Levantamento de Reconhecimento de Baixa Intensidade dos Solos e Aptidão Agrícola das Terras de Parte da Região Geoeconômica de Brasília'",
+      "dados_autor": "Antonio Ramalho Filho (-); Elias Pedro Mothci (-); Klaus Peter Wittern (-); Loiva Lizia Antonello (loiva@acd.ufrj.br); Marcelo Nunes Camargo (-); Gisa Nara Moreira (-); Maria Amélia de Moraes Duriez (-); Marie Elisabeth C. C. Magalhães Melo (-); Raphael M. Bloise (-); Ruth Andrade Leal Johas (-); Wilson Sant'Anna de Araujo (-); José Lopes de Paula (-); Therezinha da Costa Lima (-); Flavio Garcia de Freitas. (-)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0610.html'>ctb0610<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade, Avaliação de Aptidão Agrícola das Terras e indicação de Culturas em Áreas Homogêneas de Solos de Alguns Municípios do Sudoeste do Estado de Mato Grosso.'",
+      "dados_autor": "Antonio Manoel Pires Filho (NA); Humberto G. dos Santos (NA); Elias P. Mothci (NA); Raymundo M. Sobral Filho (NA); Osório O. Marques da Fonseca (NA); Maria Amélia de M. Duriez (NA); Marie Elizabeth C. C. de M. Melo (NA); Ruth Andrade Leal Johas (NA); Wilson Sant'Anna de Araújo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); Luiz Eduardo Ferreira Fontes (NA); João Luiz Rodrigues de Souza (NA); Therezinha da Costa Lima (NA); Loiva Lizia Antonello (NA); Evandra Maria Rodrigues (NA); Therezinha Xavier Bastos (NA); Tatiana Deane de Abreu Sá Diniz. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0613.html'>ctb0613<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em bacias hidrográficas, 1 Bacia Hidrográfica do Rio Camboriú (Municípios de Camboriú e Balneário Camboriú, SC)'",
+      "dados_autor": "Gilberto Tassinari - Ivan Luiz Zilli Bacic - José Augusto Laus Neto - Mara Cristina Benez - Yara Maria Alves Chanin (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0614.html'>ctb0614<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Inventário das terras em microbacias hidrográficas, 5 Microbacia: Ribeirão Caçador (Laurentino, SC). '",
+      "dados_autor": "TASSINARI (NA); G. (NA); BUCHMANN (NA); E.  (NA); SONEGO (NA); M.  (NA); BENEZ (NA); M.C. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0615.html'>ctb0615<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 27 Microbacia:Rio Pinheiros (Orleans, SC)'",
+      "dados_autor": "Mara Cristina Benez (NA); Yara Maria Alves Chanin (NA); Fernando G. de Oliveira (NA); Augusto Carlos Pola (NA); Airton Benedetti (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0616.html'>ctb0616<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Inventário das terras em microbacias hidrográficas, 26 Microbacia: Linha Anta/Três Ribeirões (Içara, SC). '",
+      "dados_autor": "MACIEL (NA); C.A.T. (NA); PANICHI (NA); J. de A.V.  (NA); BENEZ (NA); M.C.  (NA); CHANIN (NA); Y.M.A.  (NA); POLA (NA); A.C.  (NA); RAMOS (NA); A.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0617.html'>ctb0617<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras do Triângulo Mineiro",
+      "dados_autor": "Iderê Azevedo Gomes (NA); Francesco Palmieri (NA); Alfredo Melhem Baruqui (NA); Paulo Emílio Ferreira da Motta (NA); Eubi Jorne Naime (NA); Derli Prudente Santana (NA); Elias Pedro Mothci (NA); Flavio Garcia de Freitas (NA); Humberto Gonçalves dos Santos (NA); Reinaldo Oscar Pötter (NA); Washington de Oliveira Barreto (NA); Marilia Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Maria Elisabeth C. C. de Magalhães Melo (NA); Wilson Sant'Anna de Araújo (NA); José Lopes de Paula (NA); Luiz Eduardo Ferreira Fontes (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); José Flávio Dynia (NA); Gisa Nara C. Moreira (NA); Fernando Zinho Antunes (NA); Mitzi Brandão Ferreira (NA); Marcelo Nunes Camargo (NA); Jorge Olmos Iturri Larach. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0618.html'>ctb0618<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 29 Microbacia: Rio Malacara (Praia Grande, SC).'",
+      "dados_autor": "TASSINARI (NA); G. (NA); BUCHMANN (NA); E.  (NA);  SONEGO (NA); M.  (NA); CARLESSI (NA); L.V.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0619.html'>ctb0619<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 17 Microbacia: Lajeado Liso I (Guaraciaba, SC).'",
+      "dados_autor": "TASSINARI (NA); G. (NA); BUCHMANN (NA); E. (NA); POLA (NA); A.C (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0620.html'>ctb0620<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 28 Microbacia: Lageado Sobradinho (Aguas de Chapeco,SC).'",
+      "dados_autor": "LAUS NETO (NA); J.A. (NA); SIMON (NA); A.A. (NA); MEDEIROS JUNIOR (NA); M.A. (NA); POLA (NA); A.C.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0621.html'>ctb0621<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 12 Microbacia: Capelinha (Ipira,SC).'",
+      "dados_autor": "BUCHMANN (NA); E. (NA); TASSINARI (NA); G.  (NA); SONEGO (NA); M.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0622.html'>ctb0622<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 24 Microbacia: Rio Macaco Branco (Tunápolis, SC)'",
+      "dados_autor": "TASSINARI (NA); G. (NA); BUCHMANN (NA); E.  (NA); POLA (NA); A.C.  (NA); BAUMGRATZ (NA); P.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0623.html'>ctb0623<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 13 Microbacia: Pato Roxo (Lacerdópolis, SC)'",
+      "dados_autor": "TASSINARI (NA); G. (NA); BUCHMANN (NA); E.  (NA); SONEGO (NA); M.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0624.html'>ctb0624<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 25 Microbacia: Oeste (Salto Veloso, SC)'",
+      "dados_autor": "TASSINARI (NA); G. (NA); \nBUCHMANN (NA); E.  (NA); \nABATI FILHO (NA); A.  (NA); \nFIGUEIRO (NA); N.  (NA); \nPOLA (NA); A.C.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0626.html'>ctb0626<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 36 Microbacia: Vale do Selke (Pomerode,SC)'",
+      "dados_autor": "Álvaro Afonso Simon (NA); José Augusto Laus Neto (NA); Sergio Flohr (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0627.html'>ctb0627<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 19 Microbacia: Pinheiro Preto II (Pinheiro Preto, SC)'",
+      "dados_autor": "CHANIN (NA); Y.A. (NA); \nBENEZ (NA); M.C.  (NA); \nPANICHI (NA); J. de A.V.  (NA); \nPOLA (NA); A.C.  (NA); \nSOUZA (NA); E.L. de.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0628.html'>ctb0628<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 30 Microbacia: Anta Gorda (Videira,SC).'",
+      "dados_autor": "Gilberto Tassinari (NA); Celso Brancher (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0629.html'>ctb0629<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 21 Microbacia: Rio Pesqueiro (Xanxerê,SC).",
+      "dados_autor": "Álvaro Afonso Simon (NA); Augusto Carlos Pola (NA); José Augusto Laus (NA); Altair L. Faé (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0631.html'>ctb0631<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos do Estado do Paraná - Tomos I e II",
+      "dados_autor": "Jorge Olmos Iturri Larach (NA); Alcides Cardoso (NA); Américo Pereira de Carvalho (NA); Delcio Peres Hochmüller (NA); João Souza Martins (NA); Moacyr de Jesus Rauen (NA); Pedro Jorge Fasolo (NA); Reinaldo Oscar Pötter (NA); Washington Oliveira Barreto (NA); Maria Amélia M. Duriez (NA); Ruth A. Leal Johas (NA); Wilson Sant'Anna de Araujo (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa L. Bezerra (NA); Raphael Minotti Bloise (NA); Orlando Faria Bandeira (NA); Valdir Luiz de Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0632.html'>ctb0632<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 35 Microbacia: Rio Dourado I (São João do Oeste,SC)'",
+      "dados_autor": "TASSINARI (NA); G. (NA); \nJUNCES (NA); L. (NA); \nPOLA (NA); A.C.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0635.html'>ctb0635<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos do Distrito Federal",
+      "dados_autor": "Flávio Garcia de Freitas (NA); Idarê Azevedo Gomes (NA); Roberto Chaves Ferreira (NA); Loiva Lizia Antonello (NA); Ney Pinto Gomes (NA); Washington de Oliveira Barreto (NA); José Lopes de Paula (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Raphael Minotti Bloise (NA); Evanda Maria Rodrigues (NA); Therezinha da Costa Lima Bezerra (NA); Claudio Edson Chaffin (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0636.html'>ctb0636<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos do sul do estado de Mato Grosso",
+      "dados_autor": "Flavio Garcia de Freitas (NA); Marcelo Nunes Camargo (NA); Antonio Ramalho Filho (NA); Elias Pedro Mothci (NA); Esteväo Machado Moura (NA); Hélio da Costa Almeida (NA); Humberto G. dos Santos (NA); Joäo A. Martins do Amaral (NA); Joäo M. Gralha Tomasi (NA); Klaus Peter Wittern (NA); Manoel Faustino Neto (NA); Reinaldo Oscar Potter (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0637.html'>ctb0637<\/a>",
+      "dados_titulo": "Levantamento exploratório-reconhecimento de solos do Estado do Piauí",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); Antonio Cabral Cavalcanti (NA); Sergio Costa Pinto Pessoa (NA); Nivaldo Burgos (NA); Heraclio Fernandes Raposo de Mélo Filho (NA); Osvaldo Ferreira Lopes (NA); Luis Alberto Regueira Medeiros (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0638.html'>ctb0638<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 9 Microbacia: Lajeado Forquilha (Seara,SC).'",
+      "dados_autor": "PANICHI (NA); J. de A.V. (NA); MACIEL (NA); C.A.T. (NA); De ROSSO (NA); R. V. (NA); MORO (NA); L. L. D. (NA); SÔNEGO M. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0639.html'>ctb0639<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras da área do Polo Pré-Amazônia Maranhense",
+      "dados_autor": "Raimundo Silva Rego (NA); Amarindo Fausto Soares (NA); Raphael David dos Santos (NA); José Raimundo N. F. Gama (NA); João Marcos Lima da Silva (NA); João Souza Martins (NA); Paulo Lacerda dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0640.html'>ctb0640<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Anais da II Reunião de Classificação, Correlação de Solo e Interpretação de Aptidão Agrícola'",
+      "dados_autor": "Américo Pereira de Carvalho (NA); Jorge Olmos I. Larach (NA); Marcelo N. Camargo (NA); João Bertlodo de Oliveira (NA); Humberto G. dos Santos (NA); Elias P. Mothci (NA); Klaus P. Wittern (NA); Mauro da Conceição (NA); Ney P. Tavares (NA); Eliezer S. Louzada (NA); Doracy P. Ramos (NA); Hélio Padro (NA); João Luiz R. de Souza (NA); Antonio Carlos Moniz (NA); Célio L. F. de Almeida (NA); Maria Amélia de M. Duriez (NA); Ruth A. Leal Johas (NA); M. Elisabeth C. C. de Magalhães Melo (NA); Wilson S. de Araujo (NA); Raphael M. Bloise (NA); Gisa N. C. Moreira (NA); José Lopes de Paula (NA); Therezinha da Costa Lima (NA); Evanda M. Rodrigues (NA); Loiva L. Antonello (NA); Paulo Cardoso Lima (NA); José da Silva Pinto. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0641.html'>ctb0641<\/a>",
+      "dados_titulo": "Anais da III Reunião  de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola",
+      "dados_autor": "A. P. Carvalho (NA); R. M. Sobral Filho (NA); J. Olmos I. L. (NA); M. N. Camargo (NA); R. Pötter (NA); D. Hochmüller (NA); J. Ker (NA); L. Achá Panoso (NA); J. B. Oliveira (NA); J. M. Valadares (NA); M. Conceição (NA); K. P. Wittern (NA); F. Barreto (NA); E. P. Mothci (NA); F. Palmieri (NA); T. E. Rodrigues (NA); J. L. Souza (NA); N. P. Tavares (NA); W. Azevedo (NA); W. Oliveira (NA); R. N. Peres (NA); M. A. M. Duriez (NA); R. A. L. Johas (NA); M. E. C. C. Melo (NA); W. S. Araújo (NA); J. L. Paula (NA); J. L. R. Souza (NA); P. C. Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0642.html'>ctb0642<\/a>",
+      "dados_titulo": "Levantamento exploratório-reconhecimento de solos do norte de Minas Gerais (área de atuação da SUDENE)",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); Antonio Cabral Cavalcanti (NA); Rheno Amaro Formiga (NA); Fernando Barreto Rodrigues e Silva (NA); Nivaldo Burgos (NA); Luiz Alberto Regueira Medeiros (NA); Osvaldo Ferreira Lopes (NA); Heraclio Fernandes R. de Mélo Filho (NA); Sergio Costa Pinto Pessôa (NA); Paulo Cardoso de Lima (NA); Washington de O. Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula Luiz Eduardo Ferreira Fontes (NA); Therezinha da Costa Lima Bezerra (NA); Liva Lizia Antonello (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); José Flávio Dynia (NA); Giza Nara C. Moreira (NA); Roberto Chaves Ferreira (NA); Maria Carmelita M. Meneses (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0643.html'>ctb0643<\/a>",
+      "dados_titulo": "VI Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos RS/SC/PR",
+      "dados_autor": "Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); Américo Pereira de Carvalho (NA); Itamar Antonio Bognola (itamar.bognola@embrapa.br); Renato Antonio Dedecek (NA); Raphael D. dos Santos (NA); Iderê Azevedo Gomes (NA); Márcio Rossi (NA); Maurício Rizzato Coelho (NA); Washington de Oliveira Barreto (NA); Aluísio Granado de Andrade (NA); Jaime Antônio de Almeida (NA); Sebastião Barreiros Calderano (NA); João Carlos Ker (NA); Mauro da Conceição (NA); Antônio Carlos Saraiva da Costa (NA); Álvaro Pires da Silva (NA); Neyde F. B. Giarola (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0645.html'>ctb0645<\/a>",
+      "dados_titulo": "Levantamento exploratório-reconhecimento de solos do Estado do Maranhão",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); Antonio Cabral Cavalcanti (NA); Sergio Costa Pinto Pessôa (NA); Nivaldo Brugos (NA); Luiz Alberto Regueira Medeiros (NA); Osvaldo Ferreira Lopes (NA); Heraclio Fernandes Raposo de Mélo  Filho (NA); Rheno Amaro Formiga (NA); Maria Amélia de Moraes Duriez (NA); Marie Elizabeth C. C. de Mélo Filho (NA); Ruth Andrade Leal Johas (NA); Washington de Oliveira Barreto (NA); Wilson Sant'Anna de Araújo (NA); Raphael Minotti Bloise (NA); Giza Nara C. Moreira (NA); Luiz Bezerra de Oliveira (NA); José Lopes de Paula (NA); Therezinha da Costa Lima (NA); Loiva Lizia Antonello (NA); Evanda Maria Rodrigues (NA); Maria Carmelita Machado Menezes (NA); Roberto Chaves Ferreira (NA); Alfredo Stange (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0646.html'>ctb0646<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras da margem direita do Rio Paranã - Estado de Goiás",
+      "dados_autor": "Flávio Garcia de Freitas (-); Elias Pedro Mothci (-); Humberto Gonçalves dos Santos (humberto@cnps.embrapa.br); Reinaldo Oscar Potter (-); Roberto Chaves Ferreira (-); Loiva Lizia Antonello ( loiva@acd.ufrj.br); Leandro Vettori (-); Helio Pierantoni (-); João Luiz R. de Souza (-); José Lopes de Paula (-); Maria Amélia de Moraes Duriez (-); Ruth A. L. Johas (-); Raphael M. Bloise (-); José Flávio Dynia (-); Gisa Nara C. Moreira (-); Luiz Rainho S. Carneiro (-); Franklin dos Santos Antunes (-); Therezinha Costa Lima (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0647.html'>ctb0647<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'Levantamento de Reconhecimento dos Solos da Região Sob influência do Reservatório de Furnas'",
+      "dados_autor": "Marcelo Nunes Camargo (NA); Chyozo Hirano (NA); Flávio Garcia de Freitas (NA); Paulo klinger Tito Jacomine (NA); Franklin dos Santos Antunes (NA); Clotário Olivier da Silveira (NA); Jakob Bennema (NA); Luzberto Achá Panoso (NA); Raphael David dos Santos (NA); Raul Suarez Inclan (NA); Bernardo Carvalho Avelar (NA); Leandro Vettori (NA); Fernando Ramos (NA); Adalgiso Galloti Kehrig (NA); Luiz Rainho da Silva Carneiro (NA); Roberto Alvahydo (NA); Franklin dos Santos Antunes (NA); Ary Coleho da Silva (NA); Tasso Paes de Figueiredo (NA); Abeilard Fernando de Castro (NA); Ben Hur Marques Ramos (NA); Raphael Bloise (NA); Maria Amélia de Morais Duriez (NA); Ruth Andrada Leal Johas (NA); Emília Constantino (NA); José Almeida da Silva (NA); Edson Marques de Araújo (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Adahil de Medeiros Leite (NA); Argelinda Costa Prado (NA); Ayda Coelho (NA); Domingos Teixeira (NA); Mário de Castro (NA); Roberto Ronald de Mesquita (NA); Antônio Lemos Pereira (NA); Ismael Machado. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0648.html'>ctb0648<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado de Solos da Área do Centro Nacional de Pesquisa de Gado de Leite, Coronel Pacheco, MG'",
+      "dados_autor": "Luzberto Achá Panoso (NA); Hélio Lopes dos Santos (NA); Cléverson Siqueira (NA); Odilon Ferreira Saraiva (NA); Mitzi Brandão Ferreira (NA); Luiz Marcelo Aguiar Sans (NA); Bernardo Carvalho Avelar (NA); José Ferreira Mendes (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth A. Leal Johas (NA); Luiz Carlos Ferreira da Silva (NA); Luiz Eduardo Ferreira Fontes (NA); Loiva L. Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Derli Prudente Santana (NA); Alfredo Melhem Baruqui (NA); Francisco Melhem Baruqui (NA); Joaquim Rosa de Almeida. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0654.html'>ctb0654<\/a>",
+      "dados_titulo": "Conjunto de dados do  'V Reunião de classificação, correlação e aplicação de levantamentos de solo - Guia de excursão de estudos de solos nos estados de Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Bahia.'",
+      "dados_autor": "Fernando Barreto Rodrigues e Silva (NA); Antonio Cabral Cavalcanti (NA); Flávio Hugo Barreto Batista da Silva (NA); Nivaldo Burgos (NA); José Coelho de Araújo Filho (NA); Raphael Davi dos Santos (NA); Idarê Azevedo Gomes (NA); Mauro Carneiro dos Santos (NA); José Carlos Pereira dos Santos (NA); Aldo Pereira Leite (NA); Paulo Cardoso de Lima (NA); Aluísio Granado (NA); Marie Elisabeth Cristine Claesson (NA); Washington de Oliveira Barreto (NA); Mariza Nascimento Duarte (NA); Sebastião B. Calderano (NA); Brivaldo Gomes de Almeida (NA); Humberto Gonçalves dos Santos (NA); Paulo Bezerra Fernandes (NA); Alexandre César de Barros (NA); Renival Alves de Souza (NA); Edson Lutosa de Possídio. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0655.html'>ctb0655<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de baixa intensidade dos solos e avaliação da aptidão agrícola das terras de área piloto no município de Barreirinha - Estado do Amazonas",
+      "dados_autor": "Raphael David dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0656.html'>ctb0656<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO-RECONHECIMENTO DE SOLOS DO ESTADO DA PARAÍBA (VOLUME I) E INTERPRETAÇÃO PARA USO AGRÍCOLA DOS SOLOS DO ESTADO DA PARAÍBA (VOLUME II).'",
+      "dados_autor": "PAULO KLINGER JACOMINE (NA); MATEUS ROSAS RIBEIRO (NA); JOSÉ ONALDO MONTENEGRO (NA); ALUÍSIO PEREIRA DA SILVA (NA); HERÁCLIO F. R. DE MELO FILHO (NA); CLOTÁRIO OLIVIER DA SILVEIRA (NA); ANTONIO CABRAL CAVALCANTI (NA); ERNANI LIBRA DE CARVALHO (NA); FERNANDO B. RODRIGUES E SILVA (NA); JERONIMO CUNHA ALMEIDA\nJURANDIR GONDIM REIS (NA); JOÃO CARLOS CHAGAS CAMPOS (NA); NIVALDO BURGOS (NA); RHENO AMARO FORMIGA (NA); VALDIR DE ARAÚJO BELTRÃO (NA); LEANDRO VETTORI (NA); FRANKLIN DOS SANTOS ANTUNES (NA); MARIA DE LOURDES A. ANASTÁCIO (NA); RAPHAEL M. BLOISE (NA); HÉLIO PIERANTONI (NA); MARIA AMÉLIA DURIEZ;RUTH A. L. JOHAS (NA); ADALTON OLIVEIRA MARTINS (NA); THEREZINHA C. L. BEZERRA (NA); LOIVA LIZIA ANTONELLO (NA); LUIS RAINHO S. CARNEIRO (NA); MARIANA E. HEYNEMMAM (NA); RAIMUNDO M. SOBRAL FILHO (NA); JOSÉ LOPES DE PAULA (NA); GIZA NARA C. MOREIRA (NA); ZILDA A. BREMAEKER (NA); WHASHINGTON DE O. BARRETO (NA); HELIO A. VAZ DE MELLO (NA); IDA DE SOUZA S. VETTORI (NA); MARIA APARECIDA B. PEREIRA (NA); SINÉZIO F. CHAGAS (NA); ADAHIL MEDEIROS LEITE (NA); MANOEL DA SILVA CARDOSO (NA); ANTONIO CARLOS MOTTA (NA); ANTONIO MOREIRA DA COSTA (NA); CLÍMACO M. AUGUSTO (NA); JOSÉ MATEUS (NA); ZENAIDE FONSECA MELLO (NA); MARIA LÚCIA VASCONCELLOS (NA); NEY HAMILTON PROFÍRIO (NA); MARIA CARMELITA M. MENEZES (NA); JOSÉ CORSINO DE OLIVEIRA (NA); MÉRCIA BORBOREMA DE OLIVEIRA (NA); CHYOSO HIRANO (NA); JAN HENDRIK SOLKE BRUIN. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0657.html'>ctb0657<\/a>",
+      "dados_titulo": "Levantamento Exploratório - Reconhecimento de Solos da Margem Direita do Rio São Franciso. Estado da Bahia - Volume I",
+      "dados_autor": "Paulo klinger Tito Jacomina (NA); Antonio Cabral Cavalcanti (NA); Fernando B. Rodrigues e Silva (NA); José Onaldo Montenegro (NA); Rheno Amaro Formiga (NA); Nivaldo Burgos (NA); Heraclio Fernandes R. de Mélo Filho. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0658.html'>ctb0658<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agricola das terras de 21.000 hectares no Município de Tefé, Amazonas",
+      "dados_autor": "Klaus Peter Wittern (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0659.html'>ctb0659<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento de Baixa Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras do Projeto de Colonização Apiaú - Território Federal de Roraima",
+      "dados_autor": "Raphael David dos Santos (NA); José Raimundo N.F. Gama (NA); Amarindo Fausto Soares (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0660.html'>ctb0660<\/a>",
+      "dados_titulo": "Estudo expedito de solos no Estado do Maranhão para fins de classificação, correlação e legenda preliminar",
+      "dados_autor": "Paulo KlInger Tito Jacomine (NA); Marcelo Nunes Camargo (NA); Raphael David dos Santos (NA); Antonio Cabral Cavalcanti (NA); Heraclio Fernandes Raposo de MeIo Filho (NA); Luiz Alberto Regueira Medeiros (NA); Nivaldo Burgos (NA); Osvaldo Ferreira Lopes (NA); Raimundo da Silva Rego (NA); Rheno Amaro Formiga (NA); Sergio Costa Pinto Pessoa (NA); Tarcísio Ewerton Rodrigues  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0661.html'>ctb0661<\/a>",
+      "dados_titulo": "Levantamento exploratório-reconhecimento de solos do Estado do Ceará",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); Jeronimo Cunha Almeira (NA); Luiz A. Regueira Medeiros   (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0662.html'>ctb0662<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS DO ESTADO DO ESPIRITO SANTO'",
+      "dados_autor": "Luzberto Achá Panoso (NA); Idarê Azevedo Gomes (NA); Antônio Manoel Pires Filho (NA); Sebastião Bonelli. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0663.html'>ctb0663<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras de uma area sob influência dos rios Araguari, Falsino e Tartarugal Grande-Território Federal do Amapá",
+      "dados_autor": "Humberto Gonçalves dos Santos (NA); Marcos Rocha de Andrade (NA); João Cristóstomo Duarte de Souza (NA); Loiva Lizia Antonello (NA); Laércio Aires dos Santos (NA); Alcione Maria Carvalho Cavalcante (NA); Washington de Oliveira Barreto (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0664.html'>ctb0664<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 15.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0665.html'>ctb0665<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos e avaliação da aptidão agrícola das terras de uma área de colonização no Município de Urucará, Estado do Amazonas",
+      "dados_autor": "José Raimundo Natividade Ferreira Gama (NA); Amarindo Fausto Soares (NA); João Marcos Lima da Silva (NA); Maria Amélia de Moraes Duriez (NA); Marie Elizabeth C. C. de Magalhães Melo (NA);  Ruth Andrade Leal Johas (NA); Wilson Sant'Anna de Araujo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0666.html'>ctb0666<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Solos da Região Sudeste da Bahia - Atualização da legenda de Acordo com o Sistema Brasileiro de Classificação de Solos.'",
+      "dados_autor": "Sandoval Oliveira de Santana (NA); Raphael David dos Santos (NA); Idarê Azevedo Gomes (NA); Raildo Mota de Jesus (NA); Quintino Reis de Araujo (NA); José Rezende Mendonça (NA); Sebastião Barreiros Calderano (NA); Antônio Fontes Faria Filho (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0667.html'>ctb0667<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras da Área do Pólo Trombetas, Pará.'",
+      "dados_autor": "MARTINS (NA); J. S. (NA); SILVA (NA); J. M. L. de (NA); SANTOS (NA); R. D. dos (NA); SOARES (NA); A. F. (NA); LIMA (NA); A. A. C. (NA); gAMA (NA); J. R. N. F. (NA); SANTOS (NA); P. F. (NA); REGO (NA); R. S. (NA); BARRETO (NA); W. de O. (NA); DURIEZ (NA); M. A. de M. (NA); JOHAS (NA); R. A. L. (NA); ARAUJO (NA); W. S. de (NA); BLOISE (NA); R. M. (NA); DYNIA (NA); J. F. (NA); MOREIRA (NA); G. N. C. (NA); BASTOS (NA); T. X. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0668.html'>ctb0668<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de alta intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE ALTA INTENSIDADE DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE ÁREA AO LONGO DA BR-174, NA REGIÃO DO RIO ANAUÁ, NO MUNICÍPIO DE CARACARAÍ - T.F. DE RORAIMA.'",
+      "dados_autor": "Tarcisio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); José Raimundo Natividade Ferreira Gama (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Morais Duriez (NA); Ruth Andrade Leal Johas (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Evanda Maria Rodrigues (NA); Therezinha da Costa Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0669.html'>ctb0669<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras em 100.000 Hectares da Gleba Machadinho, no Município de Ariquemes, Rondônia.'",
+      "dados_autor": "WITTERN (NA); K. P. (NA); CONCEIÇÃO (NA); M. da (NA); DURIEZ (NA); M. A. de M. (NA); MELO (NA); M. E. C. C. de M. (NA); JOHAS (NA); R. A. L. (NA); ARAÚJO (NA); W. S. de (NA); BLOISE (NA); R. M. (NA); LOUZADA (NA); E. S. (NA); MOREIRA (NA); G. N. C. (NA); PAULA (NA); J. L. de (NA); FONTES (NA); L. E. F. (NA); SOUZA (NA); J. L. R. de (NA); ANTONELLO (NA); L. L. (NA); RODRIGUES (NA); E. M. (NA); LIMA (NA); TAVARES (NA); N. T. (NA); NEVES (NA); C. C. das (NA); VIEIRA (NA); R. R. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0670.html'>ctb0670<\/a>",
+      "dados_titulo": "Conjunto de dados do  'LATOSSOLO VERMELHO-AMARELO, PODZÓLICO VERMELHO-AMARELO. ARGILA DE ATIVIDADE BAIXA INTERMEDIÁRIOS: CONCEITUAÇÃO E DISTINÇÃO. (Tese de doutorado).'",
+      "dados_autor": "Humberto Gonçalves dos Santos. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0671.html'>ctb0671<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSIDADE E APTIDÃO AGRÍCOLA DOS SOLOS DA ÁREA DO PÓLO ALTAMIRA, PA.'",
+      "dados_autor": "Raimundo Silva Rego (NA); Amarindo Fausto Soares (NA); Raphael David dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Washington de Oliveira Barreto (NA); Maria Amélia Duriez (NA); Ruth A. L. Johas (NA); Wilson Sant'Anna de Araújo (NA); José Lopes de Paula (NA); Evanda Maria Rodrigues (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Raphael Minotti Bloise (NA); José Flávio Dynia (NA); Gisa Nara Castellini Moreira. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0672.html'>ctb0672<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Levantamento Detalhado de Área Piloto para Conservação de Solos no Município de Ibirubá, RS'",
+      "dados_autor": "Reinaldo Oscar Pötter (NA); Délcio Peres Hochmüller (NA); Pedro Luiz de Freitas (pedro.freitas@embrapa.br); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Washington de Oliveira Barreto (NA); Wilson Sant'Anna de Araujo (NA); José Lopes de Paula (NA); Luiz Carlos Ferreira da Silva (NA); Luiz Eduardo Ferreira Fontes (NA); Therezinha da Costa Lima (NA); Gisa Nara C. Moreira (NA); José Flavio Dynia (NA); Raphael Minotti Bloise (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0673.html'>ctb0673<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSIDADE DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DA ÁREA DO PÓLO RORAIMA'",
+      "dados_autor": "José Raimundo Natividade Ferreira Gama (NA); Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Raimundo Silva Rego (NA); Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); João Marcos Lima da Silva (NA); Raymundo Mendes Sobral Filho (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Terezinha Xavier Bastos\n (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0674.html'>ctb0674<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Caracterização e Classificação de Solos do Terciário no Nordeste do Estado do Pará.'",
+      "dados_autor": "João Marcos Lima da Silva (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0675.html'>ctb0675<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DO ESTADO DE SERGIPE.'",
+      "dados_autor": "José Klinger Tito Jacomine (NA); José Onaldo Montenegro (NA); Mateus Rosas Ribeiro (NA); Rheno Amaro Formiga (NA); Sergio Costa Pinto Pessôa (NA); Osvaldo Ferreira Lopes (NA); Aluísio Pereira da Silva (NA); Heraclio F. R. de Mélo Filho (NA); Arnaldo Moniz Ribeiro da Costa (NA); Gilberto Suhett (NA); Antonio Cabral Cavalcanti (NA); Fernando B. Rodrigues e Silva (NA); Jeronimo Cunha Almeida (NA); Nivaldo Burgos (NA); Luiz A. Regueira Medeiros (NA); Clotário Olivier da Silveira (NA); Ernani Lira de Carvalho (NA); Jurandir Gondim Reis (NA); Valdir de Araújo Beltrão (NA); Leandro Vettori (NA); Franklin dos Santos Antunes (NA); Maria de Lourdes A. Anastácio (NA); Hélio Pierantoni (NA); Therezinha C. L. Bezerra (NA); Washington de O. Barreto (NA); Raphael M. Bloise (NA); Maria Amélia Duriez (NA); Ruth A. L. Johas (NA); Giza Nara C. Moreira (NA); José Flávio Dynia (NA); José Lopes de Paula (NA); Hélio A. Vaz de Mello (NA); Ida de Souza S. Vettori (NA); Maria Aparecida B. Pereira (NA); Sinézio F. Chagas (NA); Adahil Medeiros Leite (NA); Manoel da Silva Cardoso (NA); Luiz Rainho S. Carneiro (NA); Loiva Lizia Antonello (NA); Zenaide Fonseca Mello (NA); Maria Lúcia Vasconcellos (NA); Ney Hamilton Porfírio (NA); Maria Carmelita M. Meneses (NA); Roberto Corsino de Oliveira (NA); Paulo Cardoso de Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0676.html'>ctb0676<\/a>",
+      "dados_titulo": "Conjunto de dados do  'CARACTERIZAÇÃO E GÊNESE DE SOLOS BRUNOS DO MACIÇO ALCALINO DE POÇOS DE CALDAS(MG)'",
+      "dados_autor": "Tarcísio Ewerton Rodrigues (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0677.html'>ctb0677<\/a>",
+      "dados_titulo": "Mapa esquemático de solos regiões Norte, Meio-Norte e Centro-Oeste do Brasil: primeira aproximação",
+      "dados_autor": "Marcelo Nunes Camargo (NA); Flávio Garcia de Freitas (NA); Klass Jan Beek (NA); Lioyd E. Garland (NA); Antônio Ramalho Filho (NA); João Mauríco Gralha Tomasi (NA); Dario Souza Castello (NA); Atanasio Alves Cordeiro (NA); Clotario Oliveira da Silveira (NA); Francesco Palmieri (NA); Idarê Azevedo Gomes (NA); Italo Cláudio Falesi (NA); Jorge Olmos Iturri Larach (NA); José Silva Rosatelli (NA); Luiz Gonzaga de Oliveira Carvalho (NA); Paulo Klinger Tito Jacomine (NA); Raphael David dos Santos (NA); Raul Suarez Inclan (NA); Adelino Alvarez Filho (NA); Antonio Manoel Pires Filho (NA); Antonio Ramalho Filho (NA); Ari Delcio Cavedon (NA); Benedito Nelson da Silva (NA); Chyozo Hirano (NA); Elias Pedro Mothci (NA); Estevão Machado Moura (NA); Hélio da Costa Almeida (NA); Humberto Gonçalves dos Santos (NA); Jalcione Nazareno Nunes Diniz (NA); João Alberto Martins do Amaral (NA); João Luiz Rodrigues de Souza (NA); João Viana Araújo (NA); Júlio C. A. J. de Magalhães (NA); Klaus Peter Wittern (NA); Lúcio Salgado Vieira (NA); Luiz Alberto Regueira Medeiros (NA); Manoel Faustino Neto (NA); Nathaniel J. Torres Bloomfield (NA); Raymundo Costa de Lemos (NA); Reinaldo Oscar Potter (NA); Sérgio Costa Pinto Pessoa (NA); Sérgio Sommer (NA); Waldemar Mendes (NA); Walmir Hugo dos Santos (NA); Leandro Vettori (NA); Fernando Ramos (NA); Hélio Pierantoni (NA); Maria Amélia Morais Duriez (NA); Maria de Lourdes A. Anastácio (NA); Mariana E. Heynemann (NA); Raphael M. Bloise (NA); Ruth A. L. Johas (NA); Washinton de Oliveira Barreto (NA); Zilda Amado H. Bremaeker (NA); Hélio Alberto Vaz de Mello (NA); Ida Vettori (NA); Maria Aparecida Barroso Perreira (NA); Adahil de Medeiros Leite (NA); Manoel da Silva Cardoso (NA); Abeilard Fernando de Castro (NA); Francisca M. Pinheiro (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); Raymundo Mendes Sobral Filho (NA); Franklin dos Santos Antunes (NA); Loiva Lizia Antonello (NA); Luiz Rainho S. Carneiro (NA); Therezinha O. L. Bezerra (NA); Sinésio Francisco Chagas (NA); Heloisa S. de Arango (NA); Aristóteles Nunes (NA); José Francisco Bizeray Zikan. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0678.html'>ctb0678<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DO ESTADO DE PERNAMBUCO - VOLUME II '",
+      "dados_autor": "Paulo Klinger Tito Jacomine (NA); Antonio Cabral Cavalcanti (NA); Nivaldo Burgos (NA); Sérgio (NA); Sérgio Costa Pinto Pessoa (NA); Clotário Oliver da Silveira (NA); Augusto Barros Filho (NA); Atanásio Alves Cordeiro (NA); Herodoto da Costa Barros (NA); Ivanildo de Aquino Abulquerque (NA); Maurílio de Oliveira Anonimo (NA); Luzberto Achá Panoso (NA); Luiz Gonzaga de Oliveira Carvalho (NA); Jorge Olmos Iturri Larachi (NA); José de Oliveira Melo (NA); Raul Suarez Inclan (NA); Marcelo Nunes Camargo (NA); João Wanderley da Costa Lima (NA); Jakob Bennema (NA); Jan Hendrik Solke Bruin (NA); Osvaldo Ferreira Lopes (NA); Nelson Chaves Filho (NA); Leandro Vettori (NA); Franklin dos Santos Antunes (NA); Maria de Lourdes A. Anastácio (NA); Arão Horowitz (NA); Luiz Bezerra de Oliveira (NA); Raphael M. Bloise (NA); Therezinha C. L. Bezerra (NA); Hélio Pierantoni (NA); Maria Amélia Duriez (NA); Ruth A. L. Johas (NA); Armando Luiz Vasconcelos (NA); Ana Rita de O. Galvão (NA); Edson de Santa Cruz Oliveira (NA); Giza Nara C. Moreira (NA); Humberto da Silveira Dantas (NA); Ivan Ferreira Gomes (NA); João Pedro dos Santos O. Filho (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Luiz Rainho S. Carneiro (NA); Mariana E. Heynemman (NA); Nelson Pontes Lira (NA); Raimundo M. Sobral Filho (NA); Stênio Jayme Galvão (NA); Zilda A. Bremaeker (NA); Wahington de O. Barreto (NA); Hélio A. Vaz de Mello (NA); Ida de Sousa S. Vettori (NA); Maria Aparecida B. Pereira (NA); Sinézio F. Chagas (NA); Adahil Medeiros Leite (NA); Manoel da Silva Cardoso. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0679.html'>ctb0679<\/a>",
+      "dados_titulo": "Levantamento Exploratório - Reconhecimento de Solos da Margem Direita do Rio São Franciso. Estado da Bahia - Volume II",
+      "dados_autor": "Paulo Klinger Tito Jacomina (NA); Antonio Cabral Cavalcanti (NA); Fernando B. Rodrigues e Silva (NA); José Onaldo Montenegro (NA); Rheno Amaro Formiga (NA); Nivaldo Burgos (NA); Heráclio Fernandes R. de Mélo Filho (NA); Arnaldo Moniz Ribeiro da Costa (NA); Gilberto Suhett (NA); Osvaldo Ferreira Lopes (NA); Vilmar de Oliveira (NA); Sergio Costa Pinto Pessoa (NA); Paulo Cardoso de Lima (NA); Luiz Alberto Regueira Medeiros (NA); Jeronimo Cunha Almeida (NA); Marcelo Nunes Camargo (NA); Jorge Olmos Iturri Larach (NA); Flávio Garcia de Freitas (NA); Chyozo Hirano (NA); Raul Suarez Inclan (NA); Acry A. O. De Melo (NA); Antônio Carlos Leão (NA); José Silva Rosatelli (NA); Luiz Ferreira da Silva (NA); Raimundo Carvalho Filho (NA); Clotário Olivier da Silveira (NA); Aluisio Pereira da Silva (NA); Jurandir Gondim Reis (NA); Valdir de Araújo Beltrão (NA); Leandro Vettori (NA); Franklin dos Santos Antunes (NA); Maria de Lourdes A. Anastácio (NA); Hélio Pierantoni (NA); Therezinha de O. Barreto (NA); Raphael M. Bloise (NA); Maria Amélia Duriez (NA); Ruth A. L. Johas (NA); Giza Nara C. Moreira (NA); José Flávio Dynia (NA); José Lopes de Paula (NA); Hélio A. Vaz de Mello (NA); Ida de Souza S. Vettori (NA); Maria Aparecida B. Pereira (NA); Sinézio F. Chagas (NA); Adahil Medeiros Leite (NA); Manoel da Silve Cardoso (NA); Luiz Rainho S. Carneiro (NA); Loiva Lizia Antonello (NA); Zenaide Fonseca Mello (NA); Maria Lucia Vasconcellos (NA); Ney Hamilton Porfírio (NA); Maria Carmelita M. Meneses (NA); Roberta Chaves Ferreira e José Corsino de Oliveira. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0680.html'>ctb0680<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE CAREIRO, ESTADO DO AMAZONAS.'",
+      "dados_autor": "Amarindo Fausto Soares (NA); José Raimundo Natividade Ferreira Gama (NA); João Marcos Lima da Silva (NA); Maria Amélia de Moraes Duriez (NA); Marie Elizabeth C. C. de Magalhães Melo (NA); Ruth Andrade Leal Johas (NA); Wilson Sant'Anna de Araújo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); João Luiz Rodrigues de Souza (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0681.html'>ctb0681<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE BARREIRINHA, ESTADO DO AMAZONAS.'",
+      "dados_autor": "José Raimundo Natividade Ferreira Gama (NA); João Marcos Lima da Silva (NA); Maria Amélia de Moraes Duriez (NA); Marie Elizabeth C. C. de Magalhães Melo (NA); Ruth Andrade Leal Johas (NA); Wilson Sant'Anna de Araújo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); João LuiZ Rodrigues de Souza (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0682.html'>ctb0682<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de baixa intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE BAIXA INTENSIDADE DOS SOLOS DO MUNICÍPIO DE JARDIM, ESTADO DO MATO GROSSO DO SUL.'",
+      "dados_autor": "César da Silva Chagas (NA); Nilson Pereira Rendeiro (NA); Mário Luiz Diamante Áglio (NA); Waldir de Carvalho Júnior (NA); Alexandre Ortega (NA); Fernando Cézar S. do Amaral (NA); \nAntonio Carlos Borges Daniel Filho (NA); Maria José Zaroni (NA); Carlos Henrique Lemos Lopes (NA); Enio Fraga da Silva (NA); Pereira Vargas (NA); Silvio Barge Bhering (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0683.html'>ctb0683<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de baixa intensidade 'Levantamento de Reconhecimento de Baixa Intensidade dos Solos do Município de Nioaque, Estado do Mato Grosso do Sul'",
+      "dados_autor": "Nilson Rendeiro Pereira (NA); César da Silva Chagas (NA); Fernando Cézar S. do Amaral (NA); Alexandre Ortega (NA); Maria José Zaroni (NA); Mário Luiz Diamante Áglio (NA); Waldir de Carvalho Júnior (NA); Ailton Martins Amorim (NA); Silvio Barge Bhering (NA); Antonio Carlos Borges Daniel Filho (NA); Enio Fraga da Silva (NA); Carlos Henrique Lemos Lopes (NA); Tony Jarbas Ferreira Cunha (NA); João Sotoya Takagi (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0684.html'>ctb0684<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras da área do Pólo Amapá",
+      "dados_autor": "Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Raphael David dos Santos (NA); José Raimundo Natividade Ferreira Gama (NA); João Marcos Lima da Silva (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); Raimundo Silva Rego (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Wilson Sant'Anna de Araújo (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Evanda Maria Rodrigues (NA); Therezinha da Costa Lima (NA); Raphael Minotti Bloise José Dynia (NA); Gisa Nara Castellini Moreira. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0685.html'>ctb0685<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras da Área do Pólo Tapajós.'",
+      "dados_autor": "João Marcos Lima da Silva (NA); João Souza Martins (NA); Raphael David dos Santos (NA); Amarindo Fausto Soares (NA); Antônio Agostinho Cavalcanti Lima (NA); José Raimundo Natividade Ferreira Gama (NA); Paulo Lacerda dos Santos (NA); Raimundo Silva Rego (NA); Washinton de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Wilson Sant-Anna (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); Luiz Eduardo Ferreira Fontes (NA); Terezinha da CCosta Lima (NA); Evanda Maria Rodrigues (NA); Loiva Lizia Antonello (NA); Therezinha Xavier Bastos. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0686.html'>ctb0686<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'LEVANTAMENTO SEMIDETALHADO DOS SOLOS DA BACIA DO RIBEIRÃO LAJEADO, PR.'",
+      "dados_autor": "Delcio Peres Hochmüller (NA); Reinaldo Oscar Pötter (NA); Maria Amelia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Washington de Oliveira Barreto (NA); Wilson Sant'Anna de Araujo (NA); Luis Eduardo Ferreira Fontes (NA); Evanda Maria Rodrigues (NA); Luzberto Achá Panoso (NA); Luis Carlos Ferreira da Silva (NA); Pedro Luiz Freitas e Ney Pinto Tavares. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0687.html'>ctb0687<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'Levantamento de Reconhecimento dos Solos do Núcleo Colonial de Gurguéia.'",
+      "dados_autor": "Raphael David dos Santos (NA); Antônio Manoel Pires Filho (NA); Francisco Palmieri (NA); Humberto Gonçalves dos Santos (NA); Idarê azevedo Gomes;Aparecida B. Pereira (NA); Adahil M. Leite (NA); Franklin Santos Antunes (NA); Hélia Alberto Vaz Mello (NA); Hélio Pierantoni (NA); Ida Vettori (NA); Leandro Vettori (NA); Loiva L. Antonello (NA); Luiz Rainho S. Carneiro (NA); Maria Amélia Duriez (NA); Maria de Lourdes A. Anastécio (NA); Mariana E. Heinnann (NA); Raphael M. Bloise (NA); Ruth A. L. Johas (NA); Tasso P. Figueiredo (NA); Therezinha C. L. Bezerra (NA); Zilda Braemaker (NA); Francisca F. M. Pinheiro (NA); Gisa Nara C. Moreira (NA); José Lopes de Paula (NA); Raymundo M. Sobral Filho (NA); José F. B. Zikán. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0688.html'>ctb0688<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos de Áreas do Ministério da Agricultura no Distrito Federal.'",
+      "dados_autor": "Flávio Garcia de Freitas (NA); Adelino Alvares Filho (NA); Antônio Manoel Pires Filho;Antônio Ramalho Filho (NA); Elias Pedro Mothci (NA); Hélio da Costa Almeida (NA); João Mauricio G. Tomasini (NA); Klaus Peter Wittern (NA); Sérgio Costa Pinto Pessoa (NA); Sérgio Sommer (NA); Manoel Faustino Neto (NA); Nalcione Nazareno N. Diniz (NA); Ary Delcio Cavadon (NA); Estevão Machado Moura (NA); João Luis R. Souza (NA); Reinaldo Oscar Potter (NA); João Alberto Martins do Amaral (NA); Leandro Vettori (NA); Maria de Lourdes A. Anastácio (NA); Franklin Santos Antunes (NA); Maria Amélia M. Duriez (NA); Terezinha C. L. Bezerra (NA); Loiva L. Antonello (NA); Hélio Pierantoni (NA); Raphael M. Bloise (NA); Mariana E. Heynemann (NA); Ruth A. L. Johas (NA); Raimundo M. Sobral Filho (NA); José Lopes de Paula (NA); Gisa Nara C. Moreira (NA); Ari Nunes (NA); José F. B. Zikan. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0689.html'>ctb0689<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DA ÁREA DO PÓLO CARAJÁS, ESTADO DO PARÁ.'",
+      "dados_autor": "Raimundo Silva Rêgo (NA); Antonio Agostinho Cavalcanti Lima (NA); Raphael David dos Santos (NA); José Raimundo Natividade Ferreira Gama (NA); Amarindo Fausto Soares (NA); Paulo Lacerda dos Santos (NA); João Martins (NA); João Marcos Lima da Silva (NA); Therezinha Xavier Bastos (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); Marie Elizabeth C. C. de Magalhães Melo (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Wilson Sant'Anna de Araujo (NA); José Lopes de Paula (NA); Loiva L. Antonello (NA); Therezinha Costa Lima. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0690.html'>ctb0690<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO-RECONHECIMENTO DE ALTA INTENSIDADE E APTIDÃO AGRÍCOLA DOS SOLOS DA ÁREA COMPREENDIDA ENTRE OS KM 81 E 152 DA RODOVIA SANTARÉM-CUIABÁ E O RIO CURUÁ-UNA.'",
+      "dados_autor": "Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Paulo Lacerda dos Santos (NA); Amarindo Fausto Soares (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Sant'Anna (NA); José Lopes de Paula (NA); Luiz Eduardo Ferreira Fontes (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues e Loiva Lizia Antonello. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0691.html'>ctb0691<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'Levantamento Exploratório dos Solos da Região Sob Influência da Cia. Vale do Rio Doce.'",
+      "dados_autor": "Raphael David dos Santos (NA); Chyozo Hirano (NA); Antônio Manoel Pires Filho (NA); Adalton Oliveira Martins (NA); Luiz Gonzaga de Oliveira Carvalho (NA); João Luiz Rodrigues de Souza (NA); Ari Delcio Cavedon (NA); Jalcione Nazareno Nunes Diniz (NA); Raphael David dos Santos (NA); Luiz Alberto Regueira Medeiros (NA); Leandro Vettori (NA); Franklin dos Santos Antunes (NA); Maria de Lourdes A. Anastácio (NA); Abeilard Fernand de Castro (NA); Raphael M. Bloise (NA); Adalton Oliveira Martins (NA); Loiva Lizia Antonello (NA); Therezinha L. Bezerra (NA); Luis Rainho S. Carneiro (NA); Hélio Pierantoni (NA); Maria Amélia Duriez (NA); Ruth A. L. Johas (NA); José Lopes de Paula (NA); Giza Nara C. Moreira (NA); Washington de Oliveira Barreto (NA); Fausto de Oliveira Fontes (NA); José Francisco B. Zikan. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0693.html'>ctb0693<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'I Levantamento de reconhecimento dos solos da Zona de Iguatemi Mato Grosso.'",
+      "dados_autor": "BRASIL. Ministério da Agricultura. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0694.html'>ctb0694<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DO ESTADO DO RIO GRANDE DO NORTE'",
+      "dados_autor": "BRASIL (NA); Ministério da Agricultura.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0695.html'>ctb0695<\/a>",
+      "dados_titulo": "Levantamento detalhado dos solos da Estação Experimental de Itapirema",
+      "dados_autor": "Luzberto Achá Panoso (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0696.html'>ctb0696<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento detalhado 'LEVANTAMENTO DE RECONHECIMENTO-DETALHADA E APTIDÃO AGRÍCOLA DOS SOLOS DA ÁREA DO CENTRO NACIONAL DE PESQUISA DE GADO DE CORTE - MATO GROSSO DO SUL'",
+      "dados_autor": "Elias Pedro Mothci (NA); João Alberto Martins do Amaral;Raphael David dos Santos (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Therezinha da Costa Lima Bezerra (NA); Evandra Maria Rodrigues e Raphael Minotti Bloise (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0697.html'>ctb0697<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 1. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0698.html'>ctb0698<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS DE TRÊS ÁREAS PRIORITÁRIAS SITUADAS NA RODOVIA TRANSAMAZÔNICA.'",
+      "dados_autor": "BRASIL. Ministério da Agricultura. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0699.html'>ctb0699<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS SOLOS DA FAZENDA CAJU UEPAE/ARACAJU. '",
+      "dados_autor": "BRASIL. Ministério da Agricultura. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0700.html'>ctb0700<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS SOLOS DA ÁREA DA UEPAE DE TERESINA, PI'",
+      "dados_autor": "Heraclio Fernandes R. de Melo Filho (NA); Luiz Alberto Regueira Medeiros (NA); Paulo Klinger Tito Jacomine (NA); Washington de O. Barreto (NA); Maria Amélia de Moraes Duriez (NA); Maria Elisabeth C. C. Magalhães Melo (NA); Ruth Andrade Sant'Anna de Araújo (NA); Luiz Eduardo Ferreira Fontes (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues e José Herculano de Carvalho. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0701.html'>ctb0701<\/a>",
+      "dados_titulo": "Projeto Radambrasil: Folha SA. 23 São Luis e parte da folha SA. 24 Fortaleza; Solos (volume 3)",
+      "dados_autor": "João Viana Araújo (NA); Lucio Salgado Vieira (NA); Mário Pestana de Araújo (NA); João Souza Martins (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0702.html'>ctb0702<\/a>",
+      "dados_titulo": "Conjunto de dados do  'PROJETO DE GESTÃO AMBIENTAL INTEGRADO DO ESTADO DO AMAZONAS.'",
+      "dados_autor": "Governo do Estado do Amazonas. Instituto de Proteção Ambiental do Amazonas - IPAAM.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0703.html'>ctb0703<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 4. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0704.html'>ctb0704<\/a>",
+      "dados_titulo": "Projeto Radambrasil: Folha SB. 23 Teresina e parte da folha SB. 24 Jaguaribe; Solos (volume 2)",
+      "dados_autor": "Sérgio Sommer (NA); Mário Pestana de Araújo (NA); João Souza Martins (NA); Paulo Roberto Soares Corrêa (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0705.html'>ctb0705<\/a>",
+      "dados_titulo": "Projeto Radambrasil: Folha SA. 22 Belém; Solos (volume 5)",
+      "dados_autor": "Paulo Roberto Soares Corrêa (NA); Roberto Nades Peres (NA); Lúcio Salgado Vieira (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0706.html'>ctb0706<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 6. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0707.html'>ctb0707<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 7. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0709.html'>ctb0709<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 8.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0710.html'>ctb0710<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 9. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0711.html'>ctb0711<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 10.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0713.html'>ctb0713<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 12.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0714.html'>ctb0714<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 11. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0717.html'>ctb0717<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 13. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0718.html'>ctb0718<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 14.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0750.html'>ctb0750<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos do Jardim Botânico de Brasília'",
+      "dados_autor": "Cavedon (NA); Ari Délcio (NA); Sommer (NA); Sergio (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0751.html'>ctb0751<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 16. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0752.html'>ctb0752<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 17. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0753.html'>ctb0753<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 18.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0754.html'>ctb0754<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 19.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0756.html'>ctb0756<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 20. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0757.html'>ctb0757<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 21.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0758.html'>ctb0758<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 22. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0759.html'>ctb0759<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 23.'",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0760.html'>ctb0760<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 24.'",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0761.html'>ctb0761<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 25. '",
+      "dados_autor": "Antonio José Wilman Rios (-); Virlei Álvaro de Oliveira (virlei53@gmail.com)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0762.html'>ctb0762<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 26.'",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0763.html'>ctb0763<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 27. '",
+      "dados_autor": "Departamento Nacional da Produção Mineral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0764.html'>ctb0764<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 28.'",
+      "dados_autor": "Departamento Nacional da Produção Mineral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0765.html'>ctb0765<\/a>",
+      "dados_titulo": "Conjunto de dados do  '2nd Global Workshop on Digital Soil Mapping for Regions and Countries with Sparse Soil Data Infrastructures - Tour Guide'",
+      "dados_autor": "Maria de Lourdes Mendonça Santos Brefin (NA); Humberto Gonçalves dos Santos (NA); Clúdio Lucas Capeche (NA); Jorge Pimentel (CPRM) (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0766.html'>ctb0766<\/a>",
+      "dados_titulo": "Projeto Radambrasil: Folha SD. 23 Brasília; Solos (volume 29)",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0767.html'>ctb0767<\/a>",
+      "dados_titulo": "Projeto Radambrasil: Folhas SC. 24/25 Aracaju/Recife; Solos (volume 30)",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0768.html'>ctb0768<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 31. '",
+      "dados_autor": "Antônio Gladstone Carvalho Fraga (-); Antonio Santos Silva Novaes (-); Paulo César Vieira (-); Zebino Pacheco do Amaral Filho (-)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0769.html'>ctb0769<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 32. '",
+      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0770.html'>ctb0770<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais Volume 33'",
+      "dados_autor": "João Carlos Ker (NA); Jaime Antonio de Almeida (NA); Pedro Jorge Fasolo (NA); Delcio Peres Hochmüller (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0771.html'>ctb0771<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 34.'",
+      "dados_autor": "SECRETARIA DE PLANEJAMENTO DA PRESIDÊNCIA DA REPÚBLICA (NA); FUNDAÇÃO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0772.html'>ctb0772<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação do Potencial Agroecológico das Terras do Município de Santana do Ipanema, Alagoas.'",
+      "dados_autor": "Osvaldo Ferreira Lopes (NA); José Carlos Pereira dos Santos (NA); Alexandre Hugo Cezar Barros.\n (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0773.html'>ctb0773<\/a>",
+      "dados_titulo": "IX Reunião de Classificação e Correlação de Solos: Solos sedimentares em Sistemas Amazônicos - Potencialidades e Demandas de Pesquisa - ACRE 2010",
+      "dados_autor": "Lúcia Helena Cunha dos Anjos (NA); Lucielio Manoel da Silva (NA); Paulo Guilherme Salvador Wadt (NA); José Francisco Lumbreras (NA); Marcos Gervasio Pereira; (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0774.html'>ctb0774<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Anais da VIII Reunião de Classificação e Correlação de Solos Santa Catarina.'",
+      "dados_autor": "José Augusto Laus Neto (NA); JAime antonio de Almeida (NA); João Bertoldo de Oliveira (NA); João Carlos Ker (NA); Murilo Pundeck (NA); Angelo Massignan (NA); Ivan Luiz Zili Bacic (NA); Lucas Balsini Garchindo (NA); Denilson Dortzbach (NA); Elisângela Benedet da Silva. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0775.html'>ctb0775<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'Levantamento Exploratório - Reconhecimento de Solos do Estado de Alagoas.'",
+      "dados_autor": "JACOMINE (NA); Paulo Klinger Tito et al.\n (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0776.html'>ctb0776<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Anais da I Reunião de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola de solos. '",
+      "dados_autor": "A. Perraud (NA); A. Cardoso (NA); A. F. Soares (NA); A. P. de Carvalho (NA); A. M. L. Neptune (NA); A. A. A. Uberti (NA); A. C. Leão (NA); A. M. P. Filho (NA); A. R. Filho (NA); A. D. Cavedon (NA); A. M. R. da Costa (NA); B. N. R. da Silva (NA); C. Nobrega (NA); C. O. da Silveira (NA); D. N. Lopes (NA); D. A. de Souza (NA); D. P. Hochmüler (NA); D. P. Santana (NA); D. Yamasaki (NA); D. P. Ramos (NA); E. P. Mothci (NA); E. Klamt (NA); F. B. R. e Silva (NA); F. G. de Freitas (NA); F. Palmieri (NA); F. R. B. Leite (NA); G. B. de Medeiros (NA); G. Ranzani (NA); H. Averbeck (NA); H. F. R. Melo (NA); H. G. dos Santos (NA); I. A. Gomes (NA); I. F. Lepsch (NA); J. A. de Souza (NA); J. Macedo (NA); J. A. M do Amaral (NA); J. B. de Oliveira (NA); J. M. L. da Silva (NA); J. S. Martins (NA); J. Cecílio (NA); J. O. I. Larach (NA); J. L. I. Demattê (NA); J. S. Rosatelli (NA); K. P. Wittern (NA); L. P. Ribeiro (NA); L. B. de Oliveira (NA); L. A. Panoso (NA); M. N. Camargo (NA); M. Resende (NA); M. A. D. Azolin (NA); M. C. L. dos Santos (NA); N. J. T. Bloomfield (NA); N. Brugos (NA); P. C. F. Gomes (NA); P. K. T. Jacomine (NA); P. R. S. Correa (NA); P. F. Godo (NA); P. J. Fasolo (NA); P. L. Donzelli (NA); R. C. de Lemos (NA); R. S. Rego (NA); R. D. dos Santos (NA); R. A. Formiga (NA); R. O. Sanchez (NA); R. N. Peres (NA); T. E. Rodrigues (NA); V. de Oliveira (NA); W. Mendes (NA); W. O. Barreto (NA); Z. P. Amaral. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0777.html'>ctb0777<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DA MARGEM ESQUERDA DO RIO SÃO FRANCISCO-ESTADO DA BAHIA'",
+      "dados_autor": "Serviço Nacional de Levantamento e Conservação de Solos;\n (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0778.html'>ctb0778<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Caracterização de Paisagens e Solos Representativos do Estado do Rio de Janeiro para Fins de Estimativa de Estoques de Carbono no Solo. '",
+      "dados_autor": "Maria de Lourdes Mendonça-Santos (NA); Humberto Gonçalves dos Santos (NA); Maurício Rizzato Coelho (NA); Jerônimo Guedes Pares  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0779.html'>ctb0779<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Anais da IV Reunião de Classificação, Correlação e Aplicação de Levantamento de Solos.'",
+      "dados_autor": "Marisa Duarte (NA); Lúcia Helena Cunha dos Anjos (NA); Sandoval Oliveira de Santana (NA); Marie Elizabeth C. C. de Magalhães Melo (NA); Idarê Azevedo Gomes (NA); Raphael David dos Santos. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0780.html'>ctb0780<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Guia da Excursão Pedológica do XXXII Congresso Brasileiro de Ciência do Solo.'",
+      "dados_autor": "R. E. Romero (NA); P. K. T. Jacomine e E. C. B. Gomes. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0781.html'>ctb0781<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Reunião Técnica Itinerante de Classificação e Correlação de Solos do XXXIII Congresso Brasileiro de Ciência do Solo'",
+      "dados_autor": "CORRÊA (NA); Gilberto F (NA); JACOMINE (NA); Paulo K. T (NA); KER (NA); João C.  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0782.html'>ctb0782<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS DE UMA ÁREA PRIORITÁRIA NA RODOVIA TRANSAMAZÔNICA ENTRE ALTAMIRA E ITAITUBA 1973 - Boletim técnico nº 34'",
+      "dados_autor": "Humberto Goncalves dos Santos  (NA); Reinaldo Oscar Potter  (NA); Luiz Gonzaga de Oliveira Carvalho  (NA); Roberto Chaves Ferreira  (NA); Francesco Palmieri  (NA); Manoel Faustino Neto  (NA); Raphael David dos Santos  (NA); Ernesto Maués Serra Freire  (NA); Ivo Katusi Morikawa  (NA); Leandro Vettori  (NA); Hélio Pierantoni  (NA); Washington de Oliveira Barreto  (NA); Maria Amelia Duriez  (NA); Ruth A. L. Johas  (NA); José Lopes de Paula  (NA); Joäo Luiz Rodrigues de Souza  (NA); Edna Lopes Carvalho  (NA); Waldemar Ferreira  (NA); Maria Aparecida B. Pereira  (NA); Hélio A. Vaz de Melo  (NA); Manoel da Silva Cardoso  (NA); Adahil Medeiros Leite\nJosé Mateus  (NA); Joaquim Braga Bastos  (NA); Franklin dos Santos Antunes  (NA); Luiz Rainho da Silva Cameiro  (NA); Loiva Lizia Antonello  (NA); Therezinha C. L. Bezerra  (NA); Sinésio F. Chagas. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0783.html'>ctb0783<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'SOLOS DA RODOVIA TRANSAMAZÔNICA - Boletim Técnico n°55.'",
+      "dados_autor": "INSTITUTO DE PESQUISA AGROPECUÁRIA DO NORTE (IPEAN) (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0784.html'>ctb0784<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento expedito 'Estudo expedito de solos do estado do Rio Grande do Sul e parte de Santa Catarina, para fins de classificação, correlação e legenda preliminar'",
+      "dados_autor": "Delcio Peres Hochmuller (NA); Pedro JOrge Fasolo (NA); Alcides Cardoso (NA); Américo Pereira de Carvalho (NA); Marcelo Nunes de Camargo (NA); Moacyr de Jesus Rauen (NA); Paulo Klinger Tito Jacomine (NA); Reinaldo Oscar Potter (NA); Maria Amélia de Moraes Duriez (NA); Merie Elizabeth C.C. de Magalhães Melo (NA); Wilson Sant Anna de Araújo (NA); Luiz Eduardo Ferreira Fontes (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Ari Adécio Cavedon (NA); Carlos Alberto dos Santos (NA); Dirceu Rioji Yamazaki (NA); Isaias Oenning (NA); Jaime Antonio de Almeida (NA); João Carlos Ker (NA); José Augusto Laus Neto (NA); José Marcos Moser (NA); José Silba Rosatti e Paulo Roberto Soraes Correa. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0785.html'>ctb0785<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento detalhado 'LEVANTAMENTO DE RECONHECIMENTO COM DETALHES DOS SOLOS DO DISTRITO AGROINDUSTRIAL DE JAÍBA - MINAS GERAIS.'",
+      "dados_autor": "EPAMIG - Empresa de Pesquisa Agropecuária de Minas Gerais (NA); EMBRAPA e RURALMINAS. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0787.html'>ctb0787<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos do Estado de São Paulo (Contribuição à Carta de Solos do Brasil)",
+      "dados_autor": "Raymundo Costa de Lemos (NA); Jakob Bennema (NA); Raphael David dos Santos (NA); Jorge Olmos Iturri (NA); Raul Suarez Inclan Luzberto Achâ Panoso (NA); Waldemar Mendes (NA); José de Oliveira Melo (NA); Clotârio Olivier da Silveiva;Luzberto Achâ Panoso (NA); Marcelo Nunes Camargo (NA); Herodoto da Costa Barros (NA); José Leôncio Drumond (NA); Gerardo Sepulveda Gondim (NA); Flávio Garcia de Freitas (NA); Nathaniel Bloomfield (NA); Luiz Gonzaga de Oliveira Carvalho (NA); Leandro Vettori (NA); Adalgiso Gallotti Kehrig (NA); Fernando Ramos (NA); Tasso Paes de Figueiredo (NA); Ary Coelho da Silva Ruth Andrada Leal Johas (NA); Maria Amelia de Morais Duriez (NA); José Almeida da Silva (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0788.html'>ctb0788<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento detalhado 'LEVANTAMENTO DE RECONHECIMENTO DETALHADO DOS SOLOS DA ÁREA SOB A INFLUÊNCIA DO RESERVATÓRIO DE TRÊS MARIAS - MINAS GERAIS'",
+      "dados_autor": "Empresa de Pesquisa Agropecuária de Minas Gerais. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0789.html'>ctb0789<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório 'LEVANTAMENTO EXPLORATÓRIO DOS SOLOS QUE OCORREM AO LONGO DA RODOVIA MANAUS - PORTO VELHO'",
+      "dados_autor": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0791.html'>ctb0791<\/a>",
+      "dados_titulo": "Conjunto de dados do  'ESTUDO DE CORRELAÇÃO DE SOLOS PARA FINS DE CLASSIFICAÇÃO NAS REGIÕES DO RECÔNCAVO BAIANO E MICRORREGIÃO DE IRECÊ-BAHIA'",
+      "dados_autor": "Tony Jarbas Ferreira Cunha (NA); Lucedino Paixão Ribeiro (NA); Humberto Gonçalves dos Santos (NA); Idarê Azevedo Gomes (NA); Raphael David dos Santos. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0792.html'>ctb0792<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS SOLOS ÁREA EXPERIMENTAL 1 -PETROBRAS/SIX SÃO MATEUS DO SUL, PR'",
+      "dados_autor": "CARLOS ALBERTO FLORES (NA); MARILICE CORDEIRO GARRASTAZU (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0793.html'>ctb0793<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Vale dos Vinhedos-Caracterização Geográfica da Região'",
+      "dados_autor": "Ivanira Falcade (ifalcade@ucs.br;); Francisco Mandelli (NA); Carlos Alberto Flores (NA); Pedro Jorge Fasolo (NA); Reinaldo Oscar Potter (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0794.html'>ctb0794<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado de Solos - Região da Campanha - Folha Palomas - Estado do Rio Grande do Sul'",
+      "dados_autor": "Carlos Alberto Flores (cflores@terra.com.br); Reinaldo Oscar Pötter (NA); Pedro Jorge Fasolo (NA); Heinrich Hasenack (hhasenack@ufrgs.br); Eliseu Weber (eweber@portoweb.com.br)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0795.html'>ctb0795<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Descrição das características morfológicas, físicas, químicas e mineralógicas de alguns perfis de solos sob vegetação de cerrado.'",
+      "dados_autor": "Paulo Klinger Tito Jacomine. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0796.html'>ctb0796<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'LEVANTAMENTO SEMIDETALHADO DE SOLOS DO MUNICÍPIO DE PATY DOS ALFERES E SUB-BACIAS DO CÓRREGO DO SACO-RIO UBÁ, RJ'",
+      "dados_autor": "Francesco Palmieri (NA); José Francisco Lumbreras (NA); Tony Jarbas Ferreira da Cunha (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0797.html'>ctb0797<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento do Solos do Estado do Rio Grande do Sul",
+      "dados_autor": "Raimundo Costa de Lemos (NA); Miguel Ângelo D. Azolim (NA); Paulo Ubirajara R. Abrão (NA); Milton C. Lopes dos Santos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0798.html'>ctb0798<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Levantamento Detalhado de solos da área da Universidade Federal Rural do Rio de Janeiro, com base em fotografias aéreas e prospecções do terreno.'",
+      "dados_autor": "Doracy Pessoa Ramos (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0799.html'>ctb0799<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Revitalização do Rio São Francisco com base na Reconstituição de Matas Ciliares e Recuperação de Áreas Degradadas nos municípios de Petrolina, Lagoa Grande e Santa Maria da Boa Vista.'",
+      "dados_autor": "Tony Jarbas Ferreira Cunha (NA); Manoel Batista de Oliveira Neto (NA); Andréa Maria Alves de Lucena (NA); Wagner da Silva Oliveira (NA); Roberto O  de Santana (NA); Bruno N. Rocha (NA); Rodrigo César Flores Ferreira  (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0800.html'>ctb0800<\/a>",
+      "dados_titulo": "Estudos pedológios e suas relações ambientais",
+      "dados_autor": "Celso Vainer Manzatto (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0801.html'>ctb0801<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento pedológico semidetalhado do Estado de São Paulo: Folha de Marília (memorial descritivo)'",
+      "dados_autor": "Fernando Cesar Bertolani (NA); Maurício Rizzato Coelho (NA); Marcio Rossi (NA); João Roberto Ferreira Menk (NA); Hélio do Prado. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0802.html'>ctb0802<\/a>",
+      "dados_titulo": "Conjunto de dados do  'CARACTERIZAÇÃO FÍSICO-HÍDRICA DOS PRINCIPAIS SOLOS DA AMAZÔNIA LEGAL. I - Estado do Pará.'",
+      "dados_autor": "Tarcísio Eweton Rodrigues;\nRaimundo Cosme de Oliveira Junior;\nJoão Marcos Lima da Silva;\nMoacir Azevedo Valente;\nClaudio Lucas Capeche;\nWilson SantAnna de Araujo;\nMarie Elizabeth C. C. de Magalhães Melo;\nWashington de Oliveira Barreto;\nJosé Lopes de Paula;\nEvanda Maria Rodrigues;\nDaniel Luiz Leal Mangas;\nAntonio Guilherme Soares Campos.\n (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0803.html'>ctb0803<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos do Estado de Santa Catarina - volume 2, número 1-2",
+      "dados_autor": "Raimundo Costa de Lemos; Antonio Ayrton Auzani Uberti; Valmir José Vizzotto; João Lopes dos Santos; Paulo Hamilton Oleiro; Luiz Severo Mujica Mutti; Miguel Angelo D. Azolin"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0804.html'>ctb0804<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul. Primeira Etapa, Planalto Rio-grandense",
+      "dados_autor": "Raimundo Costa de Lemos; Miguel Ângelo Décimo Azolin; Paulo Ubirajara Rodrigues Abrão; Milton da Conceição Lopes dos Santos; Américo Pereira de Carvalho"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0805.html'>ctb0805<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos do Estado de Santa Catarina - volume 2, número 3-4",
+      "dados_autor": "GOVERNO DO ESTADO (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0807.html'>ctb0807<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado e Aptidão Agrícola dos Solos da Área da vertente norte do maciço da Tijuca (sub-bacias do Canal do Mangue e Canal do Cunha)-Município do Rio de Janeiro-RJ'",
+      "dados_autor": "CNPS (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0808.html'>ctb0808<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado e Aptidão Agrícola dos Solos do Município do Rio de Janeiro, RJ.'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0809.html'>ctb0809<\/a>",
+      "dados_titulo": "Conjunto de dados do 'Estudo Expedito de Solos da Região do Alto Paranaíba, Para Fins de Classificação, Correlação e Legenda Preliminar'",
+      "dados_autor": "Idarê Azevedo Gomes (NA); Marcelo Nunes Camargo (NA); Francesco Palmieri (NA); Antonio Manoel Pires Filho (NA); Mauro Resende (NA); Derli Prudente Santana (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0810.html'>ctb0810<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos do Estado de Santa Catarina, para fins de Classificação, Correlação e Legenda Preliminar.'",
+      "dados_autor": "CNPS (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0811.html'>ctb0811<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento de alta intensidade dos solos e avaliação da aptidão agrícola das terras das quadrículas de Silva Jardim e Rio das Ostras, Estado do Rio de Janeiro",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0813.html'>ctb0813<\/a>",
+      "dados_titulo": "Levantamento de Reconhecimento dos Solos do Oeste do Estado do Paraná (Informe Preliminar)",
+      "dados_autor": "Olmos Iturri Larach, J. (NA); Cardoso, A. (NA); Carvalho, A. P. De (NA); Hochmuller, D. P. (NA); Tavares, F. R. (NA); Rauen, M. De J. (NA); Fasolo, P. J. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0814.html'>ctb0814<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'Projeto de Irrigação e Drenagem da Cana-de-açúcar na Região Norte-fluminense.'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0815.html'>ctb0815<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'LEVANTAMENTO SEMIDETALHADO DOS SOLOS DA FAZENDA CANCHIM SÃO CARLOS - SP.'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0817.html'>ctb0817<\/a>",
+      "dados_titulo": "Conjunto de dados do  'PCBAP - Plano de Conservação da Bacia do Alto Paraguai (Pantanal) - Meio Físico.'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0818.html'>ctb0818<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos do sudoeste do Estado do Paraná: informe preliminar",
+      "dados_autor": "HOCHMÜLLER, D. P. (NA); CARDOSO, A. (NA); CARVALHO, A. P. de (NA); LARACH, J. O. I. (NA); RAUEN, M. de J. (NA); FASOLO, P. J. (NA); TAVARES, F. R. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0819.html'>ctb0819<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'Levantamento de Reconhecimento dos Solos do Centro-Sul do Estado do Paraná (Área 9) (Informe Preliminar).'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0820.html'>ctb0820<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'Levantamento Exploratório - Reconhecimento dos solos das microbacias dos municípios de Porto Seguro e Santa Cruz Cabrália-BA.'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0821.html'>ctb0821<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos no estado do Piauí Para Fins de Classificação, Correlação e Legenda Preliminar'",
+      "dados_autor": "EMBRAPA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0822.html'>ctb0822<\/a>",
+      "dados_titulo": "Conjunto de dados do 'Estudo Expedito de Solos da Região Sul de Minas Gerais, Partes do Alto São Francisco e Campos das Vertestes, Para Fins de Classificação, Correlação e Legenda Preliminar'",
+      "dados_autor": "Humberto Gonçalves dos Santos (NA); Francesco Palmieri (NA); Tarcísio Ewerton Rodrigues (NA); Marcelo Nunes Carnargo (NA); Derli Prudente Santana (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0826.html'>ctb0826<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade '39 - Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras da Região Geoeconômica de Brasília - Minas Gerais'",
+      "dados_autor": "cnps (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0827.html'>ctb0827<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos no Trecho Itaituba - Estreito da Rodoviária Transamazônica para Fins de Classificação e Correlação (Agosto de 1972). '",
+      "dados_autor": "CNPS (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0829.html'>ctb0829<\/a>",
+      "dados_titulo": "Levantamento de reconhecimento dos solos da região sul-sudeste do Estado do Amazonas-IPAAM",
+      "dados_autor": "NA (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0831.html'>ctb0831<\/a>",
+      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos no Estado do Paraná para fins de Classificação e Correlação.'",
+      "dados_autor": "Não consta. (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0832.html'>ctb0832<\/a>",
+      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade ' Levantamento do Estado do Rio de Janeiro'",
+      "dados_autor": "Orgão executor CNPS (NA)"
+    },
+    {
+      "dados_id": "<a href='https://www.pedometria.org/projeto/febr/catalogo/ctb0838.html'>ctb0838<\/a>",
+      "dados_titulo": "Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'",
+      "dados_autor": "Elias Mendes Costa (eliasmccosta@yahoo.com.br); Lúcia Helena Cunha dos Anjos (lanjosrural@gmail.com)"
+    }
+  ]
+}
