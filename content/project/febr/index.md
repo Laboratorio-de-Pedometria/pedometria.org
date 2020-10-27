@@ -1,6 +1,7 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
+title: Repositório Brasileiro Livre para Dados Abertos do Solo
 slug: febr
+url: /febr/
 summary: "A febre dos dados de solo no Brasil"
 authors:
   - admin
