@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0563"
+"dados_titulo"	"Levantamento pedológico de uma área-piloto relacionada ao Projeto BiosBrasil (Conservation and Sustainable Management of Below-Ground Biodiversity: Phase I), Município de Benjamin Constant (AM): janela 6."
+"dados_descricao"	"Dados de seis perfis do solo observados e amostrados, para fins de classificação e mapeamento pedológico uma área-piloto no município de Benjamin Constant, noroeste do Estado do Amazonas. As observações dos foram feitas em intervalos regulares, a cada 100 m, além de amostras extras coletadas em toda área para detectar a variação espacial do solo (dados não publicados). O perfis de solo foram identificados e coletados mediante abertura de trincheiras, sendo georreferenciados com a utilização de equipamento GPS com precisão aproximada de 20 m. Os métodos analíticos seguem o Manual de Métodos de Análise de Solo (Embrapa, 1997). (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
+"criacao_data"	"2019-10-30"
+"dados_licenca"	"CC BY-NC 4.0"
+"organizacao_nome"	"Embrapa"
+"organizacao_url"	NA
+"organizacao_local"	"Brasil"
+"autor_nome_email"	"Coelho (NA); M.R. (NA); Fidalgo (NA); E.C.C. (NA); Araújo (NA); F. de O. (NA); Santos (NA); H.G. dos (NA); Santos (NA); M. de L.M. (NA); Péres (NA); D.V. (NA); Moreira (NA); F.M. de S. (NA)"
+"dados_referencia"	"https://ainfo.cnptia.embrapa.br/digital/bitstream/CNPS-2010/14883/1/bpd68-2005-area-piloto-proj-bios-br.pdf; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html; http://doi.org/10.2136/sssaj2004.0140"
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_completude"	NA
+"dados_consistencia"	"consistência estrutural"

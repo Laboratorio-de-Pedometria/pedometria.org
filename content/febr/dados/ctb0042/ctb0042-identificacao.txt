@@ -1,0 +1,16 @@
+"campo"	"valor"
+"dados_id"	"ctb0042"
+"dados_titulo"	"Alteração do pH do solo por influência da diluição, tipo de solvente e tempo de contato"
+"dados_descricao"	"Dados de experimento realizado com quartro amostras de solo do Estado de Minas Gerais. Inclui dados de propriedades químicas e físicas solo sem informação sobre o laboratório onde as análises foram realizadas. Também não especifica os métodos anaíticos utilizados. Os dados de pH do solo foram obtidos sob várias condições de diluição, tipo de solvente e tempo de contato do solo com o solvente a fim de testar seu efeito sobre os valores obtidos."
+"criacao_data"	"2019-03-31"
+"dados_licenca"	"CC BY 4.0"
+"organizacao_nome"	NA
+"organizacao_url"	NA
+"organizacao_local"	"Brasil"
+"autor_nome_email"	"José Mário Braga (NA); Lafayette Franco Sobral (NA); Luciano da Silva Souza (NA); Helena F Oliveira (NA)"
+"dados_referencia"	NA
+"area_conhecimento"	"Química do Solo"
+"palavras_chave"	NA
+"fonte_financeira"	NA
+"dados_completude"	"completos (100% de cobertura)"
+"dados_consistencia"	"consistência estrutural"

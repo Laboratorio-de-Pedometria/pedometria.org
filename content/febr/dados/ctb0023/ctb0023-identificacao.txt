@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0023"
+"dados_titulo"	"Conjunto de dados da dissertação 'Características e Gênense de uma Sequência de Solos nas Ecostas do Nordeste do Rio Grande do Sul'"
+"dados_descricao"	"Conjunto de dados produzido como parte da Dissetação apresentada como requisito parcial para obtenção do grau de Mestre em Agronomia, área de concentração Solos, Faculdade de Agronomia da Universidade Federal do Rio Grande do Sul. Contém dados de Ferro de 6 amostras dos Horizontes Ap, B2 e C de solos modais das unidades de mapeamento Ciriaco e Pituva. Os locais de observação foram determinados de acordo com a variação da ocorrencia das Unidades de Mapeamento no Nordeste do Rio Grande do Sul. As coordenadas foram obtidadas através do Google Maps, seguinto as descrições das localizaçãos do perfis. "
+"criacao_data"	"2018-01-29"
+"dados_licenca"	"CC BY 4.0"
+"organizacao_nome"	"Universidade Federal do Rio Grande do Sul (UFRGS)"
+"organizacao_url"	"http://www.ufrgs.br/agronomia/joomla/index.php/ensino/pos-graduacao/pg-em-ciencia-do-solo"
+"organizacao_local"	"Av. Bento Gonçalves, 7712.0, Porto Alegre, Brasil, 91540-000"
+"autor_nome_email"	"Sandra Barreto de Queiroz (NA); Egon Klant  (NA)"
+"dados_referencia"	"http://www.ufrgs.br/agronomia/materiais/sandrabarretodequeiroz_mestrado.pdf"
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_completude"	NA
+"dados_consistencia"	"consistência estrutural"

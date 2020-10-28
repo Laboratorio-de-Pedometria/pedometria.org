@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0018"
+"dados_titulo"	"Conjunto de dados do 'Projeto Caldeirão: caracterização e gênese das Terras Pretas de Índio na Amazônia'"
+"dados_descricao"	"Os dados foram coletados em malha quase regular, com distância de até 50 m, com amostras coletadas usando cavadeira \boca-de-lobo\ em camadas de 0-20, 20-40, 40-60, 60-80, 80-100. A identificação das observações é feita usando a coluna da tabela original chamada 'Stake'. Coluna 'amostra_codigo' refere-se à coluna 'Protocol' da tabela original contendo os dados de ICP-MS."
+"criacao_data"	"09/03/2019"
+"dados_licenca"	"CC BY 4.0"
+"organizacao_nome"	"Embrapa Solos; Embrapa Amazônia Ocidental"
+"organizacao_url"	"https://www.embrapa.br/en/solos"
+"organizacao_local"	"Rua Jardim Botânico, 1024.0, Rio de Janeiro, Brasil, 22460-000"
+"autor_nome_email"	"Wenceslau Geraldes Teixeira (wenceslau.teixeira@embrapa.br)"
+"dados_referencia"	NA
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos; Manejo e Conservação do Solo"
+"palavras_chave"	"Solos da Amazônia; Anthrsols; Terra Preta de Índio"
+"dados_completude"	NA
+"dados_consistencia"	"consistência estrutural"

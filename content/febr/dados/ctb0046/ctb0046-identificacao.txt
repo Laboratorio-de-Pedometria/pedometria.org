@@ -1,0 +1,19 @@
+"campo"	"valor"
+"dados_id"	"ctb0046"
+"dados_titulo"	"Levantamento de Reconhecimento de Alta Intensidade dos Solos de Duas Áreas Dotadas de Solos Arenosos no Estado de Mato Grosso - Áreas Piloto I e II"
+"dados_autor"	"Virlei Álvaro de Oliveira; Eduardo Guimarães Couto; João Benedito Pereira Leite Sobrinho; Maria Lucidalva C. Moreira"
+"organizacao_nome"	"Governo do Estado do Mato Grosso, Secretaria de Estado de Planejamento"
+"organizacao_local"	NA
+"organizacao_url"	NA
+"dados_descricao"	"Dados de solos de duas áreas com predomínio de solos arenosos no estado de Mato Grosso, principalmente Neossolos Quartzarênicos Órticos. Os dados foram coletados para fins de mapeamento pedológico ao nível de reconhecimento de alta intensidade (escala 1:100.000). As observações do solo foram realizadas em barrancos de estrada, minitrincheiras, trincheiras e tradagens, totalizando 17 perfis completos e 52 amostras extra (horizontes A e B ou C), totalizando 203 amostras. As análises laboratoriais foram realizadas conforme a metodologia de análise adotada pelo CNPS/EMBRAPA. A classificação dos solos foi feita com a utilização do Sistema Brasileiro de Classificação de Solos (EMBRAPA, 2006). Estão excluídos os dados de solos consultados em trabalhos anteriores."
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_publicacao"	"https://www.dropbox.com/s/va3yzby3rsnl32c/OliveiraEtAl2011.pdf?dl=0"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
+"dados_completude"	"completos (100% de cobertura)"
+"dados_consistencia"	"consistência estrutural"

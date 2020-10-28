@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0567"
+"dados_titulo"	"Levantamento Semidetalhado dos Solos da Microbacia do Córrego da Tábua, no Município de São Fidélis, Rio de Janeiro"
+"dados_descricao"	"Dados morfológicos, físicos e químicos de 18 perfis de solo descritos e amostrados no município de São Fidélis, Rio de Janeiro. A principal finalidade da produção dos dados foi a identificação de classes de solo. Os trabalhos de laboratório seguiram o Manual de Métodos de Análise de Solos Embrapa (1979, 1997). A classificação taxonômica original de 1987, quando os dados foram produzidos, não se encontra disponível, e sim somente a classificação taxonômica de 1999. (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
+"criacao_data"	"2019-12-08"
+"dados_licenca"	"CC BY-NC 4.0"
+"organizacao_nome"	"Embrapa"
+"organizacao_url"	NA
+"organizacao_local"	"Brasil"
+"autor_nome_email"	"Braz Calderano Filho (NA); Humberto Gonçalves dos Santos (NA); Marie Elisabeth Christine Claessen (NA); Elias Pedro Motchi (NA); Klaus Peter Wittern (NA); Livia Derzié Luz (NA); Sebastião Barreiros Calderano (NA); Waldir de Carvalho Júnior (NA); César da Silva Chagas (NA)"
+"dados_referencia"	"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/965597/1/bpd482004corregotabua.pdf; http://ainfo.cnptia.embrapa.br/digital/bitstream/item/89039/1/bpd48-2004-corrego-tabua.pdf; http://geoinfo.cnps.embrapa.br/layers/geonode%3Asolos_corrego_da_tabua_rj_lat_long_wgs84"
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_completude"	NA
+"dados_consistencia"	"consistência estrutural"

@@ -1,0 +1,19 @@
+"campo"	"valor"
+"dados_id"	"ctb0039"
+"dados_titulo"	"As Vertentes Características e os Sistemas Pedológicos como Instrumentos de Análise para a Identificação das Fragilidades e Potencialidades Ambientais na Bacia Hidrográfica do Paraná 3"
+"dados_autor"	"Anderson Sandro da Rocha; Maria Teresa de Nóbrega, José Edézio da Cunha"
+"organizacao_nome"	"Universidade Estadual de Maringá"
+"organizacao_local"	NA
+"organizacao_url"	"http://sites.uem.br/pge"
+"dados_descricao"	"O presente trabalho teve como objetivo a identificação e a análise detalhada das vertentes características e dos sistemas pedológicos associados às diferentes unidades de paisagem da bacia hidrográfica do Paraná 3, visando compreender suas fragilidades e potencialidades ambientais. Utilizando-se dos preceitos teóricos e metodológicos da análise estrutural da cobertura pedológica, da avaliação dos índices de integral hipsométrica e das concepções de análise integrada da paisagem, foi possível entender o comportamento morfopedológico e a evolução geomorfológica dos três grandes setores topográficos da bacia: o setor de platô, que contempla a unidade de Cascavel; o intermediário, onde se localiza a unidade de São Francisco; e o setor rebaixado, representado pela unidade de Foz do Iguaçu. No alto setor, as vertentes típicas caracterizam-se por morfologias convexo-retilíneas e sistemas pedológicos dominantes constituídos por Latossolo Vermelho – Neossolo Regolítico – Latossolo Vermelho e Latossolo Vermelho – Nitossolo Vermelho. No setor médio, predominam as vertentes convexo-côncavo-retilíneas, segmentadas em patamares, com sistema pedológico formado pelo Neossolo Regolítico – Nitossolo Vermelho – Neossolo Litólico. No setor baixo, às margens do Rio Paraná, dominam as vertentes retilíneas e o sistema pedológico tipicamente composto pelo Latossolo Vermelho – Nitossolo Vermelho. A correlação dos dados morfopedológicos permitiu entender que os três setores se encontram em estágios diferenciados de evolução geomorfológica. O conhecimento das interações existentes entre os domínios geomorfopedológicos e os elementos da estrutura geoecológica permitiram compreender as fragilidades potencial e emergente, com a espacialização das áreas de estabilidade/instabilidade ambiental da bacia.  Em termos gerais, a correlação dos dados espaciais e numéricos possibilitou avaliar que a fragilidade potencial apresentou um predomínio das classes fraca (45,21%) e muito fraca (30,41%), enquanto que a fragilidade emergente demostrou maior expressividade da classe de fragilidade moderada (41,40%), seguida da classe de fragilidade fraca (34,30%). Nesse contexto, também foi possível evidenciar diferentes condições de capacidade de uso das terras. A determinação das classes e subclasses de capacidade, com suas respectivas restrições ambientais, permitiu compreender que a morfologia das vertentes e a distribuição da cobertura pedológica apresentam informações preponderantes para indicação de práticas adequadas de conservação do solo no âmbito territorial da bacia hidrográfica do Paraná 3. "
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	"Mapeamento e Classificação do Solo; Bacia do Paraná 3; Fragilidade Ambiental; Capacidade de Uso da Terra"
+"dados_publicacao"	"http://repositorio.uem.br:8080/jspui/handle/1/2882"
+"dados_idioma"	"português"
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
+"dados_completude"	"aproximadamente completos (entre 70 e 95% de cobertura)"
+"dados_consistencia"	"consistência estrutural"

@@ -1,0 +1,19 @@
+"campo"	"valor"
+"dados_id"	"ctb0045"
+"dados_titulo"	"Parâmetros Físicos e Químicos de Referência em Solos de Unidades de Conservação Florestal da Bacia do Paraná 3, Brasil "
+"dados_autor"	"Juliane Bocardi (julianebocardi@gmail.com); Adelmo Lowe Pletsch; Anderson Sandro da Rocha (andersonrocha@utfpr.edu.br); Sueli Pércio Quinaia"
+"organizacao_nome"	"Universidade Estadual do Centro Oeste do Paraná (UNICENTRO)"
+"organizacao_local"	NA
+"organizacao_url"	"https://www2.unicentro.br/ppgq/pt/doutorado/"
+"dados_descricao"	"Essa pesquisa objetivou a determinação dos teores de metais, macroelementos e radionuclídeos em solos preservados de Unidades de Conservação Ambientais e Remanescentes Florestais da Bacia do Paraná 3 (BP3), com o intuito de obter níveis de base naturais para estes elementos e contribuir para a legislação estadual. Setenta e três amostras de solos das áreas de Conversação e Remanescentes Florestais dos 28 municípios que compõem a Bacia do Paraná 3 (BP3) Brasil, foram obtidas. A extração dos elementos foi realizada através do método USEPA 3051A. A dosagem dos teores dos metais Ag, Al, As, Ba, Cd, Co, Cr, Cu, Fe, Mn, Mo, Ni, Pb, Sb, V, Zn e dos macroelementos Ca, K, Mg e P foi realizada por Espectrometria de Emissão Ótica com Plasma Indutivamente Acoplado (ICP-OES)."
+"area_conhecimento"	NA
+"palavras_chave"	"Áreas de Conservação ambiental; Solos; Metais; Valores de Referência;"
+"dados_publicacao"	"https://doi.org/10.26848/rbgf.v10.6.p099-113"
+"dados_idioma"	"português"
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
+"dados_completude"	"aproximadamente completos (entre 70 e 95% de cobertura)"
+"dados_consistencia"	"consistência estrutural"

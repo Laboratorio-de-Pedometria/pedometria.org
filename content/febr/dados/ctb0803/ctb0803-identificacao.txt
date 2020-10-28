@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0803"
+"dados_titulo"	"Levantamento de Reconhecimento dos Solos do Estado de Santa Catarina - volume 2, número 1-2"
+"dados_descricao"	"Dados do levantamento de reconhecimento dos solos do Estado de Santa Catarina, provenientes de observações realizadas em trincheiras e cortes de estrada, localizadas nas principais rodovias federais, municipais e estaduais. Ao todo, são dados morfológicos, químicos e físicos de 126 perfís de solo, constando neste volume os dados de 31 perfis de solo."
+"criacao_data"	"xx-xx-2017"
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
+"organizacao_nome"	"Superintendência de Desenvolvimento da Região Sul; Universidade Federal de Santa Maria"
+"organizacao_url"	NA
+"organizacao_local"	"Brasil"
+"autor_nome_email"	"Raimundo Costa de Lemos; Antonio Ayrton Auzani Uberti; Valmir José Vizzotto; João Lopes dos Santos; Paulo Hamilton Oleiro; Luiz Severo Mujica Mutti; Miguel Angelo D. Azolin"
+"dados_referencia"	"http://coral.ufsm.br/revistaccr/index.php/RCCCR/article/view/58/57; https://www.dropbox.com/s/03yg3n08eej0v1k/LemosEtAl1972.pdf?dl=0"
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_completude"	"virtualmente completos (mais de 95% de cobertura)"
+"dados_consistencia"	"consistência estrutural"

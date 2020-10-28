@@ -1,0 +1,15 @@
+"campo"	"valor"
+"dados_id"	"ctb0636"
+"dados_titulo"	"Levantamento de reconhecimento dos solos do sul do estado de Mato Grosso"
+"dados_descricao"	"Dados do levantamento de reconhecimento dos solos no sul do Estado de Mato Grosso (atualmente sul do Estado do Mato Grosso do Sul). As observações são provenientes do exame e amostragem de trincheiras e perfis adicionais em cortes recentes de estrada e pequenas trincheiras, além de inúmeros exames feitos com trado. Ao todo, são dados morfológicos, químicos e físicos de 120 perfis completos e 58 perfis complementares."
+"criacao_data"	"xx-xx-2017"
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
+"organizacao_nome"	NA
+"organizacao_url"	NA
+"organizacao_local"	"Brasil"
+"autor_nome_email"	"Flavio Garcia de Freitas (NA); Marcelo Nunes Camargo (NA); Antonio Ramalho Filho (NA); Elias Pedro Mothci (NA); Esteväo Machado Moura (NA); Hélio da Costa Almeida (NA); Humberto G. dos Santos (NA); Joäo A. Martins do Amaral (NA); Joäo M. Gralha Tomasi (NA); Klaus Peter Wittern (NA); Manoel Faustino Neto (NA); Reinaldo Oscar Potter (NA)"
+"dados_referencia"	"https://library.wur.nl/isric/fulltext/isricu_i00003049_001.pdf"
+"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave"	NA
+"dados_completude"	"aproximadamente completos (entre 70 e 95% de cobertura)"
+"dados_consistencia"	"consistência estrutural"
