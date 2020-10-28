@@ -24,7 +24,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type='text/javascript' src='/febr/busca/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('ctb0831-identificacao.txt',function (data) {
+  d3.tsv('/febr/dados/ctb0831/ctb0831-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
