@@ -20,19 +20,22 @@ tags:
   - Dados Abertos
 ---
 
-{{% toc %}}
+<!-- {{% toc %}} -->
 
-## Acesso Rápido às Ferramentas
+## Acesso rápido às ferramentas
 
 <!-- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp -->
-<a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button">
-  Buscar e Descarregar Conjuntos de Dados (shinyapp)
+<!-- <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button"> -->
+<a href="/febr/buscar/" class="btn btn-primary btn-block" role="button">
+  <!-- Buscar e Descarregar Conjuntos de Dados (shinyapp) -->
+  Buscar Conjuntos de Dados (DataTables)
 </a>
 <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-success btn-block" role="button">
-  Planilha Modelo de Conjuntos de Dados (v2)
+  Planilha Modelo de Conjunto de Dados (v2)
 </a>
-<a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button">
-  Depositar Meu Conjunto de Dados (ownCloud)
+<!-- <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button"> -->
+<a href="/febr/depositar/" class="btn btn-warning btn-block" role="button">
+  Depositar Conjunto de Dados (ownCloud)
 </a>
 <a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-danger btn-block" role="button">
   Pacote febr para o Ambiente R (GitHub)
@@ -43,7 +46,7 @@ tags:
 Publicações relacionadas ao projeto estão no final da página!
 {{% /alert %}}
 
-## Procurar Dados
+<!-- ## Procurar Dados
 
 Se você _usa_ dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país: granulometria, descrições morfológicas, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
@@ -56,9 +59,9 @@ Encontrar os dados de que você precisa é muito fácil!
 1. Recomendamos que inicie usando a [plataforma de busca e descarregamento](https://pedometria.shinyapps.io/febr/) de conjuntos de dados.
 1. Você também pode navegar pela [lista de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/apps/onlyoffice/s/JDcb8XBvkpQeyXm) disponíveis.
 1. Outra alternativa é usar o [pacote `febr` para o ambiente R](https://github.com/samuel-rosa/febr-package/).
-1. Finalmente, você pode descarregar o [conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG/download), padronizados e harmonizados, que preparamos periodicamente.
+1. Finalmente, você pode descarregar o [conjunto de dados processados](https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG/download), padronizados e harmonizados, que preparamos periodicamente. -->
 
-Veja algumas estatísticas do FEBR (28 de agosto de 2020).
+<!-- Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 
 | Item                           | Quantidade      |
 | ------------------------------ | --------------- |
@@ -68,7 +71,7 @@ Veja algumas estatísticas do FEBR (28 de agosto de 2020).
 | Observações processadas        | 14 043          |
 | Amostras processadas           | 50 470          |
 | Observações com coordenadas    | 11 013          |
-| Observações com data           | 9 223           |
+| Observações com data           | 9 223           | -->
 
 <!-- dados <- read.table("/home/alessandrorosa/ownCloud/febr-repo/publico/febr-superconjunto.txt", dec = ",", header = TRUE, sep = ";")
 data.frame(
@@ -80,25 +83,25 @@ data.frame(
   data = nrow(unique(dados[!is.na(dados$observacao_data), c("dataset_id", "observacao_id")]))
 ) -->
 
----
+<!-- --- -->
 
-## Compartilhar Dados
+<!-- ## Compartilhar Dados -->
 
-Se você _produz_ dados do solo, no campo ou laboratório, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades solo: granulometria, descrições morfológicas, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
+<!-- Se você _produz_ dados do solo, no campo ou laboratório, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades solo: granulometria, descrições morfológicas, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais. -->
 
-{{% alert warning %}}
+<!-- {{% alert warning %}}
   Conheça nossa [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0)!
-{{% /alert %}}
+{{% /alert %}} -->
 
-Compartilhar os dados do solo que você produziu é muito fácil!
+<!-- Compartilhar os dados do solo que você produziu é muito fácil! -->
 
-1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI)
+<!-- 1. Primeiro, organize os dados numa planilha eletrônica—use nosso [modelo de conjunto de dados](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI)
 1. Em seguida, carregue a planilha eletrônica no [portal de depósito de conjuntos de dados](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
 1. Finalmente, nos envie uma [mensagem de email](../../#contato) para confirmar o recebimento do conjunto de dados
 
-Caso você queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos a solução mais apropriada.
+Caso você queira compartilhar um grande volume de (conjuntos de) dados, [entre em contato](../../#contato) conosco para viabilizarmos a solução mais apropriada. -->
 
-Veja algumas recomendações sobre como organizar dados para publicação.
+<!-- Veja algumas recomendações sobre como organizar dados para publicação.
 
 <div style="border: 1px solid #ddd; padding: 8px; background-color: #f9f9f9; font-size: 0.8rem; line-height: 1.43; vertical-align: top; box-sizing: border-box;">
   <ul>
@@ -116,9 +119,9 @@ Veja algumas recomendações sobre como organizar dados para publicação.
       <li>Coloque os dados analíticos das camadas e/ou horizontes amostrados na aba <code>camada</code>.</li>
     </ul>
   </ul>
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## Participar do Projeto
 
