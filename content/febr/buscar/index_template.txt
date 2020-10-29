@@ -3,7 +3,7 @@ title: "dados_titulo"
 date: 2020-10-28
 slug: ../dados_id
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: [autor_nome_email]
+authors: [dados_autor]
 tags: [palavras_chave]
 ---
 

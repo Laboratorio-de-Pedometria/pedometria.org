@@ -40,14 +40,14 @@ for (i in 1:length(ctb)) {
   # Título
   index_template <- sub("dados_titulo", identificacao["dados_titulo", "valor"], index_template)
   # Autor(es)
-  autor_nome_email <- identificacao["autor_nome_email", "valor"]
-  if (is.na(autor_nome_email)) {
-    autor_nome_email <- "[]"
+  dados_autor <- identificacao["dados_autor", "valor"]
+  if (is.na(dados_autor)) {
+    dados_autor <- "[]"
   }
-  autor_nome_email <- gsub("; ", '", "', autor_nome_email)
-  autor_nome_email <- gsub(" \\(.*?\\)", "", autor_nome_email)
-  autor_nome_email <- paste0('"', autor_nome_email, '"')
-  index_template <- gsub("autor_nome_email", autor_nome_email, index_template)
+  dados_autor <- gsub("; ", '", "', dados_autor)
+  dados_autor <- gsub(" \\(.*?\\)", "", dados_autor)
+  dados_autor <- paste0('"', dados_autor, '"')
+  index_template <- gsub("dados_autor", dados_autor, index_template)
   # Tamanho do arquivo
   size_xlsx <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx"))
   index_template <- sub("size_xlsx", size_xlsx, index_template)
