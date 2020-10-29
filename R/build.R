@@ -15,9 +15,9 @@ writeLines(text = html, con = file)
 # Preparar arquivo TXT com dados no formato JSON
 # A página de busca utiliza DataTables
 catalogo <- openxlsx::read.xlsx("/home/alessandrorosa/ownCloud/febr-repo/publico/febr-indice.xlsx")
-catalogo$dados_id <- paste0('<a href="../dados/', catalogo$dados_id, '/">', catalogo$dados_id, '</a>')
+catalogo$dados_id <- paste0('<a href="../', catalogo$dados_id, '/">', catalogo$dados_id, '</a>')
 catalogo <- jsonlite::toJSON(list(data = catalogo[c("dados_id", "dados_titulo", "dados_autor")]), pretty = TRUE)
-writeLines(catalogo, con = "content/febr/busca/catalogo.txt")
+writeLines(catalogo, con = "content/febr/buscar/catalogo.txt")
 
 # Páginas individuais dos conjuntos de dados do FEBR
 # 1. Criar um diretório para cada conjunto de dados
@@ -32,17 +32,40 @@ lapply(cmd, system)
 
 # 3. Criar index.md para cada conjunto de dados
 for (i in 1:length(ctb)) {
-  index_template <- readLines("content/febr/busca/index_template.txt")
+  identificacao <- read.table(paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), stringsAsFactors = FALSE, header = TRUE)
+  rownames(identificacao) <- identificacao$campo
+  index_template <- readLines("content/febr/buscar/index_template.txt")
   index_template <- sub("dados_id", ctb[i], index_template)
   index_template <- sub("dados_id", ctb[i], index_template)
-  index_template <- sub("size_xlsx", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx")), index_template)
-  index_template <- sub("size_identificacao", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt")), index_template)
-  index_template <- sub("size_versionamento", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt")), index_template)
-  index_template <- sub("size_metadado", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt")), index_template)
-  index_template <- sub("size_observacao", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt")), index_template)
-  index_template <- sub("size_camada", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt")), index_template)
-  dados_titulo <- read.table(paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), stringsAsFactors = FALSE, header = TRUE)
-  rownames(dados_titulo) <- dados_titulo$campo
-  index_template <- sub("dados_titulo", dados_titulo["dados_titulo", "valor"], index_template)
+  # Título
+  index_template <- sub("dados_titulo", identificacao["dados_titulo", "valor"], index_template)
+  # Autor(es)
+  autor_nome_email <- identificacao["autor_nome_email", "valor"]
+  if (is.na(autor_nome_email)) {
+    autor_nome_email <- "[]"
+  }
+  autor_nome_email <- gsub("; ", '", "', autor_nome_email)
+  autor_nome_email <- gsub(" \\(.*?\\)", "", autor_nome_email)
+  autor_nome_email <- paste0('"', autor_nome_email, '"')
+  index_template <- gsub("autor_nome_email", autor_nome_email, index_template)
+  # Tamanho do arquivo
+  size_xlsx <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx"))
+  index_template <- sub("size_xlsx", size_xlsx, index_template)
+  size_identificacao <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt"))
+  index_template <- sub("size_identificacao", size_identificacao, index_template)
+  size_versionamento <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt"))
+  index_template <- sub("size_versionamento", size_versionamento, index_template)
+  size_metadado <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt"))
+  index_template <- sub("size_metadado", size_metadado, index_template)
+  size_observacao <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt"))
+  index_template <- sub("size_observacao", size_observacao, index_template)
+  size_camada <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt"))
+  index_template <- sub("size_camada", size_camada, index_template)
+  # Palavras chave
+  palavras_chave <- identificacao["palavras_chave", "valor"]
+  if (is.na(palavras_chave)) {
+    palavras_chave <- "Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos"
+  }
+  index_template <- gsub("palavras_chave", gsub(";", ",", palavras_chave), index_template)
   writeLines(index_template, con = paste0("content/febr/dados/", ctb[i], "/index.md"))
 }
