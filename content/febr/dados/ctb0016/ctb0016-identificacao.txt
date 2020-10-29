@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0016"
 "dados_titulo"	"Matéria orgânica e características físicas, químicas, mineralógicas e espectrais de Latossolos de diferentes ambientes"
-"dados_descricao"	"No primeiro estudo, os solos foram coletados em cinco localidades ao longo de uma climossequência de aproximadamente 300 km, em perfis de Latossolos sob campo nativo nas regiões do Planalto Médio e Campos de Cima da Serra do Rio Grande do Sul. Os locais escolhidos foram pontos onde haviam perfis representativos das unidades de mapeamento selecionados. Para o segundo estudo, foram acrescidos dois Latossolos, um do Distrito Federal e um da Amazônia. Os solos foram descritos e as amostras coletadas conforme Lemos e Santos (1996)."
-"criacao_data"	"2018-01-29"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br); Eglon Klamt (egonklamt@yahoo.com.br)"
 "organizacao_nome"	"Universidade Federal do Rio Grande do Sul (UFRGS)"
-"organizacao_url"	"http://www.ufrgs.br/agronomia/joomla/index.php/ensino/pos-graduacao/pg-em-ciencia-do-solo"
 "organizacao_local"	"Av. Bento Gonçalves, 7712.0, Porto Alegre, Brasil, 91540-000"
-"autor_nome_email"	"Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br); Eglon Klamt (egonklamt@yahoo.com.br)"
-"dados_referencia"	"http://www.lume.ufrgs.br/bitstream/handle/10183/2777/000376297.pdf?sequence=1; 10.1111/j.1365-2389.2005.00755.x"
+"organizacao_url"	"http://www.ufrgs.br/agronomia/joomla/index.php/ensino/pos-graduacao/pg-em-ciencia-do-solo"
+"dados_descricao"	"No primeiro estudo, os solos foram coletados em cinco localidades ao longo de uma climossequência de aproximadamente 300 km, em perfis de Latossolos sob campo nativo nas regiões do Planalto Médio e Campos de Cima da Serra do Rio Grande do Sul. Os locais escolhidos foram pontos onde haviam perfis representativos das unidades de mapeamento selecionados. Para o segundo estudo, foram acrescidos dois Latossolos, um do Distrito Federal e um da Amazônia. Os solos foram descritos e as amostras coletadas conforme Lemos e Santos (1996)."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Ácido clorídrico; Ditionito; Oxalato"
+"dados_publicacao"	"http://www.lume.ufrgs.br/bitstream/handle/10183/2777/000376297.pdf?sequence=1; 10.1111/j.1365-2389.2005.00755.x"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	"incompletos (menos de 70% de cobertura)"
 "dados_consistencia"	"consistência estrutural"

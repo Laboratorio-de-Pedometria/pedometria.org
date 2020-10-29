@@ -3,7 +3,7 @@ title: "As Vertentes Características e os Sistemas Pedológicos como Instrument
 date: 2020-10-28
 slug: ../ctb0039
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Anderson Sandro da Rocha", "Maria Teresa de Nóbrega, José Edézio da Cunha"]
 tags: [Mapeamento e Classificação do Solo, Bacia do Paraná 3, Fragilidade Ambiental, Capacidade de Uso da Terra]
 ---
 

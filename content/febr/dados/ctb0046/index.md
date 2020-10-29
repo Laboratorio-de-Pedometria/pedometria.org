@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Alta Intensidade dos Solos de Duas Ár
 date: 2020-10-28
 slug: ../ctb0046
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Virlei Álvaro de Oliveira", "Eduardo Guimarães Couto", "João Benedito Pereira Leite Sobrinho", "Maria Lucidalva C. Moreira"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0568"
 "dados_titulo"	"Levantamento pedológico, vulnerabilidade e potencialidade ao uso das terras: quadrículas de Silva Jardim e Rio das Ostras, Estado do Rio de Janeiro"
-"dados_descricao"	"Dados morfológicos, físicos e químicos de 21 perfis de solo descritos e amostrados em trincheiras e cortes de  estrada na Região das Baixadas Litorâneas do Estado do Rio de Janeiro. Dos 21 perfis, oito são inéditos e foram selecionados de acordo com as unidades de solos que o trabalho de mapeamento pretendia representar. Os demais provém de um conjunto de 18 perfis completos e 86 perfis complementares obtidos de estudos anteriores. Os métodos de análise seguem o Manual de Métodos de Análise de Solo (Embrapa, 1997). (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
-"criacao_data"	"2019-12-08"
-"dados_licenca"	"CC BY-NC 4.0"
+"dados_autor"	"José Francisco Lumbreras (NA); Amaury de Carvalho Filho (NA); Braz Calderano Filho (NA); Raphael David dos Santos (NA)"
 "organizacao_nome"	"Embrapa"
-"organizacao_url"	NA
 "organizacao_local"	"Brasil"
-"autor_nome_email"	"José Francisco Lumbreras (NA); Amaury de Carvalho Filho (NA); Braz Calderano Filho (NA); Raphael David dos Santos (NA)"
-"dados_referencia"	"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/338169/1/BP232001.pdf; http://ainfo.cnptia.embrapa.br/digital/bitstream/item/36318/1/BP23-2001.pdf; http://geoinfo.cnps.embrapa.br/layers/geonode%3Alev__rj_reg_lagos_solos_wgs84/metadata_read"
+"organizacao_url"	NA
+"dados_descricao"	"Dados morfológicos, físicos e químicos de 21 perfis de solo descritos e amostrados em trincheiras e cortes de  estrada na Região das Baixadas Litorâneas do Estado do Rio de Janeiro. Dos 21 perfis, oito são inéditos e foram selecionados de acordo com as unidades de solos que o trabalho de mapeamento pretendia representar. Os demais provém de um conjunto de 18 perfis completos e 86 perfis complementares obtidos de estudos anteriores. Os métodos de análise seguem o Manual de Métodos de Análise de Solo (Embrapa, 1997). (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	NA
+"dados_publicacao"	"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/338169/1/BP232001.pdf; http://ainfo.cnptia.embrapa.br/digital/bitstream/item/36318/1/BP23-2001.pdf; http://geoinfo.cnps.embrapa.br/layers/geonode%3Alev__rj_reg_lagos_solos_wgs84/metadata_read"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

@@ -3,7 +3,7 @@ title: "Os solos do Vale dos Vinhedos"
 date: 2020-10-28
 slug: ../ctb0025
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Carlos Alberto Flores", "Reinaldo Oscar Pötter", "Eliana Casco Sarmento", "Eliseu José Weber", "Heinrich Hasenack"]
 tags: [Levantamento de solos, Sistemas de informação geográfica, Viticultura, Indicação geográfica, Vale dos Vinhedos]
 ---
 

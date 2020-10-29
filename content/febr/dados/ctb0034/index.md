@@ -3,7 +3,7 @@ title: "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados de
 date: 2020-10-28
 slug: ../ctb0034
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["T. T. Cochrane", "Thomas A. Cochrane"]
 tags: [Solos, Rondônia, Recursos naturais, Fertilidade,]
 ---
 

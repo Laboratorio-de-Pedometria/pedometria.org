@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0008"
 "dados_titulo"	"Conjunto de dados do artigo 'Caracterização de solos com a chernozêmico na Zona da Mata norte do estado de Pernambuco'"
-"dados_descricao"	"Dados oriundos da tese de mestrado de Carmem Sueze Silva Miranda, produzida em 1995 na Universidade Federal Rural de Pernambuco sob orientação de Maria da Graça de Vasconcelos Xavier Ferreira, e publicados na forma de artigo em 1999 na Revista Brasileira de Ciência do Solo. Inclui dados do conteúdo de ferro extraído usando oxalato e ditionito dos horizontes de três perfis do solo, dois deles localizados no terço médio (Solo Litólico eutrófico Ta A chernozêmico) e superior (Brunizém Avermelhado) de uma catena, o terceiro localizado no terço médio (Podzólico Vermelho-Amarelo eutrófico Tb A chernozêmico) de outra catena, distante cerca de 2 km da anterior. O artigo não traz dados precisos da localização das observações, que foram então inferidas a partir de sua localização descritiva usando os serviços de mapas do Google e podem ser vistas em https://drive.google.com/open?id=16ZRvAf6i4E42v5fx7uQKfwHCISs&usp=sharing."
-"criacao_data"	"2018-01-29"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Carmem Sueze Silva Miranda (carmem.masutti@univasf.edu.br); Maria da Graça de Vasconcelos Xavier Ferreira (mgvxferreira@gmail.com)"
 "organizacao_nome"	"Universidade Federal Rural de Pernambuco (UFRPE)"
-"organizacao_url"	"http://www.pgs.ufrpe.br/"
 "organizacao_local"	"Rua Dom Manoel de Medeiros, s/n, Recife, Brasil, 52171-900"
-"autor_nome_email"	"Carmem Sueze Silva Miranda (carmem.masutti@univasf.edu.br); Maria da Graça de Vasconcelos Xavier Ferreira (mgvxferreira@gmail.com)"
-"dados_referencia"	"http://dx.doi.org/10.1590/S0100-06831999000100014"
+"organizacao_url"	"http://www.pgs.ufrpe.br/"
+"dados_descricao"	"Dados oriundos da tese de mestrado de Carmem Sueze Silva Miranda, produzida em 1995 na Universidade Federal Rural de Pernambuco sob orientação de Maria da Graça de Vasconcelos Xavier Ferreira, e publicados na forma de artigo em 1999 na Revista Brasileira de Ciência do Solo. Inclui dados do conteúdo de ferro extraído usando oxalato e ditionito dos horizontes de três perfis do solo, dois deles localizados no terço médio (Solo Litólico eutrófico Ta A chernozêmico) e superior (Brunizém Avermelhado) de uma catena, o terceiro localizado no terço médio (Podzólico Vermelho-Amarelo eutrófico Tb A chernozêmico) de outra catena, distante cerca de 2 km da anterior. O artigo não traz dados precisos da localização das observações, que foram então inferidas a partir de sua localização descritiva usando os serviços de mapas do Google e podem ser vistas em https://drive.google.com/open?id=16ZRvAf6i4E42v5fx7uQKfwHCISs&usp=sharing."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"A chernozêmico; Pedografia; Mineralogia"
+"dados_publicacao"	"http://dx.doi.org/10.1590/S0100-06831999000100014"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

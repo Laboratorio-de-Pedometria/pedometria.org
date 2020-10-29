@@ -3,7 +3,7 @@ title: "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados an
 date: 2020-10-28
 slug: ../ctb0033
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["T. T. Cochrane", "Thomas A. Cochrane"]
 tags: [Solos, Rondônia, Recursos naturais, Fertilidade,]
 ---
 
@@ -52,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0033.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>2951267 bytes</td>
+      <td>2949054 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0033&files=ctb0033.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0033-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>2777 bytes</td>
+      <td>2790 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0033&files=ctb0033-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -73,7 +73,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0033-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>6595 bytes</td>
+      <td>6599 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0033&files=ctb0033-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -87,7 +87,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0033-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1985347 bytes</td>
+      <td>2039478 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0033&files=ctb0033-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

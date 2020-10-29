@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0028"
 "dados_titulo"	"Levantamento Pedológico do Campo Experimental da Embrapa Uva e Vinho em Bento Golçalves, RS"
-"dados_descricao"	"Conjunto de dados do trabalho realizado para a identificação, a caracterização, e o levantamento pedológico detalhado dos solos do campo experimental da Embrapa Uva e Vinho, no município de Bento Gonçalves, RS, de forma a fornecer subsídios para o planos de manejo e zoneamento ambiental do campo experimental da Embrapa Uva e Vinho. O mapeamento dos solos foi efetuado em nível detalhado para apresentação final em mapa, na escala 1:10.000. O trabalho de campo contou com descrição morfológica de perfis de solo, segundo (LEMOS; SANTOS, 1996), e coleta de amostras para análises de laboratório. As amostras coletadas no campo foram analisadas no laboratório segundo metodologia da Embrapa (1997). As definições, conceitos e classificações de solos apresentadas neste item são derivados do Sistema Brasileiro de Classificação de Solos-SiBCS (EMBRAPA, 1999) e adaptações das propostas de revisão e atualização do SiBCS (SANTOS et al., 2003)"
-"criacao_data"	"2018-01-29"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Gustavo Souza Valladares (valladares@ufpi.edu.br); Naíssa Batista Luz (NA)"
 "organizacao_nome"	"Embrapa Monitoramento por Satélite"
-"organizacao_url"	"https://www.embrapa.br/territorial/"
 "organizacao_local"	"Av. Soldado Passarinho, 303.0, Campinas, Brasil, 13070-115"
-"autor_nome_email"	"Gustavo Souza Valladares (valladares@ufpi.edu.br); Naíssa Batista Luz (NA)"
-"dados_referencia"	"http://ainfo.cnptia.embrapa.br/digital/bitstream/CNPM/1827/1/bpd4_solosCNPUV.pdf"
+"organizacao_url"	"https://www.embrapa.br/territorial/"
+"dados_descricao"	"Conjunto de dados do trabalho realizado para a identificação, a caracterização, e o levantamento pedológico detalhado dos solos do campo experimental da Embrapa Uva e Vinho, no município de Bento Gonçalves, RS, de forma a fornecer subsídios para o planos de manejo e zoneamento ambiental do campo experimental da Embrapa Uva e Vinho. O mapeamento dos solos foi efetuado em nível detalhado para apresentação final em mapa, na escala 1:10.000. O trabalho de campo contou com descrição morfológica de perfis de solo, segundo (LEMOS; SANTOS, 1996), e coleta de amostras para análises de laboratório. As amostras coletadas no campo foram analisadas no laboratório segundo metodologia da Embrapa (1997). As definições, conceitos e classificações de solos apresentadas neste item são derivados do Sistema Brasileiro de Classificação de Solos-SiBCS (EMBRAPA, 1999) e adaptações das propostas de revisão e atualização do SiBCS (SANTOS et al., 2003)"
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Pedologia; Levantamento de solos; Solos; Classificação"
+"dados_publicacao"	"http://ainfo.cnptia.embrapa.br/digital/bitstream/CNPM/1827/1/bpd4_solosCNPUV.pdf"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

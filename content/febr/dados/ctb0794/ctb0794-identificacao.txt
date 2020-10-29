@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0794"
 "dados_titulo"	"Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado de Solos - Região da Campanha - Folha Palomas - Estado do Rio Grande do Sul'"
-"dados_descricao"	"Conjunto de dados públicos do solo originalmente obtidos do Sistema de Informação de Solos Brasileiros (SISB), construído e mantido pela Embrapa Solos (Rio de Janeiro) e Embrapa Informática Agropecuária (Campinas), referente ao Levantamento semidetalhado 'Levantamento Semidetalhado de Solos - Região da Campanha - Folha Palomas - Estado do Rio Grande do Sul'. A fim de preservar a conexão dos dados com o SISB, usa-se o mesmo código de identificação daquele sistema para o conjunto de dados, assim como o código de identificação de cada observação corresponde ao código do perfil do solo no SISB e o código das amostras corresponde ao código dos horizontes. Todas os demais dados são mantidos como dados adicionais para facilitar o reuso do conjunto de dados como um todo. Nenhum item técnico-científico do SISB e seu respectivo banco de dados que seja fruto da atividade intelectual, criativa, inovadora e inédita dos projetos conduzidos pela Embrapa foi ou é usado para organizar estruturalmente a presente versão do conjunto de dados. O emprego deste conjunto de dados para finalidades profissionais e/ou comerciais deve ser precedido pelo contato com a Embrapa."
-"criacao_data"	"2017-05-25"
-"dados_licenca"	"CC BY-NC 4.0"
+"dados_autor"	"Carlos Alberto Flores (cflores@terra.com.br); Reinaldo Oscar Pötter (NA); Pedro Jorge Fasolo (NA); Heinrich Hasenack (hhasenack@ufrgs.br); Eliseu Weber (eweber@portoweb.com.br)"
 "organizacao_nome"	"Universidade Federal do Rio Grande do Sul (UFRGS)"
-"organizacao_url"	"http://www.ufrgs.br"
 "organizacao_local"	"Av. Paulo Gama, 110.0, Porto Alegre, Brasil, 90040-060"
-"autor_nome_email"	"Carlos Alberto Flores (cflores@terra.com.br); Reinaldo Oscar Pötter (NA); Pedro Jorge Fasolo (NA); Heinrich Hasenack (hhasenack@ufrgs.br); Eliseu Weber (eweber@portoweb.com.br)"
-"dados_referencia"	"http://www.ecologia.ufrgs.br/labgeo/arquivos/Publicacoes/Livros_ou_capitulos/2007/; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html"
+"organizacao_url"	"http://www.ufrgs.br"
+"dados_descricao"	"Conjunto de dados públicos do solo originalmente obtidos do Sistema de Informação de Solos Brasileiros (SISB), construído e mantido pela Embrapa Solos (Rio de Janeiro) e Embrapa Informática Agropecuária (Campinas), referente ao Levantamento semidetalhado 'Levantamento Semidetalhado de Solos - Região da Campanha - Folha Palomas - Estado do Rio Grande do Sul'. A fim de preservar a conexão dos dados com o SISB, usa-se o mesmo código de identificação daquele sistema para o conjunto de dados, assim como o código de identificação de cada observação corresponde ao código do perfil do solo no SISB e o código das amostras corresponde ao código dos horizontes. Todas os demais dados são mantidos como dados adicionais para facilitar o reuso do conjunto de dados como um todo. Nenhum item técnico-científico do SISB e seu respectivo banco de dados que seja fruto da atividade intelectual, criativa, inovadora e inédita dos projetos conduzidos pela Embrapa foi ou é usado para organizar estruturalmente a presente versão do conjunto de dados. O emprego deste conjunto de dados para finalidades profissionais e/ou comerciais deve ser precedido pelo contato com a Embrapa."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Agricultura; Brasil; Critério; Mapeamento; Solo; Uso do solo; Zoneamento"
+"dados_publicacao"	"http://www.ecologia.ufrgs.br/labgeo/arquivos/Publicacoes/Livros_ou_capitulos/2007/; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

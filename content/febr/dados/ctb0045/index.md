@@ -3,7 +3,7 @@ title: "Parâmetros Físicos e Químicos de Referência em Solos de Unidades de 
 date: 2020-10-28
 slug: ../ctb0045
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Juliane Bocardi", "Adelmo Lowe Pletsch", "Anderson Sandro da Rocha", "Sueli Pércio Quinaia"]
 tags: [Áreas de Conservação ambiental, Solos, Metais, Valores de Referência,]
 ---
 

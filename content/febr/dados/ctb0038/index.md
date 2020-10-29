@@ -3,7 +3,7 @@ title: "Variabilidade de classes de solos, atributos morfológicos e físico-hí
 date: 2020-10-28
 slug: ../ctb0038
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Gabriel Antônio Deobald", "Fabrício de Araújo Pedron"]
 tags: [Atributos físico-hídricos, Pedologia, Geoestatística.]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0038.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>195700 bytes</td>
+      <td>261943 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0038&files=ctb0038.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Projeto RADAMBRASIL. Folha SF.22 Paranapanema"
 date: 2020-10-28
 slug: ../ctb0051
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Virlei Álvaro de Oliveira", "Eduardo Leandro da Rosa Macedo", "José Augusto Laus Neto", "Alcides Cardoso", "Reinaldo Oscar Pötter"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

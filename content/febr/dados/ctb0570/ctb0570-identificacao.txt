@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0570"
 "dados_titulo"	"Levantamento expedito dos solos das reservas florestais de Linhares e Sooretama no Estado do Espírito Santo"
-"dados_descricao"	"Dados morfológicos, físicos e químicos de 12 perfis e 6 amostras complementares de solo descritos e coletados na Reserva Florestal de Linhares, Espírito Santo, pertencente à Companhia Vale do Rio Doce. O local das observações do solo foi definido em função davariabilidade e extensão das áreas das unidades pedológicas, considerando as dificuldade de acesso. As análises laboratoriais seguiram o Manual de Métodos de Análises de Solo (Embrapa, 1979). Segundo o documento original, foram descritas e coletadas 43 amostras complementares, mas os dados de apenas seis delas estão publicados no mesmo. (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
-"criacao_data"	"2019-12-09"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Raphael David dos Santos (NA); Washington de Oliveira Barreto (NA); Enio Fraga da Silva (NA); Wilson Sant'Anna de Araújo (NA); Marie Elisabeth Christine Claessen (NA); José Lopes de Paula (NA); João Luiz Rodrigues de Souza (NA); Daniel Vidal Pérez (NA); José Silva de Souza. (NA)"
 "organizacao_nome"	"Embrapa"
-"organizacao_url"	NA
 "organizacao_local"	"Brasil"
-"autor_nome_email"	"Raphael David dos Santos (NA); Washington de Oliveira Barreto (NA); Enio Fraga da Silva (NA); Wilson Sant'Anna de Araújo (NA); Marie Elisabeth Christine Claessen (NA); José Lopes de Paula (NA); João Luiz Rodrigues de Souza (NA); Daniel Vidal Pérez (NA); José Silva de Souza. (NA)"
-"dados_referencia"	"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/965987/1/bpd492004sooretama.pdf; http://ainfo.cnptia.embrapa.br/digital/bitstream/item/89239/1/bpd49-2004-sooretama.pdf; NA"
+"organizacao_url"	NA
+"dados_descricao"	"Dados morfológicos, físicos e químicos de 12 perfis e 6 amostras complementares de solo descritos e coletados na Reserva Florestal de Linhares, Espírito Santo, pertencente à Companhia Vale do Rio Doce. O local das observações do solo foi definido em função davariabilidade e extensão das áreas das unidades pedológicas, considerando as dificuldade de acesso. As análises laboratoriais seguiram o Manual de Métodos de Análises de Solo (Embrapa, 1979). Segundo o documento original, foram descritas e coletadas 43 amostras complementares, mas os dados de apenas seis delas estão publicados no mesmo. (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	NA
+"dados_publicacao"	"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/965987/1/bpd492004sooretama.pdf; http://ainfo.cnptia.embrapa.br/digital/bitstream/item/89239/1/bpd49-2004-sooretama.pdf; NA"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

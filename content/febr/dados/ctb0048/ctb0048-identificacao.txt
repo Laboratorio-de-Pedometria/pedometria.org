@@ -1,16 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0048"
 "dados_titulo"	"Levantamento semidetalhado de solos do município de Bela Vista do Paraíso - PR"
-"dados_descricao"	"Dados de identificação e caracterização dos solos do municipio de Bela Vista do Paraíso, utilizados para o seu mapeamento na escala 1:50.000 (levantamento semidetalhado). As observações do solo foram obtidas pela prospecção das diferentes unidades fisiográficas delimitadas após a interpretação de material básico, procurando-se atender às distribuições pedossequenciais. Os perfis do solo foram examinados em barrancos, microtrincheiras e tradagens, sendo descritos conforme Santos et al. (2005), a maioria dos quais foram georeferrenciados usando GPS de navegação. Amostras do solo foram coletadas apenas para os horizontes superficial e subsuperficial, para as quais foram determinadas algumas propriedades mosfológicas, físicas e químicas básicas necessárias para a sua classificação taxonômica."
-"criacao_data"	NA
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Joao Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
 "organizacao_nome"	"IAPAR"
-"organizacao_url"	"http://www.iapar.br/"
 "organizacao_local"	"Rodovia Celso Garcia Cid, km 375, Londrina, 86047-902, Brasil"
-"autor_nome_email"	"Joao Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
-"dados_referencia"	"https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=930016&biblioteca=vazio&busca=autoria:%22CAVIGLIONE,%20J.H.%22&qFacets=autoria:%22CAVIGLIONE,%20J.H.%22&sort=&paginacao=t&paginaAtual=1"
+"organizacao_url"	"http://www.iapar.br/"
+"dados_descricao"	"Dados de identificação e caracterização dos solos do municipio de Bela Vista do Paraíso, utilizados para o seu mapeamento na escala 1:50.000 (levantamento semidetalhado). As observações do solo foram obtidas pela prospecção das diferentes unidades fisiográficas delimitadas após a interpretação de material básico, procurando-se atender às distribuições pedossequenciais. Os perfis do solo foram examinados em barrancos, microtrincheiras e tradagens, sendo descritos conforme Santos et al. (2005), a maioria dos quais foram georeferrenciados usando GPS de navegação. Amostras do solo foram coletadas apenas para os horizontes superficial e subsuperficial, para as quais foram determinadas algumas propriedades mosfológicas, físicas e químicas básicas necessárias para a sua classificação taxonômica."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Levantamento do solo; Bela Vista do Paraíso; Mapeamento do solo;"
+"dados_publicacao"	"https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=930016&biblioteca=vazio&busca=autoria:%22CAVIGLIONE,%20J.H.%22&qFacets=autoria:%22CAVIGLIONE,%20J.H.%22&sort=&paginacao=t&paginaAtual=1"
+"dados_idioma"	NA
 "fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	"completos (100% de cobertura)"
 "dados_consistencia"	"consistência estrutural"

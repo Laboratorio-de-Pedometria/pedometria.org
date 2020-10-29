@@ -11,7 +11,7 @@
 "dados_publicacao"	"http://www.sedam.ro.gov.br/index.php/downloads.html?start=4;http://dx.doi.org/10.1590/S0044-59672006000100011; https://www.dropbox.com/s/xh5cg749mrab3m7/CochraneEtAl2000.pdf?dl=0;"
 "dados_idioma"	"por"
 "fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0"
+"dados_licenca"	"CC BY 4.0 Atribuição"
 "extensao_temporal"	NA
 "extensao_espacial"	"Estado de Rondônia"
 "extensao_altimetrica"	NA

@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0017"
 "dados_titulo"	"Conjunto de dados do trabalho 'Solos da bacia hidrográfica do rio Uberaba'"
-"dados_descricao"	"Levantamento detalhado dos solos da Bacia Hidrográfica do Rio Uberaba, realizado nos anos de 2009 e 2010. O trabalho foi iniciado na cidade de Uberaba, à jusante do lago de captação de água do município, e teve fim na confluência com o rio Grande, no município de Planura. Foram abertos 83 perfis no campo, com a finalidade de caracterizar, identificar e classificar os solos da bacia, de acordo com a metodologia preconizada por Embrapa (1982). Após a identificação dos horizontes, foram preenchidas fichas de campo definindo as características morfológicas, de acordo com Embrapa (1989), Embrapa (1999) e Prado (2003), e coletadas amostras de solo de acordo com Prado (1991). Foram analisadas as frações da amostra total, composição granulométrica da terra fina, argila dispersa em água, grau de floculação, relação silte/argila, densidades aparente e real, porosidade, pH em água e em cloreto de potássio, cátions trocáveis, acidez extraível, soma de bases, CTC efetica, CTC a pH 7, saturação por bases e por alumínio, fósforo disponível e remanescente, carbono orgânico, nitrogênio, relação C/N, ataque sulfúrico e relações moleculares, utilizando as metodologias citadas por Raij (2001) e Silva (1999), além de condutividade elétrica e de curvas de retenção de umidade."
-"criacao_data"	"2018-01-29"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"João Chrisóstomo Pedroso Neto (chrisostomo@epamig.ufla.br)"
 "organizacao_nome"	"Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG)"
-"organizacao_url"	"www.epamig.br"
 "organizacao_local"	"Rua Afonso Ratto, 1301.0, Uberaba, Brasil, 38001-970"
-"autor_nome_email"	"João Chrisóstomo Pedroso Neto (chrisostomo@epamig.ufla.br)"
-"dados_referencia"	NA
+"organizacao_url"	"www.epamig.br"
+"dados_descricao"	"Levantamento detalhado dos solos da Bacia Hidrográfica do Rio Uberaba, realizado nos anos de 2009 e 2010. O trabalho foi iniciado na cidade de Uberaba, à jusante do lago de captação de água do município, e teve fim na confluência com o rio Grande, no município de Planura. Foram abertos 83 perfis no campo, com a finalidade de caracterizar, identificar e classificar os solos da bacia, de acordo com a metodologia preconizada por Embrapa (1982). Após a identificação dos horizontes, foram preenchidas fichas de campo definindo as características morfológicas, de acordo com Embrapa (1989), Embrapa (1999) e Prado (2003), e coletadas amostras de solo de acordo com Prado (1991). Foram analisadas as frações da amostra total, composição granulométrica da terra fina, argila dispersa em água, grau de floculação, relação silte/argila, densidades aparente e real, porosidade, pH em água e em cloreto de potássio, cátions trocáveis, acidez extraível, soma de bases, CTC efetica, CTC a pH 7, saturação por bases e por alumínio, fósforo disponível e remanescente, carbono orgânico, nitrogênio, relação C/N, ataque sulfúrico e relações moleculares, utilizando as metodologias citadas por Raij (2001) e Silva (1999), além de condutividade elétrica e de curvas de retenção de umidade."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Rio Uberaba; Cerrado"
+"dados_publicacao"	NA
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	NA
 "dados_consistencia"	"consistência estrutural"

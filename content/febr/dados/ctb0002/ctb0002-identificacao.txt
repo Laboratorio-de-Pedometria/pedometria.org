@@ -1,15 +1,19 @@
 "campo"	"valor"
 "dados_id"	"ctb0002"
 "dados_titulo"	"Classificação taxonômica do solo em Pinheiral, RJ"
-"dados_descricao"	"Dados compilados e coletados para a realização de estudo de mapeamento digital do solo, onde foi com parado o uso de diferentes modelos digitais de elevação para a calibração de modelos de regressão logística multinomial múltipla. Os dados de classificação do solo foram compilados de outros trabalhos de mestrado e doutorado, bem como de relatórios de atividades desenvolvidas por alunos do curso de pós-graduação em agronomia-ciência do solo da UFRRJ. Inclui classificação de perfis completos e tradagens."
-"criacao_data"	"2019-03-24"
-"dados_licenca"	"CC BY 4.0"
+"dados_autor"	"Elias Mendes Costa (eliasmccosta@yahoo.com.br); Lúcia Helena Cunha dos Anjos (lanjosrural@gmail.com)"
 "organizacao_nome"	"Universidade Federal Rural do Rio de Janeiro (UFRRJ)"
-"organizacao_url"	"www.ia.ufrrj.br/cpacs/"
 "organizacao_local"	"BR-465, Km 7, Sem número, Seropédica, Brasil, 23.897-000"
-"autor_nome_email"	"Elias Mendes Costa (eliasmccosta@yahoo.com.br); Lúcia Helena Cunha dos Anjos (lanjosrural@gmail.com)"
-"dados_referencia"	"https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping; http://www.ia.ufrrj.br/cpacs/arquivos/teses_dissert/439_(ME-2015)_Elias_Mendes_Costa.pdf"
+"organizacao_url"	"www.ia.ufrrj.br/cpacs/"
+"dados_descricao"	"Dados compilados e coletados para a realização de estudo de mapeamento digital do solo, onde foi com parado o uso de diferentes modelos digitais de elevação para a calibração de modelos de regressão logística multinomial múltipla. Os dados de classificação do solo foram compilados de outros trabalhos de mestrado e doutorado, bem como de relatórios de atividades desenvolvidas por alunos do curso de pós-graduação em agronomia-ciência do solo da UFRRJ. Inclui classificação de perfis completos e tradagens."
 "area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave"	"Pedologia; Pedometria; Sensoriamento remoto; Relação solo-paisagem"
+"dados_publicacao"	"https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping; http://www.ia.ufrrj.br/cpacs/arquivos/teses_dissert/439_(ME-2015)_Elias_Mendes_Costa.pdf"
+"dados_idioma"	NA
+"fonte_financeira"	NA
+"dados_licenca"	"CC BY 4.0 Atribuição"
+"extensao_temporal"	NA
+"extensao_espacial"	NA
+"extensao_altimetrica"	NA
 "dados_completude"	"completos (100% de cobertura)"
 "dados_consistencia"	"consistência estrutural"

@@ -3,7 +3,7 @@ title: "Projeto RADAMBRASIL. Folha SG.22 Curitiba, parte da folha SG.21 Asunció
 date: 2020-10-28
 slug: ../ctb0050
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Isaias Oenning", "José Marcos Moser", "Sérgio Hideiti Shimizu", "Moacir de Jesus Rauen", "Américo Pereira de Carvalho"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

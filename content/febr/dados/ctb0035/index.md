@@ -3,7 +3,7 @@ title: "Banco de Solos do Estado de Minas Gerais"
 date: 2020-10-28
 slug: ../ctb0035
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["[]"]
+authors: ["Walter Antônio Pereira Abrahão", "José João Lelis Leal de Souza"]
 tags: [Áreas minimamente antropizadas, Minas Gerais]
 ---
 
