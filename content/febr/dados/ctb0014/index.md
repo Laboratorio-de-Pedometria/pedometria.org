@@ -21,7 +21,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type='text/javascript' src='/febr/busca/script.js'></script>
 <script type='text/javascript'>
   d3.tsv('/febr/dados/ctb0014/ctb0014-identificacao.txt',function (data) {
