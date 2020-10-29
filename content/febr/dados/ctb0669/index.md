@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras em 100.000 Hectares da Gleba Machadinho, no Município de Ariquemes, Rondônia.'"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0669
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["WITTERN", "K. P.", "CONCEIÇÃO", "M. da", "DURIEZ", "M. A. de M.", "MELO", "M. E. C. C. de M.", "JOHAS", "R. A. L.", "ARAÚJO", "W. S. de", "BLOISE", "R. M.", "LOUZADA", "E. S.", "MOREIRA", "G. N. C.", "PAULA", "J. L. de", "FONTES", "L. E. F.", "SOUZA", "J. L. R. de", "ANTONELLO", "L. L.", "RODRIGUES", "E. M.", "LIMA", "TAVARES", "N. T.", "NEVES", "C. C. das", "VIEIRA", "R. R."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras em 100.000 Hectares da Gleba Machadinho, no Município de Ariquemes, Rondônia.'
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0669`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0669`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0669/ctb0669-identificacao.txt',function (data) {
+  d3.tsv('ctb0669-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

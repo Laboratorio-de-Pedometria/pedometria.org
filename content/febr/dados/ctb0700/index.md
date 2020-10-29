@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS SOLOS DA ÁREA DA UEPAE DE TERESINA, PI'"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0700
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Heraclio Fernandes R. de Melo Filho", "Luiz Alberto Regueira Medeiros", "Paulo Klinger Tito Jacomine", "Washington de O. Barreto", "Maria Amélia de Moraes Duriez", "Maria Elisabeth C. C. Magalhães Melo", "Ruth Andrade Sant'Anna de Araújo", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues e José Herculano de Carvalho."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS SOLOS DA ÁREA DA UEPAE DE TERESINA, PI'
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0700`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0700`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0700/ctb0700-identificacao.txt',function (data) {
+  d3.tsv('ctb0700-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

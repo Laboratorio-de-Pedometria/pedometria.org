@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras da margem direita do Rio Paranã - Estado de Goiás"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0646
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Flávio Garcia de Freitas", "Elias Pedro Mothci", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Potter", "Roberto Chaves Ferreira", "Loiva Lizia Antonello", "Leandro Vettori", "Helio Pierantoni", "João Luiz R. de Souza", "José Lopes de Paula", "Maria Amélia de Moraes Duriez", "Ruth A. L. Johas", "Raphael M. Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Luiz Rainho S. Carneiro", "Franklin dos Santos Antunes", "Therezinha Costa Lima"]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Levantamento de reconhecimento de média intensidade dos solos e avaliação da aptidão agrícola das terras da margem direita do Rio Paranã - Estado de Goiás
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0646`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0646`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0646/ctb0646-identificacao.txt',function (data) {
+  d3.tsv('ctb0646-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

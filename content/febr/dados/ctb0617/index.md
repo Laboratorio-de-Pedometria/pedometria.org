@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras do Triângulo Mineiro"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0617
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Iderê Azevedo Gomes", "Francesco Palmieri", "Alfredo Melhem Baruqui", "Paulo Emílio Ferreira da Motta", "Eubi Jorne Naime", "Derli Prudente Santana", "Elias Pedro Mothci", "Flavio Garcia de Freitas", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Pötter", "Washington de Oliveira Barreto", "Marilia Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Maria Elisabeth C. C. de Magalhães Melo", "Wilson Sant'Anna de Araújo", "José Lopes de Paula", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Raphael Minotti Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Fernando Zinho Antunes", "Mitzi Brandão Ferreira", "Marcelo Nunes Camargo", "Jorge Olmos Iturri Larach."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação da Aptidão Agrícola das Terras do Triângulo Mineiro
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0617`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0617`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0617/ctb0617-identificacao.txt',function (data) {
+  d3.tsv('ctb0617-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

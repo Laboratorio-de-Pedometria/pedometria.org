@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais.'"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0573
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Santos", "H.G. dos", "Filho", "B.C. ", "Claessen", "M.E.C. ", "Junior", "W. de C. ", "Chagas", "C. da S. ", "Wittern", "K.P. ", "Mothci", "E.P. ", "Barreto", "W. de O.(in memorian)", "Araujo", "W.S. de", "Duriez", "M.A.de M. ", "Johas", "R.A.L. ", "Paula", "J.L. de", "Antonello", "L.L.", "Fonseca", "O.O.M.de", "Lemos", "A.L.(in memorian). "]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais.'
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0573`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0573`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0573/ctb0573-identificacao.txt',function (data) {
+  d3.tsv('ctb0573-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Levantamento exploratório-reconhecimento de solos do Estado do Maranhão"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0645
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Paulo Klinger Tito Jacomine", "Antonio Cabral Cavalcanti", "Sergio Costa Pinto Pessôa", "Nivaldo Brugos", "Luiz Alberto Regueira Medeiros", "Osvaldo Ferreira Lopes", "Heraclio Fernandes Raposo de Mélo  Filho", "Rheno Amaro Formiga", "Maria Amélia de Moraes Duriez", "Marie Elizabeth C. C. de Mélo Filho", "Ruth Andrade Leal Johas", "Washington de Oliveira Barreto", "Wilson Sant'Anna de Araújo", "Raphael Minotti Bloise", "Giza Nara C. Moreira", "Luiz Bezerra de Oliveira", "José Lopes de Paula", "Therezinha da Costa Lima", "Loiva Lizia Antonello", "Evanda Maria Rodrigues", "Maria Carmelita Machado Menezes", "Roberto Chaves Ferreira", "Alfredo Stange"]
+tags: [Análise, Levantamento, Reconhecimento, Reconhecimento do Solo, Recurso natural, Solo]
 ---
-
-## Levantamento exploratório-reconhecimento de solos do Estado do Maranhão
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0645`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0645`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0645/ctb0645-identificacao.txt',function (data) {
+  d3.tsv('ctb0645-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

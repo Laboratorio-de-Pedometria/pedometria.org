@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Anais da III Reunião  de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0641
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["A. P. Carvalho", "R. M. Sobral Filho", "J. Olmos I. L.", "M. N. Camargo", "R. Pötter", "D. Hochmüller", "J. Ker", "L. Achá Panoso", "J. B. Oliveira", "J. M. Valadares", "M. Conceição", "K. P. Wittern", "F. Barreto", "E. P. Mothci", "F. Palmieri", "T. E. Rodrigues", "J. L. Souza", "N. P. Tavares", "W. Azevedo", "W. Oliveira", "R. N. Peres", "M. A. M. Duriez", "R. A. L. Johas", "M. E. C. C. Melo", "W. S. Araújo", "J. L. Paula", "J. L. R. Souza", "P. C. Lima."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Anais da III Reunião  de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0641`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0641`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0641/ctb0641-identificacao.txt',function (data) {
+  d3.tsv('ctb0641-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

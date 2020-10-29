@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Conjunto de dados do  'Anais da II Reunião de Classificação, Correlação de Solo e Interpretação de Aptidão Agrícola'"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0640
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Américo Pereira de Carvalho", "Jorge Olmos I. Larach", "Marcelo N. Camargo", "João Bertlodo de Oliveira", "Humberto G. dos Santos", "Elias P. Mothci", "Klaus P. Wittern", "Mauro da Conceição", "Ney P. Tavares", "Eliezer S. Louzada", "Doracy P. Ramos", "Hélio Padro", "João Luiz R. de Souza", "Antonio Carlos Moniz", "Célio L. F. de Almeida", "Maria Amélia de M. Duriez", "Ruth A. Leal Johas", "M. Elisabeth C. C. de Magalhães Melo", "Wilson S. de Araujo", "Raphael M. Bloise", "Gisa N. C. Moreira", "José Lopes de Paula", "Therezinha da Costa Lima", "Evanda M. Rodrigues", "Loiva L. Antonello", "Paulo Cardoso Lima", "José da Silva Pinto."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Conjunto de dados do  'Anais da II Reunião de Classificação, Correlação de Solo e Interpretação de Aptidão Agrícola'
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0640`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0640`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0640/ctb0640-identificacao.txt',function (data) {
+  d3.tsv('ctb0640-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

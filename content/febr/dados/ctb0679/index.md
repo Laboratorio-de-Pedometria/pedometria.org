@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "Levantamento Exploratório - Reconhecimento de Solos da Margem Direita do Rio São Franciso. Estado da Bahia - Volume II"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0679
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Paulo Klinger Tito Jacomina", "Antonio Cabral Cavalcanti", "Fernando B. Rodrigues e Silva", "José Onaldo Montenegro", "Rheno Amaro Formiga", "Nivaldo Burgos", "Heráclio Fernandes R. de Mélo Filho", "Arnaldo Moniz Ribeiro da Costa", "Gilberto Suhett", "Osvaldo Ferreira Lopes", "Vilmar de Oliveira", "Sergio Costa Pinto Pessoa", "Paulo Cardoso de Lima", "Luiz Alberto Regueira Medeiros", "Jeronimo Cunha Almeida", "Marcelo Nunes Camargo", "Jorge Olmos Iturri Larach", "Flávio Garcia de Freitas", "Chyozo Hirano", "Raul Suarez Inclan", "Acry A. O. De Melo", "Antônio Carlos Leão", "José Silva Rosatelli", "Luiz Ferreira da Silva", "Raimundo Carvalho Filho", "Clotário Olivier da Silveira", "Aluisio Pereira da Silva", "Jurandir Gondim Reis", "Valdir de Araújo Beltrão", "Leandro Vettori", "Franklin dos Santos Antunes", "Maria de Lourdes A. Anastácio", "Hélio Pierantoni", "Therezinha de O. Barreto", "Raphael M. Bloise", "Maria Amélia Duriez", "Ruth A. L. Johas", "Giza Nara C. Moreira", "José Flávio Dynia", "José Lopes de Paula", "Hélio A. Vaz de Mello", "Ida de Souza S. Vettori", "Maria Aparecida B. Pereira", "Sinézio F. Chagas", "Adahil Medeiros Leite", "Manoel da Silve Cardoso", "Luiz Rainho S. Carneiro", "Loiva Lizia Antonello", "Zenaide Fonseca Mello", "Maria Lucia Vasconcellos", "Ney Hamilton Porfírio", "Maria Carmelita M. Meneses", "Roberta Chaves Ferreira e José Corsino de Oliveira."]
+tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
-
-## Levantamento Exploratório - Reconhecimento de Solos da Margem Direita do Rio São Franciso. Estado da Bahia - Volume II
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0679`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0679`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0679/ctb0679-identificacao.txt',function (data) {
+  d3.tsv('ctb0679-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}

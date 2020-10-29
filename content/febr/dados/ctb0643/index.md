@@ -1,11 +1,11 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo
+title: "VI Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos RS/SC/PR"
 date: 2020-10-28
-summary: A febre dos dados de solo no Brasil
-authors: []
+slug: ../ctb0643
+summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
+authors: ["Gustavo Ribas Curcio", "Américo Pereira de Carvalho", "Itamar Antonio Bognola", "Renato Antonio Dedecek", "Raphael D. dos Santos", "Iderê Azevedo Gomes", "Márcio Rossi", "Maurício Rizzato Coelho", "Washington de Oliveira Barreto", "Aluísio Granado de Andrade", "Jaime Antônio de Almeida", "Sebastião Barreiros Calderano", "João Carlos Ker", "Mauro da Conceição", "Antônio Carlos Saraiva da Costa", "Álvaro Pires da Silva", "Neyde F. B. Giarola"]
+tags: [Brasil, Classificação, Congresso, Levantamento, Paraná, Rio Grande do Sul, Santa Catarina, Solo]
 ---
-
-## VI Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos RS/SC/PR
 
 <style>
 div.alert > div {
@@ -13,25 +13,30 @@ div.alert > div {
 }
 </style>
 
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
+
+<br>
+<br>
+
 {{% alert note %}}
-Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/dados/ctb0643`
+Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0643`
 {{% /alert %}}
 
-### Metadados de citação
+## Metadados de citação
 
 <table>
 <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type='text/javascript' src='/febr/busca/script.js'></script>
+<script type='text/javascript' src='/febr/buscar/script.js'></script>
 <script type='text/javascript'>
-  d3.tsv('/febr/dados/ctb0643/ctb0643-identificacao.txt',function (data) {
+  d3.tsv('ctb0643-identificacao.txt',function (data) {
     var columns = ['campo', 'valor']
     tabulate(data, columns)
   })
 </script>
 </table>
 
-### Arquivos associados a este item
+## Arquivos associados a este item
 
 <table style="width:100%">
   <thead>
@@ -88,3 +93,5 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     </tr>
   </tbody>
 </table>
+
+{{% btn %}}<a href="/febr/buscar/">Retornar à página de busca</a>{{% /btn %}}
