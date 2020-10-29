@@ -47,43 +47,43 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0567.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>Desconhecido</td>
-      <td>XLSX</td>
+      <td>890368 bytes</td>
+      <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0567-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>Desconhecido</td>
-      <td>TXT</td>
+      <td>1694 bytes</td>
+      <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0567-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>Desconhecido</td>
-      <td>TXT</td>
+      <td>1396 bytes</td>
+      <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0567-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>Desconhecido</td>
-      <td>TXT</td>
+      <td>16117 bytes</td>
+      <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0567-observacao.txt</td>
-      <td>Dados do locais de observação do solo (pontos, perfis)</td>
-      <td>Desconhecido</td>
-      <td>TXT</td>
+      <td>Dados dos locais de observação do solo (pontos, perfis)</td>
+      <td>16963 bytes</td>
+      <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0567-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>Desconhecido</td>
-      <td>TXT</td>
+      <td>33236 bytes</td>
+      <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0567&files=ctb0567-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
   </tbody>

@@ -35,6 +35,12 @@ for (i in 1:length(ctb)) {
   index_template <- readLines("content/febr/busca/index_template.txt")
   index_template <- sub("dados_id", ctb[i], index_template)
   index_template <- sub("dados_id", ctb[i], index_template)
+  index_template <- sub("size_xlsx", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx")), index_template)
+  index_template <- sub("size_identificacao", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt")), index_template)
+  index_template <- sub("size_versionamento", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt")), index_template)
+  index_template <- sub("size_metadado", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt")), index_template)
+  index_template <- sub("size_observacao", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt")), index_template)
+  index_template <- sub("size_camada", file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt")), index_template)
   dados_titulo <- read.table(paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), stringsAsFactors = FALSE, header = TRUE)
   rownames(dados_titulo) <- dados_titulo$campo
   index_template <- sub("dados_titulo", dados_titulo["dados_titulo", "valor"], index_template)
