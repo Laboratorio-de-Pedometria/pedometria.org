@@ -23,7 +23,7 @@ writeLines(catalogo, con = "content/febr/buscar/catalogo.txt")
 # 1. Criar um diretório para cada conjunto de dados
 ctb <- list.dirs("~/ownCloud/febr-repo/publico", full.names = FALSE)[-1]
 dirs <- dir.exists(paste0("content/febr/dados/", ctb))
-cmd <- paste0("mkdir content/febr/dados", ctb[!dirs])
+cmd <- paste0("mkdir content/febr/dados/", ctb[!dirs])
 lapply(cmd, system)
 
 # 2. Copiar os metadados de citação
@@ -49,18 +49,30 @@ for (i in 1:length(ctb)) {
   dados_autor <- paste0('"', dados_autor, '"')
   index_template <- gsub("dados_autor", dados_autor, index_template)
   # Tamanho do arquivo
-  size_xlsx <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx"))
+  exc <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx")
+  size_xlsx <- ifelse(file.exists(exc), file.size(exc), 0)
   index_template <- sub("size_xlsx", size_xlsx, index_template)
-  size_identificacao <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt"))
+
+  ide <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt")
+  size_identificacao <- ifelse(file.exists(ide), file.size(ide), 0)
   index_template <- sub("size_identificacao", size_identificacao, index_template)
-  size_versionamento <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt"))
+  
+  ver <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt")
+  size_versionamento <- ifelse(file.exists(ver), file.size(ver), 0)
   index_template <- sub("size_versionamento", size_versionamento, index_template)
-  size_metadado <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt"))
+  
+  met <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt")
+  size_metadado <- ifelse(file.exists(met), file.size(met), 0)
   index_template <- sub("size_metadado", size_metadado, index_template)
-  size_observacao <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt"))
+  
+  obs <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt")
+  size_observacao <- ifelse(file.exists(obs), file.size(obs), 0)
   index_template <- sub("size_observacao", size_observacao, index_template)
-  size_camada <- file.size(paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt"))
+  
+  cam <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt")
+  size_camada <- ifelse(file.exists(cam), file.size(cam), 0)
   index_template <- sub("size_camada", size_camada, index_template)
+  
   # Palavras chave
   palavras_chave <- identificacao["palavras_chave", "valor"]
   if (is.na(palavras_chave)) {
