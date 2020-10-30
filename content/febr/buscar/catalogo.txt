@@ -96,6 +96,11 @@
       "dados_autor": "Alexander Dümig (NA); Peter Schad (schad@wzw.tum.de); Manmath Kohok (NA); Patrick Beyerlein (NA); Wolfgang Schwimmer (NA); Ingrid Kögel-Knabner (NA)"
     },
     {
+      "dados_id": "<a href=\"../ctb0020/\">ctb0020<\/a>",
+      "dados_titulo": "Atributos físico-hídricos do solo sob diferentes períodos de palhada no cerrado da região sudoeste do estado do Piauí, Brasil",
+      "dados_autor": "Aderson Soares de Andrade Júnior, Embrapa Meio-Norte (aderson.andrade@embrapa.br); Francisco de Brito Melo, Embrapa Meio-Norte (francisco.brito@embrapa.br); Henrique Antunes de Souza, Embrapa Meio-Norte (henrique.souza@embrapa.br); Odália Carolinne Mota de Sousa, PPGCA-UFPI (carolodalia@gmail.com)"
+    },
+    {
       "dados_id": "<a href=\"../ctb0022/\">ctb0022<\/a>",
       "dados_titulo": "Levantamento semidetalhado de solos do Município de Londrina",
       "dados_autor": "Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (NA); Américo Pereira de Carvalho (NA)"
@@ -154,6 +159,11 @@
       "dados_id": "<a href=\"../ctb0034/\">ctb0034<\/a>",
       "dados_titulo": "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados de retenção da água",
       "dados_autor": "T. T. Cochrane (NA); Thomas A. Cochrane (tom.cochrane@canterbury.ac.nz)"
+    },
+    {
+      "dados_id": "<a href=\"../ctb0035/\">ctb0035<\/a>",
+      "dados_titulo": "Banco de Solos do Estado de Minas Gerais",
+      "dados_autor": "Walter Antônio Pereira Abrahão (wabrahao@gmail.com); José João Lelis Leal de Souza (jjlelis@gmail.com)"
     },
     {
       "dados_id": "<a href=\"../ctb0036/\">ctb0036<\/a>",
@@ -243,7 +253,7 @@
     {
       "dados_id": "<a href=\"../ctb0569/\">ctb0569<\/a>",
       "dados_titulo": "Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos da Região Centro-Oeste RCC - GO/MT",
-      "dados_autor": "Virlei Álvaro de Oliveira (virlei53@gmail.com); Humberto Gonçalves dos Santos (humberto.santos@embrapa.br); Antônio José Wilman Rios ( rios@ibge.gov.br); Paulo Tito Klinger Jacomine (pauloklinger@hotmail.com\n); Daniel Vidal Pérez (daniel.perez@embrapa.br); Wilson Sant'Anna de Araújo (wilson@cnps.embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br)"
+      "dados_autor": "Virlei Álvaro de Oliveira (virlei53@gmail.com); Humberto Gonçalves dos Santos (humberto.santos@embrapa.br); Antônio José Wilman Rios ( rios@ibge.gov.br); Paulo Tito Klinger Jacomine (pauloklinger@hotmail.com&#10;); Daniel Vidal Pérez (daniel.perez@embrapa.br); Wilson Sant'Anna de Araújo (wilson@cnps.embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br)"
     },
     {
       "dados_id": "<a href=\"../ctb0570/\">ctb0570<\/a>",
@@ -473,7 +483,7 @@
     {
       "dados_id": "<a href=\"../ctb0624/\">ctb0624<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 25 Microbacia: Oeste (Salto Veloso, SC)'",
-      "dados_autor": "TASSINARI (NA); G. (NA); \nBUCHMANN (NA); E.  (NA); \nABATI FILHO (NA); A.  (NA); \nFIGUEIRO (NA); N.  (NA); \nPOLA (NA); A.C.  (NA)"
+      "dados_autor": "TASSINARI (NA); G. (NA); &#10;BUCHMANN (NA); E.  (NA); &#10;ABATI FILHO (NA); A.  (NA); &#10;FIGUEIRO (NA); N.  (NA); &#10;POLA (NA); A.C.  (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0626/\">ctb0626<\/a>",
@@ -483,7 +493,7 @@
     {
       "dados_id": "<a href=\"../ctb0627/\">ctb0627<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 19 Microbacia: Pinheiro Preto II (Pinheiro Preto, SC)'",
-      "dados_autor": "CHANIN (NA); Y.A. (NA); \nBENEZ (NA); M.C.  (NA); \nPANICHI (NA); J. de A.V.  (NA); \nPOLA (NA); A.C.  (NA); \nSOUZA (NA); E.L. de.  (NA)"
+      "dados_autor": "CHANIN (NA); Y.A. (NA); &#10;BENEZ (NA); M.C.  (NA); &#10;PANICHI (NA); J. de A.V.  (NA); &#10;POLA (NA); A.C.  (NA); &#10;SOUZA (NA); E.L. de.  (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0628/\">ctb0628<\/a>",
@@ -503,7 +513,7 @@
     {
       "dados_id": "<a href=\"../ctb0632/\">ctb0632<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 35 Microbacia: Rio Dourado I (São João do Oeste,SC)'",
-      "dados_autor": "TASSINARI (NA); G. (NA); \nJUNCES (NA); L. (NA); \nPOLA (NA); A.C.  (NA)"
+      "dados_autor": "TASSINARI (NA); G. (NA); &#10;JUNCES (NA); L. (NA); &#10;POLA (NA); A.C.  (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0635/\">ctb0635<\/a>",
@@ -583,7 +593,7 @@
     {
       "dados_id": "<a href=\"../ctb0656/\">ctb0656<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO-RECONHECIMENTO DE SOLOS DO ESTADO DA PARAÍBA (VOLUME I) E INTERPRETAÇÃO PARA USO AGRÍCOLA DOS SOLOS DO ESTADO DA PARAÍBA (VOLUME II).'",
-      "dados_autor": "PAULO KLINGER JACOMINE (NA); MATEUS ROSAS RIBEIRO (NA); JOSÉ ONALDO MONTENEGRO (NA); ALUÍSIO PEREIRA DA SILVA (NA); HERÁCLIO F. R. DE MELO FILHO (NA); CLOTÁRIO OLIVIER DA SILVEIRA (NA); ANTONIO CABRAL CAVALCANTI (NA); ERNANI LIBRA DE CARVALHO (NA); FERNANDO B. RODRIGUES E SILVA (NA); JERONIMO CUNHA ALMEIDA\nJURANDIR GONDIM REIS (NA); JOÃO CARLOS CHAGAS CAMPOS (NA); NIVALDO BURGOS (NA); RHENO AMARO FORMIGA (NA); VALDIR DE ARAÚJO BELTRÃO (NA); LEANDRO VETTORI (NA); FRANKLIN DOS SANTOS ANTUNES (NA); MARIA DE LOURDES A. ANASTÁCIO (NA); RAPHAEL M. BLOISE (NA); HÉLIO PIERANTONI (NA); MARIA AMÉLIA DURIEZ;RUTH A. L. JOHAS (NA); ADALTON OLIVEIRA MARTINS (NA); THEREZINHA C. L. BEZERRA (NA); LOIVA LIZIA ANTONELLO (NA); LUIS RAINHO S. CARNEIRO (NA); MARIANA E. HEYNEMMAM (NA); RAIMUNDO M. SOBRAL FILHO (NA); JOSÉ LOPES DE PAULA (NA); GIZA NARA C. MOREIRA (NA); ZILDA A. BREMAEKER (NA); WHASHINGTON DE O. BARRETO (NA); HELIO A. VAZ DE MELLO (NA); IDA DE SOUZA S. VETTORI (NA); MARIA APARECIDA B. PEREIRA (NA); SINÉZIO F. CHAGAS (NA); ADAHIL MEDEIROS LEITE (NA); MANOEL DA SILVA CARDOSO (NA); ANTONIO CARLOS MOTTA (NA); ANTONIO MOREIRA DA COSTA (NA); CLÍMACO M. AUGUSTO (NA); JOSÉ MATEUS (NA); ZENAIDE FONSECA MELLO (NA); MARIA LÚCIA VASCONCELLOS (NA); NEY HAMILTON PROFÍRIO (NA); MARIA CARMELITA M. MENEZES (NA); JOSÉ CORSINO DE OLIVEIRA (NA); MÉRCIA BORBOREMA DE OLIVEIRA (NA); CHYOSO HIRANO (NA); JAN HENDRIK SOLKE BRUIN. (NA)"
+      "dados_autor": "PAULO KLINGER JACOMINE (NA); MATEUS ROSAS RIBEIRO (NA); JOSÉ ONALDO MONTENEGRO (NA); ALUÍSIO PEREIRA DA SILVA (NA); HERÁCLIO F. R. DE MELO FILHO (NA); CLOTÁRIO OLIVIER DA SILVEIRA (NA); ANTONIO CABRAL CAVALCANTI (NA); ERNANI LIBRA DE CARVALHO (NA); FERNANDO B. RODRIGUES E SILVA (NA); JERONIMO CUNHA ALMEIDA&#10;JURANDIR GONDIM REIS (NA); JOÃO CARLOS CHAGAS CAMPOS (NA); NIVALDO BURGOS (NA); RHENO AMARO FORMIGA (NA); VALDIR DE ARAÚJO BELTRÃO (NA); LEANDRO VETTORI (NA); FRANKLIN DOS SANTOS ANTUNES (NA); MARIA DE LOURDES A. ANASTÁCIO (NA); RAPHAEL M. BLOISE (NA); HÉLIO PIERANTONI (NA); MARIA AMÉLIA DURIEZ;RUTH A. L. JOHAS (NA); ADALTON OLIVEIRA MARTINS (NA); THEREZINHA C. L. BEZERRA (NA); LOIVA LIZIA ANTONELLO (NA); LUIS RAINHO S. CARNEIRO (NA); MARIANA E. HEYNEMMAM (NA); RAIMUNDO M. SOBRAL FILHO (NA); JOSÉ LOPES DE PAULA (NA); GIZA NARA C. MOREIRA (NA); ZILDA A. BREMAEKER (NA); WHASHINGTON DE O. BARRETO (NA); HELIO A. VAZ DE MELLO (NA); IDA DE SOUZA S. VETTORI (NA); MARIA APARECIDA B. PEREIRA (NA); SINÉZIO F. CHAGAS (NA); ADAHIL MEDEIROS LEITE (NA); MANOEL DA SILVA CARDOSO (NA); ANTONIO CARLOS MOTTA (NA); ANTONIO MOREIRA DA COSTA (NA); CLÍMACO M. AUGUSTO (NA); JOSÉ MATEUS (NA); ZENAIDE FONSECA MELLO (NA); MARIA LÚCIA VASCONCELLOS (NA); NEY HAMILTON PROFÍRIO (NA); MARIA CARMELITA M. MENEZES (NA); JOSÉ CORSINO DE OLIVEIRA (NA); MÉRCIA BORBOREMA DE OLIVEIRA (NA); CHYOSO HIRANO (NA); JAN HENDRIK SOLKE BRUIN. (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0657/\">ctb0657<\/a>",
@@ -668,7 +678,7 @@
     {
       "dados_id": "<a href=\"../ctb0673/\">ctb0673<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSIDADE DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DA ÁREA DO PÓLO RORAIMA'",
-      "dados_autor": "José Raimundo Natividade Ferreira Gama (NA); Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Raimundo Silva Rego (NA); Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); João Marcos Lima da Silva (NA); Raymundo Mendes Sobral Filho (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Terezinha Xavier Bastos\n (NA)"
+      "dados_autor": "José Raimundo Natividade Ferreira Gama (NA); Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Raimundo Silva Rego (NA); Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); João Marcos Lima da Silva (NA); Raymundo Mendes Sobral Filho (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Terezinha Xavier Bastos&#10; (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0674/\">ctb0674<\/a>",
@@ -713,7 +723,7 @@
     {
       "dados_id": "<a href=\"../ctb0682/\">ctb0682<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de baixa intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE BAIXA INTENSIDADE DOS SOLOS DO MUNICÍPIO DE JARDIM, ESTADO DO MATO GROSSO DO SUL.'",
-      "dados_autor": "César da Silva Chagas (NA); Nilson Pereira Rendeiro (NA); Mário Luiz Diamante Áglio (NA); Waldir de Carvalho Júnior (NA); Alexandre Ortega (NA); Fernando Cézar S. do Amaral (NA); \nAntonio Carlos Borges Daniel Filho (NA); Maria José Zaroni (NA); Carlos Henrique Lemos Lopes (NA); Enio Fraga da Silva (NA); Pereira Vargas (NA); Silvio Barge Bhering (NA)"
+      "dados_autor": "César da Silva Chagas (NA); Nilson Pereira Rendeiro (NA); Mário Luiz Diamante Áglio (NA); Waldir de Carvalho Júnior (NA); Alexandre Ortega (NA); Fernando Cézar S. do Amaral (NA); &#10;Antonio Carlos Borges Daniel Filho (NA); Maria José Zaroni (NA); Carlos Henrique Lemos Lopes (NA); Enio Fraga da Silva (NA); Pereira Vargas (NA); Silvio Barge Bhering (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0683/\">ctb0683<\/a>",
@@ -978,7 +988,7 @@
     {
       "dados_id": "<a href=\"../ctb0772/\">ctb0772<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação do Potencial Agroecológico das Terras do Município de Santana do Ipanema, Alagoas.'",
-      "dados_autor": "Osvaldo Ferreira Lopes (NA); José Carlos Pereira dos Santos (NA); Alexandre Hugo Cezar Barros.\n (NA)"
+      "dados_autor": "Osvaldo Ferreira Lopes (NA); José Carlos Pereira dos Santos (NA); Alexandre Hugo Cezar Barros.&#10; (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0773/\">ctb0773<\/a>",
@@ -993,7 +1003,7 @@
     {
       "dados_id": "<a href=\"../ctb0775/\">ctb0775<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'Levantamento Exploratório - Reconhecimento de Solos do Estado de Alagoas.'",
-      "dados_autor": "JACOMINE (NA); Paulo Klinger Tito et al.\n (NA)"
+      "dados_autor": "JACOMINE (NA); Paulo Klinger Tito et al.&#10; (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0776/\">ctb0776<\/a>",
@@ -1003,7 +1013,7 @@
     {
       "dados_id": "<a href=\"../ctb0777/\">ctb0777<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DA MARGEM ESQUERDA DO RIO SÃO FRANCISCO-ESTADO DA BAHIA'",
-      "dados_autor": "Serviço Nacional de Levantamento e Conservação de Solos;\n (NA)"
+      "dados_autor": "Serviço Nacional de Levantamento e Conservação de Solos;&#10; (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0778/\">ctb0778<\/a>",
@@ -1028,7 +1038,7 @@
     {
       "dados_id": "<a href=\"../ctb0782/\">ctb0782<\/a>",
       "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS DE UMA ÁREA PRIORITÁRIA NA RODOVIA TRANSAMAZÔNICA ENTRE ALTAMIRA E ITAITUBA 1973 - Boletim técnico nº 34'",
-      "dados_autor": "Humberto Goncalves dos Santos  (NA); Reinaldo Oscar Potter  (NA); Luiz Gonzaga de Oliveira Carvalho  (NA); Roberto Chaves Ferreira  (NA); Francesco Palmieri  (NA); Manoel Faustino Neto  (NA); Raphael David dos Santos  (NA); Ernesto Maués Serra Freire  (NA); Ivo Katusi Morikawa  (NA); Leandro Vettori  (NA); Hélio Pierantoni  (NA); Washington de Oliveira Barreto  (NA); Maria Amelia Duriez  (NA); Ruth A. L. Johas  (NA); José Lopes de Paula  (NA); Joäo Luiz Rodrigues de Souza  (NA); Edna Lopes Carvalho  (NA); Waldemar Ferreira  (NA); Maria Aparecida B. Pereira  (NA); Hélio A. Vaz de Melo  (NA); Manoel da Silva Cardoso  (NA); Adahil Medeiros Leite\nJosé Mateus  (NA); Joaquim Braga Bastos  (NA); Franklin dos Santos Antunes  (NA); Luiz Rainho da Silva Cameiro  (NA); Loiva Lizia Antonello  (NA); Therezinha C. L. Bezerra  (NA); Sinésio F. Chagas. (NA)"
+      "dados_autor": "Humberto Goncalves dos Santos  (NA); Reinaldo Oscar Potter  (NA); Luiz Gonzaga de Oliveira Carvalho  (NA); Roberto Chaves Ferreira  (NA); Francesco Palmieri  (NA); Manoel Faustino Neto  (NA); Raphael David dos Santos  (NA); Ernesto Maués Serra Freire  (NA); Ivo Katusi Morikawa  (NA); Leandro Vettori  (NA); Hélio Pierantoni  (NA); Washington de Oliveira Barreto  (NA); Maria Amelia Duriez  (NA); Ruth A. L. Johas  (NA); José Lopes de Paula  (NA); Joäo Luiz Rodrigues de Souza  (NA); Edna Lopes Carvalho  (NA); Waldemar Ferreira  (NA); Maria Aparecida B. Pereira  (NA); Hélio A. Vaz de Melo  (NA); Manoel da Silva Cardoso  (NA); Adahil Medeiros Leite&#10;José Mateus  (NA); Joaquim Braga Bastos  (NA); Franklin dos Santos Antunes  (NA); Luiz Rainho da Silva Cameiro  (NA); Loiva Lizia Antonello  (NA); Therezinha C. L. Bezerra  (NA); Sinésio F. Chagas. (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0783/\">ctb0783<\/a>",
@@ -1118,7 +1128,7 @@
     {
       "dados_id": "<a href=\"../ctb0802/\">ctb0802<\/a>",
       "dados_titulo": "Conjunto de dados do  'CARACTERIZAÇÃO FÍSICO-HÍDRICA DOS PRINCIPAIS SOLOS DA AMAZÔNIA LEGAL. I - Estado do Pará.'",
-      "dados_autor": "Tarcísio Eweton Rodrigues;\nRaimundo Cosme de Oliveira Junior;\nJoão Marcos Lima da Silva;\nMoacir Azevedo Valente;\nClaudio Lucas Capeche;\nWilson SantAnna de Araujo;\nMarie Elizabeth C. C. de Magalhães Melo;\nWashington de Oliveira Barreto;\nJosé Lopes de Paula;\nEvanda Maria Rodrigues;\nDaniel Luiz Leal Mangas;\nAntonio Guilherme Soares Campos.\n (NA)"
+      "dados_autor": "Tarcísio Eweton Rodrigues;&#10;Raimundo Cosme de Oliveira Junior;&#10;João Marcos Lima da Silva;&#10;Moacir Azevedo Valente;&#10;Claudio Lucas Capeche;&#10;Wilson SantAnna de Araujo;&#10;Marie Elizabeth C. C. de Magalhães Melo;&#10;Washington de Oliveira Barreto;&#10;José Lopes de Paula;&#10;Evanda Maria Rodrigues;&#10;Daniel Luiz Leal Mangas;&#10;Antonio Guilherme Soares Campos.&#10; (NA)"
     },
     {
       "dados_id": "<a href=\"../ctb0803/\">ctb0803<\/a>",
