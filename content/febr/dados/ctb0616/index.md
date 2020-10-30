@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Inventário das terras em microbacias hidrográfi
 date: 2020-10-28
 slug: ../ctb0616
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["MACIEL", "C.A.T.", "PANICHI", "J. de A.V. ", "BENEZ", "M.C. ", "CHANIN", "Y.M.A. ", "POLA", "A.C. ", "RAMOS", "A. "]
+#authors: ["MACIEL", "C.A.T.", "PANICHI", "J. de A.V. ", "BENEZ", "M.C. ", "CHANIN", "Y.M.A. ", "POLA", "A.C. ", "RAMOS", "A. "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0616.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>891786 bytes</td>
+      <td>134667 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0616&files=ctb0616.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0616-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1668 bytes</td>
+      <td>11722 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0616&files=ctb0616-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0616-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>2060 bytes</td>
+      <td>46716 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0616&files=ctb0616-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

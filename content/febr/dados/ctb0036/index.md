@@ -3,7 +3,7 @@ title: "Solo construído no aterro encerrado da Caturrita, Santa Maria (RS)"
 date: 2020-10-28
 slug: ../ctb0036
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Alessandro Samuel-Rosa", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Alessandro Samuel-Rosa", "Ricardo Simão Diniz Dalmolin"]
 tags: [Solos construídos, Solos antrópicos, Solos urbanos, Pedogênese,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0036.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>904609 bytes</td>
+      <td>275290 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0036&files=ctb0036.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0036-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>12581 bytes</td>
+      <td>13549 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0036&files=ctb0036-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0036-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>11300 bytes</td>
+      <td>34206 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0036&files=ctb0036-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

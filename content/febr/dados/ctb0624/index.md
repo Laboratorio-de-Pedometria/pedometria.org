@@ -3,11 +3,7 @@ title: "Conjunto de dados do levantamento semidetalhado 'Inventário das terras 
 date: 2020-10-28
 slug: ../ctb0624
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["TASSINARI", "G.", "
-BUCHMANN", "E. ", "
-ABATI FILHO", "A. ", "
-FIGUEIRO", "N. ", "
-POLA", "A.C. "]
+#authors: ["TASSINARI", "G.", "&#10;BUCHMANN", "E. ", "&#10;ABATI FILHO", "A. ", "&#10;FIGUEIRO", "N. ", "&#10;POLA", "A.C. "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -56,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0624.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>882370 bytes</td>
+      <td>104718 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0624&files=ctb0624.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0624-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3408 bytes</td>
+      <td>3428 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0624&files=ctb0624-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -84,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0624-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>997 bytes</td>
+      <td>6677 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0624&files=ctb0624-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0624-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>802 bytes</td>
+      <td>16166 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0624&files=ctb0624-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

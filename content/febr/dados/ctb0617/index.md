@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Média Intensidade dos Solos e Avalia�
 date: 2020-10-28
 slug: ../ctb0617
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Iderê Azevedo Gomes", "Francesco Palmieri", "Alfredo Melhem Baruqui", "Paulo Emílio Ferreira da Motta", "Eubi Jorne Naime", "Derli Prudente Santana", "Elias Pedro Mothci", "Flavio Garcia de Freitas", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Pötter", "Washington de Oliveira Barreto", "Marilia Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Maria Elisabeth C. C. de Magalhães Melo", "Wilson Sant'Anna de Araújo", "José Lopes de Paula", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Raphael Minotti Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Fernando Zinho Antunes", "Mitzi Brandão Ferreira", "Marcelo Nunes Camargo", "Jorge Olmos Iturri Larach."]
+#authors: ["Iderê Azevedo Gomes", "Francesco Palmieri", "Alfredo Melhem Baruqui", "Paulo Emílio Ferreira da Motta", "Eubi Jorne Naime", "Derli Prudente Santana", "Elias Pedro Mothci", "Flavio Garcia de Freitas", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Pötter", "Washington de Oliveira Barreto", "Marilia Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Maria Elisabeth C. C. de Magalhães Melo", "Wilson Sant'Anna de Araújo", "José Lopes de Paula", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Raphael Minotti Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Fernando Zinho Antunes", "Mitzi Brandão Ferreira", "Marcelo Nunes Camargo", "Jorge Olmos Iturri Larach."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0617.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>997593 bytes</td>
+      <td>401948 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0617&files=ctb0617.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0617-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>10856 bytes</td>
+      <td>115193 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0617&files=ctb0617-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0617-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>12449 bytes</td>
+      <td>340165 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0617&files=ctb0617-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'PROJETO DE GESTÃO AMBIENTAL INTEGRADO DO ESTADO 
 date: 2020-10-28
 slug: ../ctb0702
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Governo do Estado do Amazonas. Instituto de Proteção Ambiental do Amazonas - IPAAM. "]
+#authors: ["Governo do Estado do Amazonas. Instituto de Proteção Ambiental do Amazonas - IPAAM. "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0702.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>976250 bytes</td>
+      <td>339844 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0702&files=ctb0702.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0702-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>6095 bytes</td>
+      <td>53273 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0702&files=ctb0702-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0702-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>8701 bytes</td>
+      <td>290563 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0702&files=ctb0702-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

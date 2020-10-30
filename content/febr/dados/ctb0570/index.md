@@ -3,7 +3,7 @@ title: "Levantamento expedito dos solos das reservas florestais de Linhares e So
 date: 2020-10-28
 slug: ../ctb0570
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raphael David dos Santos", "Washington de Oliveira Barreto", "Enio Fraga da Silva", "Wilson Sant'Anna de Araújo", "Marie Elisabeth Christine Claessen", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Daniel Vidal Pérez", "José Silva de Souza."]
+#authors: ["Raphael David dos Santos", "Washington de Oliveira Barreto", "Enio Fraga da Silva", "Wilson Sant'Anna de Araújo", "Marie Elisabeth Christine Claessen", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Daniel Vidal Pérez", "José Silva de Souza."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0570.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>899955 bytes</td>
+      <td>155599 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0570&files=ctb0570.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0570-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1781 bytes</td>
+      <td>12822 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0570&files=ctb0570-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0570-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3068 bytes</td>
+      <td>55422 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0570&files=ctb0570-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

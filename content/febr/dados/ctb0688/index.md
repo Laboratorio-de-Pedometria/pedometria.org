@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalh
 date: 2020-10-28
 slug: ../ctb0688
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Flávio Garcia de Freitas", "Adelino Alvares Filho", "Antônio Manoel Pires Filho;Antônio Ramalho Filho", "Elias Pedro Mothci", "Hélio da Costa Almeida", "João Mauricio G. Tomasini", "Klaus Peter Wittern", "Sérgio Costa Pinto Pessoa", "Sérgio Sommer", "Manoel Faustino Neto", "Nalcione Nazareno N. Diniz", "Ary Delcio Cavadon", "Estevão Machado Moura", "João Luis R. Souza", "Reinaldo Oscar Potter", "João Alberto Martins do Amaral", "Leandro Vettori", "Maria de Lourdes A. Anastácio", "Franklin Santos Antunes", "Maria Amélia M. Duriez", "Terezinha C. L. Bezerra", "Loiva L. Antonello", "Hélio Pierantoni", "Raphael M. Bloise", "Mariana E. Heynemann", "Ruth A. L. Johas", "Raimundo M. Sobral Filho", "José Lopes de Paula", "Gisa Nara C. Moreira", "Ari Nunes", "José F. B. Zikan."]
+#authors: ["Flávio Garcia de Freitas", "Adelino Alvares Filho", "Antônio Manoel Pires Filho;Antônio Ramalho Filho", "Elias Pedro Mothci", "Hélio da Costa Almeida", "João Mauricio G. Tomasini", "Klaus Peter Wittern", "Sérgio Costa Pinto Pessoa", "Sérgio Sommer", "Manoel Faustino Neto", "Nalcione Nazareno N. Diniz", "Ary Delcio Cavadon", "Estevão Machado Moura", "João Luis R. Souza", "Reinaldo Oscar Potter", "João Alberto Martins do Amaral", "Leandro Vettori", "Maria de Lourdes A. Anastácio", "Franklin Santos Antunes", "Maria Amélia M. Duriez", "Terezinha C. L. Bezerra", "Loiva L. Antonello", "Hélio Pierantoni", "Raphael M. Bloise", "Mariana E. Heynemann", "Ruth A. L. Johas", "Raimundo M. Sobral Filho", "José Lopes de Paula", "Gisa Nara C. Moreira", "Ari Nunes", "José F. B. Zikan."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0688.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>906673 bytes</td>
+      <td>168368 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0688&files=ctb0688.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0688-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1737 bytes</td>
+      <td>12695 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0688&files=ctb0688-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0688-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3193 bytes</td>
+      <td>95526 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0688&files=ctb0688-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

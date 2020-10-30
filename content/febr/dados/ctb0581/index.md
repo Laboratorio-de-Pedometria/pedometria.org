@@ -3,7 +3,7 @@ title: "Caracterização dos Solos do Município de Castro, PR"
 date: 2020-10-28
 slug: ../ctb0581
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Pedro J. Fasolo", "Américo P. Carvalho", "Reinaldo O. Potter", "Itamar A. Bognola", "Silvio B. Bhering", "Lucieta G. Martorano."]
+#authors: ["Pedro J. Fasolo", "Américo P. Carvalho", "Reinaldo O. Potter", "Itamar A. Bognola", "Silvio B. Bhering", "Lucieta G. Martorano."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0581.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>891889 bytes</td>
+      <td>122287 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0581&files=ctb0581.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,7 +66,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0581-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>1068 bytes</td>
+      <td>1072 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0581&files=ctb0581-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0581-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>873 bytes</td>
+      <td>9808 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0581&files=ctb0581-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0581-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1401 bytes</td>
+      <td>38290 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0581&files=ctb0581-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Estudo expedito de solos no Estado do Maranhão para fins de classifica�
 date: 2020-10-28
 slug: ../ctb0660
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Paulo KlInger Tito Jacomine", "Marcelo Nunes Camargo", "Raphael David dos Santos", "Antonio Cabral Cavalcanti", "Heraclio Fernandes Raposo de MeIo Filho", "Luiz Alberto Regueira Medeiros", "Nivaldo Burgos", "Osvaldo Ferreira Lopes", "Raimundo da Silva Rego", "Rheno Amaro Formiga", "Sergio Costa Pinto Pessoa", "Tarcísio Ewerton Rodrigues "]
+#authors: ["Paulo KlInger Tito Jacomine", "Marcelo Nunes Camargo", "Raphael David dos Santos", "Antonio Cabral Cavalcanti", "Heraclio Fernandes Raposo de MeIo Filho", "Luiz Alberto Regueira Medeiros", "Nivaldo Burgos", "Osvaldo Ferreira Lopes", "Raimundo da Silva Rego", "Rheno Amaro Formiga", "Sergio Costa Pinto Pessoa", "Tarcísio Ewerton Rodrigues "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0660.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>104959 bytes</td>
+      <td>104969 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0660&files=ctb0660.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

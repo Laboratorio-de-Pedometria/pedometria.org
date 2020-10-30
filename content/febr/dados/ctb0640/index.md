@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Anais da II Reunião de Classificação, Correla�
 date: 2020-10-28
 slug: ../ctb0640
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Américo Pereira de Carvalho", "Jorge Olmos I. Larach", "Marcelo N. Camargo", "João Bertlodo de Oliveira", "Humberto G. dos Santos", "Elias P. Mothci", "Klaus P. Wittern", "Mauro da Conceição", "Ney P. Tavares", "Eliezer S. Louzada", "Doracy P. Ramos", "Hélio Padro", "João Luiz R. de Souza", "Antonio Carlos Moniz", "Célio L. F. de Almeida", "Maria Amélia de M. Duriez", "Ruth A. Leal Johas", "M. Elisabeth C. C. de Magalhães Melo", "Wilson S. de Araujo", "Raphael M. Bloise", "Gisa N. C. Moreira", "José Lopes de Paula", "Therezinha da Costa Lima", "Evanda M. Rodrigues", "Loiva L. Antonello", "Paulo Cardoso Lima", "José da Silva Pinto."]
+#authors: ["Américo Pereira de Carvalho", "Jorge Olmos I. Larach", "Marcelo N. Camargo", "João Bertlodo de Oliveira", "Humberto G. dos Santos", "Elias P. Mothci", "Klaus P. Wittern", "Mauro da Conceição", "Ney P. Tavares", "Eliezer S. Louzada", "Doracy P. Ramos", "Hélio Padro", "João Luiz R. de Souza", "Antonio Carlos Moniz", "Célio L. F. de Almeida", "Maria Amélia de M. Duriez", "Ruth A. Leal Johas", "M. Elisabeth C. C. de Magalhães Melo", "Wilson S. de Araujo", "Raphael M. Bloise", "Gisa N. C. Moreira", "José Lopes de Paula", "Therezinha da Costa Lima", "Evanda M. Rodrigues", "Loiva L. Antonello", "Paulo Cardoso Lima", "José da Silva Pinto."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0640.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>251200 bytes</td>
+      <td>175982 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0640&files=ctb0640.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

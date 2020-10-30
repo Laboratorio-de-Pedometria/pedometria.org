@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento dos Solos do Estado de Santa Catarina - v
 date: 2020-10-28
 slug: ../ctb0803
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raimundo Costa de Lemos", "Antonio Ayrton Auzani Uberti", "Valmir José Vizzotto", "João Lopes dos Santos", "Paulo Hamilton Oleiro", "Luiz Severo Mujica Mutti", "Miguel Angelo D. Azolin"]
+#authors: ["Raimundo Costa de Lemos", "Antonio Ayrton Auzani Uberti", "Valmir José Vizzotto", "João Lopes dos Santos", "Paulo Hamilton Oleiro", "Luiz Severo Mujica Mutti", "Miguel Angelo D. Azolin"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0803.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>253754 bytes</td>
+      <td>173071 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0803&files=ctb0803.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

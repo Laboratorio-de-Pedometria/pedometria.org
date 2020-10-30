@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalh
 date: 2020-10-28
 slug: ../ctb0584
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["João Sousa Martins", "Maria José Zaroni", "Sebastião Barreiros Calderano", "Enio Fraga da Silva."]
+#authors: ["João Sousa Martins", "Maria José Zaroni", "Sebastião Barreiros Calderano", "Enio Fraga da Silva."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0584.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>195973 bytes</td>
+      <td>119778 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0584&files=ctb0584.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

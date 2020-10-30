@@ -1,8 +1,7 @@
 "campo"	"valor"
 "dados_id"	"ctb0673"
 "dados_titulo"	"Conjunto de dados do levantamento de reconhecimento de média intensidade 'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSIDADE DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DA ÁREA DO PÓLO RORAIMA'"
-"dados_autor"	"José Raimundo Natividade Ferreira Gama (NA); Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Raimundo Silva Rego (NA); Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); João Marcos Lima da Silva (NA); Raymundo Mendes Sobral Filho (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Terezinha Xavier Bastos
- (NA)"
+"dados_autor"	"José Raimundo Natividade Ferreira Gama (NA); Tarcísio Ewerton Rodrigues (NA); Raphael David dos Santos (NA); Raimundo Silva Rego (NA); Paulo Lacerda dos Santos (NA); Antonio Agostinho Cavalcanti Lima (NA); Amarindo Fausto Soares (NA); João Souza Martins (NA); João Marcos Lima da Silva (NA); Raymundo Mendes Sobral Filho (NA); Washington de Oliveira Barreto (NA); Maria Amélia de Moraes Duriez (NA); Ruth Andrade Leal Johas (NA); José Lopes de Paula (NA); Loiva Lizia Antonello (NA); Therezinha da Costa Lima (NA); Evanda Maria Rodrigues (NA); Raphael Minotti Bloise (NA); Gisa Nara C. Moreira (NA); Terezinha Xavier Bastos&#10; (NA)"
 "organizacao_nome"	NA
 "organizacao_local"	"Brasil"
 "organizacao_url"	NA

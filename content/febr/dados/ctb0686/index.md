@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento semidetalhado 'LEVANTAMENTO SEMIDETALH
 date: 2020-10-28
 slug: ../ctb0686
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Delcio Peres Hochmüller", "Reinaldo Oscar Pötter", "Maria Amelia de Moraes Duriez", "Ruth Andrade Leal Johas", "Washington de Oliveira Barreto", "Wilson Sant'Anna de Araujo", "Luis Eduardo Ferreira Fontes", "Evanda Maria Rodrigues", "Luzberto Achá Panoso", "Luis Carlos Ferreira da Silva", "Pedro Luiz Freitas e Ney Pinto Tavares."]
+#authors: ["Delcio Peres Hochmüller", "Reinaldo Oscar Pötter", "Maria Amelia de Moraes Duriez", "Ruth Andrade Leal Johas", "Washington de Oliveira Barreto", "Wilson Sant'Anna de Araujo", "Luis Eduardo Ferreira Fontes", "Evanda Maria Rodrigues", "Luzberto Achá Panoso", "Luis Carlos Ferreira da Silva", "Pedro Luiz Freitas e Ney Pinto Tavares."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0686.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>928023 bytes</td>
+      <td>227295 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0686&files=ctb0686.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0686-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>4938 bytes</td>
+      <td>43194 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0686&files=ctb0686-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0686-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>5200 bytes</td>
+      <td>134282 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0686&files=ctb0686-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

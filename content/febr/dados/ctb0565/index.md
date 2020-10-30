@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Alta Intensidade dos Solos e Avaliaç�
 date: 2020-10-28
 slug: ../ctb0565
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Lima", "A. A. C.", "Rêgo", "R. S.", "Silva", "B. N. R. da", "Duriez", "M. A. de M.", "Calessen", "M. E. C.", "Johas", "R. A. L.", "Araújo", "W. S. de", "Moreira", "G. N. C.", "Bloise", "R.", "Paula", "J. L. de", "Santos", "H. G. dos ."]
+#authors: ["Lima", "A. A. C.", "Rêgo", "R. S.", "Silva", "B. N. R. da", "Duriez", "M. A. de M.", "Calessen", "M. E. C.", "Johas", "R. A. L.", "Araújo", "W. S. de", "Moreira", "G. N. C.", "Bloise", "R.", "Paula", "J. L. de", "Santos", "H. G. dos ."]
 tags: [levantamento pedológico, argissolos amarelos, latossolos amarelos, plintossolos, nitossolos,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0565.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>264401 bytes</td>
+      <td>187054 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0565&files=ctb0565.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

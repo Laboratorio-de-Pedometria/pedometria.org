@@ -3,7 +3,7 @@ title: "Levantamento exploratório-reconhecimento de solos do Estado do Maranhã
 date: 2020-10-28
 slug: ../ctb0645
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Paulo Klinger Tito Jacomine", "Antonio Cabral Cavalcanti", "Sergio Costa Pinto Pessôa", "Nivaldo Brugos", "Luiz Alberto Regueira Medeiros", "Osvaldo Ferreira Lopes", "Heraclio Fernandes Raposo de Mélo  Filho", "Rheno Amaro Formiga", "Maria Amélia de Moraes Duriez", "Marie Elizabeth C. C. de Mélo Filho", "Ruth Andrade Leal Johas", "Washington de Oliveira Barreto", "Wilson Sant'Anna de Araújo", "Raphael Minotti Bloise", "Giza Nara C. Moreira", "Luiz Bezerra de Oliveira", "José Lopes de Paula", "Therezinha da Costa Lima", "Loiva Lizia Antonello", "Evanda Maria Rodrigues", "Maria Carmelita Machado Menezes", "Roberto Chaves Ferreira", "Alfredo Stange"]
+#authors: ["Paulo Klinger Tito Jacomine", "Antonio Cabral Cavalcanti", "Sergio Costa Pinto Pessôa", "Nivaldo Brugos", "Luiz Alberto Regueira Medeiros", "Osvaldo Ferreira Lopes", "Heraclio Fernandes Raposo de Mélo  Filho", "Rheno Amaro Formiga", "Maria Amélia de Moraes Duriez", "Marie Elizabeth C. C. de Mélo Filho", "Ruth Andrade Leal Johas", "Washington de Oliveira Barreto", "Wilson Sant'Anna de Araújo", "Raphael Minotti Bloise", "Giza Nara C. Moreira", "Luiz Bezerra de Oliveira", "José Lopes de Paula", "Therezinha da Costa Lima", "Loiva Lizia Antonello", "Evanda Maria Rodrigues", "Maria Carmelita Machado Menezes", "Roberto Chaves Ferreira", "Alfredo Stange"]
 tags: [Análise, Levantamento, Reconhecimento, Reconhecimento do Solo, Recurso natural, Solo]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0645.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>1054839 bytes</td>
+      <td>530447 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0645&files=ctb0645.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0645-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>18610 bytes</td>
+      <td>179050 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0645&files=ctb0645-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0645-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>16756 bytes</td>
+      <td>448226 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0645&files=ctb0645-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

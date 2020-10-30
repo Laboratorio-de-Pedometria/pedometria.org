@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul.
 date: 2020-10-28
 slug: ../ctb0804
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raimundo Costa de Lemos", "Miguel Ângelo Décimo Azolin", "Paulo Ubirajara Rodrigues Abrão", "Milton da Conceição Lopes dos Santos", "Américo Pereira de Carvalho"]
+#authors: ["Raimundo Costa de Lemos", "Miguel Ângelo Décimo Azolin", "Paulo Ubirajara Rodrigues Abrão", "Milton da Conceição Lopes dos Santos", "Américo Pereira de Carvalho"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0804.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>299341 bytes</td>
+      <td>222954 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0804&files=ctb0804.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Caracterização dos Solos do Município de Carambeí, PR"
 date: 2020-10-28
 slug: ../ctb0582
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Itamar A. Bognola", "Reinaldo O. Potter", "Américo P. Carvalho", "Pedro J. Fasolo", "Silvio B. Bhering", "Lucieta G. Martorano."]
+#authors: ["Itamar A. Bognola", "Reinaldo O. Potter", "Américo P. Carvalho", "Pedro J. Fasolo", "Silvio B. Bhering", "Lucieta G. Martorano."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0582.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>885839 bytes</td>
+      <td>108772 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0582&files=ctb0582.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,7 +66,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0582-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>966 bytes</td>
+      <td>974 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0582&files=ctb0582-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0582-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>604 bytes</td>
+      <td>6372 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0582&files=ctb0582-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0582-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>667 bytes</td>
+      <td>22540 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0582&files=ctb0582-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

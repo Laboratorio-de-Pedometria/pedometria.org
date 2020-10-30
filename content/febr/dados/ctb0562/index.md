@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Média Intensidade dos Solos da Regiã
 date: 2020-10-28
 slug: ../ctb0562
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Paulo Emílio Ferreira da Motta", "Alfredo Melhem Baruqui", "Humberto Gonçalves dos Santos"]
+#authors: ["Paulo Emílio Ferreira da Motta", "Alfredo Melhem Baruqui", "Humberto Gonçalves dos Santos"]
 tags: [Solo, Classificação, Brasil, Minas Gerais, Alto Paranaíba, Levantamento]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0562.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>400914 bytes</td>
+      <td>327226 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0562&files=ctb0562.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

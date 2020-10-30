@@ -1,8 +1,7 @@
 "campo"	"valor"
 "dados_id"	"ctb0569"
 "dados_titulo"	"Reunião de Correlação, Classificação e Aplicação de Levantamentos de Solos da Região Centro-Oeste RCC - GO/MT"
-"dados_autor"	"Virlei Álvaro de Oliveira (virlei53@gmail.com); Humberto Gonçalves dos Santos (humberto.santos@embrapa.br); Antônio José Wilman Rios ( rios@ibge.gov.br); Paulo Tito Klinger Jacomine (pauloklinger@hotmail.com
-); Daniel Vidal Pérez (daniel.perez@embrapa.br); Wilson Sant'Anna de Araújo (wilson@cnps.embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br)"
+"dados_autor"	"Virlei Álvaro de Oliveira (virlei53@gmail.com); Humberto Gonçalves dos Santos (humberto.santos@embrapa.br); Antônio José Wilman Rios ( rios@ibge.gov.br); Paulo Tito Klinger Jacomine (pauloklinger@hotmail.com&#10;); Daniel Vidal Pérez (daniel.perez@embrapa.br); Wilson Sant'Anna de Araújo (wilson@cnps.embrapa.br); Sebastião Barreiros Calderano (sebastiao.calderano@embrapa.br)"
 "organizacao_nome"	"Embrapa"
 "organizacao_local"	"Brasil"
 "organizacao_url"	NA

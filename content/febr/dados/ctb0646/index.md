@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento de média intensidade dos solos e avalia�
 date: 2020-10-28
 slug: ../ctb0646
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Flávio Garcia de Freitas", "Elias Pedro Mothci", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Potter", "Roberto Chaves Ferreira", "Loiva Lizia Antonello", "Leandro Vettori", "Helio Pierantoni", "João Luiz R. de Souza", "José Lopes de Paula", "Maria Amélia de Moraes Duriez", "Ruth A. L. Johas", "Raphael M. Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Luiz Rainho S. Carneiro", "Franklin dos Santos Antunes", "Therezinha Costa Lima"]
+#authors: ["Flávio Garcia de Freitas", "Elias Pedro Mothci", "Humberto Gonçalves dos Santos", "Reinaldo Oscar Potter", "Roberto Chaves Ferreira", "Loiva Lizia Antonello", "Leandro Vettori", "Helio Pierantoni", "João Luiz R. de Souza", "José Lopes de Paula", "Maria Amélia de Moraes Duriez", "Ruth A. L. Johas", "Raphael M. Bloise", "José Flávio Dynia", "Gisa Nara C. Moreira", "Luiz Rainho S. Carneiro", "Franklin dos Santos Antunes", "Therezinha Costa Lima"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0646.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>983893 bytes</td>
+      <td>388771 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0646&files=ctb0646.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0646-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>14114 bytes</td>
+      <td>87476 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0646&files=ctb0646-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0646-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>13387 bytes</td>
+      <td>296445 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0646&files=ctb0646-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Levantamento semidetalhado de solos do Município de Londrina"
 date: 2020-10-28
 slug: ../ctb0022
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Itamar Antonio Bognola", "Gustavo Ribas Curcio", "João Bosco Vasconcellos Gomes", "João Henrique Caviglione", "Alexandre Uhlmann", "Alcides Cardoso", "Américo Pereira de Carvalho"]
+#authors: ["Itamar Antonio Bognola", "Gustavo Ribas Curcio", "João Bosco Vasconcellos Gomes", "João Henrique Caviglione", "Alexandre Uhlmann", "Alcides Cardoso", "Américo Pereira de Carvalho"]
 tags: [Classificação, Mapeamento, Solos, Reconhecimento do solo]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0022.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>279749 bytes</td>
+      <td>191016 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0022&files=ctb0022.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

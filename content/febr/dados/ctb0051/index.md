@@ -3,7 +3,7 @@ title: "Projeto RADAMBRASIL. Folha SF.22 Paranapanema"
 date: 2020-10-28
 slug: ../ctb0051
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Virlei Álvaro de Oliveira", "Eduardo Leandro da Rosa Macedo", "José Augusto Laus Neto", "Alcides Cardoso", "Reinaldo Oscar Pötter"]
+#authors: ["Virlei Álvaro de Oliveira", "Eduardo Leandro da Rosa Macedo", "José Augusto Laus Neto", "Alcides Cardoso", "Reinaldo Oscar Pötter"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0051.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>214075 bytes</td>
+      <td>211525 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0051&files=ctb0051.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

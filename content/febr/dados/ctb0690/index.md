@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAM
 date: 2020-10-28
 slug: ../ctb0690
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Tarcísio Ewerton Rodrigues", "Raphael David dos Santos", "Paulo Lacerda dos Santos", "Amarindo Fausto Soares", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Sant'Anna", "José Lopes de Paula", "Luiz Eduardo Ferreira Fontes", "Therezinha da Costa Lima", "Evanda Maria Rodrigues e Loiva Lizia Antonello."]
+#authors: ["Tarcísio Ewerton Rodrigues", "Raphael David dos Santos", "Paulo Lacerda dos Santos", "Amarindo Fausto Soares", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Sant'Anna", "José Lopes de Paula", "Luiz Eduardo Ferreira Fontes", "Therezinha da Costa Lima", "Evanda Maria Rodrigues e Loiva Lizia Antonello."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0690.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>905331 bytes</td>
+      <td>171980 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0690&files=ctb0690.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0690-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2518 bytes</td>
+      <td>24447 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0690&files=ctb0690-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0690-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3520 bytes</td>
+      <td>79669 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0690&files=ctb0690-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

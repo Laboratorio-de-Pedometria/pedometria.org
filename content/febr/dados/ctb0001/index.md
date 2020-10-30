@@ -3,7 +3,7 @@ title: "Conteúdo de ferro do solo sob dois sistemas de cultivo na Estação Exp
 date: 2020-10-28
 slug: ../ctb0001
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["José Maria Filippini Alba"]
+#authors: ["José Maria Filippini Alba"]
 tags: [Sensoriamento remoto, Processamento de imagens, Pedologia]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0001.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>293175 bytes</td>
+      <td>293242 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0001&files=ctb0001.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

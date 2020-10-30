@@ -3,7 +3,7 @@ title: "Mineralogia, morfologia e classificação de saprolitos e Neossolos deri
 date: 2020-10-28
 slug: ../ctb0011
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Fabrício de Araújo Pedron", "Antonio Carlos Azevedo"]
+#authors: ["Fabrício de Araújo Pedron", "Antonio Carlos Azevedo"]
 tags: [Mineralogia de solos, Gênese de solos, Morfologia de solos, Classificação de solos, Neossolos, Saprolitos, Pedologia,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0011.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>183224 bytes</td>
+      <td>97251 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0011&files=ctb0011.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

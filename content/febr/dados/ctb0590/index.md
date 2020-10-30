@@ -3,7 +3,7 @@ title: "Caracterização dos Solos do Município de Tibagi - PR"
 date: 2020-10-28
 slug: ../ctb0590
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Américo P. Carvalho", "Pedro J. Fasolo", "Itamar A. Bognola", "Reinaldo O. Potter", "Silvio B. Bhering", "Lucieta G. Martorano."]
+#authors: ["Américo P. Carvalho", "Pedro J. Fasolo", "Itamar A. Bognola", "Reinaldo O. Potter", "Silvio B. Bhering", "Lucieta G. Martorano."]
 tags: [Classificação do solo, Física do solo, Morfologia do solo, Química do solo,Reconhecimento do solo]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0590.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>891058 bytes</td>
+      <td>120738 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0590&files=ctb0590.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,7 +66,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0590-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>1001 bytes</td>
+      <td>1005 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0590&files=ctb0590-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0590-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>939 bytes</td>
+      <td>8177 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0590&files=ctb0590-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0590-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1281 bytes</td>
+      <td>36121 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0590&files=ctb0590-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

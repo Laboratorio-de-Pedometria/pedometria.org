@@ -3,7 +3,7 @@ title: "IX Reunião de Classificação e Correlação de Solos: Solos sedimentar
 date: 2020-10-28
 slug: ../ctb0773
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Lúcia Helena Cunha dos Anjos", "Lucielio Manoel da Silva", "Paulo Guilherme Salvador Wadt", "José Francisco Lumbreras", "Marcos Gervasio Pereira", "(NA)"]
+#authors: ["Lúcia Helena Cunha dos Anjos", "Lucielio Manoel da Silva", "Paulo Guilherme Salvador Wadt", "José Francisco Lumbreras", "Marcos Gervasio Pereira", "(NA)"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0773.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>901168 bytes</td>
+      <td>146393 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0773&files=ctb0773.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0773-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1339 bytes</td>
+      <td>12863 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0773&files=ctb0773-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0773-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1583 bytes</td>
+      <td>71009 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0773&files=ctb0773-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

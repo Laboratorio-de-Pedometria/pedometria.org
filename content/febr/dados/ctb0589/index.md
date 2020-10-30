@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento detalhado 'Solos do Campo Experimental
 date: 2020-10-28
 slug: ../ctb0589
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Nivaldo Burgos", "Antônio Cabral Cavalcanti", "Flávio Hugo Barreto Batista da Silva", "Manoel Batista de Oliveira Neto."]
+#authors: ["Nivaldo Burgos", "Antônio Cabral Cavalcanti", "Flávio Hugo Barreto Batista da Silva", "Manoel Batista de Oliveira Neto."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0589.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>917373 bytes</td>
+      <td>185892 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0589-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2739 bytes</td>
+      <td>40491 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0589-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3546 bytes</td>
+      <td>106147 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

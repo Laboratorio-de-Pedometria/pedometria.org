@@ -11,7 +11,7 @@
 "dados_publicacao"	"http://ainfo.cnptia.embrapa.br/digital/bitstream/CNPM/1827/1/bpd4_solosCNPUV.pdf"
 "dados_idioma"	NA
 "fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
+"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
 "extensao_temporal"	NA
 "extensao_espacial"	NA
 "extensao_altimetrica"	NA

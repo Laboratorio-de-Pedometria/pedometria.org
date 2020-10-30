@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento de média intensidade dos solos e avalia�
 date: 2020-10-28
 slug: ../ctb0658
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Klaus Peter Wittern"]
+#authors: ["Klaus Peter Wittern"]
 tags: [Agriculture fitness, Amazon, Amazonas, Amazonas Soils, Brasil, Classificação, Land reconnaissance, Levantamento exploratório, Média intensidade, Soils, Solos, Survey, Survey exploratory, Tefé]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0658.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>184473 bytes</td>
+      <td>106973 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0658&files=ctb0658.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

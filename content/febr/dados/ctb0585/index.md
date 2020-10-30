@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Solos do Campo Experimental da Embrapa Milho e So
 date: 2020-10-28
 slug: ../ctb0585
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Luzberto Achá Panoso", "Doracy Pessoa Ramos", "Mitzi Brandão."]
+#authors: ["Luzberto Achá Panoso", "Doracy Pessoa Ramos", "Mitzi Brandão."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0585.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>219246 bytes</td>
+      <td>142069 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0585&files=ctb0585.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

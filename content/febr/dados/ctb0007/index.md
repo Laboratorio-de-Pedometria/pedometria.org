@@ -3,7 +3,7 @@ title: "Avaliação da cor e comportamento espectral de algumas classes de solos
 date: 2020-10-28
 slug: ../ctb0007
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Márcio Ramos Botelho", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Márcio Ramos Botelho", "Ricardo Simão Diniz Dalmolin"]
 tags: [Cor do solo, Espectrorradiometria, Sensoriamento remoto]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0007.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>182295 bytes</td>
+      <td>95684 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0007&files=ctb0007.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Conjunto de dados do solo da bacia do reservatório do DNOS-CORSAN, Sant
 date: 2020-10-28
 slug: ../ctb0003
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Alessandro Samuel-Rosa", "Pablo Miguel", "Jean Michel Moura-Bueno", "Andrisa Balbinot", "Ricardo Simão Diniz Dalmolin", "Lúcia Helena Cunha dos Anjos"]
+#authors: ["Alessandro Samuel-Rosa", "Pablo Miguel", "Jean Michel Moura-Bueno", "Andrisa Balbinot", "Ricardo Simão Diniz Dalmolin", "Lúcia Helena Cunha dos Anjos"]
 tags: [Mapeamento digital do solo, Pedometria, Amostragem intencional, Descrição do solo no campo, Análises químicas básicas, Análises físicas básicas]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0003.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>372936 bytes</td>
+      <td>373009 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0003&files=ctb0003.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

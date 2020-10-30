@@ -3,7 +3,7 @@ title: "Zoneamento edáfico de culturas para o município de Santa Maria - RS, v
 date: 2020-10-28
 slug: ../ctb0006
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Carlos Alberto Flores", "José Maria Filippini Alba", "Stefan Domingues Nachtigall", "Henrique Noguez da Cunha", "Rodrigo Thiel Lopes", "Ricardo S. Diniz Dalmolin", "Fabricio de Araújo Pedron", "Jean Michel Moura Bueno", "Gabriel Antônio Deobald", "Pedro Paulo Ramos Ribeiro do Nascimento", "André Carnieletto Dotto", "João Pedro Moro Flores", "Emilio Buchanelli Bernich", "Matheus Ceron Lange"]
+#authors: ["Carlos Alberto Flores", "José Maria Filippini Alba", "Stefan Domingues Nachtigall", "Henrique Noguez da Cunha", "Rodrigo Thiel Lopes", "Ricardo S. Diniz Dalmolin", "Fabricio de Araújo Pedron", "Jean Michel Moura Bueno", "Gabriel Antônio Deobald", "Pedro Paulo Ramos Ribeiro do Nascimento", "André Carnieletto Dotto", "João Pedro Moro Flores", "Emilio Buchanelli Bernich", "Matheus Ceron Lange"]
 tags: [Zoneamento climático, Solo, Aptidão agrícola, Recurso natural, Rio Grande do Sul]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0006.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>389816 bytes</td>
+      <td>305659 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0006&files=ctb0006.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento detalhado 'Anais da VIII Reunião de C
 date: 2020-10-28
 slug: ../ctb0774
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["José Augusto Laus Neto", "JAime antonio de Almeida", "João Bertoldo de Oliveira", "João Carlos Ker", "Murilo Pundeck", "Angelo Massignan", "Ivan Luiz Zili Bacic", "Lucas Balsini Garchindo", "Denilson Dortzbach", "Elisângela Benedet da Silva."]
+#authors: ["José Augusto Laus Neto", "JAime antonio de Almeida", "João Bertoldo de Oliveira", "João Carlos Ker", "Murilo Pundeck", "Angelo Massignan", "Ivan Luiz Zili Bacic", "Lucas Balsini Garchindo", "Denilson Dortzbach", "Elisângela Benedet da Silva."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0774.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>906556 bytes</td>
+      <td>161757 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0774&files=ctb0774.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0774-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1636 bytes</td>
+      <td>12576 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0774&files=ctb0774-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0774-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>2196 bytes</td>
+      <td>94066 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0774&files=ctb0774-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

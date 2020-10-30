@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento de média intensidade dos solos e avalia�
 date: 2020-10-28
 slug: ../ctb0663
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Humberto Gonçalves dos Santos", "Marcos Rocha de Andrade", "João Cristóstomo Duarte de Souza", "Loiva Lizia Antonello", "Laércio Aires dos Santos", "Alcione Maria Carvalho Cavalcante", "Washington de Oliveira Barreto"]
+#authors: ["Humberto Gonçalves dos Santos", "Marcos Rocha de Andrade", "João Cristóstomo Duarte de Souza", "Loiva Lizia Antonello", "Laércio Aires dos Santos", "Alcione Maria Carvalho Cavalcante", "Washington de Oliveira Barreto"]
 tags: [Agriculture fitness, Amapá, Brasil, Classificação, Land reconnaissance, Levantamento exploratório, Rio Araguari, Rio Falsino, Rio Tartarugal Grande, Soil serveys, Soils, Solos, Survey, Survey exploratory,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0663.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>228873 bytes</td>
+      <td>152603 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0663&files=ctb0663.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

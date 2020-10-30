@@ -3,7 +3,7 @@ title: "Solo da sub-bacia do Rio Giruazinho, Giruá, RS"
 date: 2020-10-28
 slug: ../ctb0037
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Jean Michel Moura-Bueno", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Jean Michel Moura-Bueno", "Ricardo Simão Diniz Dalmolin"]
 tags: [Mapeamento digital do solo, Pedometria, Espectroscopia Vis-NIR, Amostragem intencional, Descrição do solo no campo]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0037.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>614532 bytes</td>
+      <td>521525 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0037&files=ctb0037.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

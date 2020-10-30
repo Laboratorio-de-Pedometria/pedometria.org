@@ -3,7 +3,7 @@ title: "Levantamento semidetalhado de solos e diagnóstico dos remanescentes flo
 date: 2020-10-28
 slug: ../ctb0047
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Gustavo Ribas Curcio", "Joao Bosco Vasconcellos Gomes", "Itamar Antonio Bognola", "João Henrique Caviglione", "Alexandre Uhlmann", "Alcides Cardoso", "Américo Pereira de Carvalho"]
+#authors: ["Gustavo Ribas Curcio", "Joao Bosco Vasconcellos Gomes", "Itamar Antonio Bognola", "João Henrique Caviglione", "Alexandre Uhlmann", "Alcides Cardoso", "Américo Pereira de Carvalho"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0047.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>194890 bytes</td>
+      <td>108197 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0047&files=ctb0047.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

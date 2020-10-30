@@ -3,7 +3,7 @@ title: "Carbono e matéria orgânica em amostras do solo do Estado do Rio Grande
 date: 2020-10-28
 slug: ../ctb0029
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Alessandro Samuel-Rosa", "Douglas Adams Weiler", "Manoeli Lupatini"]
+#authors: ["Alessandro Samuel-Rosa", "Douglas Adams Weiler", "Manoeli Lupatini"]
 tags: [consistência estrutural]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0029.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>335238 bytes</td>
+      <td>247333 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0029&files=ctb0029.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

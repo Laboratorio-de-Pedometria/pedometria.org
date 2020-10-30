@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento detalhado 'Levantamento Detalhado dos 
 date: 2020-10-28
 slug: ../ctb0578
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Enio Fraga da Silva", "José Ronaldo de Macedo", "Helga Restum Hissa Manzatto", "Claudio Lucas Capeche", "Rachel Bardy Prado."]
+#authors: ["Enio Fraga da Silva", "José Ronaldo de Macedo", "Helga Restum Hissa Manzatto", "Claudio Lucas Capeche", "Rachel Bardy Prado."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0578.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>895469 bytes</td>
+      <td>140866 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0578&files=ctb0578.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0578-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1256 bytes</td>
+      <td>11645 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0578&files=ctb0578-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0578-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>2430 bytes</td>
+      <td>64859 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0578&files=ctb0578-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

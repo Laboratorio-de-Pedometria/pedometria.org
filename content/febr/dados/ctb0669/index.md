@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento de média intensidad
 date: 2020-10-28
 slug: ../ctb0669
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["WITTERN", "K. P.", "CONCEIÇÃO", "M. da", "DURIEZ", "M. A. de M.", "MELO", "M. E. C. C. de M.", "JOHAS", "R. A. L.", "ARAÚJO", "W. S. de", "BLOISE", "R. M.", "LOUZADA", "E. S.", "MOREIRA", "G. N. C.", "PAULA", "J. L. de", "FONTES", "L. E. F.", "SOUZA", "J. L. R. de", "ANTONELLO", "L. L.", "RODRIGUES", "E. M.", "LIMA", "TAVARES", "N. T.", "NEVES", "C. C. das", "VIEIRA", "R. R."]
+#authors: ["WITTERN", "K. P.", "CONCEIÇÃO", "M. da", "DURIEZ", "M. A. de M.", "MELO", "M. E. C. C. de M.", "JOHAS", "R. A. L.", "ARAÚJO", "W. S. de", "BLOISE", "R. M.", "LOUZADA", "E. S.", "MOREIRA", "G. N. C.", "PAULA", "J. L. de", "FONTES", "L. E. F.", "SOUZA", "J. L. R. de", "ANTONELLO", "L. L.", "RODRIGUES", "E. M.", "LIMA", "TAVARES", "N. T.", "NEVES", "C. C. das", "VIEIRA", "R. R."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0669.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>914120 bytes</td>
+      <td>184722 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0669&files=ctb0669.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0669-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>4666 bytes</td>
+      <td>38209 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0669&files=ctb0669-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0669-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3930 bytes</td>
+      <td>103082 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0669&files=ctb0669-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

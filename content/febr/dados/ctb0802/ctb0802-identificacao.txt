@@ -1,19 +1,7 @@
 "campo"	"valor"
 "dados_id"	"ctb0802"
 "dados_titulo"	"Conjunto de dados do  'CARACTERIZAÇÃO FÍSICO-HÍDRICA DOS PRINCIPAIS SOLOS DA AMAZÔNIA LEGAL. I - Estado do Pará.'"
-"dados_autor"	"Tarcísio Eweton Rodrigues;
-Raimundo Cosme de Oliveira Junior;
-João Marcos Lima da Silva;
-Moacir Azevedo Valente;
-Claudio Lucas Capeche;
-Wilson SantAnna de Araujo;
-Marie Elizabeth C. C. de Magalhães Melo;
-Washington de Oliveira Barreto;
-José Lopes de Paula;
-Evanda Maria Rodrigues;
-Daniel Luiz Leal Mangas;
-Antonio Guilherme Soares Campos.
- (NA)"
+"dados_autor"	"Tarcísio Eweton Rodrigues;&#10;Raimundo Cosme de Oliveira Junior;&#10;João Marcos Lima da Silva;&#10;Moacir Azevedo Valente;&#10;Claudio Lucas Capeche;&#10;Wilson SantAnna de Araujo;&#10;Marie Elizabeth C. C. de Magalhães Melo;&#10;Washington de Oliveira Barreto;&#10;José Lopes de Paula;&#10;Evanda Maria Rodrigues;&#10;Daniel Luiz Leal Mangas;&#10;Antonio Guilherme Soares Campos.&#10; (NA)"
 "organizacao_nome"	NA
 "organizacao_local"	"Brasil"
 "organizacao_url"	NA

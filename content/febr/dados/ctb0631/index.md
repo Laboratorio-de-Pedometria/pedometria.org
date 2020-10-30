@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento dos solos do Estado do Paraná - Tomos I 
 date: 2020-10-28
 slug: ../ctb0631
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Jorge Olmos Iturri Larach", "Alcides Cardoso", "Américo Pereira de Carvalho", "Delcio Peres Hochmüller", "João Souza Martins", "Moacyr de Jesus Rauen", "Pedro Jorge Fasolo", "Reinaldo Oscar Pötter", "Washington Oliveira Barreto", "Maria Amélia M. Duriez", "Ruth A. Leal Johas", "Wilson Sant'Anna de Araujo", "José Lopes de Paula", "Loiva Lizia Antonello", "Therezinha da Costa L. Bezerra", "Raphael Minotti Bloise", "Orlando Faria Bandeira", "Valdir Luiz de Lima."]
+#authors: ["Jorge Olmos Iturri Larach", "Alcides Cardoso", "Américo Pereira de Carvalho", "Delcio Peres Hochmüller", "João Souza Martins", "Moacyr de Jesus Rauen", "Pedro Jorge Fasolo", "Reinaldo Oscar Pötter", "Washington Oliveira Barreto", "Maria Amélia M. Duriez", "Ruth A. Leal Johas", "Wilson Sant'Anna de Araujo", "José Lopes de Paula", "Loiva Lizia Antonello", "Therezinha da Costa L. Bezerra", "Raphael Minotti Bloise", "Orlando Faria Bandeira", "Valdir Luiz de Lima."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0631.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>772210 bytes</td>
+      <td>720690 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0631&files=ctb0631.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

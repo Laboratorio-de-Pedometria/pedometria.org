@@ -3,7 +3,7 @@ title: "Conjunto de dados da dissertação 'Mapeamento digital de solos por regr
 date: 2020-10-28
 slug: ../ctb0838
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Elias Mendes Costa", "Lúcia Helena Cunha dos Anjos"]
+#authors: ["Elias Mendes Costa", "Lúcia Helena Cunha dos Anjos"]
 tags: [Pedologia, Pedometria, Sensoriamento remoto, Relação solo-paisagem]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>240488 bytes</td>
+      <td>157547 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Identificação do limite entre solo e saprolito em Argissolos Bruno-Aci
 date: 2020-10-28
 slug: ../ctb0005
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Rodrigo Bomicieli Oliveira", "Fabrício de Araújo Pedron"]
+#authors: ["Rodrigo Bomicieli Oliveira", "Fabrício de Araújo Pedron"]
 tags: [Argissolos, Morfologia, Estrutura, Cor, Saprolito, Material sedimentar]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0005.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>197249 bytes</td>
+      <td>114573 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0005&files=ctb0005.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

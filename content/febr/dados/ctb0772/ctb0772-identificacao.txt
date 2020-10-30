@@ -1,8 +1,7 @@
 "campo"	"valor"
 "dados_id"	"ctb0772"
 "dados_titulo"	"Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade dos Solos e Avaliação do Potencial Agroecológico das Terras do Município de Santana do Ipanema, Alagoas.'"
-"dados_autor"	"Osvaldo Ferreira Lopes (NA); José Carlos Pereira dos Santos (NA); Alexandre Hugo Cezar Barros.
- (NA)"
+"dados_autor"	"Osvaldo Ferreira Lopes (NA); José Carlos Pereira dos Santos (NA); Alexandre Hugo Cezar Barros.&#10; (NA)"
 "organizacao_nome"	NA
 "organizacao_local"	"Brasil"
 "organizacao_url"	NA

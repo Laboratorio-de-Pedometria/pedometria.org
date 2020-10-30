@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento exploratório 'LEVANTAMENTO EXPLORATÓ
 date: 2020-10-28
 slug: ../ctb0675
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["José Klinger Tito Jacomine", "José Onaldo Montenegro", "Mateus Rosas Ribeiro", "Rheno Amaro Formiga", "Sergio Costa Pinto Pessôa", "Osvaldo Ferreira Lopes", "Aluísio Pereira da Silva", "Heraclio F. R. de Mélo Filho", "Arnaldo Moniz Ribeiro da Costa", "Gilberto Suhett", "Antonio Cabral Cavalcanti", "Fernando B. Rodrigues e Silva", "Jeronimo Cunha Almeida", "Nivaldo Burgos", "Luiz A. Regueira Medeiros", "Clotário Olivier da Silveira", "Ernani Lira de Carvalho", "Jurandir Gondim Reis", "Valdir de Araújo Beltrão", "Leandro Vettori", "Franklin dos Santos Antunes", "Maria de Lourdes A. Anastácio", "Hélio Pierantoni", "Therezinha C. L. Bezerra", "Washington de O. Barreto", "Raphael M. Bloise", "Maria Amélia Duriez", "Ruth A. L. Johas", "Giza Nara C. Moreira", "José Flávio Dynia", "José Lopes de Paula", "Hélio A. Vaz de Mello", "Ida de Souza S. Vettori", "Maria Aparecida B. Pereira", "Sinézio F. Chagas", "Adahil Medeiros Leite", "Manoel da Silva Cardoso", "Luiz Rainho S. Carneiro", "Loiva Lizia Antonello", "Zenaide Fonseca Mello", "Maria Lúcia Vasconcellos", "Ney Hamilton Porfírio", "Maria Carmelita M. Meneses", "Roberto Corsino de Oliveira", "Paulo Cardoso de Lima."]
+#authors: ["José Klinger Tito Jacomine", "José Onaldo Montenegro", "Mateus Rosas Ribeiro", "Rheno Amaro Formiga", "Sergio Costa Pinto Pessôa", "Osvaldo Ferreira Lopes", "Aluísio Pereira da Silva", "Heraclio F. R. de Mélo Filho", "Arnaldo Moniz Ribeiro da Costa", "Gilberto Suhett", "Antonio Cabral Cavalcanti", "Fernando B. Rodrigues e Silva", "Jeronimo Cunha Almeida", "Nivaldo Burgos", "Luiz A. Regueira Medeiros", "Clotário Olivier da Silveira", "Ernani Lira de Carvalho", "Jurandir Gondim Reis", "Valdir de Araújo Beltrão", "Leandro Vettori", "Franklin dos Santos Antunes", "Maria de Lourdes A. Anastácio", "Hélio Pierantoni", "Therezinha C. L. Bezerra", "Washington de O. Barreto", "Raphael M. Bloise", "Maria Amélia Duriez", "Ruth A. L. Johas", "Giza Nara C. Moreira", "José Flávio Dynia", "José Lopes de Paula", "Hélio A. Vaz de Mello", "Ida de Souza S. Vettori", "Maria Aparecida B. Pereira", "Sinézio F. Chagas", "Adahil Medeiros Leite", "Manoel da Silva Cardoso", "Luiz Rainho S. Carneiro", "Loiva Lizia Antonello", "Zenaide Fonseca Mello", "Maria Lúcia Vasconcellos", "Ney Hamilton Porfírio", "Maria Carmelita M. Meneses", "Roberto Corsino de Oliveira", "Paulo Cardoso de Lima."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0675.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>984844 bytes</td>
+      <td>354305 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0675&files=ctb0675.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0675-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>8077 bytes</td>
+      <td>82483 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0675&files=ctb0675-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0675-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>10158 bytes</td>
+      <td>292921 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0675&files=ctb0675-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

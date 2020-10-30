@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento expedito 'Estudo expedito de solos do 
 date: 2020-10-28
 slug: ../ctb0784
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Delcio Peres Hochmuller", "Pedro JOrge Fasolo", "Alcides Cardoso", "Américo Pereira de Carvalho", "Marcelo Nunes de Camargo", "Moacyr de Jesus Rauen", "Paulo Klinger Tito Jacomine", "Reinaldo Oscar Potter", "Maria Amélia de Moraes Duriez", "Merie Elizabeth C.C. de Magalhães Melo", "Wilson Sant Anna de Araújo", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Ari Adécio Cavedon", "Carlos Alberto dos Santos", "Dirceu Rioji Yamazaki", "Isaias Oenning", "Jaime Antonio de Almeida", "João Carlos Ker", "José Augusto Laus Neto", "José Marcos Moser", "José Silba Rosatti e Paulo Roberto Soraes Correa."]
+#authors: ["Delcio Peres Hochmuller", "Pedro JOrge Fasolo", "Alcides Cardoso", "Américo Pereira de Carvalho", "Marcelo Nunes de Camargo", "Moacyr de Jesus Rauen", "Paulo Klinger Tito Jacomine", "Reinaldo Oscar Potter", "Maria Amélia de Moraes Duriez", "Merie Elizabeth C.C. de Magalhães Melo", "Wilson Sant Anna de Araújo", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Ari Adécio Cavedon", "Carlos Alberto dos Santos", "Dirceu Rioji Yamazaki", "Isaias Oenning", "Jaime Antonio de Almeida", "João Carlos Ker", "José Augusto Laus Neto", "José Marcos Moser", "José Silba Rosatti e Paulo Roberto Soraes Correa."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0784.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>919599 bytes</td>
+      <td>206164 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0784&files=ctb0784.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0784-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>18195 bytes</td>
+      <td>107240 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0784&files=ctb0784-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0784-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>2461 bytes</td>
+      <td>51465 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0784&files=ctb0784-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

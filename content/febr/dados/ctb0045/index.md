@@ -3,7 +3,7 @@ title: "Parâmetros Físicos e Químicos de Referência em Solos de Unidades de 
 date: 2020-10-28
 slug: ../ctb0045
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Juliane Bocardi", "Adelmo Lowe Pletsch", "Anderson Sandro da Rocha", "Sueli Pércio Quinaia"]
+#authors: ["Juliane Bocardi", "Adelmo Lowe Pletsch", "Anderson Sandro da Rocha", "Sueli Pércio Quinaia"]
 tags: [Áreas de Conservação ambiental, Solos, Metais, Valores de Referência,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0045.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>140563 bytes</td>
+      <td>139897 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0045&files=ctb0045.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

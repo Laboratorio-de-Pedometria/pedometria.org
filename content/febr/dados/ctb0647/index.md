@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento 'Levantamento de Rec
 date: 2020-10-28
 slug: ../ctb0647
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Marcelo Nunes Camargo", "Chyozo Hirano", "Flávio Garcia de Freitas", "Paulo klinger Tito Jacomine", "Franklin dos Santos Antunes", "Clotário Olivier da Silveira", "Jakob Bennema", "Luzberto Achá Panoso", "Raphael David dos Santos", "Raul Suarez Inclan", "Bernardo Carvalho Avelar", "Leandro Vettori", "Fernando Ramos", "Adalgiso Galloti Kehrig", "Luiz Rainho da Silva Carneiro", "Roberto Alvahydo", "Franklin dos Santos Antunes", "Ary Coleho da Silva", "Tasso Paes de Figueiredo", "Abeilard Fernando de Castro", "Ben Hur Marques Ramos", "Raphael Bloise", "Maria Amélia de Morais Duriez", "Ruth Andrada Leal Johas", "Emília Constantino", "José Almeida da Silva", "Edson Marques de Araújo", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Adahil de Medeiros Leite", "Argelinda Costa Prado", "Ayda Coelho", "Domingos Teixeira", "Mário de Castro", "Roberto Ronald de Mesquita", "Antônio Lemos Pereira", "Ismael Machado."]
+#authors: ["Marcelo Nunes Camargo", "Chyozo Hirano", "Flávio Garcia de Freitas", "Paulo klinger Tito Jacomine", "Franklin dos Santos Antunes", "Clotário Olivier da Silveira", "Jakob Bennema", "Luzberto Achá Panoso", "Raphael David dos Santos", "Raul Suarez Inclan", "Bernardo Carvalho Avelar", "Leandro Vettori", "Fernando Ramos", "Adalgiso Galloti Kehrig", "Luiz Rainho da Silva Carneiro", "Roberto Alvahydo", "Franklin dos Santos Antunes", "Ary Coleho da Silva", "Tasso Paes de Figueiredo", "Abeilard Fernando de Castro", "Ben Hur Marques Ramos", "Raphael Bloise", "Maria Amélia de Morais Duriez", "Ruth Andrada Leal Johas", "Emília Constantino", "José Almeida da Silva", "Edson Marques de Araújo", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Adahil de Medeiros Leite", "Argelinda Costa Prado", "Ayda Coelho", "Domingos Teixeira", "Mário de Castro", "Roberto Ronald de Mesquita", "Antônio Lemos Pereira", "Ismael Machado."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0647.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>936718 bytes</td>
+      <td>234187 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0647&files=ctb0647.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0647-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2879 bytes</td>
+      <td>21561 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0647&files=ctb0647-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0647-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>6228 bytes</td>
+      <td>165403 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0647&files=ctb0647-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

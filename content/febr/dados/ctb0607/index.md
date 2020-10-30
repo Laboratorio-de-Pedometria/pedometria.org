@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento de média intensidade do solos da região
 date: 2020-10-28
 slug: ../ctb0607
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["José Coelho de Araújo Filho", "Osvaldo Ferreira Lopes", "Manoel Batista de Oliveira Lopes", "Lúcia Raquel Queiroz Nogueira", "Antônio Carlos Barreto"]
+#authors: ["José Coelho de Araújo Filho", "Osvaldo Ferreira Lopes", "Manoel Batista de Oliveira Lopes", "Lúcia Raquel Queiroz Nogueira", "Antônio Carlos Barreto"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0607.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>1052504 bytes</td>
+      <td>521877 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0607&files=ctb0607.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0607-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>13652 bytes</td>
+      <td>125297 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0607&files=ctb0607-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0607-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>17014 bytes</td>
+      <td>499607 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0607&files=ctb0607-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

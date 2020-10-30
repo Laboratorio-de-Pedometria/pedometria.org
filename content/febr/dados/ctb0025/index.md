@@ -3,7 +3,7 @@ title: "Os solos do Vale dos Vinhedos"
 date: 2020-10-28
 slug: ../ctb0025
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Carlos Alberto Flores", "Reinaldo Oscar Pötter", "Eliana Casco Sarmento", "Eliseu José Weber", "Heinrich Hasenack"]
+#authors: ["Carlos Alberto Flores", "Reinaldo Oscar Pötter", "Eliana Casco Sarmento", "Eliseu José Weber", "Heinrich Hasenack"]
 tags: [Levantamento de solos, Sistemas de informação geográfica, Viticultura, Indicação geográfica, Vale dos Vinhedos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0025.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>490987 bytes</td>
+      <td>490956 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0025&files=ctb0025.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,7 +80,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0025-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>169650 bytes</td>
+      <td>169722 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0025&files=ctb0025-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

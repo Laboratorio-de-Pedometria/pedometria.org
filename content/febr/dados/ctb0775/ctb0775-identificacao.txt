@@ -1,8 +1,7 @@
 "campo"	"valor"
 "dados_id"	"ctb0775"
 "dados_titulo"	"Conjunto de dados do levantamento exploratório-reconhecimento 'Levantamento Exploratório - Reconhecimento de Solos do Estado de Alagoas.'"
-"dados_autor"	"JACOMINE (NA); Paulo Klinger Tito et al.
- (NA)"
+"dados_autor"	"JACOMINE (NA); Paulo Klinger Tito et al.&#10; (NA)"
 "organizacao_nome"	NA
 "organizacao_local"	"Brasil"
 "organizacao_url"	NA

@@ -3,19 +3,7 @@ title: "Conjunto de dados do  'CARACTERIZAÇÃO FÍSICO-HÍDRICA DOS PRINCIPAIS 
 date: 2020-10-28
 slug: ../ctb0802
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Tarcísio Eweton Rodrigues;
-Raimundo Cosme de Oliveira Junior;
-João Marcos Lima da Silva;
-Moacir Azevedo Valente;
-Claudio Lucas Capeche;
-Wilson SantAnna de Araujo;
-Marie Elizabeth C. C. de Magalhães Melo;
-Washington de Oliveira Barreto;
-José Lopes de Paula;
-Evanda Maria Rodrigues;
-Daniel Luiz Leal Mangas;
-Antonio Guilherme Soares Campos.
-"]
+#authors: ["Tarcísio Eweton Rodrigues;&#10;Raimundo Cosme de Oliveira Junior;&#10;João Marcos Lima da Silva;&#10;Moacir Azevedo Valente;&#10;Claudio Lucas Capeche;&#10;Wilson SantAnna de Araujo;&#10;Marie Elizabeth C. C. de Magalhães Melo;&#10;Washington de Oliveira Barreto;&#10;José Lopes de Paula;&#10;Evanda Maria Rodrigues;&#10;Daniel Luiz Leal Mangas;&#10;Antonio Guilherme Soares Campos.&#10", "(NA)"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -64,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0802.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>905490 bytes</td>
+      <td>157948 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0802&files=ctb0802.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0802-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3609 bytes</td>
+      <td>3657 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0802&files=ctb0802-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -92,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0802-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1091 bytes</td>
+      <td>16194 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0802&files=ctb0802-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0802-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>2086 bytes</td>
+      <td>81501 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0802&files=ctb0802-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

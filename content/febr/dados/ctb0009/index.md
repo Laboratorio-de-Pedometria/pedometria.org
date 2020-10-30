@@ -3,7 +3,7 @@ title: "Variáveis pedogeoquímicas e mineralógicas na identificação de fonte
 date: 2020-10-28
 slug: ../ctb0009
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Pablo Miguel", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Pablo Miguel", "Ricardo Simão Diniz Dalmolin"]
 tags: [Fingerprinting, Elementos traçadores, Erosão hídrica, Áreas de encosta, Mineralogia,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0009.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>238846 bytes</td>
+      <td>151442 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0009&files=ctb0009.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

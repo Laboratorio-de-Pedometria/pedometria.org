@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento detalhado 'LEVANTAME
 date: 2020-10-28
 slug: ../ctb0696
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Elias Pedro Mothci", "João Alberto Martins do Amaral;Raphael David dos Santos", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "José Lopes de Paula", "Therezinha da Costa Lima Bezerra", "Evandra Maria Rodrigues e Raphael Minotti Bloise"]
+#authors: ["Elias Pedro Mothci", "João Alberto Martins do Amaral;Raphael David dos Santos", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "José Lopes de Paula", "Therezinha da Costa Lima Bezerra", "Evandra Maria Rodrigues e Raphael Minotti Bloise"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0696.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>908731 bytes</td>
+      <td>163955 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0696&files=ctb0696.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0696-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1557 bytes</td>
+      <td>18235 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0696&files=ctb0696-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0696-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3654 bytes</td>
+      <td>96634 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0696&files=ctb0696-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

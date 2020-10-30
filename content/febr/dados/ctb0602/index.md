@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Guia de Excursão Pedológica do XXX Congresso Br
 date: 2020-10-28
 slug: ../ctb0602
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Mateus Rosas Ribeiro Filho", "José Coelho de Araújo Filho", "Mateus Rosas Ribeiro", "Paulo Klinger Tito Jacomine", "Mauro Carneiro dos Santos", "Lindomário Barros de Oliveira", "José Fernando Wanderley Fernandes Lima", "Maria da Graça de Vasconcelos Xavier Ferreira", "Daniel Vidal Pérez", "Alexandre Hugo Cezar Barros", "Aldo Pereira Leite."]
+#authors: ["Mateus Rosas Ribeiro Filho", "José Coelho de Araújo Filho", "Mateus Rosas Ribeiro", "Paulo Klinger Tito Jacomine", "Mauro Carneiro dos Santos", "Lindomário Barros de Oliveira", "José Fernando Wanderley Fernandes Lima", "Maria da Graça de Vasconcelos Xavier Ferreira", "Daniel Vidal Pérez", "Alexandre Hugo Cezar Barros", "Aldo Pereira Leite."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0602.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>891788 bytes</td>
+      <td>121139 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0602&files=ctb0602.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0602-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>791 bytes</td>
+      <td>9685 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0602&files=ctb0602-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0602-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1298 bytes</td>
+      <td>37564 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0602&files=ctb0602-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

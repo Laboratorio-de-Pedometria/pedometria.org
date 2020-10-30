@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Revitalização do Rio São Francisco com base na
 date: 2020-10-28
 slug: ../ctb0799
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Tony Jarbas Ferreira Cunha", "Manoel Batista de Oliveira Neto", "Andréa Maria Alves de Lucena", "Wagner da Silva Oliveira", "Roberto O  de Santana", "Bruno N. Rocha", "Rodrigo César Flores Ferreira "]
+#authors: ["Tony Jarbas Ferreira Cunha", "Manoel Batista de Oliveira Neto", "Andréa Maria Alves de Lucena", "Wagner da Silva Oliveira", "Roberto O  de Santana", "Bruno N. Rocha", "Rodrigo César Flores Ferreira "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0799.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>938209 bytes</td>
+      <td>243299 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0799-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>5172 bytes</td>
+      <td>66179 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0799-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>5143 bytes</td>
+      <td>172722 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

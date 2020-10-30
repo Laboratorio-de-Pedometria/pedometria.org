@@ -3,7 +3,7 @@ title: "Modelagem do terreno e mapeamento digital de solos por extrapolação da
 date: 2020-10-28
 slug: ../ctb0014
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Mário Sérgio Wolski", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Mário Sérgio Wolski", "Ricardo Simão Diniz Dalmolin"]
 tags: [Mapeamento convencional de solos, Mapeamento preditivo do solo, Área de referência, Atributos de terreno]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0014.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>245786 bytes</td>
+      <td>158919 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0014&files=ctb0014.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

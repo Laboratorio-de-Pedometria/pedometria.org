@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento detalhado 'LEVANTAMENTO DETALHADO DOS 
 date: 2020-10-28
 slug: ../ctb0700
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Heraclio Fernandes R. de Melo Filho", "Luiz Alberto Regueira Medeiros", "Paulo Klinger Tito Jacomine", "Washington de O. Barreto", "Maria Amélia de Moraes Duriez", "Maria Elisabeth C. C. Magalhães Melo", "Ruth Andrade Sant'Anna de Araújo", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues e José Herculano de Carvalho."]
+#authors: ["Heraclio Fernandes R. de Melo Filho", "Luiz Alberto Regueira Medeiros", "Paulo Klinger Tito Jacomine", "Washington de O. Barreto", "Maria Amélia de Moraes Duriez", "Maria Elisabeth C. C. Magalhães Melo", "Ruth Andrade Sant'Anna de Araújo", "Luiz Eduardo Ferreira Fontes", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues e José Herculano de Carvalho."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0700.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>914613 bytes</td>
+      <td>188319 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0700&files=ctb0700.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0700-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2839 bytes</td>
+      <td>30791 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0700&files=ctb0700-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0700-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>3673 bytes</td>
+      <td>102720 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0700&files=ctb0700-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

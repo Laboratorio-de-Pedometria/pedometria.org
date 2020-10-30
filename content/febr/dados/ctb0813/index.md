@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento dos Solos do Oeste do Estado do Paraná (
 date: 2020-10-28
 slug: ../ctb0813
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Olmos Iturri Larach, J.", "Cardoso, A.", "Carvalho, A. P. De", "Hochmuller, D. P.", "Tavares, F. R.", "Rauen, M. De J.", "Fasolo, P. J."]
+#authors: ["Olmos Iturri Larach, J.", "Cardoso, A.", "Carvalho, A. P. De", "Hochmuller, D. P.", "Tavares, F. R.", "Rauen, M. De J.", "Fasolo, P. J."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0813.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>889388 bytes</td>
+      <td>118277 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0813&files=ctb0813.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,7 +66,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0813-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>1695 bytes</td>
+      <td>1703 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0813&files=ctb0813-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0813-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>992 bytes</td>
+      <td>7439 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0813&files=ctb0813-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0813-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>980 bytes</td>
+      <td>27012 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0813&files=ctb0813-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

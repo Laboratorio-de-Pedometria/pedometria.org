@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'LEVANTAMENTO DE RECONHECIMENTO DE MÉDIA INTENSID
 date: 2020-10-28
 slug: ../ctb0598
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Antonio Agostinho Cavalcanti Lima", "Raimundo Silva Rêgo", "Amarindo Fausto Soares", "João Marcos Lima da Silva", "João Souza Martins", "José Raimundo Natividade Ferreira Gama", "Paulo Lacerda dos Santos", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Wilson Sant?Anna de Araújo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Marie Elisabeth Christine Claessen", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Therezinha Xavier Bastos", "Humberto Gonçalves dos Santos"]
+#authors: ["Antonio Agostinho Cavalcanti Lima", "Raimundo Silva Rêgo", "Amarindo Fausto Soares", "João Marcos Lima da Silva", "João Souza Martins", "José Raimundo Natividade Ferreira Gama", "Paulo Lacerda dos Santos", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Wilson Sant?Anna de Araújo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Marie Elisabeth Christine Claessen", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Therezinha Xavier Bastos", "Humberto Gonçalves dos Santos"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0598.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>915671 bytes</td>
+      <td>184116 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0598&files=ctb0598.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0598-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>4136 bytes</td>
+      <td>4140 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0598&files=ctb0598-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0598-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2316 bytes</td>
+      <td>25055 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0598&files=ctb0598-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0598-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>4246 bytes</td>
+      <td>112070 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0598&files=ctb0598-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

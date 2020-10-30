@@ -3,7 +3,7 @@ title: "As Vertentes Características e os Sistemas Pedológicos como Instrument
 date: 2020-10-28
 slug: ../ctb0039
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Anderson Sandro da Rocha", "Maria Teresa de Nóbrega, José Edézio da Cunha"]
+#authors: ["Anderson Sandro da Rocha", "Maria Teresa de Nóbrega, José Edézio da Cunha"]
 tags: [Mapeamento e Classificação do Solo, Bacia do Paraná 3, Fragilidade Ambiental, Capacidade de Uso da Terra]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0039.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>110611 bytes</td>
+      <td>109966 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0039&files=ctb0039.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

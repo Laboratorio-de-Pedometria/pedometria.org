@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalh
 date: 2020-10-28
 slug: ../ctb0648
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Luzberto Achá Panoso", "Hélio Lopes dos Santos", "Cléverson Siqueira", "Odilon Ferreira Saraiva", "Mitzi Brandão Ferreira", "Luiz Marcelo Aguiar Sans", "Bernardo Carvalho Avelar", "José Ferreira Mendes", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth A. Leal Johas", "Luiz Carlos Ferreira da Silva", "Luiz Eduardo Ferreira Fontes", "Loiva L. Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Derli Prudente Santana", "Alfredo Melhem Baruqui", "Francisco Melhem Baruqui", "Joaquim Rosa de Almeida."]
+#authors: ["Luzberto Achá Panoso", "Hélio Lopes dos Santos", "Cléverson Siqueira", "Odilon Ferreira Saraiva", "Mitzi Brandão Ferreira", "Luiz Marcelo Aguiar Sans", "Bernardo Carvalho Avelar", "José Ferreira Mendes", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth A. Leal Johas", "Luiz Carlos Ferreira da Silva", "Luiz Eduardo Ferreira Fontes", "Loiva L. Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Derli Prudente Santana", "Alfredo Melhem Baruqui", "Francisco Melhem Baruqui", "Joaquim Rosa de Almeida."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0648.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>945575 bytes</td>
+      <td>268940 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0648&files=ctb0648.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0648-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>5132 bytes</td>
+      <td>43509 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0648&files=ctb0648-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0648-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>7307 bytes</td>
+      <td>197566 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0648&files=ctb0648-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

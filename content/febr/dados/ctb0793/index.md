@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento de média intensidad
 date: 2020-10-28
 slug: ../ctb0793
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Ivanira Falcade", "Francisco Mandelli", "Carlos Alberto Flores", "Pedro Jorge Fasolo", "Reinaldo Oscar Potter"]
+#authors: ["Ivanira Falcade", "Francisco Mandelli", "Carlos Alberto Flores", "Pedro Jorge Fasolo", "Reinaldo Oscar Potter"]
 tags: [Geografia regional, Geografia física, Edafologia, Classificação de solos, Viticultura]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0793.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>890309 bytes</td>
+      <td>120194 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0793&files=ctb0793.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0793-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1440 bytes</td>
+      <td>8273 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0793&files=ctb0793-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0793-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1271 bytes</td>
+      <td>34962 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0793&files=ctb0793-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

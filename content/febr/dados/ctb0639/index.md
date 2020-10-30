@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento de média intensidade dos solos e avalia�
 date: 2020-10-28
 slug: ../ctb0639
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raimundo Silva Rego", "Amarindo Fausto Soares", "Raphael David dos Santos", "José Raimundo N. F. Gama", "João Marcos Lima da Silva", "João Souza Martins", "Paulo Lacerda dos Santos"]
+#authors: ["Raimundo Silva Rego", "Amarindo Fausto Soares", "Raphael David dos Santos", "José Raimundo N. F. Gama", "João Marcos Lima da Silva", "João Souza Martins", "Paulo Lacerda dos Santos"]
 tags: [Aptidão Agrícola, Classificação do Solo, Levantamento, Reconhecimento, Reconhecimento do Solo, Solo, Terra]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0639.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>969839 bytes</td>
+      <td>356313 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0639&files=ctb0639.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0639-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>8000 bytes</td>
+      <td>77961 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0639&files=ctb0639-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0639-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>14234 bytes</td>
+      <td>205890 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0639&files=ctb0639-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

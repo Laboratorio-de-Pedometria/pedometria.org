@@ -11,7 +11,7 @@
 "dados_publicacao"	"10.1016/j.scitotenv.2014.09.098; 10.1590/18069657rbcs20170231"
 "dados_idioma"	NA
 "fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0"
+"dados_licenca"	"CC BY 4.0 Atribuição"
 "extensao_temporal"	NA
 "extensao_espacial"	NA
 "extensao_altimetrica"	NA

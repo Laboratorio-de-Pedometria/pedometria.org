@@ -3,7 +3,7 @@ title: "Zoneamento Socioeconômico-Ecológico do Estado de Rondônia -- Dados de
 date: 2020-10-28
 slug: ../ctb0034
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["T. T. Cochrane", "Thomas A. Cochrane"]
+#authors: ["T. T. Cochrane", "Thomas A. Cochrane"]
 tags: [Solos, Rondônia, Recursos naturais, Fertilidade,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0034.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>268908 bytes</td>
+      <td>268297 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0034&files=ctb0034.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

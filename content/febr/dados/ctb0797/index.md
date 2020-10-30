@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento do Solos do Estado do Rio Grande do Sul"
 date: 2020-10-28
 slug: ../ctb0797
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raimundo Costa de Lemos", "Miguel Ângelo D. Azolim", "Paulo Ubirajara R. Abrão", "Milton C. Lopes dos Santos"]
+#authors: ["Raimundo Costa de Lemos", "Miguel Ângelo D. Azolim", "Paulo Ubirajara R. Abrão", "Milton C. Lopes dos Santos"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0797.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>973872 bytes</td>
+      <td>325739 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0797&files=ctb0797.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0797-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>6784 bytes</td>
+      <td>43233 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0797&files=ctb0797-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0797-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>9616 bytes</td>
+      <td>271092 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0797&files=ctb0797-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

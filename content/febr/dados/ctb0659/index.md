@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Baixa Intensidade dos Solos e Avaliaç
 date: 2020-10-28
 slug: ../ctb0659
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raphael David dos Santos", "José Raimundo N.F. Gama", "Amarindo Fausto Soares"]
+#authors: ["Raphael David dos Santos", "José Raimundo N.F. Gama", "Amarindo Fausto Soares"]
 tags: [Agriculture fitness, Apiau-Território Federal de Roraima, Baixa intensidade, Brasil, Land reconnaissance, Levantamento exploratório, Roraima, Soils, Solos, Survey exploratory,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0659.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>246777 bytes</td>
+      <td>169552 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0659&files=ctb0659.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

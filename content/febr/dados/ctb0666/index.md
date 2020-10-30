@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Solos da Região Sudeste da Bahia - Atualização
 date: 2020-10-28
 slug: ../ctb0666
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Sandoval Oliveira de Santana", "Raphael David dos Santos", "Idarê Azevedo Gomes", "Raildo Mota de Jesus", "Quintino Reis de Araujo", "José Rezende Mendonça", "Sebastião Barreiros Calderano", "Antônio Fontes Faria Filho"]
+#authors: ["Sandoval Oliveira de Santana", "Raphael David dos Santos", "Idarê Azevedo Gomes", "Raildo Mota de Jesus", "Quintino Reis de Araujo", "José Rezende Mendonça", "Sebastião Barreiros Calderano", "Antônio Fontes Faria Filho"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0666.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>939011 bytes</td>
+      <td>237922 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0666&files=ctb0666.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0666-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2613 bytes</td>
+      <td>29623 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0666&files=ctb0666-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0666-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>6684 bytes</td>
+      <td>165742 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0666&files=ctb0666-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

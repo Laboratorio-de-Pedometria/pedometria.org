@@ -3,7 +3,7 @@ title: "VI Reunião de Correlação, Classificação e Aplicação de Levantamen
 date: 2020-10-28
 slug: ../ctb0643
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Gustavo Ribas Curcio", "Américo Pereira de Carvalho", "Itamar Antonio Bognola", "Renato Antonio Dedecek", "Raphael D. dos Santos", "Iderê Azevedo Gomes", "Márcio Rossi", "Maurício Rizzato Coelho", "Washington de Oliveira Barreto", "Aluísio Granado de Andrade", "Jaime Antônio de Almeida", "Sebastião Barreiros Calderano", "João Carlos Ker", "Mauro da Conceição", "Antônio Carlos Saraiva da Costa", "Álvaro Pires da Silva", "Neyde F. B. Giarola"]
+#authors: ["Gustavo Ribas Curcio", "Américo Pereira de Carvalho", "Itamar Antonio Bognola", "Renato Antonio Dedecek", "Raphael D. dos Santos", "Iderê Azevedo Gomes", "Márcio Rossi", "Maurício Rizzato Coelho", "Washington de Oliveira Barreto", "Aluísio Granado de Andrade", "Jaime Antônio de Almeida", "Sebastião Barreiros Calderano", "João Carlos Ker", "Mauro da Conceição", "Antônio Carlos Saraiva da Costa", "Álvaro Pires da Silva", "Neyde F. B. Giarola"]
 tags: [Brasil, Classificação, Congresso, Levantamento, Paraná, Rio Grande do Sul, Santa Catarina, Solo]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0643.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>922255 bytes</td>
+      <td>198363 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0643&files=ctb0643.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0643-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2520 bytes</td>
+      <td>28099 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0643&files=ctb0643-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0643-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>4391 bytes</td>
+      <td>130960 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0643&files=ctb0643-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

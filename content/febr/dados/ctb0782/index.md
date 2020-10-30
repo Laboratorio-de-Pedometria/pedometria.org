@@ -3,8 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE REC
 date: 2020-10-28
 slug: ../ctb0782
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Humberto Goncalves dos Santos ", "Reinaldo Oscar Potter ", "Luiz Gonzaga de Oliveira Carvalho ", "Roberto Chaves Ferreira ", "Francesco Palmieri ", "Manoel Faustino Neto ", "Raphael David dos Santos ", "Ernesto Maués Serra Freire ", "Ivo Katusi Morikawa ", "Leandro Vettori ", "Hélio Pierantoni ", "Washington de Oliveira Barreto ", "Maria Amelia Duriez ", "Ruth A. L. Johas ", "José Lopes de Paula ", "Joäo Luiz Rodrigues de Souza ", "Edna Lopes Carvalho ", "Waldemar Ferreira ", "Maria Aparecida B. Pereira ", "Hélio A. Vaz de Melo ", "Manoel da Silva Cardoso ", "Adahil Medeiros Leite
-José Mateus ", "Joaquim Braga Bastos ", "Franklin dos Santos Antunes ", "Luiz Rainho da Silva Cameiro ", "Loiva Lizia Antonello ", "Therezinha C. L. Bezerra ", "Sinésio F. Chagas."]
+#authors: ["Humberto Goncalves dos Santos ", "Reinaldo Oscar Potter ", "Luiz Gonzaga de Oliveira Carvalho ", "Roberto Chaves Ferreira ", "Francesco Palmieri ", "Manoel Faustino Neto ", "Raphael David dos Santos ", "Ernesto Maués Serra Freire ", "Ivo Katusi Morikawa ", "Leandro Vettori ", "Hélio Pierantoni ", "Washington de Oliveira Barreto ", "Maria Amelia Duriez ", "Ruth A. L. Johas ", "José Lopes de Paula ", "Joäo Luiz Rodrigues de Souza ", "Edna Lopes Carvalho ", "Waldemar Ferreira ", "Maria Aparecida B. Pereira ", "Hélio A. Vaz de Melo ", "Manoel da Silva Cardoso ", "Adahil Medeiros Leite&#10;José Mateus ", "Joaquim Braga Bastos ", "Franklin dos Santos Antunes ", "Luiz Rainho da Silva Cameiro ", "Loiva Lizia Antonello ", "Therezinha C. L. Bezerra ", "Sinésio F. Chagas."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -53,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0782.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>893521 bytes</td>
+      <td>126315 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0782&files=ctb0782.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0782-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>4545 bytes</td>
+      <td>4561 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0782&files=ctb0782-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -81,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0782-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>737 bytes</td>
+      <td>6761 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0782&files=ctb0782-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0782-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1114 bytes</td>
+      <td>45568 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0782&files=ctb0782-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

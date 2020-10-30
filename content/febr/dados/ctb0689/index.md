@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE REC
 date: 2020-10-28
 slug: ../ctb0689
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raimundo Silva Rêgo", "Antonio Agostinho Cavalcanti Lima", "Raphael David dos Santos", "José Raimundo Natividade Ferreira Gama", "Amarindo Fausto Soares", "Paulo Lacerda dos Santos", "João Martins", "João Marcos Lima da Silva", "Therezinha Xavier Bastos", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Marie Elizabeth C. C. de Magalhães Melo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Wilson Sant'Anna de Araujo", "José Lopes de Paula", "Loiva L. Antonello", "Therezinha Costa Lima."]
+#authors: ["Raimundo Silva Rêgo", "Antonio Agostinho Cavalcanti Lima", "Raphael David dos Santos", "José Raimundo Natividade Ferreira Gama", "Amarindo Fausto Soares", "Paulo Lacerda dos Santos", "João Martins", "João Marcos Lima da Silva", "Therezinha Xavier Bastos", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "Marie Elizabeth C. C. de Magalhães Melo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Wilson Sant'Anna de Araujo", "José Lopes de Paula", "Loiva L. Antonello", "Therezinha Costa Lima."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0689.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>900483 bytes</td>
+      <td>148477 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0689&files=ctb0689.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0689-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1884 bytes</td>
+      <td>19148 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0689&files=ctb0689-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0689-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1737 bytes</td>
+      <td>67153 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0689&files=ctb0689-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Banco de Solos do Estado de Minas Gerais"
 date: 2020-10-28
 slug: ../ctb0035
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Walter Antônio Pereira Abrahão", "José João Lelis Leal de Souza"]
+#authors: ["Walter Antônio Pereira Abrahão", "José João Lelis Leal de Souza"]
 tags: [Áreas minimamente antropizadas, Minas Gerais]
 ---
 
@@ -52,14 +52,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0035.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>579747 bytes</td>
+      <td>579662 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0035&files=ctb0035.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0035-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>1051 bytes</td>
+      <td>1064 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0035&files=ctb0035-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

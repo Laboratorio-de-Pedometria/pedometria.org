@@ -3,7 +3,7 @@ title: "Levantamento de reconhecimento dos solos do sul do estado de Mato Grosso
 date: 2020-10-28
 slug: ../ctb0636
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Flavio Garcia de Freitas", "Marcelo Nunes Camargo", "Antonio Ramalho Filho", "Elias Pedro Mothci", "Esteväo Machado Moura", "Hélio da Costa Almeida", "Humberto G. dos Santos", "Joäo A. Martins do Amaral", "Joäo M. Gralha Tomasi", "Klaus Peter Wittern", "Manoel Faustino Neto", "Reinaldo Oscar Potter"]
+#authors: ["Flavio Garcia de Freitas", "Marcelo Nunes Camargo", "Antonio Ramalho Filho", "Elias Pedro Mothci", "Esteväo Machado Moura", "Hélio da Costa Almeida", "Humberto G. dos Santos", "Joäo A. Martins do Amaral", "Joäo M. Gralha Tomasi", "Klaus Peter Wittern", "Manoel Faustino Neto", "Reinaldo Oscar Potter"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0636.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>680321 bytes</td>
+      <td>600148 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0636&files=ctb0636.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

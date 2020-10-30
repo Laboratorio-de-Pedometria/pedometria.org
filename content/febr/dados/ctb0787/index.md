@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento dos Solos do Estado de São Paulo (Contri
 date: 2020-10-28
 slug: ../ctb0787
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Raymundo Costa de Lemos", "Jakob Bennema", "Raphael David dos Santos", "Jorge Olmos Iturri", "Raul Suarez Inclan Luzberto Achâ Panoso", "Waldemar Mendes", "José de Oliveira Melo", "Clotârio Olivier da Silveiva;Luzberto Achâ Panoso", "Marcelo Nunes Camargo", "Herodoto da Costa Barros", "José Leôncio Drumond", "Gerardo Sepulveda Gondim", "Flávio Garcia de Freitas", "Nathaniel Bloomfield", "Luiz Gonzaga de Oliveira Carvalho", "Leandro Vettori", "Adalgiso Gallotti Kehrig", "Fernando Ramos", "Tasso Paes de Figueiredo", "Ary Coelho da Silva Ruth Andrada Leal Johas", "Maria Amelia de Morais Duriez", "José Almeida da Silva"]
+#authors: ["Raymundo Costa de Lemos", "Jakob Bennema", "Raphael David dos Santos", "Jorge Olmos Iturri", "Raul Suarez Inclan Luzberto Achâ Panoso", "Waldemar Mendes", "José de Oliveira Melo", "Clotârio Olivier da Silveiva;Luzberto Achâ Panoso", "Marcelo Nunes Camargo", "Herodoto da Costa Barros", "José Leôncio Drumond", "Gerardo Sepulveda Gondim", "Flávio Garcia de Freitas", "Nathaniel Bloomfield", "Luiz Gonzaga de Oliveira Carvalho", "Leandro Vettori", "Adalgiso Gallotti Kehrig", "Fernando Ramos", "Tasso Paes de Figueiredo", "Ary Coelho da Silva Ruth Andrada Leal Johas", "Maria Amelia de Morais Duriez", "José Almeida da Silva"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0787.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>1031802 bytes</td>
+      <td>461967 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0787&files=ctb0787.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0787-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>6795 bytes</td>
+      <td>68894 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0787&files=ctb0787-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0787-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>10620 bytes</td>
+      <td>418851 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0787&files=ctb0787-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

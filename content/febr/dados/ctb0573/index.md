@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbaci
 date: 2020-10-28
 slug: ../ctb0573
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Santos", "H.G. dos", "Filho", "B.C. ", "Claessen", "M.E.C. ", "Junior", "W. de C. ", "Chagas", "C. da S. ", "Wittern", "K.P. ", "Mothci", "E.P. ", "Barreto", "W. de O.(in memorian)", "Araujo", "W.S. de", "Duriez", "M.A.de M. ", "Johas", "R.A.L. ", "Paula", "J.L. de", "Antonello", "L.L.", "Fonseca", "O.O.M.de", "Lemos", "A.L.(in memorian). "]
+#authors: ["Santos", "H.G. dos", "Filho", "B.C. ", "Claessen", "M.E.C. ", "Junior", "W. de C. ", "Chagas", "C. da S. ", "Wittern", "K.P. ", "Mothci", "E.P. ", "Barreto", "W. de O.(in memorian)", "Araujo", "W.S. de", "Duriez", "M.A.de M. ", "Johas", "R.A.L. ", "Paula", "J.L. de", "Antonello", "L.L.", "Fonseca", "O.O.M.de", "Lemos", "A.L.(in memorian). "]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0573.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>894678 bytes</td>
+      <td>132376 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0573-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2322 bytes</td>
+      <td>18206 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0573-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1762 bytes</td>
+      <td>43974 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

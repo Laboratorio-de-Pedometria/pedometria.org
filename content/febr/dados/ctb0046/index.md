@@ -3,7 +3,7 @@ title: "Levantamento de Reconhecimento de Alta Intensidade dos Solos de Duas Ár
 date: 2020-10-28
 slug: ../ctb0046
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Virlei Álvaro de Oliveira", "Eduardo Guimarães Couto", "João Benedito Pereira Leite Sobrinho", "Maria Lucidalva C. Moreira"]
+#authors: ["Virlei Álvaro de Oliveira", "Eduardo Guimarães Couto", "João Benedito Pereira Leite Sobrinho", "Maria Lucidalva C. Moreira"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0046.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>194734 bytes</td>
+      <td>194163 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0046&files=ctb0046.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -3,7 +3,7 @@ title: "Substâncias húmicas em solos de diferentes feições geomorfológicas 
 date: 2020-10-28
 slug: ../ctb0010
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Fábio Pacheco Menezes", "Ricardo Simão Diniz Dalmolin"]
+#authors: ["Fábio Pacheco Menezes", "Ricardo Simão Diniz Dalmolin"]
 tags: [Fracionamento químico, Frações húmicas, Solos rasos, Pedologia,]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0010.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>198863 bytes</td>
+      <td>111808 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0010&files=ctb0010.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

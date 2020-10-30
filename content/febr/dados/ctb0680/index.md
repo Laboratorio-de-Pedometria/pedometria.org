@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE REC
 date: 2020-10-28
 slug: ../ctb0680
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Amarindo Fausto Soares", "José Raimundo Natividade Ferreira Gama", "João Marcos Lima da Silva", "Maria Amélia de Moraes Duriez", "Marie Elizabeth C. C. de Magalhães Melo", "Ruth Andrade Leal Johas", "Wilson Sant'Anna de Araújo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Loiva Lizia Antonello", "Therezinha da Costa Lima."]
+#authors: ["Amarindo Fausto Soares", "José Raimundo Natividade Ferreira Gama", "João Marcos Lima da Silva", "Maria Amélia de Moraes Duriez", "Marie Elizabeth C. C. de Magalhães Melo", "Ruth Andrade Leal Johas", "Wilson Sant'Anna de Araújo", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "José Lopes de Paula", "João Luiz Rodrigues de Souza", "Loiva Lizia Antonello", "Therezinha da Costa Lima."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0680.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>895080 bytes</td>
+      <td>132476 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0680&files=ctb0680.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0680-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>1294 bytes</td>
+      <td>12426 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0680&files=ctb0680-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0680-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>1380 bytes</td>
+      <td>47242 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0680&files=ctb0680-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

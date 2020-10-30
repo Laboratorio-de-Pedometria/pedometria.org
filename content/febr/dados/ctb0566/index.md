@@ -3,7 +3,7 @@ title: "Solos das áreas-piloto do Projeto BiosBrasil (Conservation and Sustaina
 date: 2020-10-28
 slug: ../ctb0566
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-authors: ["Maurício Rizzato Coelho", "Elaine Cristina Cardoso Fidalgo", "Fabiano de Oliveira Araújo", "Humberto Gonçalves dos Santos", "Maria de Lourdes Mendonça Santos", "Daniel Vidal Pérez", "Fátima Maria de Souza Moreira."]
+#authors: ["Maurício Rizzato Coelho", "Elaine Cristina Cardoso Fidalgo", "Fabiano de Oliveira Araújo", "Humberto Gonçalves dos Santos", "Maria de Lourdes Mendonça Santos", "Daniel Vidal Pérez", "Fátima Maria de Souza Moreira."]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0566.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>918575 bytes</td>
+      <td>197181 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0566&files=ctb0566.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,14 +80,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0566-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>2746 bytes</td>
+      <td>20460 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0566&files=ctb0566-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0566-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>5166 bytes</td>
+      <td>115925 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0566&files=ctb0566-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
