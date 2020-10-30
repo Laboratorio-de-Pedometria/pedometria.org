@@ -52,42 +52,42 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>dados_id.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>size_xlsx bytes</td>
+      <td>size_xlsx</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>dados_id-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>size_identificacao bytes</td>
+      <td>size_identificacao</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>dados_id-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>size_versionamento bytes</td>
+      <td>size_versionamento</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>dados_id-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>size_metadado bytes</td>
+      <td>size_metadado</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>dados_id-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>size_observacao bytes</td>
+      <td>size_observacao</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>dados_id-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>size_camada bytes</td>
+      <td>size_camada</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fdados_id&files=dados_id-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

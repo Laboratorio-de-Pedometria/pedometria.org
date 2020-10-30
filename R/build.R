@@ -50,27 +50,27 @@ for (i in 1:length(ctb)) {
   index_template <- gsub("dados_autor", dados_autor, index_template)
   # Tamanho do arquivo
   exc <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], ".xlsx")
-  size_xlsx <- ifelse(file.exists(exc), file.size(exc), 0)
+  size_xlsx <- ifelse(file.exists(exc), paste(file.size(exc), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_xlsx", size_xlsx, index_template)
 
   ide <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-identificacao.txt")
-  size_identificacao <- ifelse(file.exists(ide), file.size(ide), 0)
+  size_identificacao <- ifelse(file.exists(ide), paste(file.size(ide), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_identificacao", size_identificacao, index_template)
   
   ver <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-versionamento.txt")
-  size_versionamento <- ifelse(file.exists(ver), file.size(ver), 0)
+  size_versionamento <- ifelse(file.exists(ver), paste(file.size(ver), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_versionamento", size_versionamento, index_template)
   
   met <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-metadado.txt")
-  size_metadado <- ifelse(file.exists(met), file.size(met), 0)
+  size_metadado <- ifelse(file.exists(met), paste(file.size(met), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_metadado", size_metadado, index_template)
   
   obs <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-observacao.txt")
-  size_observacao <- ifelse(file.exists(obs), file.size(obs), 0)
+  size_observacao <- ifelse(file.exists(obs), paste(file.size(obs), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_observacao", size_observacao, index_template)
   
   cam <- paste0("~/ownCloud/febr-repo/publico/", ctb[i], "/", ctb[i], "-camada.txt")
-  size_camada <- ifelse(file.exists(cam), file.size(cam), 0)
+  size_camada <- ifelse(file.exists(cam), paste(file.size(cam), "bytes"), "ARQUIVO INDISPONÍVEL")
   index_template <- sub("size_camada", size_camada, index_template)
   
   # Palavras chave
