@@ -24,7 +24,7 @@ copyright = "&copy; {year} A. Samuel-Rosa"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+theme = ["hugo-academic"]
 
 # Get last modified date for content from Git?
 #enableGitInfo = true
@@ -46,6 +46,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   authors = "/autor/:slug/"
   categories = "/categoria/:slug/"
   courses = "/cursos/:slug/"
+  books = "/livro/:slug/"
   post = "/postagem/:slug/"
   project = "/projeto/:slug/"
   publication = "/publicacao/:slug/"
