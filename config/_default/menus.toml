@@ -29,14 +29,19 @@
   weight = 50
 
 [[main]]
+  name = "Livros"
+  url = "livros/"
+  weight = 60
+
+[[main]]
   name = "Palestras"
   url = "#palestras"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contato"
   url = "#contato"
-  weight = 70
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
