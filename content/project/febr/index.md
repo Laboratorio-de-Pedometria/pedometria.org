@@ -20,7 +20,10 @@ tags:
   - Dados Abertos
 ---
 
-<!-- {{% toc %}} -->
+{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
 
 ## Acesso rápido às ferramentas
 

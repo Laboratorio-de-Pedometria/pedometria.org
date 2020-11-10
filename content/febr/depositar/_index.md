@@ -18,6 +18,11 @@ project:
   - febr
 ---
 
+{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
+{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
+
 ## Depositar conjuntos de dados
 
 Se você produz dados do solo, no campo ou laboratório, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades solo: granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
