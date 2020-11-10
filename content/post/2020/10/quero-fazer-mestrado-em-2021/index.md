@@ -60,7 +60,7 @@ A partir de 2021, você tem duas opções para fazer mestrado no Laboratório de
 
 ## PPG em Tecnologias Computacionais para o Agronegócio
 
-__Inscrições:__ 05/10/2020 à 04/11/2020<br>
+__Inscrições:__ 05/10/2020 à 31/01/2021<br>
 __Vagas:__ 01 (uma)<br>
 __Critérios de seleção:__ currículo Lattes (50%) e projeto de pesquisa (50%)<br>
 __Linha de pesquisa:__ Tecnologias computacionais aplicadas à produção agrícola<br>
