@@ -35,7 +35,7 @@ categories:
 
 date: 2020-11-11T11:27:49-03:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
