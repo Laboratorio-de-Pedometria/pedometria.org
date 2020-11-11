@@ -4,7 +4,7 @@
 # Título da postagem
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Bolsa para Estudante da Ciência da Computação"
+title: "Bolsa de IC para Estudante da Ciência da Computação"
 subtitle: "Iniciação científica"
 summary: "O bolsista trabalhará com os demais integrantes da equipe do Laboratório de Pedometria na instalação, configuração, lançamento e manutenção do novo sistema de gerenciamento de dados e metadados do FEBR, que será baseado no Dataverse, um software de repositório de dados de pesquisa de código aberto desenvolvido e mantido pela Harvard University."
 
@@ -97,3 +97,7 @@ Para saber mais sobre as atividades, visite nosso caderno virtual de anotações
 
 [notion]: https://www.notion.so/Instala-o-DATAVERSE-V5-dd6ea6182efc404cbb0b7503771fc3e1
 [marcos]: /autor/marcos-alexandre-dos-anjos
+
+## Inscrições
+
+Os interessados devem enviar uma carta de apresentação para o endereço alessandrorosa (arroba) utfpr.edu.br.
