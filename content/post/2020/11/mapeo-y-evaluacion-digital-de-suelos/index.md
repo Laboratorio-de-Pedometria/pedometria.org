@@ -30,7 +30,8 @@ tags:
 # - Publicação
 # - Software
 categories:
-  - ""
+  - "Evento"
+  - "Pesquisa"
 
 date: 2020-11-11T11:27:49-03:00
 featured: false
