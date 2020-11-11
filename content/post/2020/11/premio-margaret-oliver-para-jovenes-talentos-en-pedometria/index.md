@@ -57,7 +57,7 @@ projects: []
 
 La [Comisión de Pedometría][comission] de la Unión Internacional de Ciencias del Suelo (IUSS) otorga un premio bienal, cuyo objetivo es reconocer a los talentos emergentes en pedometría. El premio lleva el nombre de Margaret Oliver, en reconocimiento a su destacado compromiso con la promoción y el estímulo a las y los jóvenes investigadores que se encuentran en las primeras etapas de sus carreras, así como su compromiso en la comunidad de pedometría. El premio se entregará en cada reunión bienal de la Comisión de Pedometría; el próximo premio será en [Pedometrics 2021][pedometrics], Ubud, Bali, del 14 al 18 de junio de 2021.
 
-[comission]: http2://pedometrics.org/
+[comission]: https://www.pedometrics.org/
 [pedometrics]: http://pedometrics.org/pedometrics-meetings/pedometrics-2017-2/
 
 Los premiados anteriores fueron:
