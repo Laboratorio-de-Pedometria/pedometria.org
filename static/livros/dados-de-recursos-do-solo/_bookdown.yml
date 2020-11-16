@@ -8,3 +8,4 @@ language:
     edit: "Editar"
     chapter_name: "Capítulo "
 edit: https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/dados-de-recursos-do-solo/%s
+view: https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/dados-de-recursos-do-solo/%s
