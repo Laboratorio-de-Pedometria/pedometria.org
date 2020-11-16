@@ -1,19 +1,8 @@
----
-title: Cor
-linktitle: Cor
-toc: true
-type: docs
-date: "2020-11-06"
-draft: false
-menu:
-  variable:
-    parent: Variáveis
-    weight: 2
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-# weight: 2
----
+# Cor do Solo
 
-## Definições básicas
+## Conceitos e definições
+
+A cor do solo é uma expressão qualitativa da percepção visual que seres humanos têm do solo. Logo, trata-se de uma qualidade do solo perceptível apenas na presença de fontes de luz visível, sejam elas artificiais ou naturais. Essa luz visível corresponde a comprimentos de onda do espectro eletromagnético entre cerca de 400 e 700 nm, porção popularmente conhecida como espectro óptico ou espectro do visível. Ignorados os principais fatores intervenientes (imperfeições do olho ou cérebro do observador, condições do ambiente circunvizinho, ângulo de incidência da luz e visada), a cor do solo resulta da repartição diferencial dos comprimentos de onda da luz visível incidente entre os fenômenos de absorção, transmissão e reflexão. Essa repartição diferencial é fruto da maneira como os vários materiais e substâncias que constituem o solo interagem com a radiação eletromagnética. São os comprimentos de onda do visível que deixam a superfície do solo em maior quantidade, por reflexão ou, inclusive, emissão, que ditam a cor do solo.
 
 ## Fontes adicionais de variação
 
@@ -31,7 +20,7 @@ O esquema padronizado de identificação e descrição de métodos de determina�
 
 ## Exemplo
 
-A tabela a seguir apresenta um exemplo de organização tabular de dados de cor da matriz e manchas de um perfil de solo. Os dados são reais e foram obtidos da descrição morfológica de um perfil de solo classificado como Planossolo Nátrico Órtico vertissólico, localizado no município de Pacaraima, Roraima[^@OliveiraEtAl2018b]. A tabela está transposta, com as observações nas colunas e as variáveis nas linhas, para facilitar a visualização e comparação dos códigos de identificação da cores da matriz e machas do perfil de solo.
+A tabela a seguir apresenta um exemplo de organização tabular de dados de cor da matriz e manchas de um perfil de solo. Os dados são reais e foram obtidos da descrição morfológica de um perfil de solo classificado como Planossolo Nátrico Órtico vertissólico, localizado no município de Pacaraima, Roraima[@OliveiraEtAl2018b]. A tabela está transposta, com as observações nas colunas e as variáveis nas linhas, para facilitar a visualização e comparação dos códigos de identificação da cores da matriz e machas do perfil de solo.
 
 Dentre os oito horizontes, quatro possuem matriz com duas ou mais cores (Btgn, Btgnv1, Btgnv2 e 2Cgn). Nestes, as cores da matriz ocupam áreas superficiais aproximadamente similares, com distribuição espacial muito complexa, que dificulta a identificação visual de uma cor dominante com credibilidade. Trata-se do padrão multicolorido intricado conhecido como variegado.
 
@@ -45,5 +34,3 @@ Dentre os oito horizontes, quatro possuem matriz com duas ou mais cores (Btgn, B
 | `cor_mancha_umido_munsell_1` | -        | -        | 7,5YR 5/8 | 7,5YR 5/8 | -         | -         | -         | 10YR 6/8 |
 | `cor_mancha_umido_munsell_2` | -        | -        | -         | 7,5YR 4/1 | -         | -         | -         | -        |
 | `cor_mancha_umido_munsell_3` | -        | -        | -         | 7,5YR 7/2 | -         | -         | -         | -        |
-
-[^@OliveiraEtAl2018b]: Oliveira VÁ de, Vale Júnior JF do, Schaefer CEGR, Lumbreras JF, Coelho MR, Melo VF, Campos MCC, Corrêa GR, Calderano SB, Ker JC. Capítulo 2. Solos da XI Reunião Brasileira de Classificação e Correlação de Solos (RCC de Roraima). Guia de Campo da XI Reunião Brasileira de Classificação e Correlação de Solos: RCC de Roraima. 1. ed. Brasília, DF: EMBRAPA; 2018. p. 12-29.

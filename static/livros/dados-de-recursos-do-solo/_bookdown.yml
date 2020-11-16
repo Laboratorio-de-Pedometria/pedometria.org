@@ -1,0 +1,10 @@
+book_filename: "dados-de-recursos-do-solo"
+delete_merged_file: true
+language:
+  label:
+    fig: "Figura "
+    tab: "Tabela "
+  ui:
+    edit: "Editar"
+    chapter_name: "Capítulo "
+edit: https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/dados-de-recursos-do-solo/%s
