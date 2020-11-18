@@ -6,4 +6,4 @@ layout: docs
 title: Livros
 ---
 
-[Dados de Recursos do Solo](dados-de-recursos-do-solo/_book)
+Nós estamos trabalhando na construção de alguns livros no momento. A versão beta deles será publicada aqui em breve. Entre em [contato](/#contato) conosco para saber como colaborar!

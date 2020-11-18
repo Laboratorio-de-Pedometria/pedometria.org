@@ -1,0 +1,29 @@
+# S08 SiBCS: horizontes diagnósticos subsuperficiais
+
+Nesta semana, você conhecerá mais sobre os _horizontes diagnósticos subsuperficiais_, um elemento muito importante do funcionamento do Sistema Brasileiro de Classificação de Solos ([SiBCS](https://www.embrapa.br/en/solos/sibcs)). Ao final da semana, espera-se que você seja capaz de __aplicar__ o SiBCS para identificação de horizontes diagnósticos em perfis do solo.
+
+Se você tiver dúvidas sobre como proceder, comece procurando por respostas na página do projeto [Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon). Você também pode participar de nosso encontro para resolução das dúvidas da semana (veja abaixo) ou deixar uma mensagem no [fórum de dúvidas](https://moodle.utfpr.edu.br/mod/forum/view.php?id=573329).
+
+## Encontro—Dúvidas da semana (Paluno, 50 min)
+
+## Leitura—Manual Técnico de Pedologia (43 min)
+
+* IBGE. __Seção 2.2.1.4 Horizontes diagnósticos subsuperficiais__. In: IBGE. Manual Técnico de Pedologia. 3. ed. Rio de Janeiro, RJ: Instituto Brasileiro de Geografia e Estatística, 2015. p. 234-251. URL: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf>
+* IBGE. __Seção 2.2.1.5 Outros horizontes diagnósticos subsuperficiais__. In: IBGE. Manual Técnico de Pedologia. 3. ed. Rio de Janeiro, RJ: Instituto Brasileiro de Geografia e Estatística, 2015. p. 252-257. URL: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf>
+
+## Questionário—SiBCS: horizontes diagnósticos (10 min)
+
+<!-- ##### Encontro—SiBCS: horizontes diagnósticos II (50 min) -->
+<!-- Aula prática -->
+
+<!-- Falta preparar aula prática!!! -->
+
+## Recursos adicionais
+
+### Aula sobre horizontes diagnósticos subsuperficiais (UFSM) (15 min)
+
+https://youtu.be/3LeyzQtKs-4
+
+### Exercício sobre horizontes diagnósticos subsuperficiais (UFSM) (6 min)
+
+https://youtu.be/tRG2ybqIFQw

@@ -1,0 +1,52 @@
+# S11 Relação solo-paisagem
+
+## Paluno—Dúvidas da semana (50 min)
+
+## Questionário IX—SiBCS: horizontes diagnósticos (30 min)
+<!-- A atividade está sendo repetida pois a grande maioria dos alunos não participou da primeira edição. -->
+
+Para responder ao questionário desta semana, você deve seguir os passos abaixo:
+
+1. Acesse o Repositório Brasileiro Livre para Dados Abertos do Solo ([FEBR](https://www.pedometria.org/febr/buscar/))
+1. Pesquise pelos conjuntos de dados do Projeto RADAMBRASIL, selecionando um dentre aqueles que não cobrem o estado do Paraná
+1. Descarregue o arquivo XLSX do conjunto de dados
+1. Selecione um perfil de solo sem comunicar aos seus colegas a sua escolha
+1. Identifique o horizonte diagnóstico superficial usando o fluxograma disponível no website do [Laboratório de Pedometria](https://www.pedometria.org/cursos/classificacao-de-solos/horizonte-diagnostico-superficial/)
+
+Você deve tomar nota do caminho percorrido ao longo do fluxograma até identificar o horizonte diagnóstico superficial. Registre a pergunta de cada nó visitado e a resposta dada (TRUE ou FALSE). Sua resposta ao questionário deve conter o seguinte:
+
+```
+ID do conjunto de dados:
+Título do conjunto de dados:
+ID do perfil de solo:
+Horizonte diagnóstico superficial identificado:
+Caminho percorrido ao longo do fluxograma:
+
+1. Há uma seção, superficial ou subsuperficial, em que Corg >= 80 g kg-1? TRUE
+2. O Corg provém de acumulações naturais de resíduos vegetais? TRUE
+3. A seção orgânica está assentada sobre rocha? FALSE
+4. ...
+```
+
+## Wikipedon—Cooperar com pares na produção de conteúdo digital (20 min)
+
+A [produção colaborativa][colabora] do conhecimento sobre os recursos do solo e da terra é uma das maneiras mais eficientes de garantir sua qualidade. Nessa nova fase do Wikipedon, alguns editores deixaram de lado (temporariamente) o artigo em que estavam trabalhando para colaborar na produção do artigo que você está editando. Eles analisaram o conteúdo compilado e fizeram sugestões sobre como entendem que a qualidade do artigo pode ser melhorada. Agora você tem a tarefa de **ponderar** sobre as sugestões desses editores, **implementando** aquelas que julgar pertinente.
+
+Ao ponderar sobre as sugestões, você precisa analisar se as mesmas respeitam as políticas da Wikipédia. A principal delas é que não devem representar o ponto de vista pessoal do editor. Sugestões pertinentes precisam vir acompanhadas de menções às fontes originais dos dados e informações, ou seja, com as respectivas referências bibliográficas formatadas de acordo com as regras de [citação][citacao] da Wikipédia.
+
+Ao final da semana, você deve apresentar um parecer sobre as sugestões dos editores, descrevendo as edições que elas permitiram fazer para melhorar a qualidade do artigo.
+
+[colabora]: https://pt.wikipedia.org/wiki/Produ%C3%A7%C3%A3o_colaborativa
+[citacao]: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+
+## Encontro—Relações entre Recursos do Solo e da Terra (50 min)
+
+## Recursos adicionais
+
+### Material sobre página de discussão de artigos da Wikipédia
+
+* [Usando a página de discussão](https://commons.wikimedia.org/w/index.php?title=File%3AUsando_a_p%C3%A1gina_de_discuss%C3%A3o.ogv)
+* [Wikipédia: Página de discussão](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_discuss%C3%A3o)
+* [Ajuda:Tutorial/Discussão](https://pt.wikipedia.org/wiki/Ajuda:Tutorial/Discuss%C3%A3o)
+* [Como deixar mensagem em discussão de artigo na Wikipédia](https://youtu.be/8APJKPMYwRA)
+* [Edição básica da Wikipédia: página de discussão](https://youtu.be/BU5Ga_Yz8ZU)

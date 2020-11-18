@@ -1,0 +1,53 @@
+# S09 SiBCS: características e distribuição espacial das 13 ordens
+
+Você já sabe que o Sistema Brasileiro de Classificação de Solos ([SiBCS](https://www.embrapa.br/en/solos/sibcs)) possui 13 ordens. Nesta semana, você conhecerá mais sobre as características e distribuição espacial de cada uma dessa ordens no território brasileiro. Isso será de grande ajuda na sumarização dos dados e informações sobre os recursos do solo do município com o qual você está trabalhando no projeto [Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon).
+<!-- Ao final da semana, espera-se que você seja capaz de __contrastar__ ordens do SiBCS. -->
+
+## Encontro—Dúvidas da semana (Paluno, 50 min)
+
+## Leitura—Manual Técnico de Pedologia (22 min)
+
+* IBGE. __Seção 2.3 Principais solos do Brasil__. In: IBGE. Manual Técnico de Pedologia. 3. ed. Rio de Janeiro, RJ: Instituto Brasileiro de Geografia e Estatística, 2015. p. 285-319. URL: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv95017.pdf>
+
+## Leitura—Sistema Brasileiro de Classificação de Solos (27 min)
+
+* Santos et al. __Conceito e definição das classes do 1º nível categórico (ordens)__. In: Santos et al. Sistema Brasileiro de Classificação de Solos. 5. ed. Brasília, DF: Empresa Brasileira de Pesquisa Agropecuária, 2018. p. 86-106. URL: <https://ainfo.cnptia.embrapa.br/digital/bitstream/item/199517/1/SiBCS-2018-ISBN-9788570358004.pdf>
+
+## Questionário—SiBCS: horizontes diagnósticos (30 min)
+<!-- No próximo semestre, essa atividade deve ser movida para a semana anterior -->
+
+Para responder ao questionário desta semana, você deve seguir os passos abaixo:
+
+1. Acesse o Repositório Brasileiro Livre para Dados Abertos do Solo ([FEBR](https://www.pedometria.org/projeto/febr/))
+1. No portal de busca e descarregamento de conjuntos de dados, acesse a aba de visualização espacial (mapa)
+1. Navegue até o estado do Paraná e identifique os perfis do solo mais próximos do município com o qual você está trabalhando no Wikipedon
+1. Selecione um desses perfis do solo e acesse o conjunto de dados na nuvem
+    * Você e seus colegas de grupo devem selecionar perfis de solo distintos
+1. Identifique o horizonte diagnóstico superficial usando o fluxograma disponível no website do [Laboratório de Pedometria](https://www.pedometria.org/cursos/classificacao-de-solos/horizonte-diagnostico-superficial/)
+
+Você deve tomar nota do caminho percorrido ao longo do fluxograma até identificar o horizonte diagnóstico superficial. Registre a pergunta de cada nó visitado e a resposta dada (TRUE ou FALSE). Sua resposta ao questionário deve conter o seguinte:
+
+```
+Título do conjunto de dados:
+Código do conjunto de dados:
+Código de identificação do perfil de solo:
+Horizonte diagnóstico superficial identificado:
+Caminho percorrido ao longo do fluxograma:
+
+1. Há uma seção, superficial ou subsuperficial, em que Corg >= 80 g kg-1? TRUE
+2. O Corg provém de acumulações naturais de resíduos vegetais? TRUE
+3. A seção orgânica está assentada sobre rocha? FALSE
+4. ...
+```
+
+## Fórum III—Buscando dados e informações de municípios vizinhos (20 min)
+<!-- Primeira semana: alunos apontam suas opiniões -->
+<!-- Segunda semana: após leitura de revisão bibliográfica sobre relação solo-paisagem, alunos têm a oportunidade de rever suas posições. -->
+
+Dados e informações detalhados e atualizados sobre os recursos do solo e da terra são necessários para tomar decisões importantes que afetam o ambiente e a economia. Contudo, muitos municípios não dispõe desses dados e informações. Isso é o que ocorre, por exemplo, com o município de [Corbélia](https://pt.wikipedia.org/wiki/Corb%C3%A9lia), localizado na região metropolitana de Cascavel, estado do Paraná. Situação semelhante ocorre no caso da meteorologia. A maioria dos municípios não faz parte da rede de monitoramento meteorológico oficial. Nesses casos, a solução mais comumente usada consiste em buscar dados e informações em municípios vizinhos, que possuam condições ambientais similares. A hipótese que fundamenta essa prática postula que a proximidade geográfica e a similaridade de condições ambientais produzem condições meteorológicas similares. Seria possível adotar a mesma hipótese no caso dos recursos do solo? Discorra sobre os prós e contras dessa prática, tendo em vista os objetivos do projeto Wikipedon.
+
+## Recursos adicionais
+
+### Vídeos sobre características e distribuição espacial das 13 ordens do SiBCS
+
+https://www.youtube.com/playlist?list=PLJl3ZQuMf4knjfjN65KGIfwFDMRaDplMF

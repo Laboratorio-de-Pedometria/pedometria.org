@@ -2,3 +2,9 @@ public
 themes/hugo-academic/exampleSite
 .Rproj.user
 resources
+
+static/livros/ag63c/_book/
+static/livros/ag63c/_bookdown_files/
+
+static/livros/gestao-dados-solo/_book/
+static/livros/gestao-dados-solo/_bookdown_files/

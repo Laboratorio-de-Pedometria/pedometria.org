@@ -1,0 +1,11 @@
+book_filename: "ag63c"
+delete_merged_file: true
+config:
+  label:
+    fig: "Figura "
+    tab: "Tabela "
+  ui:
+    edit: "Editar"
+    chapter_name: "Capítulo "
+edit: https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/ag63c/%s
+view: https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/ag63c/%s
