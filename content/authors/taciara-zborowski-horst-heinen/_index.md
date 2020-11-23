@@ -4,6 +4,9 @@ authors:
 bio: ""
 education:
   courses:
+  - course: PhD em Ciência do Solo (Pedometria)
+    institution: Universidade Federal de Santa Maria
+    year: em andamento
   - course: MSc em Ciência do Solo (Pedometria)
     institution: Universidade Federal de Santa Maria
     year: 
@@ -36,7 +39,7 @@ social:
   icon_pack: ai
   link: http://lattes.cnpq.br/6763043931071514
 superuser: false
-title: Taciara Zborowski Horst Heinen
+title: Taciara Zborowski Horst-Heinen
 user_groups:
 - Estudantes de Pós-Graduação
 ---
