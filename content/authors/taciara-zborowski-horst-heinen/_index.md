@@ -5,7 +5,7 @@ bio: ""
 education:
   courses:
   - course: PhD em Ciência do Solo (Pedometria)
-    institution: Universidade Federal de Santa Maria
+    institution: Universidade Federal de Santa Maria & University of Florida
     year: em andamento
   - course: MSc em Ciência do Solo (Pedometria)
     institution: Universidade Federal de Santa Maria
@@ -14,9 +14,9 @@ education:
     institution: Universidade Federal do Pampa
     year: 
 # interests:
-# - 
-# - 
-# - 
+# - Sensoriamento próximo do solo
+# - Predição de propriedades do solo
+# - Padronização e harmonização de dados
 # - 
 organizations:
 - name: Universidade Federal de Santa Maria
@@ -44,4 +44,5 @@ user_groups:
 - Estudantes de Pós-Graduação
 ---
 
-Possui graduação em Engenharia Florestal pela Universidade Federal do Pampa (2015) e mestrado em Ciência do Solo pela Universidade Federal de Santa Maria (2017). Tem experiência na área de Gênese, Morfologia e Classificação dos Solos, atuando principalmente na área de Pedometria e Mapeamento Digital de Solos.
+Taciara é aluna de doutorado no Programa de Pós-Graduação em Ciência do Solo da Universidade Federal de Santa Maria. Foi bolsista de doutorado sanduíche do Programa Institucional de Internacionalização (CAPES-PrInt) e esteve por oito meses no Laboratório de Pedometria, Análise de Paisagem e SIG da Universidade da Flórida, nos Estados Unidos.
+Seus interesses de pesquisa incluem sensoriamento próximo para predição de propriedades do solo, e a padronização e harmonização de dados.
