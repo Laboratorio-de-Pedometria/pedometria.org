@@ -9,15 +9,14 @@ education:
     year: em andamento
   - course: MSc em Ciência do Solo (Pedometria)
     institution: Universidade Federal de Santa Maria
-    year: 
+    year: 2017
   - course: BSc em Engenharia Florestal
     institution: Universidade Federal do Pampa
-    year: 
-# interests:
-# - Sensoriamento próximo do solo
-# - Predição de propriedades do solo
-# - Padronização e harmonização de dados
-# - 
+    year: 2015
+interests:
+- Sensoriamento próximo do solo
+- Predição de propriedades do solo
+- Padronização e harmonização de dados
 organizations:
 - name: Universidade Federal de Santa Maria
   url: https://www.ufsm.br/
