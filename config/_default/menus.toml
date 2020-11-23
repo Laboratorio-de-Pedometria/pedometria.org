@@ -39,6 +39,11 @@
   weight = 70
 
 [[main]]
+  name = "Equipe"
+  url = "#equipe"
+  weight = 79
+
+[[main]]
   name = "Contato"
   url = "#contato"
   weight = 80
