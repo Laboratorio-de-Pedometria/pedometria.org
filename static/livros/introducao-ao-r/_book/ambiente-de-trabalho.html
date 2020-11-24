@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Capítulo 2 Ambiente de trabalho | Introdução ao R para análise de dados e construção de gráficos</title>
+  <meta name="description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Capítulo 2 Ambiente de trabalho | Introdução ao R para análise de dados e construção de gráficos" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Capítulo 2 Ambiente de trabalho | Introdução ao R para análise de dados e construção de gráficos" />
+  
+  <meta name="twitter:description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  
+
+<meta name="author" content="Alessandro Samuel-Rosa" />
+
+
+<meta name="date" content="2020-11-23" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+<link rel="next" href="literature.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Introdução ao R</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prerequisites</a></li>
+<li class="chapter" data-level="2" data-path="ambiente-de-trabalho.html"><a href="ambiente-de-trabalho.html"><i class="fa fa-check"></i><b>2</b> Ambiente de trabalho</a><ul>
+<li class="chapter" data-level="2.1" data-path="ambiente-de-trabalho.html"><a href="ambiente-de-trabalho.html#r-rstudio"><i class="fa fa-check"></i><b>2.1</b> R &amp; RStudio</a><ul>
+<li class="chapter" data-level="2.1.1" data-path="ambiente-de-trabalho.html"><a href="ambiente-de-trabalho.html#instalação"><i class="fa fa-check"></i><b>2.1.1</b> Instalação</a></li>
+<li class="chapter" data-level="2.1.2" data-path="ambiente-de-trabalho.html"><a href="ambiente-de-trabalho.html#familiarização"><i class="fa fa-check"></i><b>2.1.2</b> Familiarização</a></li>
+</ul></li>
+<li class="chapter" data-level="2.2" data-path="ambiente-de-trabalho.html"><a href="ambiente-de-trabalho.html#diretório-de-trabalho"><i class="fa fa-check"></i><b>2.2</b> Diretório de trabalho</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>3</b> Literature</a></li>
+<li class="chapter" data-level="4" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>4</b> Methods</a></li>
+<li class="chapter" data-level="5" data-path="applications.html"><a href="applications.html"><i class="fa fa-check"></i><b>5</b> Applications</a><ul>
+<li class="chapter" data-level="5.1" data-path="applications.html"><a href="applications.html#example-one"><i class="fa fa-check"></i><b>5.1</b> Example one</a></li>
+<li class="chapter" data-level="5.2" data-path="applications.html"><a href="applications.html#example-two"><i class="fa fa-check"></i><b>5.2</b> Example two</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="final-words.html"><a href="final-words.html"><i class="fa fa-check"></i><b>6</b> Final Words</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introdução ao R para análise de dados e construção de gráficos</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="ambiente-de-trabalho" class="section level1">
+<h1><span class="header-section-number">Capítulo 2</span> Ambiente de trabalho</h1>
+<div id="r-rstudio" class="section level2">
+<h2><span class="header-section-number">2.1</span> R &amp; RStudio</h2>
+<div id="instalação" class="section level3">
+<h3><span class="header-section-number">2.1.1</span> Instalação</h3>
+<p>A página do projeto R na Internet pode ser acessada pelo endereço <a href="https://www.r-project.org/" class="uri">https://www.r-project.org/</a>. Nela você encontra grande quantidade de informação sobre o R. Estão disponíveis diversos manuais de uso (<em>Documentation</em> &gt; <em>Manuals</em>), bem como livros (<em>Documentation</em> &gt; <em>Books</em>) e artigos publicados na revista do projeto (<em>Documentation</em> &gt; <em>The R Journal</em>). Também há uma página com respostas às perguntas mais frequentes (<em>Documentation</em> &gt; <em>FAQs</em>) e uma página inteira explicando como é possível conseguir ajuda sozinho antes de recorrer a terceiros (<em>Help With R</em> &gt; <em>Getting Help</em>)<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
+<p>O procedimento de instalação do R depende do sistema operacional (<a href="https://en.wikipedia.org/wiki/Operating_system">OS</a>, do inglês <em>operating system</em>) de seu computador:</p>
+<ul>
+<li>Linux: <a href="https://cloud.r-project.org/bin/linux/" class="uri">https://cloud.r-project.org/bin/linux/</a></li>
+<li>(Mac) OS X: <a href="https://cloud.r-project.org/bin/macosx/" class="uri">https://cloud.r-project.org/bin/macosx/</a></li>
+<li>Windows: <a href="https://cloud.r-project.org/bin/windows/base/" class="uri">https://cloud.r-project.org/bin/windows/base/</a></li>
+</ul>
+<p>A página de cada OS possui as instruções necessárias para descarregar e instalar o R em seu computador. Em geral, o processo de instalação é muito parecido com aquele de outros programas de computador que você está acostumado a usar.</p>
+<p>Depois de completada a instalação do R, é hora de instalar o RStudio. A última versão gratuíta<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> do instalador do RStudio para o OS de seu computador pode ser descarregada do seguinte endereço na Internet:</p>
+<ul>
+<li><a href="https://www.rstudio.com/products/rstudio/download/" class="uri">https://www.rstudio.com/products/rstudio/download/</a></li>
+</ul>
+<p>Assim como para o R, você não encontrará maiores dificuldades no processo de instalação do RStudio.</p>
+</div>
+<div id="familiarização" class="section level3">
+<h3><span class="header-section-number">2.1.2</span> Familiarização</h3>
+<p>Depois de instalados R e RStudio, inicie o RStudio em seu computador. A interface do RStudio deve se parecer mais ou menos com aquela mostrada na figura abaixo<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a>.</p>
+<div class="figure">
+<img src="img/rstudio.png" alt="" />
+<p class="caption"><strong>Figura 1.</strong> RStudio: ambiente de desenvolvimento integrado (IDE) para R em sua versão para Linux.</p>
+</div>
+<p>O RStudio é composto por quatro painéis retangulares que ocupam seus quadrantes:</p>
+<ul>
+<li>Painel superior esquerdo: usado para preparar o roteiro (<em>script</em>) de análise de dados.</li>
+<li>Painel superior direito: interface de linha de comando (CLI), o console do R.</li>
+<li>Painel inferior direito: serve à visualização de gráficos e páginas de ajuda do R.</li>
+<li>Painel inferior esquerdo: apresenta informações sobre a sessão de trabalho.</li>
+</ul>
+<p>Dentre os quatro painéis, é no painel superior esquerdo que passamos a maior parte do tempo quando analisamos dados no R. É ali que redigimos aquilo que queremos que o R faça com nossos dados na forma de comandos usando a linguagem do R. Para nos comunicamos com o R, enviamos esses comandos para o console do R, localizado no painel superior direito. Os resultados produzidos pelo R podem ser emitidos, tanto no console (tabelas), como no painel inferior direito (gráficos). Se não soubermos como nos comunicarmos com o R para que execute determinada função, podemos visitara aba de ajuda localizada no painel inferior direito.</p>
+</div>
+</div>
+<div id="diretório-de-trabalho" class="section level2">
+<h2><span class="header-section-number">2.2</span> Diretório de trabalho</h2>
+<p>Um importante passo consiste na criação do nosso diretório de trabalho. Para isso, acesse seu gerenciador
+de diretórios e crie a seguinte estrutura de diretórios em seu local favorito de trabalho:</p>
+<pre><code>projeto
+|- code/            # código fonte
+|- data/            # dados usados no projeto
+|- docs/            # documentos do projeto
+|- res/             # resultados do projeto
+|  |- fig/          # figuras (PNG, TIFF, JPEG, SVG)
+|  |- tab/          # tabelas (CSV, TSV)
+|- tmp/             # arquivos temporários irrelevantes
+|- README.md        # descrição do projeto</code></pre>
+
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="1">
+<li id="fn1"><p>Como a documentação do R é extensa e a maioria dos colaboradores do projeto não são pagos pelo trabalho desenvolvido, recomendo que você sempre procure, primeiro, resolver qualquer dúvida sozinho.<a href="ambiente-de-trabalho.html#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>Licença AGPL v3.<a href="ambiente-de-trabalho.html#fnref2" class="footnote-back">↩︎</a></p></li>
+<li id="fn3"><p>A disposição dos painéis do ambiente de trabalho pode ser alterada acessando <em>Tools</em> &gt; <em>Global Options</em> &gt; <em>Pane Layout</em>.<a href="ambiente-de-trabalho.html#fnref3" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="literature.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["introducao-ao-r.pdf", "introducao-ao-r.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

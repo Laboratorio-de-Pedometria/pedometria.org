@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Capítulo 5 Funções e objetos | Introdução ao R para análise de dados e construção de gráficos</title>
+  <meta name="description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Capítulo 5 Funções e objetos | Introdução ao R para análise de dados e construção de gráficos" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Capítulo 5 Funções e objetos | Introdução ao R para análise de dados e construção de gráficos" />
+  
+  <meta name="twitter:description" content="Livro de apoio ao minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica." />
+  
+
+<meta name="author" content="Alessandro Samuel-Rosa" />
+
+
+<meta name="date" content="2020-11-23" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="operações-matemáticas.html"/>
+<link rel="next" href="estatísticas-descritivas.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+<style type="text/css">
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Introdução ao R</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Apresentação</a></li>
+<li class="chapter" data-level="2" data-path="r-rstudio.html"><a href="r-rstudio.html"><i class="fa fa-check"></i><b>2</b> R &amp; RStudio</a></li>
+<li class="chapter" data-level="3" data-path="diretório-de-arquivos.html"><a href="diretório-de-arquivos.html"><i class="fa fa-check"></i><b>3</b> Diretório de arquivos</a></li>
+<li class="chapter" data-level="4" data-path="operações-matemáticas.html"><a href="operações-matemáticas.html"><i class="fa fa-check"></i><b>4</b> Operações matemáticas</a></li>
+<li class="chapter" data-level="5" data-path="funções-e-objetos.html"><a href="funções-e-objetos.html"><i class="fa fa-check"></i><b>5</b> Funções e objetos</a></li>
+<li class="chapter" data-level="6" data-path="estatísticas-descritivas.html"><a href="estatísticas-descritivas.html"><i class="fa fa-check"></i><b>6</b> Estatísticas descritivas</a></li>
+<li class="chapter" data-level="7" data-path="gráficos-univariados.html"><a href="gráficos-univariados.html"><i class="fa fa-check"></i><b>7</b> Gráficos univariados</a></li>
+<li class="chapter" data-level="8" data-path="gráficos-bivariados.html"><a href="gráficos-bivariados.html"><i class="fa fa-check"></i><b>8</b> Gráficos bivariados</a></li>
+<li class="chapter" data-level="" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i>Referências</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introdução ao R para análise de dados e construção de gráficos</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="funções-e-objetos" class="section level1">
+<h1><span class="header-section-number">Capítulo 5</span> Funções e objetos</h1>
+<p>A gramática da linguagem R possui dois elementos principais: as palavras reservadas e as palavras-chave. As <strong><em>palavras reservadas</em></strong> constituem signos com significado especial para a linguagem. Elas não podem ser utilizadas para outros fins que não aqueles especificados internamente no R. Algumas dessas palavras reservadas são <code>if</code>, <code>else</code>, <code>while</code>, <code>TRUE</code> e <code>FALSE</code><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a>.</p>
+<p>As <strong><em>palavras-chave</em></strong> são aquelas utilizadas para identificar funções e objetos. <strong><em>Funções</em></strong> nada mais são do que operações matemáticas e lógicas<a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a>. Assim, as palavras-chave que identificam funções são aquelas que acionam tais operações. São elas que possibilitam, por exemplo, enviar ao R o comando para que realize determinada análise estatística de determinado conjunto de dados. A maioria das operações utilizadas na análise de dados já está definida na linguagem do R, como é o caso de <code>log</code>, <code>sqrt</code>, <code>sum</code>, <code>prod</code>, <code>diff</code>, <code>abs</code>, <code>cos</code>, <code>tan</code>, <code>det</code>, <code>exp</code>, <code>max</code>, <code>min</code>, <code>mean</code>, <code>median</code>, entre muitas outras.</p>
+<hr />
+<p><strong><em>Tarefa:</em></strong> <em>A aba de ajuda do RStudio possui, em seu canto superior direito, uma caixa de busca. Digite a primeira letra de seu nome e selecione, na lista suspensa que aparecer, uma função que lhe chamar a atenção. Qual é a operação matemática ou lógica realizada por essa função?</em></p>
+<hr />
+<p>Para acessar uma função no R, precisamos especificar seu nome e os dados que serão processados na pela operação matemática ou lógica que ela identifica. Esses dados são sempre especificados entre dois parênteses que seguem o nome da função. Por exemplo, para calcular a raiz quadrada de 25, precisamos especificar que a função usada é <code>sqrt</code> e o valor numérico a ser operado é 25.</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="funções-e-objetos.html#cb4-1"></a>x &lt;-<span class="st"> </span><span class="dv">25</span></span>
+<span id="cb4-2"><a href="funções-e-objetos.html#cb4-2"></a>y &lt;-<span class="st"> </span><span class="kw">sqrt</span>(x)</span>
+<span id="cb4-3"><a href="funções-e-objetos.html#cb4-3"></a><span class="kw">print</span>(y)</span></code></pre></div>
+<pre><code>## [1] 5</code></pre>
+<p>O bloco acima apresenta outro elemento importante do R: os objetos. Um <strong><em>objeto</em></strong> nada mais é do que uma estrutura de dados<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a>. Essas estruturas de dados podem ser vetores, matrizes, listas, entre muitas outras. Elas são inseridas ou criadas pelo próprio usuário ou produzidas como resultado do processamento dos dados. No exemplo anterior, temos dois objetos cujos nomes são <code>x</code> e <code>y</code>. O objeto <code>x</code> armazena o valor numérico 25, enquanto o resultado da operação raiz quadrada é armazenado no objeto <code>y</code>. Para vermos o conteúdo do objeto <code>y</code>, basta usar a função <code>print</code>.</p>
+<hr />
+<p><strong><em>Tarefa:</em></strong> <em>Pelo teorema de Pitágoras, o comprimento da hipotenusa de um triângulo retângulo pode ser calculado em função do comprimento de seus catetos. Calcule o comprimento da hipotenusa de um triângulo retângulo cujos catetos possuem medidas b = 3 e c = 4. Registre as operações no arquivo <code>main.R</code> usando objetos para armazenar os valores numéricos.</em></p>
+<hr />
+<p>Um tipo de objeto bastante útil na análise de dados é o vetor, ou seja, uma sequência de dados de mesmo tipo. Por exemplo, um vetor pode ser usado para armazenar os dados sobre os meses do ano, tanto no formato numérico, como no formato textual. Quando dois vetores possuem o mesmo comprimeiro e seus elementos possuem relação direta, podemos reunir os mesmos em uma matriz ou tabela. Com a função <code>str</code> podemos conhecer a estrutura de um objeto, o que nos ajuda a decidir como usar o mesmo nas análises subsequentes.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="funções-e-objetos.html#cb6-1"></a>numero &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">1</span>, <span class="dv">2</span>, <span class="dv">3</span>, <span class="dv">4</span>, <span class="dv">5</span>, <span class="dv">6</span>, <span class="dv">7</span>, <span class="dv">8</span>, <span class="dv">9</span>, <span class="dv">10</span>, <span class="dv">11</span>, <span class="dv">12</span>)</span>
+<span id="cb6-2"><a href="funções-e-objetos.html#cb6-2"></a>nome &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Jan&quot;</span>, <span class="st">&quot;Fev&quot;</span>, <span class="st">&quot;Mar&quot;</span>, <span class="st">&quot;Abr&quot;</span>, <span class="st">&quot;Mai&quot;</span>, <span class="st">&quot;Jun&quot;</span>,</span>
+<span id="cb6-3"><a href="funções-e-objetos.html#cb6-3"></a>          <span class="st">&quot;Jul&quot;</span>, <span class="st">&quot;Ago&quot;</span>, <span class="st">&quot;Set&quot;</span>, <span class="st">&quot;Out&quot;</span>, <span class="st">&quot;Nov&quot;</span>, <span class="st">&quot;Dez&quot;</span>)</span>
+<span id="cb6-4"><a href="funções-e-objetos.html#cb6-4"></a>meses &lt;-<span class="st"> </span><span class="kw">data.frame</span>(numero, nome)</span>
+<span id="cb6-5"><a href="funções-e-objetos.html#cb6-5"></a><span class="kw">str</span>(meses)</span></code></pre></div>
+<pre><code>## &#39;data.frame&#39;:    12 obs. of  2 variables:
+##  $ numero: num  1 2 3 4 5 6 7 8 9 10 ...
+##  $ nome  : Factor w/ 12 levels &quot;Abr&quot;,&quot;Ago&quot;,&quot;Dez&quot;,..: 5 4 9 1 8 7 6 2 12 11 ...</code></pre>
+<hr />
+<p><strong><em>Tarefa:</em></strong> <em>Analise o bloco acima, descreva o conteúdo de cada objeto criado e explique o propósito de cada função usada. Registre suas observações no arquivo <code>main.R</code>, reproduzindo as operações acima.</em></p>
+
+</div>
+<div class="footnotes">
+<hr />
+<ol start="6">
+<li id="fn6"><p>O editor de comandos do RStudio destaca as palavras reservadas em azul para facilitar sua identificação. Busque pelo termo <em>reserved</em> no painel de ajuda do RStudio para conhecer todas as palavras reservadas da linguagem R.<a href="funções-e-objetos.html#fnref6" class="footnote-back">↩︎</a></p></li>
+<li id="fn7"><p>Como diria John Chambers, tudo o que “acontece” no R acontece pela ação de uma função.<a href="funções-e-objetos.html#fnref7" class="footnote-back">↩︎</a></p></li>
+<li id="fn8"><p>Como diria John Chambers, tudo o que “existe” no R é um objeto.<a href="funções-e-objetos.html#fnref8" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="operações-matemáticas.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="estatísticas-descritivas.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["introducao-ao-r.pdf", "introducao-ao-r.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
