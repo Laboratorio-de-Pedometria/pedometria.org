@@ -1,0 +1,44 @@
+# Funções e objetos
+
+A gramática da linguagem R possui dois elementos principais: as palavras reservadas e as palavras-chave. As ___palavras reservadas___ constituem signos com significado especial para a linguagem. Elas não podem ser utilizadas para outros fins que não aqueles especificados internamente no R. Algumas dessas palavras reservadas são `if`, `else`, `while`, `TRUE` e `FALSE`[^reserved].
+
+[^reserved]: O editor de comandos do RStudio destaca as palavras reservadas em azul para facilitar sua identificação. Busque pelo termo _reserved_ no painel de ajuda do RStudio para conhecer todas as palavras reservadas da linguagem R.
+
+As ___palavras-chave___ são aquelas utilizadas para identificar funções e objetos. ___Funções___ nada mais são do que operações matemáticas e lógicas[^funcao]. Assim, as palavras-chave que identificam funções são aquelas que acionam tais operações. São elas que possibilitam, por exemplo, enviar ao R o comando para que realize determinada análise estatística de determinado conjunto de dados. A maioria das operações utilizadas na análise de dados já está definida na linguagem do R, como é o caso de `log`, `sqrt`, `sum`, `prod`, `diff`, `abs`, `cos`, `tan`, `det`, `exp`, `max`, `min`, `mean`, `median`, entre muitas outras.
+
+[^funcao]: Como diria John Chambers, tudo o que "acontece" no R acontece pela ação de uma função.
+
+***
+___Tarefa:___ _A aba de ajuda do RStudio possui, em seu canto superior direito, uma caixa de busca. Digite a primeira letra de seu nome e selecione, na lista suspensa que aparecer, uma função que lhe chamar a atenção. Qual é a operação matemática ou lógica realizada por essa função?_
+
+***
+
+Para acessar uma função no R, precisamos especificar seu nome e os dados que serão processados na pela operação matemática ou lógica que ela identifica. Esses dados são sempre especificados entre dois parênteses que seguem o nome da função. Por exemplo, para calcular a raiz quadrada de 25, precisamos especificar que a função usada é `sqrt` e o valor numérico a ser operado é 25.
+
+```{r}
+x <- 25
+y <- sqrt(x)
+print(y)
+```
+
+O bloco acima apresenta outro elemento importante do R: os objetos. Um ___objeto___ nada mais é do que uma estrutura de dados[^objeto]. Essas estruturas de dados podem ser vetores, matrizes, listas, entre muitas outras. Elas são inseridas ou criadas pelo próprio usuário ou produzidas como resultado do processamento dos dados. No exemplo anterior, temos dois objetos cujos nomes são `x` e `y`. O objeto `x` armazena o valor numérico 25, enquanto o resultado da operação raiz quadrada é armazenado no objeto `y`. Para vermos o conteúdo do objeto `y`, basta usar a função `print`.
+
+[^objeto]: Como diria John Chambers, tudo o que "existe" no R é um objeto.
+
+***
+___Tarefa:___ _Pelo teorema de Pitágoras, o comprimento da hipotenusa de um triângulo retângulo pode ser calculado em função do comprimento de seus catetos. Calcule o comprimento da hipotenusa de um triângulo retângulo cujos catetos possuem medidas b = 3 e c = 4. Registre as operações no arquivo `main.R` usando objetos para armazenar os valores numéricos._
+
+***
+
+Um tipo de objeto bastante útil na análise de dados é o vetor, ou seja, uma sequência de dados de mesmo tipo. Por exemplo, um vetor pode ser usado para armazenar os dados sobre os meses do ano, tanto no formato numérico, como no formato textual. Quando dois vetores possuem o mesmo comprimeiro e seus elementos possuem relação direta, podemos reunir os mesmos em uma matriz ou tabela. Com a função `str` podemos conhecer a estrutura de um objeto, o que nos ajuda a decidir como usar o mesmo nas análises subsequentes.
+
+```{r}
+numero <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)
+nome <- c("Jan", "Fev", "Mar", "Abr", "Mai", "Jun",
+          "Jul", "Ago", "Set", "Out", "Nov", "Dez")
+meses <- data.frame(numero, nome)
+str(meses)
+```
+
+***
+___Tarefa:___ _Analise o bloco acima, descreva o conteúdo de cada objeto criado e explique o propósito de cada função usada. Registre suas observações no arquivo `main.R`, reproduzindo as operações acima._

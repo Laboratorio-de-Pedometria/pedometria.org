@@ -1,0 +1,21 @@
+# Estatísticas descritivas
+
+```{r}
+dados <- read.table(file = "data/iris.csv", dec = ",", header = TRUE)
+str(dados)
+```
+
+```{r}
+summary(dados)
+```
+
+```{r}
+r <- cor(dados[, c("Sepal.Length", "Sepal.Width", "Petal.Length", "Petal.Width")])
+print(r)
+```
+
+```{r, eval=FALSE}
+r <- round(r, 2)
+write.table(r, file = "res/tab/correlacao.csv", dec = ",")
+```
+

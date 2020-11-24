@@ -1,0 +1,33 @@
+# Diretório de arquivos
+
+Um dos passos mais importatantes de qualquer projeto é a criação de uma estrutura racional de diretórios de arquivos. Isso pode ser feito diretamente a partir do RStudio. Para isso, basta acessar _File_ > _New Project..._ > _New Directory_ > _New Project_. Na janela que abrir, são definidos o nome do diretório que armazenará os arquivos do projeto[^nome] e o local do sistema de arquivos do computador onde esse diretório ficará localizado. Feito isso, o RStudio será reinicializado e o painel inferior direito (aba _Files_) mostrará o interior do diretório que acabou de ser criado.
+
+[^nome]: Deve ser dada preferência a um nome curto e fácil de lembrar e relacionar com o escopo do projeto (mnemônico). Além disso, devem ser utilizadas apenas letras minúsculas e sem acentuação, substituindo os espaços por traços. Isso facilitará a gestão programática dos arquivos do projeto.
+
+A seguinte estrutura de diretórios de arquivos deve ser criada no interior do diretório recém criado:
+
+```
+nome-do-projeto
+|- code/
+|- data/
+|- docs/
+|- res/
+|  |- fig/
+|  |- tab/
+|- tmp/
+|- README.md
+```
+
+São cinco subdiretórios, cada um deles com o propósito de armazenar arquivos com conteúdos específicos:
+
+* `code`: roteiros de análise de dados escritos usando a linguagem R.
+* `data`: dados das variáveis que serão estudadas no projeto.
+* `docs`: documentos de texto relacionados ao projeto.
+* `res`: resultados do projeto exportados como figuras e tabelas—figuras podem ser armazenadas no subdiretório `fig`, enquanto o subdiretório `tab` pode ser usado para armazenar tabelas.
+* `tmp`: arquivos temporários irrelevantes.
+
+Diretórios podem ser criados diretamente no painel inferior direito do RStudio. Para isso, basta acessar _New Folder_ e definir o nome do diretório desejado conforme listado acima.
+
+O próximo passo é criar um arquivo com a descrição do projeto. Isso é importante para garantir que, da próxima vez que você visitar esse diretório de arquivos, não tenha que depender inteiramente da sua memória. O arquivo `README.md` tem essa finalidade. Para criar esse arquivo, acesse _File_ > _New File_ e selecione a opção _Markdown File_. O arquivo que abrir no painel superior esquerdo do RStudio deve ser salvo na raiz do diretório do projeto usando o nome `README.md` acessando _File_ > _Save As..._. Depois disso, registre no `README.md` informações essenciais do projeto como nome, equipe participante e data de início. O arquivo `README.md` também pode ser usado para descrever o conteúdo de cada um dos subdiretórios do projeto. Ao longo do desenvolvimento do projeto, ele será bastante útil para anotas as decisões tomadas e resumir os resultados alcançados.
+
+Para concluir a construção da estrutura do diretório de arquivos, precisamos criar apenas mais um arquivo, agora no interior do diretório `code`. Esse arquivo será usado para redigir e armazenar o roteiro de análise de dados usando a linguagem R. Para criar esse arquivo, acesse _File_ > _New File_ e selecione a opção _R Script_. Salve o arquivo que abrir no painel superior esquerdo do RStudio acessando _File_ > _Save As..._—você pode atribuir um nome curto como `main.R`.

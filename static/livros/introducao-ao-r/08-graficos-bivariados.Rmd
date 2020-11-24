@@ -1,0 +1,22 @@
+# Gráficos bivariados
+
+```{r}
+dados <- read.table("data/iris.csv", dec = ",", header = TRUE)
+str(dados)
+```
+
+```{r, fig.asp=1}
+plot(dados[, c("Sepal.Length", "Petal.Length")])
+```
+
+
+```{r, fig.asp=1}
+plot(dados[, c("Sepal.Length", "Petal.Length")],
+     xlab = "Comprimento da sépala (cm)",
+     ylab = "Comprimento da pétala (cm)",
+     xlim = c(1, 8), ylim = c(1, 8), pch = 20,
+     panel.first = grid(), col = dados[, "Species"])
+abline(a = 0, b = 1, col = "red", lty = "dashed")
+legend(x = 1, y = 8, legend = levels(dados[, "Species"]), 
+       col = 1:3, pch = 20, )
+```

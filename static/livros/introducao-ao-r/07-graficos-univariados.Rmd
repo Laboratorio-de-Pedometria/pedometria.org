@@ -1,0 +1,37 @@
+# Gráficos univariados
+
+```{r}
+dados <- read.table(file = "data/iris.csv", dec = ",", header = TRUE)
+str(dados)
+```
+
+```{r, fig.asp=1}
+hist(dados[, "Sepal.Length"])
+```
+
+***
+___Tarefa.___ _No painel inferior direito do RStudio, acesse a aba _Packages_ e encontre o pacote chamado `graphics`. Navegue pelo índice de funções do pacote `graphics` e escolha a função gráfica que mais chamar a sua atenção. Descreva o propósito dessa função e tente replicar os exemplos mostrados em sua página de ajuda._
+
+***
+
+```{r, fig.asp=1}
+hist(dados[, "Sepal.Length"],
+     main = "Histograma",
+     xlab = "Comprimento da sépala (cm)",
+     ylab = "Frequência absoluta",
+     col = "gray")
+rug(dados[, "Sepal.Length"], col = "red")
+```
+
+```{r, eval=FALSE, fig.asp=1}
+dev.off()
+png("res/fig/histograma.png")
+hist(dados[, "Sepal.Length"],
+     main = "Histograma",
+     xlab = "Comprimento da sépala (cm)",
+     ylab = "Frequência absoluta",
+     panel.first = grid(),
+     col = "gray")
+rug(dados[, "Sepal.Length"], col = "red")
+dev.off()
+```

@@ -1,0 +1,35 @@
+# Operações matemáticas
+
+Vamos fazer algumas operações matemáticas para nos familiarizar com o R. Inicie copiando e colando a linha de comando abaixo no console do R localizado no painel superior direito do RStudio. Em seguida, pressione a tecla _Enter_.
+
+```{r, eval=FALSE}
+# Operações matemáticas no R: soma
+2 + 3
+```
+
+O console do R deve ter retornado o valor `5` como resultado da operação realizada. Agora realize a operação de subtração `2 - 3`. O valor retornado pelo console do R deve ser `-1`[^espacamento].
+
+[^espacamento]: O espaçamento entre número e operador matemático não tem importância do ponto de vista da operação matemática. Contudo, do ponto de vista estético, para facilitar a leitura dos comandos, costuma-se usar a formatação com espaços `2 + 3` em vez de `2+3`.
+
+Os símbolos da linguagem R para realizar as operações matemáticas básicas são os mesmos encontrados em qualquer calculadora científica: `+` para adição, `*` para multiplização, `/` para divisão e `-` para subtração. São também os mesmos símbolos utilizados em planilhas eletrônicas de edição de dados. Isso significa que podemos deduzir algumas coisas sobre o funcionamento do R a partir daquilo que conhecemos de outras ferramentas dedicadas à análise e manipulação de dados.
+
+***
+___Tarefa:___ _Realize todas as quatro operações matemáticas fundamentais utilizando diferentes valores para conhecer melhor o funcionamento básico do R. Registre essas operações no arquivo `main.R`, inserindo comentários textuais sobre cada uma delas._
+
+***
+
+Um elemento importante presente no bloco acima é o comentário precedido pelo símbolo `#` (cerquilha). Na linguagem R, a cerquilha tem o papel de indicar o início de um comentário textual que serve de instrução à pessoa que está escrevendo ou lendo o roteiro de análise do dados. Esses comentários podem ser incluídos, tanto em uma linha própria do roteiro, como na mesma linha após um comando, mas nunca antes de um comando. A inclusão de comentários textuais ao logo do roteiro serve para documentarmos a atividade que estamos realizando. Isso permite que outros, e nós mesmos, algumas semanas ou meses mais tarde, possamos entender o propósito de cada uma das linhas de comando redigidas.
+
+O bloco abaixo apresenta mais algumas operações matemáticas.
+
+```{r, eval=FALSE}
+2^2      # Potenciação (ou exponenciação)
+log(4)   # Função logarítmica
+sqrt(25) # Raiz quadrada
+```
+
+
+As duas últimas operações apresentadas no bloco acima são representadas por identificadores, especificamente, as "palavras" `log` e `sqrt`, seguidas por dois parênteses contendo um valor numérico em seu interior. As expressões `log()` e `sqrt()` identificam funções do R, nesse caso, as funções logarítmica e raiz quadrada.
+
+***
+___Tarefa:___ _Identifique as funções do R utilizadas para realizar as operações de soma, multiplicação e subtração. Registre essas funções no arquivo `main.R`, inserindo comentários textuais sobre cada uma delas._
