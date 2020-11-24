@@ -8,7 +8,7 @@ weight: 2
 title: Introdução ao R para análise de dados e construção de gráficos
 date: "2020-11-23"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 # type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -35,4 +35,4 @@ Minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes s
 
 ## Material de apoio
 
-* Samuel-Rosa, A. Introdução ao R para análise de dados e construção de gráficos. Santa Helena, PR: Universidade Tecnológica Federal do Paraná. 2020. URL: https://www.pedometria.org/livro/introducao-ao-r
+* Samuel-Rosa, A. Introdução ao R para análise de dados e construção de gráficos. Santa Helena, PR: Universidade Tecnológica Federal do Paraná. 2020. URL: https://www.pedometria.org/livros/introducao-ao-r/_book/
