@@ -2,10 +2,6 @@
 
 _Alessandro Samuel-Rosa_[^alessandro], _Wenceslau Geraldes Teixeira_[^wenceslau], _João Herbert Moreira Viana_[^joao-herbert]
 
-[^alessandro]: Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil. E-mail: alessandrorosa@utfpr.edu.br.
-[^wenceslau]: Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Solos, Rua Jardim Botânico, 1024, CEP 22460-000, Rio de Janeiro, Rio de Janeiro, Brasil. E-mail: wenceslau.teixeira@embrapa.br.
-[^joao-herbert]: Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Milho e Sorgo, Rodovia MG-424, Km 45, CEP 35701-970, Sete Lagoas, Minas Gerais, Brasil. E-mail: joao.herbert@embrapa.br.
-
 ## Conceitos e definições
 
 A densidade do solo, também chamada erroneamente de densidade aparente ou densidade global, é uma medida da massa seca de todo o material contido em determinado volume de solo. Esse material inclui todas as frações dos componentes de origem mineral e orgânica do solo. No FEBR, a densidade do solo é definida, operacionalmente, como densidade do solo inteiro (DSI), e seu código de identificação é `dsi`. No World Soil Information Service (WoSIS), a densidade do solo inteiro é denominada *bulk density whole soil*, e seu código de identificação é BDWS.
@@ -22,7 +18,7 @@ A DSI pode ser determinada utilizando uma variedade de métodos diretos e indire
 
 Dentre os métodos diretos, `dsi_cilindro` e `dsi_torrao` são os mais utilizados quando o material do solo é coletado tentando se preservar a estrutura do solo. Também costumam ser os mais utilizados quando o solo é composto, em sua quase totalidade, pela fração fina (> 2 mm) e, no caso de `dsi_torrao`, quando há predomínio da fração argila. Já o método `dsi_proveta` aplica-se mais aos casos em que há dominância da fração areia ou quando se pretende fazer estimativas da DSI usando apenas a fração fina do solo. Por fim, os métodos `dsi_monolito` e `dsi_escavacao` são mais usados quando há predomínio das frações grossas (> 2 mm), que impossibilitam ou dificultam sobremaneira a inserção de cilindros no solo ou coleta de torrões com estrutura preservada. As mesmas dificuldades são encontradas em solo com expressivo volume de raízes de grande diâmetro e elevado conteúdo de matéria orgânica, como em florestas, onde o método `dsi_escavacao` é o mais usado.
 
-## Fontes adicionais de variação
+## Fontes de variação
 
 Cada um dos métodos diretos de determinação da DSI apontados acima abrange uma variedade de detalhes metodológicos que podem exercer pequenas influências sobre os resultados obtidos. Por exemplo, no caso do `dsi_cilindro`, há chance de influência do método utilizado para inserção do cilindro no solo, que pode ser por percussão com martelo ou por pressão com prensa hidráulica. Em geral, espera-se que o método da percussão com martelo cause maior compactação e estilhaçamento da amostra, especialmente quando o cilindro usado é muito pequeno [@CasanovaEtAl2016]. A compactação da amostra também pode ocorrer quando os cilindros usados não possuem corte em bisel na face inserida no solo. Por outro lado, espera-se que, quanto mais finas as paredes do cilindro, menor seja a compactação da amostra.
 

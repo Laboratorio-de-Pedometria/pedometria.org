@@ -1,8 +1,6 @@
 # Cor do Solo
 
-_Alessandro Samuel-Rosa_[^alessandro]
-
-[^alessandro]: Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil. E-mail: alessandrorosa@utfpr.edu.br.
+_Alessandro Samuel-Rosa_[^alessandro], _Taciara Zborowski Horst-Heinen_[^taciara]
 
 ## Conceitos e definições
 
@@ -10,7 +8,9 @@ A __cor do solo__ é uma qualidade relativa à percepção visual que seres huma
 
 A luz visível corresponde aos comprimentos de onda entre cerca de 400 e 700 nm. Essa porção do espectro eletromagnético é popularmente conhecida como espectro óptico ou espectro do visível. Se ignorarmos os principais fatores intervenientes como imperfeições do olho ou cérebro do observador, condições do ambiente circunvizinho, intensidade da luz, e ângulo de incidência e visada, a cor do solo resulta da repartição diferencial dos comprimentos de onda da luz visível incidente entre os fenômenos de absorção, transmissão e reflexão. Essa repartição diferencial é fruto da maneira como os vários constituíntes do solo interagem com a radiação eletromagnética. É a radiação presente nos comprimentos de onda do visível (fótons) que deixam a superfície do solo em maior quantidade, por reflexão ou, inclusive, emissão, que ditam a cor do solo.
 
-## Fontes adicionais de variação
+## Métodos de determinação
+
+## Fontes de variação
 
 ## Padronização
 
