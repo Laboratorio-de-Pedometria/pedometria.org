@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo</title>
+  <meta name="description" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://www.pedometria.org/livros/gestao-dados-solo/" />
+  
+  <meta property="og:description" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="github-repo" content="samuel-rosa/pedometria.org" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
+  
+  <meta name="twitter:description" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
+  
+
+<meta name="author" content="Alessandro Samuel-Rosa" />
+
+
+<meta name="date" content="2020-11-25" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="variáveis-espectrais.html"/>
+<link rel="next" href="referências.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Manual de Gestão de Dados de Recursos do Solo</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Prefácio</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introdução</a></li>
+<li class="chapter" data-level="" data-path="variáveis-morfológicas.html"><a href="variáveis-morfológicas.html"><i class="fa fa-check"></i>Variáveis Morfológicas</a></li>
+<li class="chapter" data-level="2" data-path="cor-do-solo.html"><a href="cor-do-solo.html"><i class="fa fa-check"></i><b>2</b> Cor do Solo</a><ul>
+<li class="chapter" data-level="2.1" data-path="cor-do-solo.html"><a href="cor-do-solo.html#conceitos-e-definições"><i class="fa fa-check"></i><b>2.1</b> Conceitos e definições</a></li>
+<li class="chapter" data-level="2.2" data-path="cor-do-solo.html"><a href="cor-do-solo.html#métodos-de-determinação"><i class="fa fa-check"></i><b>2.2</b> Métodos de determinação</a></li>
+<li class="chapter" data-level="2.3" data-path="cor-do-solo.html"><a href="cor-do-solo.html#fontes-de-variação"><i class="fa fa-check"></i><b>2.3</b> Fontes de variação</a></li>
+<li class="chapter" data-level="2.4" data-path="cor-do-solo.html"><a href="cor-do-solo.html#padronização"><i class="fa fa-check"></i><b>2.4</b> Padronização</a></li>
+<li class="chapter" data-level="2.5" data-path="cor-do-solo.html"><a href="cor-do-solo.html#exemplo"><i class="fa fa-check"></i><b>2.5</b> Exemplo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="variáveis-físicas.html"><a href="variáveis-físicas.html"><i class="fa fa-check"></i>Variáveis Físicas</a></li>
+<li class="chapter" data-level="3" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html"><i class="fa fa-check"></i><b>3</b> Densidade do Solo Inteiro</a><ul>
+<li class="chapter" data-level="3.1" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#conceitos-e-definições-1"><i class="fa fa-check"></i><b>3.1</b> Conceitos e definições</a></li>
+<li class="chapter" data-level="3.2" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#métodos-de-determinação-1"><i class="fa fa-check"></i><b>3.2</b> Métodos de determinação</a></li>
+<li class="chapter" data-level="3.3" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#fontes-de-variação-1"><i class="fa fa-check"></i><b>3.3</b> Fontes de variação</a></li>
+<li class="chapter" data-level="3.4" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#padronização-1"><i class="fa fa-check"></i><b>3.4</b> Padronização</a></li>
+<li class="chapter" data-level="3.5" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#harmonização"><i class="fa fa-check"></i><b>3.5</b> Harmonização</a></li>
+<li class="chapter" data-level="" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#agradecimentos"><i class="fa fa-check"></i>Agradecimentos</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="variáveis-espectrais.html"><a href="variáveis-espectrais.html"><i class="fa fa-check"></i>Variáveis Espectrais</a></li>
+<li class="chapter" data-level="4" data-path="reflectância.html"><a href="reflectância.html"><i class="fa fa-check"></i><b>4</b> Reflectância</a><ul>
+<li class="chapter" data-level="4.1" data-path="reflectância.html"><a href="reflectância.html#conceitos-e-definições-2"><i class="fa fa-check"></i><b>4.1</b> Conceitos e definições</a></li>
+<li class="chapter" data-level="4.2" data-path="reflectância.html"><a href="reflectância.html#métodos-de-determinação-2"><i class="fa fa-check"></i><b>4.2</b> Métodos de determinação</a></li>
+<li class="chapter" data-level="4.3" data-path="reflectância.html"><a href="reflectância.html#padronização-2"><i class="fa fa-check"></i><b>4.3</b> Padronização</a></li>
+<li class="chapter" data-level="4.4" data-path="reflectância.html"><a href="reflectância.html#harmonização-1"><i class="fa fa-check"></i><b>4.4</b> Harmonização</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i>Referências</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Manual de Gestão de Dados de Recursos do Solo</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="reflectância" class="section level1">
+<h1><span class="header-section-number">Capítulo 4</span> Reflectância</h1>
+<p><em>Taciara Zborowski Horst-Heinen</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a>, <em>Alessandro Samuel-Rosa</em><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a></p>
+<div id="conceitos-e-definições-2" class="section level2">
+<h2><span class="header-section-number">4.1</span> Conceitos e definições</h2>
+</div>
+<div id="métodos-de-determinação-2" class="section level2">
+<h2><span class="header-section-number">4.2</span> Métodos de determinação</h2>
+<p><span class="citation">(Viscarra Rossel et al. <a href="#ref-ViscarraRosselEtAl2016" role="doc-biblioref">2016</a>)</span></p>
+</div>
+<div id="padronização-2" class="section level2">
+<h2><span class="header-section-number">4.3</span> Padronização</h2>
+<p>W350…W2500Wavebands in nanometers at which reflectance values are given in the database <span class="citation">(ICRAF and ISRIC <a href="#ref-ICRAFEtAl2010" role="doc-biblioref">2010</a>)</span>.</p>
+<table>
+<colgroup>
+<col width="8%" />
+<col width="91%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">campo_id</th>
+<th align="left">campo_descricao</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><code>reflectancia_seco_lab</code></td>
+<td align="left">Reflectância da fração terra fina seca ao ar (&lt; 2 mm) [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente controlado de laboratório [<code>lab</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
+</tr>
+<tr class="even">
+<td align="left"><code>reflectancia_umido_lab</code></td>
+<td align="left">Reflectância da fração terra fina seca ao ar (&lt; 2 mm) [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente controlado de laboratório [<code>lab</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
+</tr>
+<tr class="odd">
+<td align="left"><code>reflectancia_umido_movel</code></td>
+<td align="left">Reflectância do material do solo [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente de campo utilizando equipemanto sensor móvel [<code>movel</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
+</tr>
+<tr class="even">
+<td align="left"><code>reflectancia_umido_estatico</code></td>
+<td align="left">Reflectância do material do solo [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente de campo utilizando equipemanto sensor estático [<code>estatico</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="harmonização-1" class="section level2">
+<h2><span class="header-section-number">4.4</span> Harmonização</h2>
+
+</div>
+</div>
+<h3>Referências</h3>
+<div id="refs" class="references">
+<div id="ref-ICRAFEtAl2010">
+<p>ICRAF, and ISRIC. 2010. “A Globally Distributed Soil Spectral Library Visible Near Infrared Diffuse Reflectance Spectra.” Nairobi, Kenya: World Agroforestry Centre (ICRAF).</p>
+</div>
+<div id="ref-ViscarraRosselEtAl2016">
+<p>Viscarra Rossel, R. A., T. Behrens, E. Ben-Dor, D. J. Brown, J. A. M. Demattê, K. D. Shepherd, Z. Shi, et al. 2016. “A Global Spectral Library to Characterize the World’s Soil.” <em>Earth-Science Reviews</em> 155: 198–230. <a href="https://doi.org/10.1016/j.earscirev.2016.01.012">https://doi.org/10.1016/j.earscirev.2016.01.012</a>.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="6">
+<li id="fn6"><p>Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.<a href="reflectância.html#fnref6" class="footnote-back">↩︎</a></p></li>
+<li id="fn7"><p>Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="reflectância.html#fnref7" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="variáveis-espectrais.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="referências.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/gestao-dados-solo/0401-reflectancia.Rmd",
+"text": "Editar"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": "https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/gestao-dados-solo/0401-reflectancia.Rmd",
+"text": null
+},
+"download": ["gestao-dados-solo.pdf", "gestao-dados-solo.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
