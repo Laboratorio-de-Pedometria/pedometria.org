@@ -19,7 +19,7 @@ graph TB
   DADOS --> ORGANICO{"Há uma<br>seção, superficial ou<br>subsuperficial, em que<br>C<sub>org</sub> ≥ 80 g kg<sup>-1</sup>?"}
 
   ORGANICO -->|TRUE| VEGETAL{"O C<sub>org</sub> provém<br>de acumulações<br>naturais de resíduos<br>vegetais?"}
-  ORGANICO -->|FALSE| DELGADO{"A espessura<br>da porção mineral<br>superficial do solo<br>é ≥ 10 cm?"}
+  ORGANICO -->|FALSE| DELGADO{"A espessura<br>da seção mineral<br>superficial do solo<br>é ≥ 10 cm?"}
 
   VEGETAL -->|TRUE| O_LITICO{"A seção<br>orgânica está<br>assentada sobre<br>rocha?"}
   VEGETAL -->|FALSE| SUPERFICIE{"A seção<br>rica em C<sub>org</sub><br>está à superfície<br>do solo?"}
@@ -60,11 +60,11 @@ graph TB
   SAPROLITO -->|TRUE| REGOLITO75{"A espessura<br>do regolito é<br>< 75 cm?"}
   SAPROLITO -->|FALSE| SOLUM75{"A espessura<br>do <em>solum</em> é<br>< 75 cm?"}
 
-  REGOLITO75 -->|TRUE| 33REGOLITO{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br>regolito?"}
+  REGOLITO75 -->|TRUE| 33REGOLITO{"A espessura<br>da seção mineral<br>superficial é ≥ 1/3<br>da espessura do<br>regolito?"}
   REGOLITO75 -->|FALSE| C6
 
-  SOLUM75 -->|TRUE| 33SOLUM{"A espessura<br>da porção mineral<br>superficial é ≥ 1/3<br>da espessura do<br><em>solum</em>?"}
-  SOLUM75 -->|FALSE| 25CM{"A espessura<br>da porção mineral<br>superficial é<br>≥ 25 cm?"}
+  SOLUM75 -->|TRUE| 33SOLUM{"A espessura<br>da seção mineral<br>superficial é ≥ 1/3<br>da espessura do<br><em>solum</em>?"}
+  SOLUM75 -->|FALSE| 25CM{"A espessura<br>da seção mineral<br>superficial é<br>≥ 25 cm?"}
 
   33REGOLITO -->|TRUE| C6
   33REGOLITO -->|FALSE| 20CM{"A espessura<br>da seção é<br>≥ 20 cm?"}
