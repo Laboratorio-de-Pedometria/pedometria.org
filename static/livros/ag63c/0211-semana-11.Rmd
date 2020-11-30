@@ -1,8 +1,20 @@
-# S11 Relação solo-paisagem
+# Semana 11
 
-## Paluno—Dúvidas da semana (50 min)
+Relação solo-paisagem
 
-## Questionário IX—SiBCS: horizontes diagnósticos (30 min)
+## Dúvidas da semana
+
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não
+
+## Questionário IX
+
+SiBCS: horizontes diagnósticos (30 min)
 <!-- A atividade está sendo repetida pois a grande maioria dos alunos não participou da primeira edição. -->
 
 Para responder ao questionário desta semana, você deve seguir os passos abaixo:
@@ -28,7 +40,9 @@ Caminho percorrido ao longo do fluxograma:
 4. ...
 ```
 
-## Wikipedon—Cooperar com pares na produção de conteúdo digital (20 min)
+## Wikipedon
+
+Cooperar com pares na produção de conteúdo digital (20 min)
 
 A [produção colaborativa][colabora] do conhecimento sobre os recursos do solo e da terra é uma das maneiras mais eficientes de garantir sua qualidade. Nessa nova fase do Wikipedon, alguns editores deixaram de lado (temporariamente) o artigo em que estavam trabalhando para colaborar na produção do artigo que você está editando. Eles analisaram o conteúdo compilado e fizeram sugestões sobre como entendem que a qualidade do artigo pode ser melhorada. Agora você tem a tarefa de **ponderar** sobre as sugestões desses editores, **implementando** aquelas que julgar pertinente.
 
@@ -39,11 +53,13 @@ Ao final da semana, você deve apresentar um parecer sobre as sugestões dos edi
 [colabora]: https://pt.wikipedia.org/wiki/Produ%C3%A7%C3%A3o_colaborativa
 [citacao]: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
 
-## Encontro—Relações entre Recursos do Solo e da Terra (50 min)
+## Encontro
+
+Relações entre Recursos do Solo e da Terra (50 min)
 
 ## Recursos adicionais
 
-### Material sobre página de discussão de artigos da Wikipédia
+Material sobre página de discussão de artigos da Wikipédia
 
 * [Usando a página de discussão](https://commons.wikimedia.org/w/index.php?title=File%3AUsando_a_p%C3%A1gina_de_discuss%C3%A3o.ogv)
 * [Wikipédia: Página de discussão](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_discuss%C3%A3o)

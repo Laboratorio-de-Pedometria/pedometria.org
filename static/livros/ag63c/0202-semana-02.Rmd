@@ -1,8 +1,20 @@
-# S02 Dados e informações usados na classificação de solos
+# Semana 02
 
-## Encontro—Dúvidas da semana (Paluno, 50 min)
+Dados e informações usados na classificação de solos
 
-## Leitura—Manual Técnico de Pedologia (37 min)
+## Dúvidas da semana
+
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não
+
+## Leitura
+
+Manual Técnico de Pedologia (37 min)
 
 <!-- Descrição -->
 
@@ -12,7 +24,9 @@ A leitura obrigatória desta semana traz a seção _1.2.2 Principais determinaç
 
 Boa leitura e até breve!
 
-## Questionário—Dados para classificação de solos (10 min)
+## Questionário
+
+Dados para classificação de solos (10 min)
 
 <!-- Descrição -->
 
@@ -22,7 +36,9 @@ Você não precisa se preocupar com o fato de ainda não cursado disciplinas que
 
 Bom trabalho e até breve!
 
-## Fórum I—Fontes de dados e informações do solo (20 min)
+## Fórum I
+
+Fontes de dados e informações do solo (20 min)
 
 <!-- Duração: de 3 semanas -->
 
@@ -36,7 +52,9 @@ Lembre-se de que você precisa interagir com seus colegas, pelo menos, uma vez p
 
 Bom trabalho e até breve!
 
-## Encontro—Organização de informações de recursos do solo e da terra (50 min)
+## Encontro
+
+Organização de informações de recursos do solo e da terra (50 min)
 
 <!-- Descrição -->
 
@@ -44,7 +62,9 @@ O objetivo dessa disciplina é que você chegue ao final dela sendo capaz de org
 
 Em nosso segundo encontro, vamos conversar sobre como organizar informações de recursos do solo e da terra para publicação na Wikipédia. Vamos abordar tópicos como as páginas de teste e o editor de texto da Wikipédia. Veremos também como o WMF Outreach Dashboard nos auxiliará na organização do trabalho em grupo. Enquanto nosso encontro não chega, você pode ir se familiarizando com a [edição de projetos wiki](https://pt.wikiversity.org/wiki/Ajuda:Como_editar_em_um_projeto_Wiki) e conhecer mais sobre o uso da [Wikipédia na educação](https://pt.wikiversity.org/wiki/Oficinas_Wikimedia_%26_Educa%C3%A7%C3%A3o).
 
-## Wikipedon—Formação dos grupos de trabalho (10 min)
+## Wikipedon
+
+Formação dos grupos de trabalho (10 min)
 <!-- URL externa -->
 https://outreachdashboard.wmflabs.org/courses/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1/Wikipedon_2020-02_(2020)
 

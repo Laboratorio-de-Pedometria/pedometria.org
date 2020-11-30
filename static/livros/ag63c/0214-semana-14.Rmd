@@ -1,3 +1,33 @@
-# S14
+# Semana 14
 
-## Paluno—Dúvidas da semana (50 min)
+## Dúvidas da semana
+
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não
+
+## Wikipedon
+
+* Informações gerais
+  * Local: Wikipédia
+  * Horário: atividade assíncrona
+  * Duração prevista: 30 min
+  * Gravação: não se aplica
+
+## Fórum
+
+Produzir informações detalhadas e atualizadas sobre os recursos do solo de determinada região geográfica pode se revelar uma tarefa bastante difícil. Diversos fatores contribuem para que encontremos dificuldades para cumprir essa tarefa, algumas mais fáceis de contornar do que outras. Por isso, é fundamental compartilhar nossas experiências com outros profissionais, sejam elas de fracasso ou de sucesso.
+
+Nesta semana, você deve refletir sobre as dificuldades encontradas ao longo do desenvolvimento das atividades do projeto Wikipedon. A partir de suas reflexões, **elabore uma lista com sugestões para os alunos que participarão do projeto Wikipedon no próximo período letivo**. As sugestões devem ter como propósito auxiliar na minimização de riscos e facilitar a resolução dos problemas que esses alunos encontrarão.[^sugestoes]
+
+[^sugestoes]: **Dica para o professor.** As sugestões serão compiladas e compartilhadas com os alunos do próximo período letivo. Os propósitos dessa atividade são múltiplos. Busca-se evidenciar para os alunos que sua atuação profissional possui continuidade. Também busca-se evidenciar que o compartilhamento de experiências, positivas e negativas, é importante para a atuação de outros profissionais. Isso deve ajudar a fortalecer o senso de trabalho colaborativo.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: atividade assíncrona
+  * Duração prevista: 10 min
+  * Gravação: não se aplica

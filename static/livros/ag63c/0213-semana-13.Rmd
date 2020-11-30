@@ -1,3 +1,11 @@
-# S13
+# Semana 13
 
-## Paluno—Dúvidas da semana (50 min)
+## Dúvidas da semana
+
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não

@@ -1,6 +1,10 @@
-# S01 Início das atividades
+# Semana 01
 
-## Encontro—Planejamento de atividades (50 min)
+Início das atividades
+
+## Encontro
+
+Planejamento de atividades (50 min)
 
 <!-- Descrição -->
 
@@ -16,7 +20,9 @@ __NOTA 2:__ Não se preocupe caso não consiga participar do encontro síncrono.
 
 __NOTA 3:__ O encontro será realizado em sala virtual do Moodle, utilizando o _plugin_ BibBlueButtonBN e a infraestrutura da [Rede Nacional de Ensino e Pesquisa](https://pt.wikipedia.org/wiki/Rede_Nacional_de_Ensino_e_Pesquisa) (RNP). A sala virtual será aberta às 10 h e 55 min. Para acessar, basta pressionar no título dessa atividade logo acima.
 
-## Questionário—Gênese e morfologia do solo (10 min)
+## Questionário
+
+Gênese e morfologia do solo (10 min)
 
 O questionário desta semana faz parte da primeira avaliação individual da disciplina AG63C Classificação de Solos. O objetivo é aferir seu conhecimento sobre gênese e morfologia do solo. São 10 questões a serem respondidas em até 10 minutos. Algumas dessas questões vão exigir menos de você do que outras. Assim, você tem, em média, um minuto para responder a cada questão. Caso seu desempenho não seja satisfatório, você dispõe de mais duas tentativas para melhorar sua nota. A cada tentativa, outras 10 novas questões, selecionadas aleatoriamente de um banco de questões, lhe serão apresentadas. A nota final será a média aritmética de todas as suas tentativas.
 

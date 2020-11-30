@@ -1,6 +1,14 @@
-# S12
+# Semana 12
 
-## Paluno: Dúvidas da semana (50 min)
+## Dúvidas da semana
+
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não
 
 ## Wikipedon
 
@@ -12,6 +20,8 @@ O cumprimento da tarefa será aferido utilizando o registro do histórico de edi
 
 * Duração estimada: 40 min
 
-## Encontro: Relações entre Recursos do Solo e da Terra
+## Encontro
+
+Relações entre Recursos do Solo e da Terra
 
 A atividade prática da semana passada será repetida pelo fato de aquela não ter ficado gravada e disponível para os estudantes que não puderam participar.

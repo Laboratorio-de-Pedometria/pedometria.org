@@ -1,4 +1,6 @@
-# S07 SiBCS: horizontes diagnósticos superficiais
+# Semana 07
+
+SiBCS: horizontes diagnósticos superficiais
 
 Nesta semana, você conhecerá ainda mais sobre os _horizontes diagnósticos superficiais_, um elemento muito importante do funcionamento do Sistema Brasileiro de Classificação de Solos ([SiBCS](https://www.embrapa.br/en/solos/sibcs)). Ao final da semana, espera-se que você seja capaz de __aplicar__ o SiBCS para identificação de horizontes diagnósticos em perfis do solo.
 
@@ -6,16 +8,30 @@ Na semana passada, você e seus colegas de trabalho deram continuidade ao contat
 
 Se você tiver dúvidas sobre como proceder, comece procurando por respostas na página do projeto [Wikipedon](https://pt.wikiversity.org/wiki/Wikipedon). Você também pode participar de nosso encontro para resolução das dúvidas da semana (veja abaixo) ou deixar uma mensagem no [fórum de dúvidas](https://moodle.utfpr.edu.br/mod/forum/view.php?id=573329).
 
-## Encontro—Dúvidas da semana (Paluno, 50 min)
+## Dúvidas da semana
 
-## Questionário—SiBCS: atributos diagnósticos (25 min)
+Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
+
+* Informações gerais
+  * Local: Moodle
+  * Horário: 11:00–11:50
+  * Duração prevista: 50 min
+  * Gravação: não
+
+## Questionário
+
+SiBCS: atributos diagnósticos (25 min)
 
 IMPORTANTE: Ao final do questionário, você terá que comprovar que realizou os cálculos para avaliação dos atributos diagnósticos do perfil de solo simulado. Você poderá carregar uma imagem, uma planilha ou qualquer outro arquivo que julgar pertinente.
 
-## Wikipedon—Compilar (novos) dados e informações encontrados (20 min)
+## Wikipedon
+
+Compilar (novos) dados e informações encontrados (20 min)
 <!-- Avaliar evolução do material na página de rascunho de teste -->
 
-## Fórum II—Fontes de dados e informações do solo revisitadas (30 min)
+## Fórum II
+
+Fontes de dados e informações do solo revisitadas (30 min)
 <!-- Entrega: uma semana -->
 <!-- Limite: duas semanas -->
 
@@ -31,11 +47,13 @@ Neste segundo fórum, você tem as seguintes tarefas:
 1. Analisar, criticamente, suas postagens e de seus colegas, considerando as experiências práticas das últimas semanas;
 1. Publicar uma postagem com seu entendimento atual sobre as estratégias mais eficientes para encontrar fontes confiáveis de dados e informações de recursos do solo e da terra de determinada região geográfica.
 
-## Encontro—SiBCS: horizontes diagnósticos I (50 min)
+## Encontro
+
+SiBCS: horizontes diagnósticos I (50 min)
 <!-- Aula prática -->
 
 ## Recursos adicionais
 
-### Aula sobre horizontes diagnósticos superficiais (UFSM) (9 min)
+Aula sobre horizontes diagnósticos superficiais (UFSM) (9 min)
 
 https://youtu.be/LYrOGzAt8dY
