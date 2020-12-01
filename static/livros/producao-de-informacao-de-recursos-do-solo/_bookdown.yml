@@ -1,4 +1,5 @@
 book_filename: "producao-de-informacao-de-recursos-do-solo"
+output_dir: "laranja"
 delete_merged_file: true
 config:
   label:
