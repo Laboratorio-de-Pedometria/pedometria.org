@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Produção de Informação do Solo</a></li>
+        <li><a href="./">Produção de Informação de Recursos do Solo</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a></li>
     download: ["pdf", "epub"]
@@ -16,4 +16,3 @@ bookdown::pdf_book:
   latex_engine: pdflatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default

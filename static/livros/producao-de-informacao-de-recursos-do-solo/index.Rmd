@@ -1,13 +1,15 @@
 ---
 title: "Produção de Informação de Recursos do Solo"
+subtitle: "Suporte ao processo de ensino e aprendizagem"
 author: "Alessandro Samuel-Rosa"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 github-repo: "samuel-rosa/pedometria.org"
 url: https\://www.pedometria.org/livros/ag63c/_book/
-description: "Material de suporte à disciplina AG63C Classificação do Solo do curso de Agronomia da Universidade Tecnológica Federal do Paraná, câmpus Santa Helena."
+description: "Material de suporte ao processo de ensino e aprendizagem na disciplina AG63C Classificação do Solo do curso de Agronomia da Universidade Tecnológica Federal do Paraná, câmpus Santa Helena."
 # LaTeX
 documentclass: tufte-book
+indent: false
 classoption:
   - dvipsnames
 papersize: a4

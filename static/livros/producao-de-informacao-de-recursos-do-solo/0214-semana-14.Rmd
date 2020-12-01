@@ -2,27 +2,35 @@
 
 ## Dúvidas da semana
 
-Local  | Horário     | Duração | Gravação
------- | ----------- |-------- |---------
-Moodle | 11:00–11:50 | 50 min  | Não
+**Atividade**: atendimento  
+**Local**: Moodle  
+**Data**: 2020-12-01  
+**Horário**: 11:00–11:50  
+**Duração prevista**: 50 min  
+**Gravação**: não
 
 Você tem dúvidas sobre as atividades da semana anterior? Quer saber mais sobre as atividades que terá que desenvolver na semana que está iniciando? Participe de nosso encontro semanal de resolução de dúvidas. Você também pode deixar uma mensagem no Fórum de Dúvidas e Sugestões.
 
 ## Wikipedon
 
-Local     | Horário              | Duração | Gravação
---------- | -------------------- |-------- |--------------
-Wikipédia | Atividade assíncrona | 30 min  | Não se aplica
+**Atividade**: projeto  
+**Local**: Wikipédia  
+**Data**: atividade assíncrona  
+**Horário**: atividade assíncrona  
+**Duração prevista**: 30 min  
+**Gravação**: não se aplica  
 
-## Fórum
+## Legado para futuros estudantes
 
-* **Local**: Moodle
-* **Horário**: Atividade assíncrona
-* **Duração prevista**: 10 min
-* **Gravação**: Não se aplica
+**Atividade**: fórum  
+**Local**: Moodle  
+**Data**: atividade assíncrona  
+**Horário**: atividade assíncrona  
+**Duração prevista**: 10 min  
+**Gravação**: não se aplica  
 
 Produzir informações sobre os recursos do solo de determinada região geográfica pode se revelar uma tarefa bastante difícil. Diversos fatores contribuem para que encontremos dificuldades no cumprimento dessa tarefa. Algumas dessas dificuldades são mais fáceis de contornar do que outras. Em geral, quanto mais bem informados estivermos ao iniciar uma tarefa, maiores serão as chances de termos sucesso. Por isso, é fundamental compartilhar nossas experiências com outros profissionais, sejam elas de sucesso ou de fracasso.
 
-Nesta semana, você deve refletir sobre as dificuldades que encontrou, ao longo do período letivo, para desenvolver as atividades do Wikipedon. A partir de suas reflexões, **elabore uma lista com, pelo menos, três sugestões operacionais para os alunos que participarão do projeto Wikipedon no próximo período letivo**. As sugestões devem ter como propósito auxiliar na minimização de riscos e facilitar a resolução dos problemas que esses alunos encontrarão. Suas sugestões e de seus colegas serão compiladas e compartilhadas com os estudantes da turma do próximo período letivo logo na primeira aula.[^sugestoes]
+Nesta semana, você deve refletir sobre as dificuldades que encontrou, ao longo do período letivo, para desenvolver as atividades do Wikipedon. A partir de suas reflexões, **elabore uma lista com, pelo menos, três sugestões operacionais para os estudantes que participarão do projeto Wikipedon no próximo período letivo**. As sugestões devem ter como propósito auxiliar na minimização de riscos e facilitar a resolução dos problemas que esses alunos encontrarão. Suas sugestões e de seus colegas serão compiladas e compartilhadas com os estudantes da turma do próximo período letivo logo na primeira aula.[^sugestoes]
 
 [^sugestoes]: **Dica para o professor.** Esta atividade tem dois objetivos. O primeiro deles consiste em compilar sugestões do estudantes que possam servir de base realizar melhorias operacionais no Wikipedon. O segundo, e mais importante, é que os estudantes compreendam que sua participação no Wikipedon não se encerra aqui. Além das informações produzidas sobre os recursos do solo, eles deixam importante legado ao compartilhar as experiências vividas. Essas experiências servirão de base para os estudantes que darão continuidade às atividades do Wikipedon nos próximos períodos letivos. Isso deve fortalecer seu senso de responsabilidade e comprometimento no desenvolvimento de atividades acadêmicas e profissionais.
