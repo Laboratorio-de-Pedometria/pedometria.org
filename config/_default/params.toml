@@ -162,7 +162,8 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "Esta obra está licenciada sob uma licença {license}"}
+# copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = '<img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /> Exceto quando proveniente de outras fontes<br/>ou onde especificado o contrário,<br/>o conteúdo desta página está licenciado<br/>sob uma licença {license}.'}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width: 0; display: inline-block;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/></a> Exceto quando proveniente de outras fontes ou onde especificado o contrário,<br/>o conteúdo desta página está licenciado sob uma licença<br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.'}
 
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = true
