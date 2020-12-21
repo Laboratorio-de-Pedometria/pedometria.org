@@ -41,7 +41,7 @@ categories:
 
 date: 2020-12-21T10:13:08-03:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
@@ -92,9 +92,10 @@ A definição do tamanho do cilindro é importante pois está relacionada ao vol
 
 Diferentes dos demais métodos, `densidade_torrao` e `densidade_monolito` incluem a impermeabilização das amostras. Esse procedimento pode ser feito usando diferentes compostos, tais como parafina, verniz ou querosene. Apesar das diferenças entre esses compostos, espera-se que o uso de diferentes impermeabilizantes tenha efeito muitíssimo pequeno, se algum, sobre os resultados de DSI obtidos. O mesmo pode ser esperado para o caso do `densidade_escavacao`, método em que podem ser utilizados diferentes materiais para preenchimento da escavação, por exemplo, areia ou água.
 
-Um detalhe metodológico de grande importância na determinação da DSI é a umidade da amostra do solo no momento da quantificação da sua massa e volume. Na maioria dos casos, esses valores são obtidos com a amostra seca. Contudo, para as amostras de alguns tipos de solo, o que se faz é equilibrar as amostras em determinado potencial, geralmente 1/3 atm ou 33 kPa, que corresponde ao que se convencionou chamar de ponto de murcha permanente em muitos países. Esse procedimento se justifica nos casos de solos com presença de argilas expansivas em quantidade suficiente para causar aumento perceptível do volume da massa de solo, como no caso dos solos com características vérticas e Vertissolos. Na determinação da DSI desses solos, o volume e massa da amostra são quantificados nesta umidade controlada [^@MathieuEtAl1998].
+Um detalhe metodológico de grande importância na determinação da DSI é a umidade da amostra do solo no momento da quantificação da sua massa e volume. Na maioria dos casos, esses valores são obtidos com a amostra seca. Contudo, para as amostras de alguns tipos de solo, o que se faz é equilibrar as amostras em determinado potencial, geralmente 1/3 atm ou 33 kPa, que corresponde ao que se convencionou chamar de capacidade de campo. Esse procedimento se justifica nos casos de solos com presença de argilas expansivas em quantidade suficiente para causar aumento perceptível do volume da massa de solo, como no caso dos solos com características vérticas e Vertissolos. Na determinação da DSI desses solos, o volume e massa da amostra são quantificados nesta umidade controlada [^@MathieuEtAl1998] [^GrossmanEtAl2002].
 
 [^@MathieuEtAl1998]: C. Mathieu e F. Pieltain, Analyse physique des sols: méthodes choisies. Paris: Lavoisier, 1998, p. 275.
+[^GrossmanEtAl2002]: R. B. Grossman e T. G. Reinsch, “2.1 Bulk Density and Linear Extensibility”, in SSSA Book Series, J. H. Dane e G. Clarke Topp, Orgs. Madison, WI, USA: Soil Science Society of America, 2002, p. 201–228 [Online]. Disponível em: http://doi.wiley.com/10.2136/sssabookser5.4.c9.
 
 Dentre todos os detalhes metodológicos mencionados acima, a condição de umidade da amostra de solo no momento da quantificação da massa e volume é aquele com maior potencial de exercer influências sobre os resultados obtidos. Para a maioria das outras fontes adicionais de variação nos resultados, os trabalhos de comparação, quando existentes, são de difícil acesso. No FEBR, ainda não foram registrados conjuntos de dados em que a determinação da DSI tenha sido realizada com amostras úmidas, razão pela qual não se faz necessário definir codificação adicional. Contudo, caso dados dessa natureza sejam submetidos ao FEBR, a codificação poderá ser definida, em seu terceiro nível, pela condição da amostra no momento da quantificação da massa e volume – por exemplo, `estufa`, `ar`, `campo`, `33kpa`, entre outras. Esse procedimento estaria em acordo com aqueles adotados no World Soil Information System (WoSIS) [^@RibeiroEtAl2018].
 
@@ -102,11 +103,11 @@ Dentre todos os detalhes metodológicos mencionados acima, a condição de umida
 
 ## Padronização
 
-A Tabela 1 apresenta os códigos padronizados utilizados no FEBR para identificar cada um dos métodos de determinação da DSI. Também apresenta uma descrição mínima sugerida para cada um desses métodos, ou seja, um roteiro padronizado para especificação dos detalhes mais importantes de cada método. Detalhes adicionais dos métodos podem ser especificados conforme indicado pelo texto em caixa alta entre chaves.
+A Tabela 1 apresenta os códigos padronizados utilizados no FEBR para identificar cada um dos métodos de determinação da densidade do solo inteiro e da fração terra fina. Também apresenta uma descrição mínima sugerida para cada um desses métodos, ou seja, um roteiro padronizado para especificação dos detalhes mais importantes de cada método. Detalhes adicionais dos métodos podem ser especificados conforme indicado pelo texto em caixa alta entre chaves.
 
 <table>
   <caption  style="caption-side:top">
-    Tabela 1. Codificação e descrição mínima sugerida da densidade do solo inteiro no FEBR.
+    Tabela 1. Codificação e descrição mínima sugerida da densidade do solo inteiro e da fração terra fina no FEBR.
   </caption>
   <!-- Fonte: https://gist.github.com/jfreels/6814721 -->
   <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
@@ -115,7 +116,11 @@ A Tabela 1 apresenta os códigos padronizados utilizados no FEBR para identifica
       function (data) {
         var columns = ['campo_id', 'campo_descricao']
         // Fonte: https://stackoverflow.com/a/20199496/3365410
-        data = data.filter(function(d) { return d.campo_id.match("^densidade_") })
+        data = data.filter(
+          function(d) {
+            return d.campo_id.match("(?=^densidade_)(?=^((?!aliquota).)*$)(?=^((?!particula).)*$)")
+          }
+        )
         tabulate(data, columns)
       }
     )
