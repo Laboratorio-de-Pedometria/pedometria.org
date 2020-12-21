@@ -1,0 +1,121 @@
+---
+title: "Wikipedon"
+subtitle: "7ª Oficina Wikimedia & Educação"
+author: "Alessandro Samuel-Rosa [alessandrorosa@utfpr.edu.br]"
+date: "2020-12-16"
+output:
+  ioslides_presentation:
+    logo: logo.png
+    widescreen: true
+    css: styles.css
+bibliography: biblio.bib
+colorlinks: true
+nocite: |
+  @bibtexkey
+---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+    $('slide:not(.title-slide, .backdrop, .segue)').append('<footer></footer>');
+    $('footer').attr('label', 'Produção de conteúdo sobre recursos do solo e da terra');
+  })
+</script>
+
+```{r, echo=FALSE, include=FALSE}
+source('helper.R')
+```
+
+# Contexto
+
+## {.columns-2}
+
+2020
+
+* Implantação do curso
+* Construção do projeto pedagógico de curso
+* Inclusão de disciplinas de humanidades
+* __Inclusão de atividades de extensão__
+* __Atividades didáticas não presenciais__
+
+```{r, out.width="450px"}
+img("img/agronomia.png")
+```
+
+## {.columns-2}
+
+Global Soil Partnership
+
+1. Soil management
+2. __Awareness raising__
+3. Research
+4. information & data
+4. Harmonization
+
+_Pillar 2: Encourage investment, technical cooperation, policy, education, awareness and extension in soil_
+
+http://www.fao.org/global-soil-partnership/
+
+```{r, out.width="450px"}
+img("img/gsp.jpeg")
+```
+
+## {.columns-2}
+
+Conteúdo sobre recursos do solo e da terra na Wikipédia
+
+* Exemplo: Mariana, MG
+* https://pt.wikipedia.org/wiki/Mariana
+
+```{r, out.width="450px"}
+img("img/mariana.png")
+```
+
+# Wikipedon
+
+## {.columns-2}
+
+Pedon
+
+* A menor unidade ou volume de solo que contém todas os horizontes e camadas de um tipo particular de solo
+* Geralmente possui área superficial de um metro quadrado
+* Se extende da superfície do terreno até a rocha subjascente
+
+```{r, out.width="350px", fig.cap="[@BradyEtAl2008]"}
+img("img/pedon.jpeg")
+```
+
+---
+
+AG63C Classificação do Solo
+
+Após a conclusão bem sucedida dessa disciplina, espera-se que os discentes saibam __organizar__ informações sobre o meio físico de extensões territoriais rurais, em especial a cobertura pedológica, selecionando variáveis, materiais e ferramentas que se apliquem ao contexto analisado, demonstrando atitude cooperativa e com comunicação efetiva.
+
+* __encontrar__ fontes confiáveis de informação do meio físico
+* __sumariar__ informações encontradas
+* __reportar__ relações existentes entre variáveis selecionadas
+* __produzir__ conteúdo digital sobre classificação de solos e terras para comunicação
+
+## {.columns-2}
+
+__Tarefa:__ Organizar informações sobre recursos do solo e da terra de minicípios brasileiros
+
+* Geografia
+  * Clima
+  * Geologia
+  * Relevo
+  * Hidrografia
+  * Vegetação
+  * Solo
+  
+```{r, out.width="450px", fig.cap="https://bdiaweb.ibge.gov.br"}
+img("img/bdia.png")
+```
+
+## Veja de perto!
+
+* https://pt.wikiversity.org/wiki/Wikipedon
+
+# Bibliografia
+
+## Bibliografia {.tiny}
