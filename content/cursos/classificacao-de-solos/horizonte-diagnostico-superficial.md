@@ -25,7 +25,7 @@ graph TB
   VEGETAL -->|FALSE| SUPERFICIE{"A seção<br>rica em C<sub>org</sub><br>está à superfície<br>do solo?"}
 
   O_LITICO -->|TRUE| 10CM{"Sua espessura<br>é ≥ 10 cm?"}
-  O_LITICO -->|FALSE| O_FRAGMENTARIO{"A seção<br>orgânica está<br>assentada sobre<br>camada fragmetária?"}
+  O_LITICO -->|FALSE| O_FRAGMENTARIO{"A seção<br>orgânica está<br>assentada sobre<br>camada fragmentária?"}
 
   O_FRAGMENTARIO -->|TRUE| 10CM
   O_FRAGMENTARIO -->|FALSE| CASCALHO{"A seção<br>orgânica está<br>assentada sobre seção<br>com ≥ 90% do volume de<br>fração mineral<br>grossa?"}
