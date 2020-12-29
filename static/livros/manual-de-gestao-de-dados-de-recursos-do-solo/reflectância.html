@@ -10,10 +10,10 @@
 
   <meta property="og:title" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
   <meta property="og:type" content="book" />
-  <meta property="og:url" content="https://www.pedometria.org/livros/gestao-dados-solo/" />
+  <meta property="og:url" content="https://www.pedometria.org/livros/manual-de-gestao-de-dados-de-recursos-do-solo/" />
   
   <meta property="og:description" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
-  <meta name="github-repo" content="samuel-rosa/pedometria.org" />
+  <meta name="github-repo" content="samuel-rosa/verde" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Capítulo 4 Reflectância | Manual de Gestão de Dados de Recursos do Solo" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Alessandro Samuel-Rosa" />
 
 
-<meta name="date" content="2020-11-25" />
+<meta name="date" content="2020-12-29" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -81,13 +81,13 @@
 <li class="chapter" data-level="2.5" data-path="cor-do-solo.html"><a href="cor-do-solo.html#exemplo"><i class="fa fa-check"></i><b>2.5</b> Exemplo</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="variáveis-físicas.html"><a href="variáveis-físicas.html"><i class="fa fa-check"></i>Variáveis Físicas</a></li>
-<li class="chapter" data-level="3" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html"><i class="fa fa-check"></i><b>3</b> Densidade do Solo Inteiro</a><ul>
-<li class="chapter" data-level="3.1" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#conceitos-e-definições-1"><i class="fa fa-check"></i><b>3.1</b> Conceitos e definições</a></li>
-<li class="chapter" data-level="3.2" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#métodos-de-determinação-1"><i class="fa fa-check"></i><b>3.2</b> Métodos de determinação</a></li>
-<li class="chapter" data-level="3.3" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#fontes-de-variação-1"><i class="fa fa-check"></i><b>3.3</b> Fontes de variação</a></li>
-<li class="chapter" data-level="3.4" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#padronização-1"><i class="fa fa-check"></i><b>3.4</b> Padronização</a></li>
-<li class="chapter" data-level="3.5" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#harmonização"><i class="fa fa-check"></i><b>3.5</b> Harmonização</a></li>
-<li class="chapter" data-level="" data-path="densidade-do-solo-inteiro.html"><a href="densidade-do-solo-inteiro.html#agradecimentos"><i class="fa fa-check"></i>Agradecimentos</a></li>
+<li class="chapter" data-level="3" data-path="densidade.html"><a href="densidade.html"><i class="fa fa-check"></i><b>3</b> Densidade</a><ul>
+<li class="chapter" data-level="3.1" data-path="densidade.html"><a href="densidade.html#conceitos-e-definições-1"><i class="fa fa-check"></i><b>3.1</b> Conceitos e definições</a></li>
+<li class="chapter" data-level="3.2" data-path="densidade.html"><a href="densidade.html#métodos-de-determinação-1"><i class="fa fa-check"></i><b>3.2</b> Métodos de determinação</a></li>
+<li class="chapter" data-level="3.3" data-path="densidade.html"><a href="densidade.html#fontes-de-variação-1"><i class="fa fa-check"></i><b>3.3</b> Fontes de variação</a></li>
+<li class="chapter" data-level="3.4" data-path="densidade.html"><a href="densidade.html#padronização-1"><i class="fa fa-check"></i><b>3.4</b> Padronização</a></li>
+<li class="chapter" data-level="3.5" data-path="densidade.html"><a href="densidade.html#harmonização"><i class="fa fa-check"></i><b>3.5</b> Harmonização</a></li>
+<li class="chapter" data-level="3.6" data-path="densidade.html"><a href="densidade.html#agradecimentos"><i class="fa fa-check"></i><b>3.6</b> Agradecimentos</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="variáveis-espectrais.html"><a href="variáveis-espectrais.html"><i class="fa fa-check"></i>Variáveis Espectrais</a></li>
 <li class="chapter" data-level="4" data-path="reflectância.html"><a href="reflectância.html"><i class="fa fa-check"></i><b>4</b> Reflectância</a><ul>
@@ -98,7 +98,9 @@
 </ul></li>
 <li class="chapter" data-level="" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i>Referências</a></li>
 <li class="divider"></li>
-<li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a></li>
+<li>
+  <a href="https://github.com/rstudio/bookdown" target="blank">Publicado com bookdown</a>
+</li>
 
 </ul>
 
@@ -119,17 +121,17 @@
             <section class="normal" id="section-">
 <div id="reflectância" class="section level1">
 <h1><span class="header-section-number">Capítulo 4</span> Reflectância</h1>
-<p><em>Taciara Zborowski Horst-Heinen</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a>, <em>Alessandro Samuel-Rosa</em><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a></p>
+<p><em>Taciara Zborowski Horst-Heinen</em><a href="#fn13" class="footnote-ref" id="fnref13"><sup>13</sup></a>, <em>Alessandro Samuel-Rosa</em><a href="#fn14" class="footnote-ref" id="fnref14"><sup>14</sup></a></p>
 <div id="conceitos-e-definições-2" class="section level2">
 <h2><span class="header-section-number">4.1</span> Conceitos e definições</h2>
 </div>
 <div id="métodos-de-determinação-2" class="section level2">
 <h2><span class="header-section-number">4.2</span> Métodos de determinação</h2>
-<p><span class="citation">(Viscarra Rossel et al. <a href="#ref-ViscarraRosselEtAl2016" role="doc-biblioref">2016</a>)</span></p>
+<p><span class="citation"><a href="#fn15" class="footnote-ref" id="fnref15"><sup>15</sup></a></span></p>
 </div>
 <div id="padronização-2" class="section level2">
 <h2><span class="header-section-number">4.3</span> Padronização</h2>
-<p>W350…W2500Wavebands in nanometers at which reflectance values are given in the database <span class="citation">(ICRAF and ISRIC <a href="#ref-ICRAFEtAl2010" role="doc-biblioref">2010</a>)</span>.</p>
+<p>W350…W2500Wavebands in nanometers at which reflectance values are given in the database.<span class="citation"><a href="#fn16" class="footnote-ref" id="fnref16"><sup>16</sup></a></span></p>
 <table>
 <colgroup>
 <col width="8%" />
@@ -151,12 +153,12 @@
 <td align="left">Reflectância da fração terra fina seca ao ar (&lt; 2 mm) [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente controlado de laboratório [<code>lab</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
 </tr>
 <tr class="odd">
-<td align="left"><code>reflectancia_umido_movel</code></td>
-<td align="left">Reflectância do material do solo [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente de campo utilizando equipemanto sensor móvel [<code>movel</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
-</tr>
-<tr class="even">
 <td align="left"><code>reflectancia_umido_estatico</code></td>
 <td align="left">Reflectância do material do solo [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente de campo utilizando equipemanto sensor estático [<code>estatico</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
+</tr>
+<tr class="even">
+<td align="left"><code>reflectancia_umido_movel</code></td>
+<td align="left">Reflectância do material do solo [<code>reflectancia</code>]. Determinação em amostra em estado de umidade seco [<code>seco</code>]. Quantificada em ambiente de campo utilizando equipemanto sensor móvel [<code>movel</code>]. {ESPECIFICAR A RESOLUÇÃO ESPECTRAL} {ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO} {INDICAR REFERÊNCIA DO MÉTODO}</td>
 </tr>
 </tbody>
 </table>
@@ -166,21 +168,19 @@
 
 </div>
 </div>
-<h3>Referências</h3>
-<div id="refs" class="references">
-<div id="ref-ICRAFEtAl2010">
-<p>ICRAF, and ISRIC. 2010. “A Globally Distributed Soil Spectral Library Visible Near Infrared Diffuse Reflectance Spectra.” Nairobi, Kenya: World Agroforestry Centre (ICRAF).</p>
-</div>
-<div id="ref-ViscarraRosselEtAl2016">
-<p>Viscarra Rossel, R. A., T. Behrens, E. Ben-Dor, D. J. Brown, J. A. M. Demattê, K. D. Shepherd, Z. Shi, et al. 2016. “A Global Spectral Library to Characterize the World’s Soil.” <em>Earth-Science Reviews</em> 155: 198–230. <a href="https://doi.org/10.1016/j.earscirev.2016.01.012">https://doi.org/10.1016/j.earscirev.2016.01.012</a>.</p>
-</div>
-</div>
 <div class="footnotes">
 <hr />
-<ol start="6">
-<li id="fn6"><p>Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.<a href="reflectância.html#fnref6" class="footnote-back">↩︎</a></p></li>
-<li id="fn7"><p>Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="reflectância.html#fnref7" class="footnote-back">↩︎</a></p></li>
+<ol start="13">
+<li id="fn13"><p>MSc. Taciara Zborowski Horst-Heinen é pesquisadora na Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.<a href="reflectância.html#fnref13" class="footnote-back">↩︎</a></p></li>
+<li id="fn14"><p>Dr. Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="reflectância.html#fnref14" class="footnote-back">↩︎</a></p></li>
+<li id="fn15"><p>R. A. Viscarra Rossel et al., “A Global Spectral Library to Characterize the World’s Soil,” <em>Earth-Science Reviews</em> 155 (2016): 198–230, <a href="https://doi.org/10.1016/j.earscirev.2016.01.012" role="doc-biblioref">https://doi.org/10.1016/j.earscirev.2016.01.012</a>.<a href="reflectância.html#fnref15" class="footnote-back">↩︎</a></p></li>
+<li id="fn16"><p>ICRAF and ISRIC, “A Globally Distributed Soil Spectral Library Visible Near Infrared Diffuse Reflectance Spectra” (Nairobi, Kenya: World Agroforestry Centre (ICRAF), 2010).<a href="reflectância.html#fnref16" class="footnote-back">↩︎</a></p></li>
 </ol>
+</div>
+<!DOCTYPE HTML>
+<hr>
+<div>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Exceto quando proveniente de outras fontes ou onde especificado o contrário, o conteúdo desta página está licenciado sob uma licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 </div>
             </section>
 
@@ -219,7 +219,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/gestao-dados-solo/0401-reflectancia.Rmd",
+"link": "https://github.com/samuel-rosa/verde/edit/master/verde0401-reflectancia.Rmd",
 "text": "Editar"
 },
 "history": {
@@ -227,10 +227,10 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/samuel-rosa/pedometria.org/edit/master/static/livros/gestao-dados-solo/0401-reflectancia.Rmd",
+"link": "https://github.com/samuel-rosa/verde/edit/master/verde0401-reflectancia.Rmd",
 "text": null
 },
-"download": ["gestao-dados-solo.pdf", "gestao-dados-solo.epub"],
+"download": ["manual-de-gestao-de-dados-de-recursos-do-solo.pdf"],
 "toc": {
 "collapse": "subsection"
 }

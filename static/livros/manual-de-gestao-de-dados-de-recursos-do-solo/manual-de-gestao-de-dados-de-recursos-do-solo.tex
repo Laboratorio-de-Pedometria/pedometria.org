@@ -1,9 +1,11 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 %
 \documentclass[
-]{book}
+  a4paper,
+  dvipsnames]{tufte-book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -38,7 +40,11 @@
 \hypersetup{
   pdftitle={Manual de Gestão de Dados de Recursos do Solo},
   pdfauthor={Alessandro Samuel-Rosa},
-  hidelinks,
+  colorlinks=true,
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=Blue,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
@@ -68,17 +74,96 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\usepackage[]{natbib}
-\bibliographystyle{apalike}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+% https://www.ctan.org/pkg/fancyhdr
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[RO]{\textsl{\nouppercase{\rightmark}}}
+\fancyhead[LE]{\textsl{\nouppercase{\leftmark}}}
+\fancyfoot[LE, RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+% http://tug.ctan.org/tex-archive/macros/latex/contrib/tufte-latex/
+\publisher{Universidade Tecnológica Federal do Paraná}
+% https://tex.stackexchange.com/questions/443018/package-inputenc-error-unicode-char-%CC%81-u301inputenc
+% \DeclareUnicodeCharacter{0301}{*************************************}
+% \DeclareUnicodeCharacter{2265}{AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}
+% https://tex.stackexchange.com/questions/473859/subtitle-in-tufte-book
+\makeatletter
+\newcommand{\plainsubtitle}{}%     plain-text-only subtitle
+\newcommand{\subtitle}[1]{%
+  \gdef\@subtitle{#1}%
+  \renewcommand{\plainsubtitle}{#1}% use provided plain-text title
+  \ifthenelse{\isundefined{\hypersetup}}%
+    {}% hyperref is not loaded; do nothing
+    {\hypersetup{pdftitle={\plaintitle: \plainsubtitle{}}}}% set the PDF metadata title
+}
+\renewcommand{\maketitlepage}[0]{%
+  \cleardoublepage%
+  {%
+  \sffamily%
+  \begin{fullwidth}%
+    \fontsize{18}{20}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\thanklessauthor}}%
+    \vspace{11.5pc}%
+    \fontsize{36}{40}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\thanklesstitle}}%
+    \vspace{5pc}%
+    \fontsize{24}{28}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\plainsubtitle}}%
+    \vfill%
+    \fontsize{14}{16}\selectfont\par\noindent\allcaps{\thanklesspublisher}%
+  \end{fullwidth}%
+  }
+  \thispagestyle{empty}%
+  \clearpage%
+}
+\makeatother
+% https://tex.stackexchange.com/questions/77999/remove-indent-of-paragraph-and-add-line-skip-with-tufte-latex/
+\makeatletter
+% Paragraph indentation and separation for normal text
+\renewcommand{\@tufte@reset@par}{%
+  \setlength{\RaggedRightParindent}{0.0pc}%
+  \setlength{\JustifyingParindent}{0.0pc}%
+  \setlength{\parindent}{0pc}%
+  % \setlength{\parskip}{\baselineskip}%
+}
+\@tufte@reset@par
+\pagecolor{Emerald}
 
 \title{Manual de Gestão de Dados de Recursos do Solo}
 \author{Alessandro Samuel-Rosa}
-\date{2020-11-25}
+\date{2020-12-29}
 
 \begin{document}
 \maketitle
 
+\newpage
+\nopagecolor
+\begin{fullwidth}
+~\vfill
+\thispagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\baselineskip}
+
+\par{\smallcaps{Publicado pela Universidade Tecnológica Federal do Paraná, Câmpus Santa Helena}}
+
+\par{
+  Curso de Agronomia/Laboratório de Pedometria\\
+  Prolongamento da Rua Cerejeira, s/n\\
+  Bairro São Luiz\\
+  CEP 85892-000\\
+  Santa Helena - PR - Brasil\\
+  Telefone Geral +55 (45) 3268-8800
+}
+
+\par\smallcaps{www.pedometria.org}
+
+\par\includegraphics[width=1.5cm]{img/cc-by-nc-sa.png} Exceto quando proveniente de outras fontes ou onde especificado o contrário, o conteúdo deste documento está licenciado sob uma licença \href{http://creativecommons.org/licenses/by-nc-sa/4.0/}{Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional}.
+
+\par\textit{Última edição em \today.}
+\end{fullwidth}
+
 {
+\hypersetup{linkcolor=}
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
@@ -96,7 +181,7 @@
 \hypertarget{cor-do-solo}{%
 \chapter{Cor do Solo}\label{cor-do-solo}}
 
-\emph{Alessandro Samuel-Rosa}\footnote{Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}, \emph{Taciara Zborowski Horst-Heinen}\footnote{Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.}
+\emph{Alessandro Samuel-Rosa}\footnote{Dr.~Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}, \emph{Taciara Zborowski Horst-Heinen}\footnote{MSc. Taciara Zborowski Horst-Heinen é pesquisadora na Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.}
 
 \hypertarget{conceitos-e-definiuxe7uxf5es}{%
 \section{Conceitos e definições}\label{conceitos-e-definiuxe7uxf5es}}
@@ -156,7 +241,7 @@ Notação da cor de material de solo {[}\texttt{cor}{]}. Determinada na mancha d
 \hypertarget{exemplo}{%
 \section{Exemplo}\label{exemplo}}
 
-A tabela a seguir apresenta um exemplo de organização tabular de dados de cor da matriz e manchas de um perfil de solo. Os dados são reais e foram obtidos da descrição morfológica de um perfil de solo classificado como Planossolo Nátrico Órtico vertissólico, localizado no município de Pacaraima, Roraima\citep{OliveiraEtAl2018b}. A tabela está transposta, com as observações nas colunas e as variáveis nas linhas, para facilitar a visualização e comparação dos códigos de identificação da cores da matriz e machas do perfil de solo.
+A tabela a seguir apresenta um exemplo de organização tabular de dados de cor da matriz e manchas de um perfil de solo. Os dados são reais e foram obtidos da descrição morfológica de um perfil de solo classificado como Planossolo Nátrico Órtico vertissólico, localizado no município de Pacaraima, Roraima\footnote{Virlei Álvaro de Oliveira et al., ``Capítulo 2. Solos Da Xi Reunião Brasileira de Classificação E Correlação de Solos (Rcc de Roraima),'' in \emph{Guia de Campo Da Xi Reunião Brasileira de Classificação E Correlação de Solos: RCC de Roraima}, First (Brasília, DF: EMBRAPA, 2018), 12--29.}. A tabela está transposta, com as observações nas colunas e as variáveis nas linhas, para facilitar a visualização e comparação dos códigos de identificação da cores da matriz e machas do perfil de solo.
 
 Dentre os oito horizontes, quatro possuem matriz com duas ou mais cores (Btgn, Btgnv1, Btgnv2 e 2Cgn). Nestes, as cores da matriz ocupam áreas superficiais aproximadamente similares, com distribuição espacial muito complexa, que dificulta a identificação visual de uma cor dominante com credibilidade. Trata-se do padrão multicolorido intricado conhecido como variegado.
 
@@ -342,15 +427,15 @@ Btgnv2\strut
 \chapter*{Variáveis Físicas}\label{variuxe1veis-fuxedsicas}}
 \addcontentsline{toc}{chapter}{Variáveis Físicas}
 
-\hypertarget{densidade-do-solo-inteiro}{%
-\chapter{Densidade do Solo Inteiro}\label{densidade-do-solo-inteiro}}
+\hypertarget{densidade}{%
+\chapter{Densidade}\label{densidade}}
 
-\emph{Alessandro Samuel-Rosa}\footnote{Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}, \emph{Wenceslau Geraldes Teixeira}\footnote{Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Solos, Rua Jardim Botânico, 1024, CEP 22460-000, Rio de Janeiro, Rio de Janeiro, Brasil.}, \emph{João Herbert Moreira Viana}\footnote{Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Milho e Sorgo, Rodovia MG-424, Km 45, CEP 35701-970, Sete Lagoas, Minas Gerais, Brasil.}
+\emph{Alessandro Samuel-Rosa}\footnote{Dr.~Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}, \emph{Wenceslau Geraldes Teixeira}\footnote{Dr.~Wenceslau Geraldes Teixeira é pesquisador na Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Solos, Rua Jardim Botânico, 1024, CEP 22460-000, Rio de Janeiro, Rio de Janeiro, Brasil.}, \emph{João Herbert Moreira Viana}\footnote{Dr.~João Herbert Moreira Viana é pesquisador na Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Milho e Sorgo, Rodovia MG-424, Km 45, CEP 35701-970, Sete Lagoas, Minas Gerais, Brasil.}
 
 \hypertarget{conceitos-e-definiuxe7uxf5es-1}{%
 \section{Conceitos e definições}\label{conceitos-e-definiuxe7uxf5es-1}}
 
-A densidade do solo, também chamada erroneamente de densidade aparente ou densidade global, é uma medida da massa seca de todo o material contido em determinado volume de solo. Esse material inclui todas as frações dos componentes de origem mineral e orgânica do solo. No FEBR, a densidade do solo é definida, operacionalmente, como densidade do solo inteiro (DSI), e seu código de identificação é \texttt{dsi}. No World Soil Information Service (WoSIS), a densidade do solo inteiro é denominada \emph{bulk density whole soil}, e seu código de identificação é BDWS.
+A densidade do solo, também chamada erroneamente de densidade aparente ou densidade global, é uma medida da massa seca de todo o material contido em determinado volume de solo. Esse material inclui todas as frações dos componentes de origem mineral e orgânica do solo. No FEBR, a densidade do solo é definida, operacionalmente, como densidade do solo inteiro, e seu código de identificação é \texttt{densidade}. No World Soil Information Service (WoSIS), a densidade do solo inteiro é denominada \emph{bulk density whole soil}, e seu código de identificação é BDWS.
 
 \hypertarget{muxe9todos-de-determinauxe7uxe3o-1}{%
 \section{Métodos de determinação}\label{muxe9todos-de-determinauxe7uxe3o-1}}
@@ -360,99 +445,54 @@ A DSI pode ser determinada utilizando uma variedade de métodos diretos e indire
 \begin{itemize}
 \tightlist
 \item
-  \texttt{dsi\_cilindro},
+  \texttt{densidade\_cilindro},
 \item
-  \texttt{dsi\_torrao},
+  \texttt{densidade\_torrao},
 \item
-  \texttt{dsi\_proveta},
+  \texttt{densidade\_proveta},
 \item
-  \texttt{dsi\_monolito}, e
+  \texttt{densidade\_monolito}, e
 \item
-  \texttt{dsi\_escavacao}.
+  \texttt{densidade\_escavacao}.
 \end{itemize}
 
-Dentre os métodos diretos, \texttt{dsi\_cilindro} e \texttt{dsi\_torrao} são os mais utilizados quando o material do solo é coletado tentando se preservar a estrutura do solo. Também costumam ser os mais utilizados quando o solo é composto, em sua quase totalidade, pela fração fina (\textgreater{} 2 mm) e, no caso de \texttt{dsi\_torrao}, quando há predomínio da fração argila. Já o método \texttt{dsi\_proveta} aplica-se mais aos casos em que há dominância da fração areia ou quando se pretende fazer estimativas da DSI usando apenas a fração fina do solo. Por fim, os métodos \texttt{dsi\_monolito} e \texttt{dsi\_escavacao} são mais usados quando há predomínio das frações grossas (\textgreater{} 2 mm), que impossibilitam ou dificultam sobremaneira a inserção de cilindros no solo ou coleta de torrões com estrutura preservada. As mesmas dificuldades são encontradas em solo com expressivo volume de raízes de grande diâmetro e elevado conteúdo de matéria orgânica, como em florestas, onde o método \texttt{dsi\_escavacao} é o mais usado.
+Dentre os métodos diretos, \texttt{densidade\_cilindro} e \texttt{densidade\_torrao} são os mais utilizados quando o material do solo é coletado tentando se preservar a estrutura do solo. Também costumam ser os mais utilizados quando o solo é composto, em sua quase totalidade, pela fração fina (\textgreater{} 2 mm) e, no caso de \texttt{densidade\_torrao}, quando há predomínio da fração argila. Já o método \texttt{densidade\_proveta} aplica-se mais aos casos em que há dominância da fração areia ou quando se pretende fazer estimativas da DSI usando apenas a fração fina do solo. Por fim, os métodos \texttt{densidade\_monolito} e \texttt{densidade\_escavacao} são mais usados quando há predomínio das frações grossas (\textgreater{} 2 mm), que impossibilitam ou dificultam sobremaneira a inserção de cilindros no solo ou coleta de torrões com estrutura preservada. As mesmas dificuldades são encontradas em solo com expressivo volume de raízes de grande diâmetro e elevado conteúdo de matéria orgânica, como em florestas, onde o método \texttt{densidade\_escavacao} é o mais usado.
 
 \hypertarget{fontes-de-variauxe7uxe3o-1}{%
 \section{Fontes de variação}\label{fontes-de-variauxe7uxe3o-1}}
 
-Cada um dos métodos diretos de determinação da DSI apontados acima abrange uma variedade de detalhes metodológicos que podem exercer pequenas influências sobre os resultados obtidos. Por exemplo, no caso do \texttt{dsi\_cilindro}, há chance de influência do método utilizado para inserção do cilindro no solo, que pode ser por percussão com martelo ou por pressão com prensa hidráulica. Em geral, espera-se que o método da percussão com martelo cause maior compactação e estilhaçamento da amostra, especialmente quando o cilindro usado é muito pequeno \citep{CasanovaEtAl2016}. A compactação da amostra também pode ocorrer quando os cilindros usados não possuem corte em bisel na face inserida no solo. Por outro lado, espera-se que, quanto mais finas as paredes do cilindro, menor seja a compactação da amostra.
+Cada um dos métodos diretos de determinação da DSI apontados acima abrange uma variedade de detalhes metodológicos que podem exercer pequenas influências sobre os resultados obtidos. Por exemplo, no caso do \texttt{densidade\_cilindro}, há chance de influência do método utilizado para inserção do cilindro no solo, que pode ser por percussão com martelo ou por pressão com prensa hidráulica. Em geral, espera-se que o método da percussão com martelo cause maior compactação e estilhaçamento da amostra, especialmente quando o cilindro usado é muito pequeno.\footnote{Manuel Casanova et al., ``Direct Measurement and Prediction of Bulk Density on Alluvial Soils of Central Chile,'' \emph{Chilean Journal of Agricultural Research} 76, no. 1 (March 2016): 105--13, \url{https://doi.org/10.4067/s0718-58392016000100015}.} A compactação da amostra também pode ocorrer quando os cilindros usados não possuem corte em bisel na face inserida no solo. Por outro lado, espera-se que, quanto mais finas as paredes do cilindro, menor seja a compactação da amostra.
 
-Outro detalhe metodológico que pode influenciar os resultados é o tamanho do cilindro \citep{Al-ShammaryEtAl2018, CasanovaEtAl2016}. Boa parte dos estudos usa cilindros de 100 cm3, tamanho recomendado pelo Manual de Métodos de Análise de Solo \citep{AlmeidaEtAl2017}. Contudo, relatos do uso de cilindros de diversos tamanhos são encontrados na literatura, por exemplo, 9,65 cm3 (amostras pequenas usadas em reometria), 30 cm3, 300 cm3, e 1000 cm3 (calibração de sensores de medição do conteúdo de água no solo).
+Outro detalhe metodológico que pode influenciar os resultados é o tamanho do cilindro.\footnote{Ahmed Abed Gatea Al-Shammary et al., ``Soil Bulk Density Estimation Methods: A Review,'' \emph{Pedosphere} 28, no. 4 (August 2018): 581--96, \url{https://doi.org/10.1016/s1002-0160(18)60034-7}; Casanova et al., ``Direct Measurement and Prediction of Bulk Density on Alluvial Soils of Central Chile.''} Boa parte dos estudos usa cilindros de 100 cm3, tamanho recomendado pelo Manual de Métodos de Análise de Solo.\footnote{Brivaldo Gomes de Almeida et al., ``Densidade Do Solo,'' in \emph{Manual de Métodos de Análise de Solo}, ed. Paulo César Teixeira et al. (Brasília: EMBRAPA, 2017), 65--75.} Contudo, relatos do uso de cilindros de diversos tamanhos são encontrados na literatura, por exemplo, 9,65 cm3 (amostras pequenas usadas em reometria), 30 cm3, 300 cm3, e 1000 cm3 (calibração de sensores de medição do conteúdo de água no solo).
 
-A definição do tamanho do cilindro é importante pois está relacionada ao volume elementar representativo (REV, do inglês \emph{representative elementar volume}) de cada tipo de solo. Por exemplo, se há poros muito grandes ou cascalhos e calhaus no sistema, cilindros pequenos não seriam representativos. A questão do REV se aplica também aos demais métodos, principalmente \texttt{dsi\_torrao}, \texttt{dsi\_monolito} e \texttt{dsi\_escavacao}. Especialmente no caso do \texttt{dsi\_monolito} e \texttt{dsi\_escavacao}, que utilizam amostras maiores, a questão da REV seria melhor atendida. Esse já não seria o caso do método \texttt{dsi\_torrao}, onde torrões de tamanhos bastantes variados são usados, mas geralmente menores que 100 m³ devido à dificuldade de se obter agregados estáveis -- especialmente em solo de granulometria mais grossa. Um aspecto importante a ser considerado aqui é que o uso de repetições locais não resolve o problema da REV. Isso porque a função das repetições é quantificar o erro de medida, não resolver variação espacial de curtíssima distância -- no FEBR, repetições são identificada na tabela \emph{camada} usando o campo \texttt{amostra\_id}.
+A definição do tamanho do cilindro é importante pois está relacionada ao volume elementar representativo (REV, do inglês \emph{representative elementar volume}) de cada tipo de solo. Por exemplo, se há poros muito grandes ou cascalhos e calhaus no sistema, cilindros pequenos não seriam representativos. A questão do REV se aplica também aos demais métodos, principalmente \texttt{densidade\_torrao}, \texttt{densidade\_monolito} e \texttt{densidade\_escavacao}. Especialmente no caso do \texttt{densidade\_monolito} e \texttt{densidade\_escavacao}, que utilizam amostras maiores, a questão da REV seria melhor atendida. Esse já não seria o caso do método \texttt{densidade\_torrao}, onde torrões de tamanhos bastantes variados são usados, mas geralmente menores que 100 m³ devido à dificuldade de se obter agregados estáveis -- especialmente em solo de granulometria mais grossa. Um aspecto importante a ser considerado aqui é que o uso de repetições locais não resolve o problema da REV. Isso porque a função das repetições é quantificar o erro de medida, não resolver variação espacial de curtíssima distância -- no FEBR, repetições são identificada na tabela \emph{camada} usando o campo \texttt{amostra\_id}.
 
-Diferentes dos demais métodos, \texttt{dsi\_torrao} e \texttt{dsi\_monolito} incluem a impermeabilização das amostras. Esse procedimento pode ser feito usando diferentes compostos, tais como parafina, verniz ou querosene. Apesar das diferenças entre esses compostos, espera-se que o uso de diferentes impermeabilizantes tenha efeito muitíssimo pequeno, se algum, sobre os resultados de DSI obtidos. O mesmo pode ser esperado para o caso do \texttt{dsi\_escavacao}, método em que podem ser utilizados diferentes materiais para preenchimento da escavação, por exemplo, areia ou água.
+Diferentes dos demais métodos, \texttt{densidade\_torrao} e \texttt{densidade\_monolito} incluem a impermeabilização das amostras. Esse procedimento pode ser feito usando diferentes compostos, tais como parafina, verniz ou querosene. Apesar das diferenças entre esses compostos, espera-se que o uso de diferentes impermeabilizantes tenha efeito muitíssimo pequeno, se algum, sobre os resultados de DSI obtidos. O mesmo pode ser esperado para o caso do \texttt{densidade\_escavacao}, método em que podem ser utilizados diferentes materiais para preenchimento da escavação, por exemplo, areia ou água.
 
-Um detalhe metodológico de grande importância na determinação da DSI é a umidade da amostra do solo no momento da quantificação da sua massa e volume. Na maioria dos casos, esses valores são obtidos com a amostra seca. Contudo, para as amostras de alguns tipos de solo, o que se faz é equilibrar as amostras em determinado potencial, geralmente 1/3 atm ou 33 kPa, que corresponde ao que se convencionou chamar de ponto de murcha permanente em muitos países. Esse procedimento se justifica nos casos de solos com presença de argilas expansivas em quantidade suficiente para causar aumento perceptível do volume da massa de solo, como no caso dos solos com características vérticas e Vertissolos. Na determinação da DSI desses solos, o volume e massa da amostra são quantificados nesta umidade controlada \citep{MathieuEtAl1998}.
+Um detalhe metodológico de grande importância na determinação da DSI é a umidade da amostra do solo no momento da quantificação da sua massa e volume. Na maioria dos casos, esses valores são obtidos com a amostra seca. Contudo, para as amostras de alguns tipos de solo, o que se faz é equilibrar as amostras em determinado potencial, geralmente 1/3 atm ou 33 kPa, que corresponde ao que se convencionou chamar de capacidade de campo. Esse procedimento se justifica nos casos de solos com presença de argilas expansivas em quantidade suficiente para causar aumento perceptível do volume da massa de solo, como no caso dos solos com características vérticas e Vertissolos. Na determinação da DSI desses solos, o volume e massa da amostra são quantificados nesta umidade controlada.\footnote{Clément Mathieu and Françoise Pieltain, \emph{Analyse Physique Des Sols: Méthodes Choisies} (Paris: Lavoisier, 1998); R. B. Grossman and T. G. Reinsch, ``2.1 Bulk Density and Linear Extensibility,'' in \emph{SSSA Book Series}, ed. Jacob H. Dane and G. Clarke Topp (Madison, WI, USA: Soil Science Society of America, 2002), 201--28, \url{https://doi.org/10.2136/sssabookser5.4.c9}.}
 
-Dentre todos os detalhes metodológicos mencionados acima, a condição de umidade da amostra de solo no momento da quantificação da massa e volume é aquele com maior potencial de exercer influências sobre os resultados obtidos. Para a maioria das outras fontes adicionais de variação nos resultados, os trabalhos de comparação, quando existentes, são de difícil acesso. No FEBR, ainda não foram registrados conjuntos de dados em que a determinação da DSI tenha sido realizada com amostras úmidas, razão pela qual não se faz necessário definir codificação adicional. Contudo, caso dados dessa natureza sejam submetidos ao FEBR, a codificação poderá ser definida, em seu terceiro nível, pela condição da amostra no momento da quantificação da massa e volume -- por exemplo, \texttt{estufa}, \texttt{ar}, \texttt{campo}, \texttt{33kpa}, entre outras. Esse procedimento estaria em acordo com aqueles adotados no World Soil Information System (WoSIS) \citep{RibeiroEtAl2018}.
+Dentre todos os detalhes metodológicos mencionados acima, a condição de umidade da amostra de solo no momento da quantificação da massa e volume é aquele com maior potencial de exercer influências sobre os resultados obtidos. Para a maioria das outras fontes adicionais de variação nos resultados, os trabalhos de comparação, quando existentes, são de difícil acesso. No FEBR, ainda não foram registrados conjuntos de dados em que a determinação da DSI tenha sido realizada com amostras úmidas, razão pela qual não se faz necessário definir codificação adicional. Contudo, caso dados dessa natureza sejam submetidos ao FEBR, a codificação poderá ser definida, em seu terceiro nível, pela condição da amostra no momento da quantificação da massa e volume -- por exemplo, \texttt{estufa}, \texttt{ar}, \texttt{campo}, \texttt{33kpa}, entre outras. Esse procedimento estaria em acordo com aqueles adotados no World Soil Information System (WoSIS).\footnote{Eloi Ribeiro, Niels H. Batjes, and A. J. M. van Oostrum, \emph{World Soil Information Service (Wosis) - Towards the Standardization and Harmonization of World Soil Data. Procedures Manual 2018} (Wageningen, The Netherlands: ISRIC World Soil Information, 2018), \url{https://doi.org/10.17027/isric-wdcsoils.20180001}.}
 
 \hypertarget{padronizauxe7uxe3o-1}{%
 \section{Padronização}\label{padronizauxe7uxe3o-1}}
 
-A Tabela 1 apresenta os códigos padronizados utilizados no FEBR para identificar cada um dos métodos de determinação da DSI. Também apresenta uma descrição mínima sugerida para cada um desses métodos, ou seja, um roteiro padronizado para especificação dos detalhes mais importantes de cada método. Detalhes adicionais dos métodos podem ser especificados conforme indicado pelo texto em caixa alta entre chaves.
+A Tabela 1 apresenta os códigos padronizados utilizados no FEBR para identificar cada um dos métodos de determinação da densidade do solo inteiro e da fração terra fina. Também apresenta uma descrição mínima sugerida para cada um desses métodos, ou seja, um roteiro padronizado para especificação dos detalhes mais importantes de cada método. Detalhes adicionais dos métodos podem ser especificados conforme indicado pelo texto em caixa alta entre chaves.
 
-\textbf{Tabela 1.} Codificação e descrição mínima sugerida da densidade do solo inteiro no FEBR.
-
-Campo
-
-Descrição mínima sugerida
-
-dsi\_cilindro
-
-Densidade do solo inteiro {[}dsi{]}. Coleta de amostra do solo com estrutura preservada usando cilindro de volume interno conhecido, com determinação da massa da amostra por pesagem {[}cilindro{]}. \{DESCREVER CILINDRO: DIMENSÕES, FORMA DA FACE\} \{DESCREVER MÉTODO DE INSERÇÃO DO CILINDRO: PERCUSSÃO, MACACO HIDRÁULICO\} \{ESPECIFICAR CONDIÇÃO DE UMIDADE DA AMOSTRA DURANTE DETERMINAÇÃO DA MASSA\} \{INDICAR REFERÊNCIA DO MÉTODO\}
-
-dsi\_torrao
-
-Densidade do solo inteiro {[}dsi{]}. Coleta de amostra do solo (torrão) com estrutura preservada, posteriormente impermeabilizada para determinação do volume pelo deslocamento de líquido, com determinação da massa da amostra por pesagem {[}torrao{]}. \{DESCREVER TORRÃO: DIMENSÕES, FORMA\} \{ESPECIFICAR COMPOSTO IMPERMEABILIZANTE USADO\} \{ESPECIFICAR CONDIÇÃO DE UMIDADE DA AMOSTRA DURANTE DETERMINAÇÃO DA MASSA\} \{INDICAR REFERÊNCIA DO MÉTODO\}
-
-dsi\_proveta
-
-Densidade do solo inteiro {[}dsi{]}. Obtenção da massa por pesagem após compactação da amostra de solo em uma proveta até o volume pré-determinado {[}proveta{]}. \{ESPECIFICAR AS CONDIÇÕES DE COMPACTAÇÃO DA AMOSTRA: MANUAL, VIBRAÇÃO MECÂNICA\} \{INDICAR REFERÊNCIA DO MÉTODO\}
-
-dsi\_monolito
-
-Densidade do solo inteiro {[}dsi{]}. Coleta de amostra do solo (monolito) com estrutura preservada, posteriormente impermeabilizada com resina ou verniz para determinação do volume pelo deslocamento de líquido, com determinação da massa da amostra por pesagem {[}monolito{]}. \{DESCREVER MONOLITO: DIMENSÕES, FORMA\} \{ESPECIFICAR CONDIÇÃO DE UMIDADE DA AMOSTRA DURANTE DETERMINAÇÃO DA MASSA\} \{INDICAR REFERÊNCIA DO MÉTODO\}
-
-dsi\_escavacao
-
-Densidade do solo inteiro {[}dsi{]}. Determinação da massa por pesagem do material da escavação e do volume deixado no solo escavado por meio do preenchimento do espaço vazio por meio de um fluido ou outro material que preenche o espaço {[}escavacao{]}. \{DESCREVER ESCAVAÇÃO: DIMENSÕES, FORMA\} \{ESPECIFICAR CONDIÇÃO DE UMIDADE DA AMOSTRA DURANTE DETERMINAÇÃO DA MASSA\} \{ESPECIFICAR O FLUIDO OU MATERIAL/MÉTODO USADO\} \{INDICAR REFERÊNCIA DO MÉTODO\}
-
-dsi\_xxx
-
-Densidade do solo inteiro {[}dsi{]}. Coleta de amostra do solo e determinação da massa e volume da amostra do solo usando método não especificado {[}xxx{]}.
+Tabela 1. Codificação e descrição mínima sugerida da densidade do solo inteiro e da fração terra fina no FEBR.
 
 A Tabela 2 abaixo apresenta as especificações de unidade de medida, a precisão numérica, tipo de dado, e categoria da variável no FEBR.
 
-\textbf{Tabela 2.} Especificações da densidade do solo inteiro no FEBR.
-
-Unidade de medida
-
-Precisão numérica
-
-Tipo de dado
-
-Categoria da variável
-
-kg/dm\^{}3
-
-2
-
-Real
-
-Física
+Tabela 2. Especificações da densidade do solo inteiro no FEBR.
 
 \hypertarget{harmonizauxe7uxe3o}{%
 \section{Harmonização}\label{harmonizauxe7uxe3o}}
 
 Existe uma grande variedade de métodos de determinação direta da DSI. Cada um deles foi desenvolvido de maneira a permitir a determinação da DSI em diferentes condições, por exemplo, de granulometria e mineralogia do solo. Assim, não existe um único método de referência para a determinação da DSI. Isso significa que, em geral, não é possível transformar os valores obtidos com um método qualquer para valores aproximadamente equivalentes aos valores que seriam obtidos com outro método. Dados empíricos que permitam construir modelos estatísticos para fazer essa conversão são escassos e pouco representativos.
 
-A limitação de dados empíricos impossibilita, por ora, a harmonização dos dados de DSI no FEBR. Estudos que venham resolver essa limitação são bem vindos, especialmente no caso dos métodos que guardam mais similaridades entre si, por exemplo, \texttt{dsi\_torrao} e \texttt{dsi\_cilindro}. Em geral, \texttt{dsi\_torrao} tende a sobre estimar a DSI, comparado ao \texttt{dsi\_cilindro}, por desconsiderar o espaço poroso existente entre os agregados \citep{CasanovaEtAl2016}. O FEBR tem condições de acomodar um modelo estatístico que transforme os valores de DSI obtidos com \texttt{dsi\_torrao} para valores aproximadamente equivalentes àqueles que seriam obtidos com \texttt{dsi\_cilindro} -- e vice-versa.
+A limitação de dados empíricos impossibilita, por ora, a harmonização dos dados de DSI no FEBR. Estudos que venham resolver essa limitação são bem vindos, especialmente no caso dos métodos que guardam mais similaridades entre si, por exemplo, \texttt{densidade\_torrao} e \texttt{densidade\_cilindro}. Em geral, \texttt{densidade\_torrao} tende a sobre estimar a DSI, comparado ao \texttt{densidade\_cilindro}, por desconsiderar o espaço poroso existente entre os agregados.\footnote{Casanova et al., ``Direct Measurement and Prediction of Bulk Density on Alluvial Soils of Central Chile.''} O FEBR tem condições de acomodar um modelo estatístico que transforme os valores de DSI obtidos com \texttt{densidade\_torrao} para valores aproximadamente equivalentes àqueles que seriam obtidos com \texttt{densidade\_cilindro} -- e vice-versa.
 
 \hypertarget{agradecimentos}{%
-\section*{Agradecimentos}\label{agradecimentos}}
-\addcontentsline{toc}{section}{Agradecimentos}
+\section{Agradecimentos}\label{agradecimentos}}
 
 \begin{itemize}
 \tightlist
@@ -471,7 +511,7 @@ A limitação de dados empíricos impossibilita, por ora, a harmonização dos d
 \hypertarget{reflectuxe2ncia}{%
 \chapter{Reflectância}\label{reflectuxe2ncia}}
 
-\emph{Taciara Zborowski Horst-Heinen}\footnote{Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.}, \emph{Alessandro Samuel-Rosa}\footnote{Universidade Tecnológica Federal do Paraná, Curso de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}
+\emph{Taciara Zborowski Horst-Heinen}\footnote{MSc. Taciara Zborowski Horst-Heinen é pesquisadora na Universidade Federal de Santa Maria, Programa de Pós-Graduação em Ciência do Solo, Avenida Roraima, 1000, CEP 97105-900, Santa Maria, Rio Grande do Sul, Brasil.}, \emph{Alessandro Samuel-Rosa}\footnote{Dr.~Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.}
 
 \hypertarget{conceitos-e-definiuxe7uxf5es-2}{%
 \section{Conceitos e definições}\label{conceitos-e-definiuxe7uxf5es-2}}
@@ -479,12 +519,12 @@ A limitação de dados empíricos impossibilita, por ora, a harmonização dos d
 \hypertarget{muxe9todos-de-determinauxe7uxe3o-2}{%
 \section{Métodos de determinação}\label{muxe9todos-de-determinauxe7uxe3o-2}}
 
-\citep{ViscarraRosselEtAl2016}
+\footnote{R. A. Viscarra Rossel et al., ``A Global Spectral Library to Characterize the World's Soil,'' \emph{Earth-Science Reviews} 155 (2016): 198--230, \url{https://doi.org/10.1016/j.earscirev.2016.01.012}.}
 
 \hypertarget{padronizauxe7uxe3o-2}{%
 \section{Padronização}\label{padronizauxe7uxe3o-2}}
 
-W350\ldots W2500Wavebands in nanometers at which reflectance values are given in the database \citep{ICRAFEtAl2010}.
+W350\ldots W2500Wavebands in nanometers at which reflectance values are given in the database.\footnote{ICRAF and ISRIC, ``A Globally Distributed Soil Spectral Library Visible Near Infrared Diffuse Reflectance Spectra'' (Nairobi, Kenya: World Agroforestry Centre (ICRAF), 2010).}
 
 \begin{tabular}{l|l}
 \hline
@@ -494,15 +534,41 @@ campo\_id & campo\_descricao\\
 \hline
 `reflectancia\_umido\_lab` & Reflectância da fração terra fina seca ao ar (< 2 mm) [`reflectancia`]. Determinação em amostra em estado de umidade seco [`seco`]. Quantificada em ambiente controlado de laboratório [`lab`]. \{ESPECIFICAR A RESOLUÇÃO ESPECTRAL\} \{ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO\} \{INDICAR REFERÊNCIA DO MÉTODO\}\\
 \hline
-`reflectancia\_umido\_movel` & Reflectância do material do solo [`reflectancia`]. Determinação em amostra em estado de umidade seco [`seco`]. Quantificada em ambiente de campo utilizando equipemanto sensor móvel [`movel`]. \{ESPECIFICAR A RESOLUÇÃO ESPECTRAL\} \{ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO\} \{INDICAR REFERÊNCIA DO MÉTODO\}\\
-\hline
 `reflectancia\_umido\_estatico` & Reflectância do material do solo [`reflectancia`]. Determinação em amostra em estado de umidade seco [`seco`]. Quantificada em ambiente de campo utilizando equipemanto sensor estático [`estatico`]. \{ESPECIFICAR A RESOLUÇÃO ESPECTRAL\} \{ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO\} \{INDICAR REFERÊNCIA DO MÉTODO\}\\
+\hline
+`reflectancia\_umido\_movel` & Reflectância do material do solo [`reflectancia`]. Determinação em amostra em estado de umidade seco [`seco`]. Quantificada em ambiente de campo utilizando equipemanto sensor móvel [`movel`]. \{ESPECIFICAR A RESOLUÇÃO ESPECTRAL\} \{ESPECIFICAR ESPECTRORADIÔMETRO UTILIZADO\} \{INDICAR REFERÊNCIA DO MÉTODO\}\\
 \hline
 \end{tabular}
 
 \hypertarget{harmonizauxe7uxe3o-1}{%
 \section{Harmonização}\label{harmonizauxe7uxe3o-1}}
 
-  \bibliography{book.bib,packages.bib}
+\hypertarget{refs}{}
+\leavevmode\hypertarget{ref-AlmeidaEtAl2017}{}%
+Almeida, Brivaldo Gomes de, João Herbert Moreira Viana, Wenceslau Geraldes Teixeira, and Guilherme Kangussu Donagemma. ``Densidade Do Solo.'' In \emph{Manual de Métodos de Análise de Solo}, edited by Paulo César Teixeira, Guilherme Kangussu Donagemma, Ademir Fontana, and Wenceslau Geraldes Teixeira, 65--75. Brasília: EMBRAPA, 2017.
+
+\leavevmode\hypertarget{ref-Al-ShammaryEtAl2018}{}%
+Al-Shammary, Ahmed Abed Gatea, Abbas Z. Kouzani, Akif Kaynak, Sui Yang Khoo, Michael Norton, and Will Gates. ``Soil Bulk Density Estimation Methods: A Review.'' \emph{Pedosphere} 28, no. 4 (August 2018): 581--96. \url{https://doi.org/10.1016/s1002-0160(18)60034-7}.
+
+\leavevmode\hypertarget{ref-CasanovaEtAl2016}{}%
+Casanova, Manuel, Elizabeth Tapia, Oscar Seguel, and Osvaldo Salazar. ``Direct Measurement and Prediction of Bulk Density on Alluvial Soils of Central Chile.'' \emph{Chilean Journal of Agricultural Research} 76, no. 1 (March 2016): 105--13. \url{https://doi.org/10.4067/s0718-58392016000100015}.
+
+\leavevmode\hypertarget{ref-GrossmanEtAl2002}{}%
+Grossman, R. B., and T. G. Reinsch. ``2.1 Bulk Density and Linear Extensibility.'' In \emph{SSSA Book Series}, edited by Jacob H. Dane and G. Clarke Topp, 201--28. Madison, WI, USA: Soil Science Society of America, 2002. \url{https://doi.org/10.2136/sssabookser5.4.c9}.
+
+\leavevmode\hypertarget{ref-ICRAFEtAl2010}{}%
+ICRAF, and ISRIC. ``A Globally Distributed Soil Spectral Library Visible Near Infrared Diffuse Reflectance Spectra.'' Nairobi, Kenya: World Agroforestry Centre (ICRAF), 2010.
+
+\leavevmode\hypertarget{ref-MathieuEtAl1998}{}%
+Mathieu, Clément, and Françoise Pieltain. \emph{Analyse Physique Des Sols: Méthodes Choisies}. Paris: Lavoisier, 1998.
+
+\leavevmode\hypertarget{ref-OliveiraEtAl2018b}{}%
+Oliveira, Virlei Álvaro de, José Frutuoso do Vale Júnior, Carlos Ernesto Gonçalves Reynaud Schaefer, José Francisco Lumbreras, Maurício Rizzato Coelho, Valdinar Ferreira Melo, Milton César Costa Campos, Guilherme Resende Corrêa, Sebastião Barreiros Calderano, and João Carlos Ker. ``Capítulo 2. Solos Da Xi Reunião Brasileira de Classificação E Correlação de Solos (Rcc de Roraima).'' In \emph{Guia de Campo Da Xi Reunião Brasileira de Classificação E Correlação de Solos: RCC de Roraima}, First., 12--29. Brasília, DF: EMBRAPA, 2018.
+
+\leavevmode\hypertarget{ref-RibeiroEtAl2018}{}%
+Ribeiro, Eloi, Niels H. Batjes, and A. J. M. van Oostrum. \emph{World Soil Information Service (Wosis) - Towards the Standardization and Harmonization of World Soil Data. Procedures Manual 2018}. Wageningen, The Netherlands: ISRIC World Soil Information, 2018. \url{https://doi.org/10.17027/isric-wdcsoils.20180001}.
+
+\leavevmode\hypertarget{ref-ViscarraRosselEtAl2016}{}%
+Viscarra Rossel, R. A., T. Behrens, E. Ben-Dor, D. J. Brown, J. A. M. Demattê, K. D. Shepherd, Z. Shi, et al. ``A Global Spectral Library to Characterize the World's Soil.'' \emph{Earth-Science Reviews} 155 (2016): 198--230. \url{https://doi.org/10.1016/j.earscirev.2016.01.012}.
 
 \end{document}
