@@ -4,21 +4,21 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Manual de Gestão de Dados de Recursos do Solo</title>
-  <meta name="description" content="Manual de Gestão de Dados de Recursos do Solo" />
+  <title>Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo</title>
+  <meta name="description" content="Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
   <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Manual de Gestão de Dados de Recursos do Solo" />
+  <meta property="og:title" content="Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://www.pedometria.org/livros/manual-de-gestao-de-dados-de-recursos-do-solo/" />
   
-  <meta property="og:description" content="Manual de Gestão de Dados de Recursos do Solo" />
+  <meta property="og:description" content="Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
   <meta name="github-repo" content="samuel-rosa/verde" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="twitter:title" content="Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
   
-  <meta name="twitter:description" content="Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="twitter:description" content="Capítulo 4 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
   
 
 <meta name="author" content="Alessandro Samuel-Rosa" />
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="metadados-de-métodos.html"/>
+<link rel="prev" href="densidade.html"/>
+<link rel="next" href="referências.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -128,15 +128,100 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Manual de Gestão de Dados de Recursos do Solo</h1>
-<p class="author"><em>Alessandro Samuel-Rosa</em></p>
-<p class="date"><em>2020-12-31</em></p>
+<div id="classificação-taxonômica" class="section level1">
+<h1><span class="header-section-number">Capítulo 4</span> Classificação Taxonômica</h1>
+<p><em>Alessandro Samuel-Rosa</em><a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></p>
+<div id="conceitos-e-definições-3" class="section level2">
+<h2><span class="header-section-number">4.1</span> Conceitos e definições</h2>
 </div>
-<div id="prefácio" class="section level1 unnumbered">
-<h1>Prefácio</h1>
-<!-- Autores -->
+<div id="padronização-2" class="section level2">
+<h2><span class="header-section-number">4.2</span> Padronização</h2>
+<p>A Tabela <a href="classificação-taxonômica.html#tab:taxon-campo-id">4.1</a> apresenta os códigos padronizados utilizados para identificar os métodos de determinação da classificação taxonômica de perfis de solo.</p>
+<table>
+<caption><span id="tab:taxon-campo-id">Tabela 4.1: </span>Campos usados na identificação de laboratórios responsáveis pela produção de dados do solo.</caption>
+<colgroup>
+<col width="6%" />
+<col width="10%" />
+<col width="83%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Campo</th>
+<th align="left">Nome</th>
+<th align="left">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">taxon_sibcs_1999</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 1999 [1999]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_sibcs_19xx</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição anterior à 1999 [19xx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="odd">
+<td align="left">taxon_sibcs_2003</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 1999, revisada em 2003 [2003]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_sibcs_2006</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2006 [2006]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="odd">
+<td align="left">taxon_sibcs_2009</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2006, revisada em setembro de 2009 [2009]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_sibcs_2013</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2013 [2013]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="odd">
+<td align="left">taxon_sibcs_xxxx</td>
+<td align="left">Classificação taxonômica SiBCS</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_st_2010</td>
+<td align="left">Classificação taxonômica ST</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Soil Taxonomy (st), edição de 2010 [2010]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="odd">
+<td align="left">taxon_st_xxxx</td>
+<td align="left">Classificação taxonômica ST</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o Soil Taxonomy (st), edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_wrb_1998</td>
+<td align="left">Classificação taxonômica WRB</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição de 1998 [1998]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="odd">
+<td align="left">taxon_wrb_2006</td>
+<td align="left">Classificação taxonômica WRB</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição de 2006 [2006]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+<tr class="even">
+<td align="left">taxon_wrb_xxxx</td>
+<td align="left">Classificação taxonômica WRB</td>
+<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+</tr>
+</tbody>
+</table>
 
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="16">
+<li id="fn16"><p>Dr. Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="classificação-taxonômica.html#fnref16">↩</a></p></li>
+</ol>
 </div>
 <!DOCTYPE HTML>
 <hr>
@@ -148,8 +233,8 @@
           </div>
         </div>
       </div>
-
-<a href="metadados-de-métodos.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="densidade.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="referências.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -180,7 +265,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/samuel-rosa/verde/edit/master/index.Rmd",
+"link": "https://github.com/samuel-rosa/verde/edit/master/classificacao-taxonomica.Rmd",
 "text": "Editar"
 },
 "history": {
@@ -188,7 +273,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/samuel-rosa/verde/edit/master/index.Rmd",
+"link": "https://github.com/samuel-rosa/verde/edit/master/classificacao-taxonomica.Rmd",
 "text": null
 },
 "download": ["manual-de-gestao-de-dados-de-recursos-do-solo.pdf"],
