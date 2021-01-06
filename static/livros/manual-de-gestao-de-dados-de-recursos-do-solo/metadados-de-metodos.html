@@ -4,21 +4,21 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo</title>
-  <meta name="description" content="Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
+  <title>Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo</title>
+  <meta name="description" content="Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo" />
   <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta property="og:title" content="Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://www.pedometria.org/livros/manual-de-gestao-de-dados-de-recursos-do-solo/" />
   
-  <meta property="og:description" content="Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta property="og:description" content="Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo" />
   <meta name="github-repo" content="samuel-rosa/verde" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="twitter:title" content="Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo" />
   
-  <meta name="twitter:description" content="Capítulo 6 Classificação Taxonômica | Manual de Gestão de Dados de Recursos do Solo" />
+  <meta name="twitter:description" content="Capítulo 1 Metadados de Métodos | Manual de Gestão de Dados de Recursos do Solo" />
   
 
 <meta name="author" content="Alessandro Samuel-Rosa" />
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="densidade.html"/>
-<link rel="next" href="referências.html"/>
+<link rel="prev" href="index.html"/>
+<link rel="next" href="resgate-de-metadados-de-métodos.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -124,21 +124,84 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="classificação-taxonômica" class="section level1">
-<h1><span class="header-section-number">Capítulo 6</span> Classificação Taxonômica</h1>
-<p><em>Alessandro Samuel-Rosa</em><a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></p>
-<div id="conceitos-e-definições-3" class="section level2">
-<h2><span class="header-section-number">6.1</span> Conceitos e definições</h2>
+<div id="metadados-de-metodos" class="section level1">
+<h1><span class="header-section-number">Capítulo 1</span> Metadados de Métodos</h1>
+<p><em>Alessandro Samuel-Rosa</em><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
+<div id="conceitos-e-definições" class="section level2">
+<h2><span class="header-section-number">1.1</span> Conceitos e definições</h2>
+<p>Um dos conteúdos mais importantes de qualquer conjunto de dados da pesquisa são os metadados de métodos. Os <strong>metadados de métodos</strong> descrevem como os dados foram produzidos. Eles incluem, desde aspectos relacionados à amostragem, passando pelos menores detalhes sobre os procedimentos laboratoriais implementados, até as correções e transformações aplicadas aos dados antes de seu uso.</p>
+<p>Os metadados de métodos são fundamentais para possibilitar o reúso seguro dos dados da pesquisa num futuro próximo (cinco anos) ou distante (50 ou mais anos). E isso se aplica, tanto a terceiros, como a quem produziu os dados. Sem os metadados de métodos, a decisão sobre reusar ou não um conjunto de dados, e qual a maneira mais apropriada de fazer isso, fica repleta de incertezas. As pessoas interessadas em reusar os dados acabam tendo o trabalho adicional de contactar os produtores dos dados para obter mais informações. Muitas vezes, esse trabalho adicional se mostra ineficiente ou, até mesmo, impossível. Isso porque os produtores dos dados podem não ter muitas informações adicionais para compartilhar e, na pior das hipóteses, já são falecidos e não deixaram nenhum registro documental.</p>
+<p>Os metadados de métodos também são fundamentais quando queremos utilizar dados de dois ou mais conjuntos de dados de modo combinado. São eles que permitem definir se dados de diferentes origens podem ser combinados e qual é a maneira mais apropriada de fazermos sua junção. Para compreender melhor esse cenário, suponha que dispomos de dois conjunto de dados do solo. Ambos consistem na classificação taxonômica de perfis de solo, identificada utilizando uma mesma edição do Sistema Brasileiro de Classificação de Solos. A junção dos dois conjuntos de dados parece razoável, dado que lidam com a mesma variável, a classificação taxonômica.</p>
+<p>Agora suponha que, ao consultarmos a descrição dos métodos de campo e laboratório, identificamos que cada conjunto de dados foi produzido utilizando métodos consideravelmente distintos. Um deles utilizou descrições morfológicas e resultados de análises laboratoriais de amostras coletadas em trincheiras. Já o outro usou apenas descrições morfológicas de amostras coletadas em sondagens feitas com trado holandês. Isso significa que as variáveis são operacionalmente distintas e sua junção exigirá algum tipo de pré-processamento. Contudo, como uma classificação taxonômica inferida a partir de sondagens com trado é mais incerta do que aquela identificada usando perfis completos, dependendo da aplicação intendida, a junção dos conjuntos de dados pode passar a ser questionável.</p>
 </div>
-<div id="padronização-2" class="section level2">
-<h2><span class="header-section-number">6.2</span> Padronização</h2>
-<p>A Tabela <a href="classificação-taxonômica.html#tab:taxon-campo-id">6.1</a> apresenta os códigos padronizados utilizados para identificar os métodos de determinação da classificação taxonômica de perfis de solo.</p>
+<div id="estrutura-de-metadados" class="section level2">
+<h2><span class="header-section-number">1.2</span> Estrutura de metadados</h2>
+<!-- A tabela metadado possui estrutura diferente das demais tabelas usadas no febr. A primeira delas é que existe um número limitado de colunas, as quais estão organizadas em três grupos que serão vistos a seguir. As linhas ficam reservadas a cada um dos campos das tabelas observacao e camada. Sendo assim, cada coluna serve para descrever um atributo dos campos dessas duas tabelas. A Tabela 18 dá uma ideia da estrutura da tabela metadado. -->
+<p>Os detalhes mais importantes sobre os campos das tabelas <code>observacao</code> e <code>camada</code> são armazenados na tabela metadado usando <code>campo_descricao</code>, <code>campo_unidade</code> e <code>campo_tipo</code>. O primeiro deles, <code>campo_descricao</code>, é o mais importante de todos, onde são armazenados todos os detalhes sobre a obtenção das informações armazenadas nas tabelas <code>observacao</code> e <code>camada</code>. Por exemplo, enquanto o campo <code>ferro_cloridrico_eaa</code> na tabela camada identifica o conteúdo de ferro no solo determinado por espectrofotometria de absorção atômica no extrato de solução de ácido clorídrico, a tabela metadado armazena informações sobre como as amostras do solo foram preparadas, a qualidade dos reagentes utilizados e dos equipamentos empregados, a sequência de passos adotados durante a análise laboratorial, as possíveis adaptações realizadas em relação ao método padrão, e assim por diante. Nesse caso, os identificadores <code>cloridrico</code> e <code>eaa</code> são responsáveis pela maior porção da variação nos resultados – quando diferentes métodos são comparados –, enquanto as informações em <code>campo_descricao</code> explicam as variações de menor magnitude nos resultados.</p>
+<!-- Tabela 20. Campos descritores dos metadados. -->
+<!-- Campo -->
+<!-- Definição -->
+<!-- campo_descricao -->
+<!-- descrição textual do campo -->
+<!-- campo_unidade -->
+<!-- unidade de medida do campo -->
+<!-- campo_tipo -->
+<!-- tipo de dado do campo -->
+<p>Os campos <code>campo_unidade</code> e <code>campo_tipo</code> destinam-se a informações mais específicas sobre os dados armazenados nas tabelas <code>observacao</code> e <code>camada</code>. O primeiro deles armazena a unidade de medida, a qual também é armazenada na segunda linha de ambas as tabelas <code>observacao</code> e <code>camada</code>. No momento, o autor ou responsável pelos dados precisa informar a unidade de medida em ambas as tabelas. Como isso pode ser fonte de erros, se pretende implementar no futuro uma rotina automatizada de preenchimento do campo campo_unidade a partir das informações inseridas nas tabelas observacao e camada. O segundo campo, <code>campo_tipo</code>, serve para armazenar a categorização das informações contidas nas observacao e camada. As categorias possíveis são descritas na Tabela <a href="metadados-de-metodos.html#tab:tipos-de-dados">1.1</a>.</p>
 <table>
-<caption><span id="tab:taxon-campo-id">Tabela 6.1: </span>Campos usados na identificação de laboratórios responsáveis pela produção de dados do solo.</caption>
+<caption><span id="tab:tipos-de-dados">Tabela 1.1: </span>Tipificação de dados de variáveis do solo.</caption>
 <colgroup>
-<col width="6%" />
-<col width="10%" />
-<col width="83%" />
+<col width="7%" />
+<col width="40%" />
+<col width="52%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Tipo</th>
+<th align="left">Descrição</th>
+<th align="left">Exemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Inteiro</td>
+<td align="left">Números positivos ou negativos sem casas decimais</td>
+<td align="left">Número de subamostras coletadas, número de identificação de uma amostra</td>
+</tr>
+<tr class="even">
+<td align="left">Real</td>
+<td align="left">Números positivos ou negativos com casas decimais</td>
+<td align="left">Conteúdo de argila, Profundidade do solo, elevação acima do nível do mar</td>
+</tr>
+<tr class="odd">
+<td align="left">Texto</td>
+<td align="left">Uma cadeia de caracteres alfanuméricos e especiais</td>
+<td align="left">Classificação taxonômica, descrição morfológica</td>
+</tr>
+<tr class="even">
+<td align="left">Booleano</td>
+<td align="left">Um valor verdadeiro (1) ou falso (0)</td>
+<td align="left">Presença/ausência de carbonatos, presença/ausência de cerosidade</td>
+</tr>
+<tr class="odd">
+<td align="left">Data</td>
+<td align="left">Datas na representação aaaa-mm-dd</td>
+<td align="left">Data em que as amostras foram coletadas</td>
+</tr>
+<tr class="even">
+<td align="left">Moeda</td>
+<td align="left">Números com casas decimais representando moeda corrente</td>
+<td align="left">Valor monetário da terra, custo monetário de análise de uma amostra</td>
+</tr>
+</tbody>
+</table>
+<p>O último grupo de colunas da tabela metadado está destinado à identificação do laboratório responsável pela geração dos dados armazenados nas tabelas observacao e camada. Essas informações são necessárias para que os usuários dos dados possam sanar quaisquer dúvidas sobre a consistência dos dados que por ventura surjam durante a sua utilização.</p>
+<table>
+<caption><span id="tab:laboratorio">Tabela 1.2: </span>Campos usados na identificação de laboratórios responsáveis pela produção de dados do solo.</caption>
+<colgroup>
+<col width="5%" />
+<col width="13%" />
+<col width="80%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -149,64 +212,14 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">taxon_sibcs_1999</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 1999 [1999]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+<td align="left">lab_nome</td>
+<td align="left">Nome do laboratório</td>
+<td align="left">Nome do laboratório responsável pela geração dos dado do respectivo campo da tabela observacao ou camada.</td>
 </tr>
 <tr class="even">
-<td align="left">taxon_sibcs_19xx</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição anterior à 1999 [19xx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="odd">
-<td align="left">taxon_sibcs_2003</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 1999, revisada em 2003 [2003]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="even">
-<td align="left">taxon_sibcs_2006</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2006 [2006]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="odd">
-<td align="left">taxon_sibcs_2009</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2006, revisada em setembro de 2009 [2009]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="even">
-<td align="left">taxon_sibcs_2013</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição de 2013 [2013]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="odd">
-<td align="left">taxon_sibcs_xxxx</td>
-<td align="left">Classificação taxonômica SiBCS</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Sistema Brasileiro de Classificação do Solo [sibcs], edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="even">
-<td align="left">taxon_st_2010</td>
-<td align="left">Classificação taxonômica ST</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Soil Taxonomy (st), edição de 2010 [2010]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="odd">
-<td align="left">taxon_st_xxxx</td>
-<td align="left">Classificação taxonômica ST</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o Soil Taxonomy (st), edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="even">
-<td align="left">taxon_wrb_1998</td>
-<td align="left">Classificação taxonômica WRB</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição de 1998 [1998]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="odd">
-<td align="left">taxon_wrb_2006</td>
-<td align="left">Classificação taxonômica WRB</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição de 2006 [2006]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
-</tr>
-<tr class="even">
-<td align="left">taxon_wrb_xxxx</td>
-<td align="left">Classificação taxonômica WRB</td>
-<td align="left">Classificação taxonômica da observação do solo de acordo com o World Reference Base (wrb), edição não especificada [xxxx]. {ESPECIFICAR A FORMA DE OBSERVAÇÃO E O TIPO E VOLUME DE INFORMAÇÕES USADAS}</td>
+<td align="left">lab_endereco</td>
+<td align="left">Endereço físico do laboratório</td>
+<td align="left">Endereço físico do laboratório responsável pela geração dos dados do respectivo campo da tabela observacao ou camada. Informar rua, número, complemento, bairro, cidade, estado, CEP e país.</td>
 </tr>
 </tbody>
 </table>
@@ -215,8 +228,8 @@
 </div>
 <div class="footnotes">
 <hr />
-<ol start="19">
-<li id="fn19"><p>Dr. Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="classificação-taxonômica.html#fnref19">↩</a></p></li>
+<ol start="1">
+<li id="fn1"><p>Dr. Alessandro Samuel-Rosa é professor na Universidade Tecnológica Federal do Paraná, Departamento de Agronomia, Prolongamento da Rua Cerejeira, s/n, CEP 85892-000, Santa Helena, Paraná, Brasil.<a href="metadados-de-metodos.html#fnref1">↩</a></p></li>
 </ol>
 </div>
 <!DOCTYPE HTML>
@@ -251,8 +264,8 @@
           </div>
         </div>
       </div>
-<a href="densidade.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="referências.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="resgate-de-metadados-de-métodos.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -283,7 +296,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/samuel-rosa/verde/edit/main/classificacao-taxonomica.Rmd",
+"link": "https://github.com/samuel-rosa/verde/edit/main/metadados-de-metodos.Rmd",
 "text": "Editar"
 },
 "history": {
@@ -291,7 +304,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/samuel-rosa/verde/blob/main/classificacao-taxonomica.Rmd",
+"link": "https://github.com/samuel-rosa/verde/blob/main/metadados-de-metodos.Rmd",
 "text": null
 },
 "download": null,
