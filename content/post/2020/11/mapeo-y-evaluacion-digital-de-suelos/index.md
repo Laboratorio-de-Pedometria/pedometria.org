@@ -54,13 +54,22 @@ image:
 projects: []
 ---
 
-La [Asamblea General de EGU 2021][egu21], que tradicionalmente se celebra cada primavera en Viena, Austria, se llevará a cabo completamente en línea debido a los riesgos continuos que plantea la pandemia de coronavirus y las restricciones resultantes en los viajes internacionales. En su lugar, EGU albergará vEGU21: Gather Online (#vEGU21), un evento completamente virtual que tendrá lugar del **19 al 30 de abril** y que reunirá a geocientíficos de todo el mundo en una reunión que cubrirá todas las disciplinas de la Tierra, planetarias, y ciencias espaciales.
+La [Asamblea General de EGU 2021][egu21], que tradicionalmente se celebra cada primavera en Viena,
+Austria, se llevará a cabo completamente en línea debido a los riesgos continuos que plantea la
+pandemia de coronavirus y las restricciones resultantes en los viajes internacionales.
+En su lugar, EGU albergará vEGU21: Gather Online (#vEGU21), un evento completamente virtual que
+tendrá lugar del **19 al 30 de abril** y que reunirá a geocientíficos de todo el mundo en una
+reunión que cubrirá todas las disciplinas de la Tierra, planetarias, y ciencias espaciales.
 
 [egu21]: https://egu21.eu/
 
-Todas las sesiones científicas están abiertas para recibir su contribución. La fecha límite para el envío de resúmenes es el **13 de enero de 2021** a las 13:00 CET. Solo los miembros de la EGU de 2021 podrán enviar resúmenes a la reunión de 2021 y solo se permitirá un resumen como primer autor.
+Todas las sesiones científicas están abiertas para recibir su contribución.
+La fecha límite para el envío de resúmenes es el **20 de enero de 2021** a las 13:00 CET.
+Solo los miembros de la EGU de 2021 podrán enviar resúmenes a la reunión de 2021 y solo se
+permitirá un resumen como primer autor.
 
-Le invitamos amablemente a enviar su resumen a la sesión **SSS10.3 Mapeo y Evaluación Digital de Suelos** en https://meetingorganizer.copernicus.org/EGU21/session/39203
+Le invitamos a enviar su resumen a la sesión **SSS10.3 Mapeo y Evaluación Digital de Suelos** en
+https://meetingorganizer.copernicus.org/EGU21/session/39203
 
 ## Información de la sesión
 
