@@ -18,9 +18,9 @@ div.alert > div {
 <br>
 <br>
 
-{{% alert note %}}
+{{% callout note %}}
 Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0838`
-{{% /alert %}}
+{{% /callout %}}
 
 ## Metadados de citação
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>157547 bytes</td>
+      <td>156477 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -73,7 +73,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12027 bytes</td>
+      <td>11623 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -87,7 +87,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>61704 bytes</td>
+      <td>61209 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

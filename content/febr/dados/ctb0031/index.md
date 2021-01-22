@@ -18,9 +18,9 @@ div.alert > div {
 <br>
 <br>
 
-{{% alert note %}}
+{{% callout note %}}
 Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0031`
-{{% /alert %}}
+{{% /callout %}}
 
 ## Metadados de citação
 
@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0031.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>122385 bytes</td>
+      <td>120339 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0031&files=ctb0031.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,14 +66,14 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0031-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>763 bytes</td>
+      <td>906 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0031&files=ctb0031-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0031-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>3772 bytes</td>
+      <td>3912 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0031&files=ctb0031-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -87,7 +87,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0031-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>83 bytes</td>
+      <td>105 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0031&files=ctb0031-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

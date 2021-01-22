@@ -1,6 +1,9 @@
 # Create site directory structure and install theme
 blogdown::new_site(install_hugo = TRUE, theme = "gcushen/hugo-academic")
 
+# Update theme
+blogdown::install_theme("wowchemy/starter-academic")
+
 # Site configuration
 
 # ~/config.toml #####
@@ -12,7 +15,6 @@ blogdown::new_site(install_hugo = TRUE, theme = "gcushen/hugo-academic")
 
 # ~/config/_default/languages.toml ####
 # languageCode = "pt-br"
-
 
 
 # ~/config/_default/params.toml #####

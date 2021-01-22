@@ -18,9 +18,9 @@ div.alert > div {
 <br>
 <br>
 
-{{% alert note %}}
+{{% callout note %}}
 Use este identificador para citar ou linkar para este item: `https://www.pedometria.org/febr/ctb0759`
-{{% /alert %}}
+{{% /callout %}}
 
 ## Metadados de citação
 
