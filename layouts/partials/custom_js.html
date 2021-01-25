@@ -1,10 +1,10 @@
 <link
     rel="stylesheet" type="text/css"
     href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
-<script
+<!-- <script
     type="text/javascript" charset="utf8"
     src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js">
-</script>
+</script> -->
 <style>
     .dataTables_wrapper {
         font-size: 0.8rem;
@@ -13,9 +13,9 @@
 <script>
 $(document).ready(function() {
     $('#buscafebr').DataTable( {
-        // "language": {
-            // "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Portuguese-Brasil.json"
-	// },
+        "language": {
+            "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Portuguese-Brasil.json"
+	},
         "ajax": "../buscar/catalogo.txt",
         "columns": [
             { "data": "dados_id", "width": "12%" },
