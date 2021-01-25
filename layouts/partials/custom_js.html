@@ -10,26 +10,19 @@
         font-size: 0.8rem;
     }
 </style>
-<!-- <script>
+<script>
 $(document).ready(function() {
     $('#buscafebr').DataTable( {
-        "language": {
+        stateSave: true,
+        language: {
             "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Portuguese-Brasil.json"
-	},
-        "ajax": "../buscar/catalogo.txt",
-        "columns": [
+	    },
+        ajax: "../buscar/catalogo.txt",
+        columns: [
             { "data": "dados_id", "width": "12%" },
             { "data": "dados_titulo", "width": "40%" },
             { "data": "dados_autor", "width": null }
         ]
     } );
-} );
-</script> -->
-
-<script>
-$(document).ready(function() {
-    $('#example').DataTable({
-        "ajax": "../buscar/catalogo.txt"
-    });
 } );
 </script>

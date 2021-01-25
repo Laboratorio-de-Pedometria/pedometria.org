@@ -38,25 +38,8 @@ Você já conhece a [política de dados](https://docs.google.com/document/d/11c0
 
 Encontrar os dados de que você precisa é muito fácil!
 
-<!-- <table id="buscafebr" class="display" style="width:100%">
+<table id="buscafebr" class="display" style="width:100%">
   <thead>
-    <tr>
-      <th>ID</th>
-      <th>Título</th>
-      <th>Autor(es)</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <th>ID</th>
-      <th>Título</th>
-      <th>Autor(es)</th>
-    </tr>
-  </tfoot>
-</table> -->
-
-<table id="example" class="display" style="width:100%">
-      <thead>
     <tr>
       <th>ID</th>
       <th>Título</th>
