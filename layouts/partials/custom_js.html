@@ -10,7 +10,7 @@
         font-size: 0.8rem;
     }
 </style>
-<script>
+<!-- <script>
 $(document).ready(function() {
     $('#buscafebr').DataTable( {
         "language": {
@@ -23,5 +23,13 @@ $(document).ready(function() {
             { "data": "dados_autor", "width": null }
         ]
     } );
+} );
+</script> -->
+
+<script>
+$(document).ready(function() {
+    $('#example').DataTable({
+        "ajax": "../buscar/catalogo.txt"
+    });
 } );
 </script>
