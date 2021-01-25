@@ -25,7 +25,12 @@ project:
 
 ## Buscar conjuntos de dados
 
-Se você usa dados do solo, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país: granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
+Se você usa dados do solo, então chegou ao lugar certo.
+O FEBR é o maior repositório de dados abertos do solo do Brasil.
+Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país:
+granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e
+porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA,
+difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
 {{% callout note %}}
 Você já conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR?
