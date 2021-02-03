@@ -83,7 +83,6 @@ financiada pela UTFPR (Edital 37/2020 - PROGRAD).
 ## Inscrições
 
 * Período: entre 03 e 08 de fevereiro de 2021
-* Formulário: a ser definido
+* Formulário: [visite a página do edital][edital]
 
-Mais informações estão disponíveis na página do edital em
-https://portal.utfpr.edu.br/editais/graduacao-e-educacao-profissional/reitoria/edital-37-2020-prograd
+[edital]: https://portal.utfpr.edu.br/editais/graduacao-e-educacao-profissional/reitoria/edital-37-2020-prograd
