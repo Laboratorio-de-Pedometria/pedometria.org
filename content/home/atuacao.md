@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "archive"
   icon_pack = "fas"
-  name = "Repositório de Dados"
-  description = "Compilação, padronização e harmonização de dados abertos do solo"
+  name = "Gestão de Dados da Pesquisa"
+  description = "Resgate, curadoria e distribuição de dados abertos da pesquisa em ciência do solo"
 
 [[feature]]
   icon = "map-marked-alt"
