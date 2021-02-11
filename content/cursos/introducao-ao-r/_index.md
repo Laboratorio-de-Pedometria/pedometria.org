@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Introdução ao R para análise de dados e construção de gráficos
 summary: "Minicurso introdutório ao ambiente R. Ao final do minicurso, os participantes são capazes de manipular dados no R, realizando análises estatísticas básicas e construindo gráficos para comunicação técnico-científica."
-weight: 2
+weight: 4
 
 # Page metadata.
 title: Introdução ao R para análise de dados e construção de gráficos
