@@ -53,7 +53,7 @@ __Data de término__: 2020-07-31
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2020-08-01<br>
-__Data de término__: 2020-07-31
+<!-- __Data de término__: 2020-07-31 -->
 
 {{% btn %}}
   [Plano de trabalho](https://docs.google.com/document/d/1-Syi23WMwnU2dgITgPsDO_aLMFnN0xsL)

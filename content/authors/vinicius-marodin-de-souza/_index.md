@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 # Documentação: https://sourcethemes.com/academic/docs/managing-content/
 
 # Adicione uma imagem PNG ou JPG de seu busto nomeada 'avatar' ao diretório desta página
@@ -90,11 +90,11 @@ social:
 
 Vinícius Marodin de Souza, nascido em Medianeira-PR, no ano de 2001,  graduando em Agronomia na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Santa Helena.
 
-### UTFPR -- PIBIC 2018/2019
+### UTFPR -- FA 2020/2021
 
-__Título__: Título do projeto ou plano de trabalho que você está desenvolvendo<br>
-__Data de início__: YYYY-MM-DD<br>
-__Data de término__: YYYY-MM-DD
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
+__Data de início__: 2021-03-01<br>
+<!-- __Data de término__: YYYY-MM-DD -->
 
 {{% btn %}}
   [Plano de trabalho](url-do-plano-de-trabalho)
