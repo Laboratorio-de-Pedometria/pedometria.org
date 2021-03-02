@@ -7,7 +7,7 @@ draft: true
 # Use o Inkscape (https://inkscape.org/pt-br/) ou o Gimp (https://www.gimp.org/) para preparar a imagem
 
 # Seu nome completo
-title: "Vinicius Marodin de Souza"
+title: "Vinícius Marodin de Souza"
 
 # Nome de usuário no website
 # Deve coincidir com o nome do diretório e o nome em publicações
@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Grupo 1
+- Estudantes de Graduação
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
@@ -34,7 +34,7 @@ user_groups:
 # - Coorientado(a) de Doutorado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "<Escolha a opção acima que melhor descreve sua função>"
+role: "Bolsista de Iniciação Científica"
 
 # Organizações/Afiliações
 organizations:
@@ -42,31 +42,31 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "<Redija até duas linhas de texto>"
+bio: "Graduando em Agronomia na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Santa Helena."
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
 interests:
-  - "Interesse 1"
-  - "Interesse 2"
-  - "Interesse 3"
-  - "Interesse 4"
-  - "Interesse 5"
+  - "Ciência do solo"
+ # - "Interesse 2"
+ # - "Interesse 3"
+ # - "Interesse 4"
+ # - "Interesse 5"
 
 # Educação formal: título, instituição e ano de conclusão
 # Inclui graduação, mestrado e doutorado
 # Caso não tenha concluído algum desses níveis, comente usando #
-education:
+education: #
   courses:
-  - course: PhD em ???
-    institution: Nome da Instituição
-    year: ANO
-  - course: MSc em ???
-    institution: Nome da Instituição
-    year: ANO
-  - course: BSc em ???
-    institution: Nome da Instituição
-    year: ANO
+ # - course: PhD em ???
+ #   institution: Nome da Instituição
+ #   year: ANO
+ # - course: MSc em ???
+ #   institution: Nome da Instituição
+ #   year: ANO
+  - course: BSc em Agronomia
+    institution: Universidade Tecnológica Federal do Paraná
+    year: em andamento
 
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
@@ -76,19 +76,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:EMAIL@PESSOAL.COM
+  link: mailto:vinicius.marodin@hotmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/IDLATTES
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: http://lattes.cnpq.br/7017242941108677
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/Vinicius-Marodin-de-Souza
 ---
 
-Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
+Vinícius Marodin de Souza, nascido em Medianeira-PR, no ano de 2001,  graduando em Agronomia na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Santa Helena.
 
 ### UTFPR -- PIBIC 2018/2019
 
