@@ -48,7 +48,7 @@ bio: "Estudante de Engenharia de Computação.>"
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
 interests:
   - "Programação"
-  - "aprendizado de máquina"
+  - "Aprendizado de máquina"
 
 # Educação formal: título, instituição e ano de conclusão
 # Inclui graduação, mestrado e doutorado
@@ -62,8 +62,8 @@ interests:
 #    institution: Nome da Instituição
 #    year: ANO
 #  - course: BSc em ???
-#    institution: Nome da Instituição
-#    year: ANO
+    institution: Universidade Tecnológica Federal do Paraná UTFPR
+    year: 2022
 
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
@@ -85,7 +85,7 @@ social:
   link: https://github.com/Leticia147
 ---
 
-Estudante do curso de Engenharia de Computação no campus Pato Branco, atuou como desenvolvedora na cédula drone na equipe de robótica da unversidade PatoBots.
+Estudante do curso de Engenharia de Computação no campus Pato Branco desenvolverá um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos.
 
 ### UTFPR -- PIBIC 2021
 
