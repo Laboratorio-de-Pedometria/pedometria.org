@@ -34,7 +34,7 @@ user_groups:
 # - Coorientado(a) de Doutorado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "<Escolha a opção acima que melhor descreve sua função>"
+role: "Bolsista de Iniciação Científica"
 
 # Organizações/Afiliações
 organizations:
@@ -42,31 +42,28 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "<Redija até duas linhas de texto>"
+bio: "Estudante de Engenharia de Computação.>"
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
 interests:
-  - "Interesse 1"
-  - "Interesse 2"
-  - "Interesse 3"
-  - "Interesse 4"
-  - "Interesse 5"
+  - "Programação"
+  - "Aprendizado de máquina"
 
 # Educação formal: título, instituição e ano de conclusão
 # Inclui graduação, mestrado e doutorado
 # Caso não tenha concluído algum desses níveis, comente usando #
-education:
+#education:
   courses:
-  - course: PhD em ???
-    institution: Nome da Instituição
-    year: ANO
-  - course: MSc em ???
-    institution: Nome da Instituição
-    year: ANO
-  - course: BSc em ???
-    institution: Nome da Instituição
-    year: ANO
+#  - course: PhD em ???
+#    institution: Nome da Instituição
+#    year: ANO
+#  - course: MSc em ???
+#    institution: Nome da Instituição
+#    year: ANO
+  - course: BSc em Engenharia de Computação
+    institution: Universidade Tecnológica Federal do Paraná UTFPR
+    year: 2022
 
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
@@ -76,28 +73,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:EMAIL@PESSOAL.COM
+  link: mailto:leticiamoreira@alunos.utfpr.edu.br
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/IDLATTES
+  link: http://lattes.cnpq.br/2116675564052365 
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+# icon_pack: ai
+# link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/Leticia147
 ---
 
-Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
+Estudante do curso de Engenharia de Computação no campus Pato Branco desenvolverá um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos.
 
-### UTFPR -- PIBIC 2018/2019
+### UTFPR -- PIBIC 2021
 
-__Título__: Título do projeto ou plano de trabalho que você está desenvolvendo<br>
-__Data de início__: YYYY-MM-DD<br>
-__Data de término__: YYYY-MM-DD
+__Título__: Desenvolvimento de um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos<br>
+__Data de início__: 2021-03-01<br>
+__Data de término__: 2021-06-31
 
 {{% btn %}}
-  [Plano de trabalho](url-do-plano-de-trabalho)
+  [Plano de trabalho](https://docs.google.com/document/u/1/d/1rBmD7tSX8j4myaGMpj7htKkzDNq86vsr/edit)
 {{% /btn %}}
 {{% btn %}}
   [Relatório de atividades](url-do-relatorio-de-atividades)
