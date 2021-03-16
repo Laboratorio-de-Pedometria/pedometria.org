@@ -34,7 +34,8 @@ user_groups:
 # - Coorientado(a) de Doutorado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "<Escolha a opção acima que melhor descreve sua função>"
+# - Orientado(a) Mestrado
+role: "Orientado(a) de Mestrado"
 
 # Organizações/Afiliações
 organizations:
@@ -42,7 +43,7 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "<Redija até duas linhas de texto>"
+bio: " Engenheira Agrônoma pela União Dinâmica de Faculdades Cataratas-Câmpus Medianeira e mestranda em Tecnologias Computacionais para o Agronegócio UTFPR-Medianeira."
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
@@ -58,15 +59,15 @@ interests:
 # Caso não tenha concluído algum desses níveis, comente usando #
 education:
   courses:
-  - course: PhD em ???
-    institution: Nome da Instituição
+#  - course: PhD em ???
+#    institution: Nome da Instituição
+#    year: ANO
+  - course: MSc em Tecnologias Computacionais para o Agronegócio
+    institution: Universidade Tecnológica Federal do Paraná
     year: ANO
-  - course: MSc em ???
-    institution: Nome da Instituição
-    year: ANO
-  - course: BSc em ???
-    institution: Nome da Instituição
-    year: ANO
+  - course: BSc em Engenharia Agrônoma 
+    institution: União Dinâmica de Faculdades Cataratas
+    year: 2020
 
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
@@ -76,7 +77,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:EMAIL@PESSOAL.COM
+  link: mailto:biancafachinsilva@hotmail.com
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/IDLATTES
@@ -90,11 +91,11 @@ social:
 
 Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
 
-### UTFPR -- PIBIC 2018/2019
+### UTFPR -- PIBIC 2021/2022
 
 __Título__: Título do projeto ou plano de trabalho que você está desenvolvendo<br>
-__Data de início__: YYYY-MM-DD<br>
-__Data de término__: YYYY-MM-DD
+__Data de início__: 2021-03-01<br>
+__Data de término__: 2022-12-31
 
 {{% btn %}}
   [Plano de trabalho](url-do-plano-de-trabalho)
