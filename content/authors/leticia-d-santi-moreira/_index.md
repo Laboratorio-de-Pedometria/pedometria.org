@@ -54,14 +54,14 @@ interests:
 # Inclui graduação, mestrado e doutorado
 # Caso não tenha concluído algum desses níveis, comente usando #
 #education:
-#  courses:
+  courses:
 #  - course: PhD em ???
 #    institution: Nome da Instituição
 #    year: ANO
 #  - course: MSc em ???
 #    institution: Nome da Instituição
 #    year: ANO
-#  - course: BSc em ???
+  - course: BSc em Engenharia de Computação
     institution: Universidade Tecnológica Federal do Paraná UTFPR
     year: 2022
 
