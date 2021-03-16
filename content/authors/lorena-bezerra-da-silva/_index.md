@@ -7,12 +7,12 @@ draft: false
 # Use o Inkscape (https://inkscape.org/pt-br/) ou o Gimp (https://www.gimp.org/) para preparar a imagem
 
 # Seu nome completo
-title: "Letícia D Santi Moreira"
+title: "Lorena Bezerra da Silva"
 
 # Nome de usuário no website
 # Deve coincidir com o nome do diretório e o nome em publicações
 # Nome completo, em letras minúsculas, sem acentuação, com espaços substituídos por traço
-authors: "leticia-d-santi-moreira"
+authors: "lorena-bezerra-da-silva"
 
 # Não modifique esse parâmetro
 superuser: false
@@ -32,9 +32,11 @@ user_groups:
 # - Voluntário(a) de Iniciação Científica
 # - Voluntário(a) de Iniciação a Extensão
 # - Coorientado(a) de Doutorado
+# - Orientado(a) Mestrado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "Bolsista de Iniciação Científica"
+# - Monitor(a) de Graduação
+role: "Monitora de Graduação"
 
 # Organizações/Afiliações
 organizations:
@@ -42,28 +44,31 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "Estudante de Engenharia da Computação na Universidade Tecnológica Federal do Paraná, câmpus Pato Branco."
+bio: "<Redija até duas linhas de texto>"
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
 interests:
-  - "Programação"
-  - "Aprendizado de máquina"
+  - "Estatística Aplicada"
+  - "Experimentação Agrícola"
+  # - "Interesse 3"
+  # - "Interesse 4"
+  # - "Interesse 5"
 
 # Educação formal: título, instituição e ano de conclusão
 # Inclui graduação, mestrado e doutorado
 # Caso não tenha concluído algum desses níveis, comente usando #
 education:
   courses:
-#  - course: PhD em ???
-#    institution: Nome da Instituição
-#    year: ANO
-#  - course: MSc em ???
-#    institution: Nome da Instituição
-#    year: ANO
-  - course: BSc em Engenharia da Computação (e-MEC 115616)
+  # - course: PhD em ???
+  #   institution: Nome da Instituição
+  #   year: ANO
+  # - course: MSc em ???
+  #   institution: Nome da Instituição
+  #   year: ANO
+  - course: BSc em Agronomia (e-MEC 1443199)
     institution: Universidade Tecnológica Federal do Paraná
-    year: 2022
+    year: em andamento
 
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
@@ -73,31 +78,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:leticiamoreira@alunos.utfpr.edu.br
+  link: mailto:EMAIL@PESSOAL.COM
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/2116675564052365 
-# - icon: google-scholar
-# icon_pack: ai
-# link: https://scholar.google.com/citations?user=PERSON-ID
+  link: http://lattes.cnpq.br/IDLATTES
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/Leticia147
+  link: https://github.com/USERNAME
 ---
 
-Estudante de Engenharia da Computação na Universidade Tecnológica Federal do Paraná, Câmpus Pato branco (UTFPR-PB). Durante minha graduação, ministrei aulas de informática básica para a terceira idade no projeto Escola PatoBranco Digital. Também participei como desenvolvedora da cédula drone da equipe de robótica da universidade, a PatoBots.
+Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
 
-### UTFPR -- REA 2020
+### UTFPR -- MONITORIA 2021
 
-__Título__: Desenvolvimento de um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos<br>
-__Data de início__: 2021-03-01<br>
-__Data de término__: 2021-06-31
+__Título__: Monitoria de Estatística Aplicada à Agronomia<br>
+__Data de início__: YYYY-MM-DD<br>
+__Data de término__: YYYY-MM-DD
 
 {{% btn %}}
-  [Plano de trabalho](https://docs.google.com/document/u/1/d/1rBmD7tSX8j4myaGMpj7htKkzDNq86vsr/)
+  [Plano de trabalho](https://docs.google.com/document/d/1sySO7NM2nP0Tdy9i31Mieu3aMuptMzgPiHWhl6JmaOw/edit?usp=sharing)
 {{% /btn %}}
-<!--
 {{% btn %}}
-  [Relatório de atividades](url-do-relatorio-de-atividades)
+  [Relatório de atividades](https://docs.google.com/document/d/1MV4OK9XoPYF3OnxPS2e0qSqhwSHvkHvaMnDcluCaDOs/edit?usp=sharing)
 {{% /btn %}}
--->

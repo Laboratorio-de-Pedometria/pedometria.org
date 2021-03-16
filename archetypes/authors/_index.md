@@ -32,6 +32,7 @@ user_groups:
 # - Voluntário(a) de Iniciação Científica
 # - Voluntário(a) de Iniciação a Extensão
 # - Coorientado(a) de Doutorado
+# - Orientado(a) Mestrado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
 role: "<Escolha a opção acima que melhor descreve sua função>"

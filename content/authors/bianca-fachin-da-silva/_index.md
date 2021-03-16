@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 # Documentação: https://sourcethemes.com/academic/docs/managing-content/
 
 # Adicione uma imagem PNG ou JPG de seu busto nomeada 'avatar' ao diretório desta página
@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Grupo 1
+- Estudantes de Pós-Graduação
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
@@ -35,7 +35,7 @@ user_groups:
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
 # - Orientado(a) Mestrado
-role: "Orientado(a) de Mestrado"
+role: "Orientada de Mestrado"
 
 # Organizações/Afiliações
 organizations:
@@ -43,16 +43,16 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: " Engenheira Agrônoma pela União Dinâmica de Faculdades Cataratas-Câmpus Medianeira e mestranda em Tecnologias Computacionais para o Agronegócio UTFPR-Medianeira."
+bio: "Engenheira Agrônoma pela União Dinâmica de Faculdades Cataratas, câmpus Medianeira. Mestranda em Tecnologias Computacionais para o Agronegócio na Universidade Tecnológica Federal do Paraná, câmpus Medianeira."
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
 interests:
-  - "Interesse 1"
-  - "Interesse 2"
-  - "Interesse 3"
-  - "Interesse 4"
-  - "Interesse 5"
+  - "Ciência do Solo"
+  # - "Interesse 2"
+  # - "Interesse 3"
+  # - "Interesse 4"
+  # - "Interesse 5"
 
 # Educação formal: título, instituição e ano de conclusão
 # Inclui graduação, mestrado e doutorado
@@ -64,8 +64,8 @@ education:
 #    year: ANO
   - course: MSc em Tecnologias Computacionais para o Agronegócio
     institution: Universidade Tecnológica Federal do Paraná
-    year: ANO
-  - course: BSc em Engenharia Agrônoma 
+    year: em andamento
+  - course: BSc em Agronomia
     institution: União Dinâmica de Faculdades Cataratas
     year: 2020
 
@@ -81,25 +81,27 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/IDLATTES
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+# - icon: google-scholar
+  # icon_pack: ai
+  # link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/Bianca-Fs
 ---
 
-Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
+Engenheira Agrônoma pela União Dinâmica de Faculdades Cataratas, câmpus Medianeira. Mestranda em Tecnologias Computacionais para o Agronegócio na Universidade Tecnológica Federal do Paraná, câmpus Medianeira.
 
-### UTFPR -- PIBIC 2021/2022
+### UTFPR -- CAPES DS 2021/2022
 
-__Título__: Título do projeto ou plano de trabalho que você está desenvolvendo<br>
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2021-03-01<br>
-__Data de término__: 2022-12-31
+__Data de término__: 2023-02-28
 
+<!--
 {{% btn %}}
   [Plano de trabalho](url-do-plano-de-trabalho)
 {{% /btn %}}
 {{% btn %}}
   [Relatório de atividades](url-do-relatorio-de-atividades)
 {{% /btn %}}
+-->

@@ -64,7 +64,7 @@ education: #
  # - course: MSc em ???
  #   institution: Nome da Instituição
  #   year: ANO
-  - course: BSc em Agronomia
+  - course: BSc em Agronomia (e-MEC 1443199)
     institution: Universidade Tecnológica Federal do Paraná
     year: em andamento
 
@@ -88,17 +88,19 @@ social:
   link: https://github.com/Vinicius-Marodin-de-Souza
 ---
 
-Vinícius Marodin de Souza, nascido em Medianeira-PR, no ano de 2001,  graduando em Agronomia na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Santa Helena.
+Vinícius Marodin de Souza, nascido em Medianeira-PR, no ano de 2001, graduando em Agronomia na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Santa Helena.
 
 ### UTFPR -- FA 2020/2021
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2021-03-01<br>
-<!-- __Data de término__: YYYY-MM-DD -->
+__Data de término__: YYYY-MM-DD
 
+<!--
 {{% btn %}}
   [Plano de trabalho](url-do-plano-de-trabalho)
 {{% /btn %}}
 {{% btn %}}
   [Relatório de atividades](url-do-relatorio-de-atividades)
 {{% /btn %}}
+-->
