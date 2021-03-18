@@ -44,7 +44,7 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "<Redija até duas linhas de texto>"
+bio: "<Estudante de Agronomia na Universidade Tecnológica Federal do Paraná, campus Santa Helena.>"
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
@@ -78,25 +78,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:EMAIL@PESSOAL.COM
+  link: mailto:lorenabezerra27@gmail.com
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/IDLATTES
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/lorenabezerra
 ---
-
-Biografia longa, mostrada na sua página. Sugere-se utilizar o texto do Lattes ou similar. Você também pode adicionar mais informações que julgar pertinente para descrever sua atuação no Laboratório de Pedometria.
+Atualmente é monitora de estatística aplicada da Universidade Tecnológica Federal do Paraná. Tem experiência na área de Agronomia, com ênfase em Agronomia.
 
 ### UTFPR -- MONITORIA 2021
 
 __Título__: Monitoria de Estatística Aplicada à Agronomia<br>
-__Data de início__: YYYY-MM-DD<br>
-__Data de término__: YYYY-MM-DD
+__Data de início__: 2021-03-05<br>
+__Data de término__: 2021-06-05
 
 {{% btn %}}
   [Plano de trabalho](https://docs.google.com/document/d/1sySO7NM2nP0Tdy9i31Mieu3aMuptMzgPiHWhl6JmaOw/edit?usp=sharing)
