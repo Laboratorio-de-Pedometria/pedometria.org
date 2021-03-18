@@ -44,7 +44,7 @@ organizations:
     url: http://www.utfpr.edu.br/
 
 # Biografia curta, mostrada no final das postagens de sua autoria
-bio: "<Estudante de Agronomia na Universidade Tecnológica Federal do Paraná, campus Santa Helena.>"
+bio: "Estudante de Agronomia na Universidade Tecnológica Federal do Paraná, campus Santa Helena."
 
 # Liste até cinco de seus interesses técnico-científicos
 # Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
@@ -81,7 +81,7 @@ social:
   link: mailto:lorenabezerra27@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/IDLATTES
+  link: http://lattes.cnpq.br/3162896206273856
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
@@ -89,7 +89,7 @@ social:
   icon_pack: fab
   link: https://github.com/lorenabezerra
 ---
-Atualmente é monitora de estatística aplicada da Universidade Tecnológica Federal do Paraná. Tem experiência na área de Agronomia, com ênfase em Agronomia.
+Atualmente é monitora de estatística aplicada da Universidade Tecnológica Federal do Paraná. Tem experiência na área de Agronomia.
 
 ### UTFPR -- MONITORIA 2021
 
