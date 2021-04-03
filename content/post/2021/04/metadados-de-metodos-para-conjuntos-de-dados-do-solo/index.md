@@ -1,0 +1,123 @@
+---
+# Documentação: https://sourcethemes.com/academic/docs/managing-content/
+
+# Título da postagem
+# Inicie as palavras com letra maiúscula (title case)
+# Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
+title: "Metadados de Métodos para Conjuntos de Dados do Solo"
+subtitle: ""
+summary: ""
+
+# Autores da postagem
+# Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
+authors:
+  - admin
+
+# Palavras-chave da postagem (especifique três ou mais)
+tags:
+  - ""
+
+# Categoria do conteúdo da página (escolha uma ou mais)
+# - Bolsa
+# - Desenvolvimento
+# - Ensino
+# - Equipe
+# - Evento
+# - Extensão
+# - Minicurso
+# - Palestra
+# - Pesquisa
+# - Publicação
+# - Software
+categories:
+  - "Pesquisa"
+  - "Extensão"
+
+date: 2021-04-03T19:38:47-03:00
+featured: false
+draft: false
+
+# Featured image
+# Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
+# focal_point: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: <a href="https://commons.wikimedia.org/wiki/File:Soil_fertility_analysis_7_Samples_for_Zn_Mn_%26_Cu_by_AA.jpg">Alandmanson</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  focal_point: ""
+  preview_only: false
+
+# Projetos
+# Associe esta postagem com um ou mais dos projetos do Laboratório de Pedometria
+# Use o nome do diretório do projeto:
+# - febr: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
+# - spsann: Otimização de Amostras Espaciais via Recozimento Simulado (SPSANN)
+# Caso não esteja associado a projeto, use 'projects = []'
+projects:
+- febr
+output:
+  md_document:
+    preserve_yaml: true
+---
+
+<!-- rmarkdown::render("content/post/2021/04/metadados-de-metodos-para-conjuntos-de-dados-do-solo/index.Rmd") -->
+Um dos conteúdos mais importantes de qualquer conjunto de dados da
+pesquisa são os metadados de métodos. Os **metadados de métodos**
+descrevem como os dados foram produzidos. Eles incluem, desde aspectos
+relacionados à amostragem, passando pelos menores detalhes sobre os
+procedimentos laboratoriais implementados, até as correções e
+transformações aplicadas aos dados antes de seu uso.
+
+Os metadados de métodos são fundamentais para possibilitar o reúso
+seguro dos dados da pesquisa num futuro próximo (cinco anos) ou distante
+(50 ou mais anos). E isso se aplica, tanto a terceiros, como a quem
+produziu os dados. Sem os metadados de métodos, a decisão sobre reusar
+ou não um conjunto de dados, e qual a maneira mais apropriada de fazer
+isso, fica repleta de incertezas. As pessoas interessadas em reusar os
+dados acabam tendo o trabalho adicional de contactar os produtores dos
+dados para obter mais informações. Muitas vezes, esse trabalho adicional
+se mostra ineficiente ou, até mesmo, impossível. Isso porque os
+produtores dos dados podem não ter muitas informações adicionais para
+compartilhar e, na pior das hipóteses, já são falecidos e não deixaram
+nenhum registro documental.
+
+Os metadados de métodos também são fundamentais quando queremos utilizar
+dados de dois ou mais conjuntos de dados de modo combinado. São eles que
+permitem definir se dados de diferentes origens podem ser combinados e
+qual é a maneira mais apropriada de fazermos sua junção. Para
+compreender melhor esse cenário, suponha que dispomos de dois conjunto
+de dados. Ambos consistem na classificação taxonômica de perfis de solo,
+identificada utilizando uma mesma edição do Sistema Brasileiro de
+Classificação de Solos. A junção dos dois conjuntos de dados parece
+razoável, dado que lidam com a mesma variável, a classificação
+taxonômica.
+
+Agora suponha que, ao consultarmos a descrição dos métodos de campo e
+laboratório, identificamos que cada conjunto de dados foi produzido
+utilizando métodos consideravelmente distintos. Um deles utilizou
+descrições morfológicas e resultados de análises laboratoriais de
+amostras coletadas em trincheiras. Já o outro usou apenas descrições
+morfológicas de amostras coletadas em sondagens feitas com trado
+holandês. Isso significa que as variáveis são operacionalmente distintas
+e sua junção exigirá algum tipo de pré-processamento. Contudo, como uma
+classificação taxonômica inferida a partir de sondagens com trado é mais
+incerta do que aquela identificada usando perfis completos, dependendo
+da aplicação intendida, a junção dos conjuntos de dados pode passar a
+ser questionável.
+
+<!-- ## Estrutura de metadados -->
+<!-- A tabela metadado possui estrutura diferente das demais tabelas usadas no febr. A primeira delas é que existe um número limitado de colunas, as quais estão organizadas em três grupos que serão vistos a seguir. As linhas ficam reservadas a cada um dos campos das tabelas observacao e camada. Sendo assim, cada coluna serve para descrever um atributo dos campos dessas duas tabelas. A Tabela 18 dá uma ideia da estrutura da tabela metadado. -->
+<!-- Os detalhes mais importantes sobre os campos das tabelas `observacao` e `camada` são armazenados na tabela metadado usando `campo_descricao`, `campo_unidade` e `campo_tipo`. O primeiro deles, `campo_descricao`, é o mais importante de todos, onde são armazenados todos os detalhes sobre a obtenção das informações armazenadas nas tabelas `observacao` e `camada`. Por exemplo, enquanto o campo `ferro_cloridrico_eaa` na tabela camada identifica o conteúdo de ferro no solo determinado por espectrofotometria de absorção atômica no extrato de solução de ácido clorídrico, a tabela metadado armazena informações sobre como as amostras do solo foram preparadas, a qualidade dos reagentes utilizados e dos equipamentos empregados, a sequência de passos adotados durante a análise laboratorial, as possíveis adaptações realizadas em relação ao método padrão, e assim por diante. Nesse caso, os identificadores `cloridrico` e `eaa` são responsáveis pela maior porção da variação nos resultados – quando diferentes métodos são comparados –, enquanto as informações em `campo_descricao` explicam as variações de menor magnitude nos resultados. -->
+<!-- Tabela 20. Campos descritores dos metadados. -->
+<!-- Campo -->
+<!-- Definição -->
+<!-- campo_descricao -->
+<!-- descrição textual do campo -->
+<!-- campo_unidade -->
+<!-- unidade de medida do campo -->
+<!-- campo_tipo -->
+<!-- tipo de dado do campo -->
+<!-- Os campos `campo_unidade` e `campo_tipo` destinam-se a informações mais específicas sobre os dados armazenados nas tabelas `observacao` e `camada`. O primeiro deles armazena a unidade de medida, a qual também é armazenada na segunda linha de ambas as tabelas `observacao` e `camada`. No momento, o autor ou responsável pelos dados precisa informar a unidade de medida em ambas as tabelas. Como isso pode ser fonte de erros, se pretende implementar no futuro uma rotina automatizada de preenchimento do campo campo_unidade a partir das informações inseridas nas tabelas observacao e camada. O segundo campo, `campo_tipo`, serve para armazenar a categorização das informações contidas nas observacao e camada. As categorias possíveis são descritas na Tabela \@ref(tab:tipos-de-dados). -->
+<!-- ```{r, tipos-de-dados, echo = FALSE, results = 'asis'} -->
+<!-- ``` -->
+<!-- O último grupo de colunas da tabela metadado está destinado à identificação do laboratório responsável pela geração dos dados armazenados nas tabelas observacao e camada. Essas informações são necessárias para que os usuários dos dados possam sanar quaisquer dúvidas sobre a consistência dos dados que por ventura surjam durante a sua utilização. -->
+<!-- ```{r, laboratorio, echo = FALSE, results = 'asis'} -->
+<!-- ``` -->
