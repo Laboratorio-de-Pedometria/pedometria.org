@@ -51,7 +51,7 @@ graph TB
   DELGADO -->|TRUE| ROCHA{"Ela está<br>assentada sobre<br>rocha?"}
   DELGADO -->|FALSE| 5CM{"A seção<br>mineral superficial<br>possui espessura<br>< 5 cm?"}
 
-  ROCHA -->|TRUE| C6{"O conteúdo<br>de C<sub>org</sub> é ≥ 6 g kg<sup>-1</sup>"}
+  ROCHA -->|TRUE| C6{"O conteúdo<br>de C<sub>org</sub> é ≥ 6 g kg<sup>-1</sup>?"}
   ROCHA -->|FALSE| 18CM{"Sua<br>espessura é<br>≥ 18 cm?"}
 
   18CM -->|TRUE| SAPROLITO{"Ela está<br>assentada sobre<br>horizonte ou<br>camada C?"}
