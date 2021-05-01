@@ -13,6 +13,8 @@ nocite: |
   @Jenny1941, @McKenzieEtAl1999, @HastieEtAl2009, @HenglEtAl2014, @Samuel-RosaEtAl2015, @Samuel-Rosa2012
 ---
 
+<!-- rmarkdown::render("static/slides/2019/08/minicurso-introducao-ao-mapeamento-digital-do-solo/index.Rmd") -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script>
     $(document).ready(function() {
