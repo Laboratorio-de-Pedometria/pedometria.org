@@ -2,7 +2,7 @@
 title: Repositório Brasileiro Livre para Dados Abertos do Solo
 slug: febr
 url: /febr/
-summary: "A febre dos dados de solo no Brasil"
+summary: FEBR
 authors:
   - admin
 image:
@@ -20,31 +20,70 @@ tags:
   - Dados Abertos
 ---
 
-{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
+<!-- {{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}} -->
+<!-- {{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}} -->
+<!-- {{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}} -->
+<!-- {{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}} -->
 
-## Acesso rápido às ferramentas
+## O que você quer fazer?
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="/febr/buscar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Buscar conjuntos de dados abertos do solo para reúso
+      </a>
+    </td>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="/febr/depositar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Depositar meu conjunto de dados abertos do solo
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/export" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Descarregar a planilha de organização de dados
+      </a>
+    </td>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/copy" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Copiar para meu Google Drive a planilha de organização de dados
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Instalar o pacote febr para o ambiente R de análise de dados
+      </a>
+    </td>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Contribuir no desenvolvimento do projeto
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp -->
 <!-- <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button"> -->
-<a href="/febr/buscar/" class="btn btn-primary btn-block" role="button">
+<!-- <a href="/febr/buscar/" class="btn btn-primary btn-block" role="button"> -->
   <!-- Buscar e Descarregar Conjuntos de Dados (shinyapp) -->
-  Buscar Conjuntos de Dados (DataTables)
-</a>
-<a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI" class="btn btn-success btn-block" role="button">
-  Planilha Modelo de Conjunto de Dados (v2)
-</a>
+  <!-- Buscar Conjuntos de Dados (DataTables) -->
+<!-- </a> -->
+<!-- <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/export" class="btn btn-success btn-block" role="button"> -->
+  <!-- Descarregar Planilha Modelo de Conjunto de Dados (v2) -->
+<!-- </a> -->
 <!-- <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button"> -->
-<a href="/febr/depositar/" class="btn btn-warning btn-block" role="button">
-  Depositar Conjunto de Dados (ownCloud)
-</a>
-<a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-danger btn-block" role="button">
-  Pacote febr para o Ambiente R (GitHub)
-</a>
+<!-- <a href="/febr/depositar/" class="btn btn-warning btn-block" role="button"> -->
+  <!-- Depositar Conjunto de Dados (ownCloud) -->
+<!-- </a> -->
+<!-- <a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-danger btn-block" role="button"> -->
+  <!-- Pacote febr para o Ambiente R (GitHub) -->
+<!-- </a> -->
 
-</br>
+<!-- </br> -->
 {{% callout note %}}
 Publicações relacionadas ao projeto estão no final da página!
 {{% /callout %}}
