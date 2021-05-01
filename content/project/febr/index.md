@@ -20,10 +20,9 @@ tags:
   - Dados Abertos
 ---
 
-<!-- {{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}} -->
-<!-- {{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}} -->
-<!-- {{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}} -->
-<!-- {{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}} -->
+O FEBR é o maior repositório de dados abertos do solo do Brasil!
+Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país.
+Você também pode publicar dados do solo que você tenha produzido.
 
 ## O que você quer fazer?
 
@@ -35,6 +34,18 @@ tags:
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Buscar dados do solo padronizados e harmonizados
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; background-color: white; border-top: white;">
+      <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+        Acessar a planilha de organização de dados do solo
+      </a>
+    </td>
+    <td style="width: 50%; background-color: white; border-top: white;">
       <a href="/febr/depositar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Depositar meu conjunto de dados abertos do solo
       </a>
@@ -42,19 +53,7 @@ tags:
   </tr>
   <tr>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/export" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
-        Baixar a planilha de organização de dados do solo
-      </a>
-    </td>
-    <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/copy" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
-        Copiar a planilha de organização de dados do solo
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="https://github.com/samuel-rosa/febr-package/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <a href="/software/febr/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Instalar o pacote febr para o ambiente R de análise de dados
       </a>
     </td>
@@ -65,6 +64,8 @@ tags:
     </td>
   </tr>
 </table>
+
+Não encontrou o que precisava? Consulte as [perguntas mais frequentes](/febr/faq)!
 
 <!-- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp -->
 <!-- <a href="https://pedometria.shinyapps.io/febr/" class="btn btn-primary btn-block" role="button"> -->
@@ -84,9 +85,9 @@ tags:
 <!-- </a> -->
 
 <!-- </br> -->
-{{% callout note %}}
-Publicações relacionadas ao projeto estão no final da página!
-{{% /callout %}}
+<!-- {{% callout note %}} -->
+<!-- Publicações relacionadas ao projeto estão no final da página! -->
+<!-- {{% /callout %}} -->
 
 <!-- ## Procurar Dados
 

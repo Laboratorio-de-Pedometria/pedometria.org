@@ -18,34 +18,29 @@ project:
   - febr
 ---
 
-{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
+[Voltar à página inicial do projeto](/febr)
 
 ## Depositar conjuntos de dados
 
-Se você produz dados do solo, no campo ou laboratório, então chegou ao lugar certo. O FEBR é o maior repositório de dados abertos do solo do Brasil. Aqui você publica dados de quaisquer propriedades solo: granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
+Aqui você publica dados de quaisquer propriedades solo: granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
-{{% callout note %}}
-  Conheça nossa [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0)!
-{{% /callout %}}
+<a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-primary btn-lg btn-block" role="button" style="font-size: 1rem; line-height: 2;">
+  Acessar portal de depósito de conjunto de dados abertos do solo
+</a>
 
-Depositar os dados do solo que você produziu é muito fácil:
+### Passos para o depósito dos dados
 
-1. Organize os dados numa planilha eletrônica usando nosso [modelo](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI).
-1. Carregue a planilha eletrônica no [portal de depósito](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX).
-1. Nos envie uma [mensagem](../../#contato) para confirmar o recebimento do arquivo.
+Você deve seguir três passos para depositar seu conjunto de dados do solo:
+
+1. Organize os dados usando nosso [modelo de planilha eletrônica](https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI)
+1. Carregue a planilha eletrônica no [portal de depósito](https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX)
+1. Nos envie uma [mensagem](../../#contato) para confirmar o recebimento do arquivo
 
 Caso você queira depositar um grande número de conjuntos de dados, entre em [contato](../../#contato) conosco para viabilizarmos a solução mais apropriada.
 
-<a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-warning btn-block" role="button">
-  Pressione aqui para acessar o</br></br>portal de depósito de conjunto de dados</br></br>(https://cloud.utfpr.edu.br)
-</a>
+### Recomendações para organização dos dados
 
----
-
-Veja algumas recomendações sobre como organizar dados para publicação.
+Veja algumas recomendações sobre como organizar seu conjunto de dados para depósito.
 
 <div style="border: 1px solid #ddd; padding: 8px; background-color: #f9f9f9; font-size: 0.8rem; line-height: 1.43; vertical-align: top; box-sizing: border-box;">
   <ul>
@@ -64,3 +59,9 @@ Veja algumas recomendações sobre como organizar dados para publicação.
     </ul>
   </ul>
 </div>
+
+Não encontrou o que precisava? Consulte as [perguntas mais frequentes](/febr/faq)!
+
+{{% callout note %}}
+  Conheça nossa [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0)!
+{{% /callout %}}

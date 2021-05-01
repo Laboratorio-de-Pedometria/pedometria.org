@@ -18,25 +18,14 @@ project:
   - febr
 ---
 
-{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
+[Voltar à página inicial do projeto](/febr)
 
 ## Buscar conjuntos de dados
 
-Se você usa dados do solo, então chegou ao lugar certo.
-O FEBR é o maior repositório de dados abertos do solo do Brasil.
 Aqui você encontra dados de diversas propriedades do solo de inúmeros locais do país:
 granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e
 porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA,
 difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
-
-{{% callout note %}}
-Você já conhece a [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0) do FEBR?
-{{% /callout %}}
-
-Encontrar os dados de que você precisa é muito fácil!
 
 <table id="buscafebr" class="display" style="width:100%">
   <thead>
@@ -54,3 +43,9 @@ Encontrar os dados de que você precisa é muito fácil!
     </tr>
   </tfoot>
 </table>
+
+Não encontrou o que precisava? Consulte as [perguntas mais frequentes](/febr/faq)!
+
+{{% callout note %}}
+  Conheça nossa [política de dados](https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0)!
+{{% /callout %}}
