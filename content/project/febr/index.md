@@ -43,12 +43,12 @@ tags:
   <tr>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/export" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
-        Descarregar a planilha de organização de dados
+        Baixar a planilha de organização de dados do solo
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/copy" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
-        Copiar para meu Google Drive a planilha de organização de dados
+        Copiar a planilha de organização de dados do solo
       </a>
     </td>
   </tr>
@@ -60,7 +60,7 @@ tags:
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
-        Contribuir no desenvolvimento do projeto
+        Contribuir no desenvolvimento do repositório de dados do solo
       </a>
     </td>
   </tr>
