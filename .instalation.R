@@ -56,3 +56,7 @@ blogdown::install_theme("wowchemy/starter-academic")
 #     shortname = "samuel-rosa"
 # [marketing]
 #   google_analytics = "UA-62786300-4"
+
+# renv::init()
+renv::snapshot()
+# update.packages(ask = FALSE, checkBuilt = TRUE)
