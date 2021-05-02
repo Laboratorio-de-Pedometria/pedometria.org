@@ -2,7 +2,7 @@
 title: Repositório Brasileiro Livre para Dados Abertos do Solo
 slug: febr
 url: /febr/
-summary: FEBR
+summary: " "
 authors:
   - admin
 image:
@@ -31,11 +31,13 @@ Você também pode publicar dados do solo que você tenha produzido.
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="/febr/buscar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Buscar conjuntos de dados abertos do solo para reúso
+        <br><i class="fa fa-search" aria-hidden="true"></i>
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Buscar dados do solo padronizados e harmonizados
+        <br><i class="fa fa-map" aria-hidden="true"></i>
       </a>
     </td>
   </tr>
@@ -43,11 +45,13 @@ Você também pode publicar dados do solo que você tenha produzido.
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="https://docs.google.com/spreadsheets/d/1rXIiT1zSYhFegSdAvE0yJX16q-bvXVNpYIYdd5YgjhI/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Acessar a planilha de organização de dados do solo
+        <br><i class="fa fa-file-excel" aria-hidden="true"></i>
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="/febr/depositar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Depositar meu conjunto de dados abertos do solo
+        <br><i class="fa fa-upload" aria-hidden="true"></i>
       </a>
     </td>
   </tr>
@@ -55,11 +59,13 @@ Você também pode publicar dados do solo que você tenha produzido.
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="/software/febr/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Instalar o pacote febr para o ambiente R de análise de dados
+        <br><i class="fa fa-wrench" aria-hidden="true"></i>
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <a href="" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Contribuir no desenvolvimento do repositório de dados do solo
+        <br><i class="fa fa-cogs" aria-hidden="true"></i>
       </a>
     </td>
   </tr>

@@ -1,7 +1,7 @@
 ---
 title: Repositório Brasileiro Livre para Dados Abertos do Solo
 date: 2020-11-10
-summary: "A febre dos dados de solo no Brasil"
+summary: " "
 authors:
   - admin
 categories:
@@ -35,10 +35,7 @@ details > p {
 }
 </style>
 
-{{% btn %}}<a href="/febr">Projeto</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/buscar">Busca</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/depositar">Depósito</a>{{% /btn %}}
-{{% btn %}}<a href="/febr/faq">FAQ</a>{{% /btn %}}
+[<i class="fa fa-home" aria-hidden="true"></i> Retornar à casa do projeto](/febr)
 
 ## Perguntas mais frequentes
 
