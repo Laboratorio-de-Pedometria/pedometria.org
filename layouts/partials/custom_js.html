@@ -17,7 +17,7 @@ $(document).ready(function() {
         language: {
             url: "//cdn.datatables.net/plug-ins/1.10.21/i18n/Portuguese-Brasil.json"
 	    },
-        ajax: {url: "../buscar/catalogo.txt"},
+        ajax: {url: "../buscar/catalogo.txt", processData: false},
         columns: [
             { "data": "dados_id", "width": "12%" },
             { "data": "dados_titulo", "width": "40%" },
