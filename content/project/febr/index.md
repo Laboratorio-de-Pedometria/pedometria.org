@@ -63,7 +63,7 @@ Você também pode publicar dados do solo que você tenha produzido.
       </a>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <a href="/febr/contribuir/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Contribuir no desenvolvimento do repositório de dados do solo
         <br><i class="fa fa-cogs" aria-hidden="true"></i>
       </a>
@@ -172,13 +172,7 @@ Caso você queira compartilhar um grande volume de (conjuntos de) dados, [entre 
 
 <!-- --- -->
 
-## Participar do Projeto
 
-Existem muitas maneiras de participar do projeto e contribuir para o desenvolvimento do FEBR. No momento, gostaríamos de contar com a sua ajuda num dos três pacotes de trabalho abaixo:
-
-* __Resgate de dados legados__: Resgate de dados de solo produzidos no século XX, muitos dos quais sob risco de serem perdidos para sempre, especialmente de áreas do território brasileiro ainda sub representadas no FEBR, como são os casos das regiões Centro-Oeste, Nordeste e Norte. Dados tabulares podem ser resgatados de documentos PDF utilizando o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/). Visite a [área de controle do resgate](https://github.com/samuel-rosa/febr-resgate) de conjuntos de dados.
-* __Curadoria de dados publicados__: Revisão de conjuntos de dados publicados no FEBR, inserindo dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros. Visite a [área de controle da curadoria](https://github.com/samuel-rosa/febr-curadoria) de conjuntos de dados.
-* __Dicionário de dados do solo__: Desenvolvimento e consolidação de [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
 
 ---
 

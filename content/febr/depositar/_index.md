@@ -25,7 +25,8 @@ project:
 Aqui você publica dados de quaisquer propriedades solo: granulometria, conteúdo de nutrientes, sais solúveis, frações da matéria orgânica, densidade e porosidade, retenção de água, respiração microbiana, diversidade da fauna, sequências de DNA e RNA, difratogramas de raios X, espectros Vis-NIR, MIR, NMR, FTIR e muito mais.
 
 <a href="https://cloud.utfpr.edu.br/index.php/s/Eh0FQpm9YfHYfLX" class="btn btn-primary btn-lg btn-block" role="button" style="font-size: 1rem; line-height: 2;">
-  Acessar portal de depósito de conjunto de dados abertos do solo
+  Acessar portal de depósito de conjuntos de dados abertos do solo
+  <br><i class="fa fa-upload" aria-hidden="true"></i>
 </a>
 
 ### Passos para o depósito dos dados
