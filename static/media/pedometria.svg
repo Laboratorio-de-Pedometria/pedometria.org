@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="pedometria.svg">
   <defs
      id="defs2">
@@ -360,6 +360,17 @@
          x="-1060.3335"
          y="437.10541" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1069">
+      <rect
+         style="opacity:0.79900004;fill:#afb3af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70312512;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1071"
+         width="190.5"
+         height="95.250008"
+         x="-37.298943"
+         y="456.5098" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -368,14 +379,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37551587"
-     inkscape:cx="-743.87584"
-     inkscape:cy="-359.88411"
+     inkscape:zoom="0.94097222"
+     inkscape:cx="-105.34184"
+     inkscape:cy="-783.66963"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
