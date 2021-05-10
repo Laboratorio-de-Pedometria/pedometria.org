@@ -39,25 +39,34 @@ O FEBR atua para resgatar e dar vida nova a esses dados!
 </a>
 <br>
 
-O resgate de dados do solo inicia pela digitalização dos documentos e armazenamento no formato PDF.
-Em seguida, é preciso realizar o reconhecimento óptico dos caracteres (OCR).
+O resgate de dados do solo inicia pela conversão dos documentos físicos (papel) para o formato digital (PDF).
+Em seguida, é preciso realizar o reconhecimento ótico dos caracteres ([OCR](https://pt.wikipedia.org/wiki/Reconhecimento_%C3%B3tico_de_caracteres)).
 Isso pode ser feito utilizando _softwares_ gratuitos como o [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor).
 
-O segundo passo consiste na transposição dos dados contidos no documento para uma planilha eletrônica.
-Para documentos mais antigos, essa transposição geralmente precisa ser realizada manualmente.
+O segundo passo consiste em transferir os dados contidos no documento para uma planilha eletrônica.
+Para documentos mais antigos, essa transferência geralmente precisa ser realizada manualmente.
 Já para documentos mais recentes, podem ser utilizados _softwares_ livres e de código aberto como o [Tabula](/postagem/extracao-de-dados-de-documentos-pdf/).
 
-O terceiro e último passo do resgate de dados é a seu depósito no FEBR.
-Para isso, a planilha eletrônica precisa atender aos padrões do repositório.
+O terceiro e último passo do resgate de dados do solo é o seu depósito no FEBR.
+Para isso, a planilha eletrônica precisa estar formatada de modo a atender aos padrões do repositório.
 Além disso, é preciso ter a autorização das pessoas ou instituições responsáveis pela geração dos dados.
-São elas que definem a licença sob a qual os dados serão depositados.
+São elas que definem a licença sob a qual o conjunto de dado será depositado.
 
 ### Curadoria de dados publicados
 
 Revisão de conjuntos de dados publicados no FEBR, inserindo dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros.
 
+* [Estimativa de Coordenadas Espaciais Usando Serviço WebGIS](https://docs.google.com/document/d/1LI8a-KM92US9WeHk6w0FJamIT0uwHOfEXX07n9SJt_M/edit?usp=sharing)
+
 ### Dicionário de dados do solo
 
 Desenvolvimento e consolidação de [sistema de descrição de métodos](https://goo.gl/hi77sB) de análise de solo (morfológica, química, física, entre outras) e identificação de variáveis do solo para fins de harmonização de dados de diferentes conjuntos de dados.
+
+A definição das regras de armazenamento, padronização e harmonização de dados do solo no FEBR é um processo contínuo.
+
+* [Cor de materiais do solo](https://docs.google.com/document/d/1XtRhSps4Zh2_X25KleyfZHhKLDvpl1bSUlQXrtrHBcM/edit?usp=sharing)
+* [Densidade de materiais do solo](https://docs.google.com/document/d/1NwGaYRjBEkO9JNNZ99QxxtgYBBMR1RLeAY3bFk7_NxE/edit?usp=sharing)
+
+<hr>
 
 Não encontrou o que precisava? Consulte as [perguntas mais frequentes](/febr/faq)!

@@ -43,7 +43,6 @@ Desenvolvido na linguagem [Java][java], o Tabula não tem a necessidade de ser i
 ![FIgura 1. Interface do Tabula em seu navegador da Internet favorito.](interface-do-tabula.png)
 _Figura 1. Interface do Tabula em seu navegador da Internet favorito._
 
-
 ### Quatro passos para libertar dados usando o Tabula
 
 Usando o Tabula, são precisos apenas quatro passos para libertar os dados do solo presos em arquivos PDF.
