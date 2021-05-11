@@ -94,7 +94,7 @@ image:
 url_slides: slides/2020/10/acesso-aberto-aos-dados-da-pesquisa-em-ciencia-do-solo
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/xAW0JktjlOI
 
 # Slides Markdown (opcional)
 # Associe esta palestra/curso com slides Markdown (reveal.js)
