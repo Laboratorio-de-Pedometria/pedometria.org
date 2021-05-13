@@ -10,7 +10,7 @@ title: Mapeamento espaço-temporal de propriedades do solo no Brasil
 event: MapBiomas Solos
 
 # Endereço do evento na internet
-event_url:
+event_url: https://sites.google.com/arapyau.org.br/1a-reuniao-mapbiomas-solos/
 
 # Local e endereço de realização do evento
 location:
