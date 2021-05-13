@@ -7,7 +7,7 @@
 title: Mapeamento espaço-temporal de propriedades do solo no Brasil
 
 # Nome do evento
-event: MapBiomas Solos
+event: MapBiomas + PronaSolos
 
 # Endereço do evento na internet
 event_url: https://sites.google.com/arapyau.org.br/1a-reuniao-mapbiomas-solos/
@@ -34,7 +34,7 @@ summary: "Proposta de mapeamento espaço-temporal de propriedades do solo no Bra
 # Se a palestra/curso durar o dia todo, basta especificar 'date' e ignorar 'date_end'
 # O horário de encerramento pode ser omitido usando o prefixo '#'
 date: 2021-05-13T10:00:00-03:00
-date_end: 2021-05-13T12:00:00-03:00
+date_end: 2021-05-13T12:30:00-03:00
 all_day: false
 
 # Cronograme a data de publicação desta página
@@ -50,6 +50,7 @@ tags:
   - Pedometria
   - Mapeamento Digital de Solos
   - Dados do Solo
+  - Sensoriamento Remoto
 
 # Categoria do conteúdo da página (escolha uma ou mais)
 # - Bolsa
