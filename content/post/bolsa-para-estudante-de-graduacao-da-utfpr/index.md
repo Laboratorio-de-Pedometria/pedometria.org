@@ -95,5 +95,5 @@ Experiência no uso da [linguagem e ambiente R][r] de análise de dados e
 
 ## Inscrições
 
-* Período: entre 17 e 21 de maio de 2021
+* Período: entre 17 e 31 de maio de 2021
   * Formulário: <https://forms.gle/mF3HjwbwZWmk8t698>
