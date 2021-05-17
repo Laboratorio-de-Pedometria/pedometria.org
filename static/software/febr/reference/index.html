@@ -10,21 +10,27 @@
 
 
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/simplex/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.4.0/simplex/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
-<!-- sticky kit -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script>
+<!-- headroom.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -48,9 +54,10 @@
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-reference-index">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -64,7 +71,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.3.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
       </span>
     </div>
 
@@ -72,7 +79,7 @@
       <ul class="nav navbar-nav">
         <li>
   <a href="../index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
   </a>
 </li>
@@ -89,7 +96,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://github.com/samuel-rosa/febr-package">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
   </a>
 </li>
@@ -100,6 +107,7 @@
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
@@ -123,18 +131,17 @@
           <p class="section-desc"><p>As funções estruturais servem para conhecer a estrutura das tabelas dos conjuntos de dados publicados no FEBR. Elas também servem para conhecer os padrões de codificação, nomenclatura, unidades de medida, número de casas decimais, entre outros, usados no FEBR.</p></p>
         </th>
       </tr>
+      
+      
+    </tbody><tbody>
+      
+      
       <tr>
         
         <td>
-          <p><code><a href="header.html">header()</a></code> </p>
+          <p><code><a href="dictionary.html">dictionary()</a></code> </p>
         </td>
-        <td><p>Get table header</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="standard.html">standard()</a></code> </p>
-        </td>
-        <td><p>Get <em>standards</em> table</p></td>
+        <td><p>Access the FEBR dictionary</p></td>
       </tr><tr>
         
         <td>
@@ -149,6 +156,11 @@
           <p class="section-desc"><p>As funções de acesso servem para descarregar os dados e metadados dos conjuntos de dados publicados no FEBR. Isso inclui as tabelas <code>dataset</code>, <code>observacao</code>, <code>camada</code>, e <code>metadado</code>.</p></p>
         </th>
       </tr>
+      
+      
+    </tbody><tbody>
+      
+      
       <tr>
         
         <td>
@@ -158,33 +170,27 @@
       </tr><tr>
         
         <td>
-          <p><code><a href="identification.html">identification()</a></code> <code><a href="identification.html">dataset()</a></code> </p>
+          <p><code><a href="identification.html">identification()</a></code> </p>
         </td>
-        <td><p>Get <em>identification</em> table</p></td>
+        <td><p>Get 'identification' table</p></td>
       </tr><tr>
         
         <td>
           <p><code><a href="metadata.html">metadata()</a></code> </p>
         </td>
-        <td><p>Get <em>metadata</em> table</p></td>
+        <td><p>Get 'metadata' table</p></td>
       </tr><tr>
         
         <td>
           <p><code><a href="observation.html">observation()</a></code> </p>
         </td>
-        <td><p>Get soil observations</p></td>
+        <td><p>Get 'observation' table</p></td>
       </tr><tr>
         
         <td>
           <p><code><a href="layer.html">layer()</a></code> </p>
         </td>
-        <td><p>Get <em>layer</em> table</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="febr.html">febr()</a></code> </p>
-        </td>
-        <td><p>Get all dataset tables</p></td>
+        <td><p>Get 'layer' table</p></td>
       </tr>
     </tbody><tbody>
       <tr>
@@ -193,10 +199,15 @@
           <p class="section-desc"><p>As funções auxiliares servem para realizar tarefas complementares às funções estruturais e de acesso, assim apoiando o processamento e uso dos dados descarregados do FEBR, por exemplo, a criação de objetos de outras classes e a exportação dos dados.</p></p>
         </th>
       </tr>
+      
+      
+    </tbody><tbody>
+      
+      
       <tr>
         
         <td>
-          <p><code><a href="febr2spdf.html">febr2spdf()</a></code> <code><a href="febr2spdf.html">febr2sf()</a></code> </p>
+          <p><code><a href="febr2sf.html">febr2sf()</a></code> </p>
         </td>
         <td><p>Create an sf object</p></td>
       </tr><tr>
@@ -208,29 +219,41 @@
       </tr><tr>
         
         <td>
-          <p><code><a href="febr2xlsx.html">febr2xlsx()</a></code> </p>
+          <p><code><a href="febr2sse.html">febr2sse()</a></code> </p>
         </td>
-        <td><p>Write data to an Excel workbook</p></td>
+        <td><p>Conversion between FEBR and SmartSolos Expert (SSE) soil profile data formats</p></td>
       </tr><tr>
         
         <td>
-          <p><code><a href="febr2smartsolos.html">febr2smartsolos()</a></code> <code><a href="febr2smartsolos.html">smartsolos2febr()</a></code> </p>
+          <p><code><a href="morphology.html">morphology()</a></code> </p>
         </td>
-        <td><p>Conversion between FEBR and SMARTSolos soil profile data formats</p></td>
+        <td><p>Soil morphology
+Extract and process soil morphological properties from field soil morphology descriptions.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="readIndex.html">readIndex()</a></code> </p>
+        </td>
+        <td><p>Utilities</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="taxonomy.html">taxonomy()</a></code> </p>
+        </td>
+        <td><p>Soil taxonomy
+Extract and process soil taxonomic data from textual soil classification description.</p></td>
       </tr>
     </tbody>
     </table>
   </div>
 
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <h2>Conteúdo</h2>
-    <ul class="nav nav-pills nav-stacked">
-      <li><a href="#section-fun-es-estruturais">Funções estruturais</a></li>
-      <li><a href="#section-fun-es-de-acesso">Funções de acesso</a></li>
-      <li><a href="#section-fun-es-auxiliares">Funções auxiliares</a></li>
-    </ul>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -240,13 +263,16 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Exceto quando proveniente de outras fontes ou onde especificado o contrário, o conteúdo desta página está licenciado sob uma licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 </div>
 <div class="pkgdown">
-  <p>Página construída com <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.</p>
+  <p>Página construída com <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 

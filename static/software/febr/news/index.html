@@ -10,21 +10,27 @@
 
 
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/simplex/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.4.0/simplex/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
-<!-- sticky kit -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script>
+<!-- headroom.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -48,9 +54,10 @@
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-news">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -64,7 +71,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.3.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
       </span>
     </div>
 
@@ -72,7 +79,7 @@
       <ul class="nav navbar-nav">
         <li>
   <a href="../index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
   </a>
 </li>
@@ -89,7 +96,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://github.com/samuel-rosa/febr-package">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
   </a>
 </li>
@@ -100,194 +107,380 @@
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Changelog <small></small></h1>
+      <h1 data-toc-skip>Changelog <small></small></h1>
       <small>Fonte: <a href='https://github.com/samuel-rosa/febr-package/blob/master/NEWS.md'><code>NEWS.md</code></a></small>
     </div>
 
-    <div id="febr-1-3-1" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-3-1" class="anchor"></a>febr 1.3.1<small> Unreleased </small>
+    <div id="febr-170" class="section level1">
+<h1 class="page-header" data-toc-text="1.7.0">
+<a href="#febr-170" class="anchor"></a>febr 1.7.0<small> Unreleased </small>
+</h1>
+<ul>
+<li>Code and documentation clean up.</li>
+<li>Defuncts obsolete function: <code>dataset</code>, <code>febr</code>, <code>febr2spdf</code>, <code>febr2xlsx</code>, <code>standard</code>, <code>header</code>.</li>
+</ul>
+</div>
+    <div id="febr-164" class="section level1">
+<h1 class="page-header" data-toc-text="1.6.4">
+<a href="#febr-164" class="anchor"></a>febr 1.6.4<small> Unreleased </small>
+</h1>
+<ul>
+<li>Start using the <strong>data.table</strong> package for faster data processing.</li>
+<li>Code and documentation cleanup.</li>
+<li>New utility function <code><a href="../reference/readIndex.html">readIndex()</a></code> for reading the TXT file listing all data sets published in the FEBR.</li>
+</ul>
+</div>
+    <div id="febr-163" class="section level1">
+<h1 class="page-header" data-toc-text="1.6.3">
+<a href="#febr-163" class="anchor"></a>febr 1.6.3<small> Unreleased </small>
+</h1>
+<ul>
+<li>
+<code>morphology</code>: deals with depth data between parenthesis when retrieving soil color data.</li>
+</ul>
+</div>
+    <div id="febr-162" class="section level1">
+<h1 class="page-header" data-toc-text="1.6.2">
+<a href="#febr-162" class="anchor"></a>febr 1.6.2<small> Unreleased </small>
+</h1>
+<ul>
+<li>
+<code>morphology</code>: deal with varying number of soil color records (1 or 2)</li>
+<li>Documentation updates.</li>
+</ul>
+</div>
+    <div id="febr-161" class="section level1">
+<h1 class="page-header" data-toc-text="1.6.1">
+<a href="#febr-161" class="anchor"></a>febr 1.6.1<small> Unreleased </small>
+</h1>
+<ul>
+<li>
+<code>morphology</code>: retrieve soil color data when accents are missing (“umido” or “umida”)</li>
+</ul>
+</div>
+    <div id="febr-160" class="section level1">
+<h1 class="page-header" data-toc-text="1.6.0">
+<a href="#febr-160" class="anchor"></a>febr 1.6.0<small> Unreleased </small>
+</h1>
+<ul>
+<li>
+<code>febr2sse</code>: updates nomenclature (SmartSolos Expert and sse); process soil consistency data</li>
+<li>
+<code>morphology</code>: retrieve soil consistency data</li>
+</ul>
+</div>
+    <div id="febr-157" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.7">
+<a href="#febr-157" class="anchor"></a>febr 1.5.7<small> Unreleased </small>
+</h1>
+<ul>
+<li>Patch: guarantee that <code>rmarkdown</code> is up to date to build vignettes.</li>
+</ul>
+</div>
+    <div id="febr-156" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.6">
+<a href="#febr-156" class="anchor"></a>febr 1.5.6<small> Unreleased </small>
+</h1>
+<ul>
+<li>Cleans code and documentation.</li>
+</ul>
+</div>
+    <div id="febr-155" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.5">
+<a href="#febr-155" class="anchor"></a>febr 1.5.5<small> Unreleased </small>
+</h1>
+<ul>
+<li>Sets a new file to store the ID of the datasets downloaded using the core function <code><a href="../reference/readFEBR.html">readFEBR()</a></code>.</li>
+</ul>
+</div>
+    <div id="febr-154" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.4">
+<a href="#febr-154" class="anchor"></a>febr 1.5.4<small> Unreleased </small>
+</h1>
+<ul>
+<li>New function <code><a href="../reference/dictionary.html">dictionary()</a></code>
+<ul>
+<li>Renames <code><a href="../reference/dataset.html">standard()</a></code>
+</li>
+<li>Argument <code>table</code> has two new valid values: <code>metadado</code> and <code>versionamento</code>.</li>
+</ul>
+</li>
+</ul>
+</div>
+    <div id="febr-153" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.3">
+<a href="#febr-153" class="anchor"></a>febr 1.5.3<small> Unreleased </small>
+</h1>
+<ul>
+<li>Code formatting and clean up.</li>
+<li>Improvements on how unitless variables are dealt with.</li>
+</ul>
+</div>
+    <div id="febr-152" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.2">
+<a href="#febr-152" class="anchor"></a>febr 1.5.2<small> Unreleased </small>
+</h1>
+<ul>
+<li>Code formatting and clean up.</li>
+<li>Improves documentation.</li>
+<li>Adds NA option (#N/A).</li>
+<li>Corrects bug in unit conversion.</li>
+</ul>
+</div>
+    <div id="febr-151" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.1">
+<a href="#febr-151" class="anchor"></a>febr 1.5.1<small> Unreleased </small>
+</h1>
+<ul>
+<li>Improves documentation.</li>
+</ul>
+</div>
+    <div id="febr-150" class="section level1">
+<h1 class="page-header" data-toc-text="1.5.0">
+<a href="#febr-150" class="anchor"></a>febr 1.5.0<small> Unreleased </small>
+</h1>
+<ul>
+<li>New function:
+<ul>
+<li>
+<code><a href="../reference/taxonomy.html">taxonomy()</a></code>. Extract and process soil taxonomic data from textual soil classification description. A vignette accompanies the new function.</li>
+</ul>
+</li>
+<li>Bug fix:
+<ul>
+<li>
+<code><a href="../reference/observation.html">observation()</a></code>. Corrects an issue in argument checking.</li>
+<li>Fixes invalid URLs.</li>
+</ul>
+</li>
+</ul>
+</div>
+    <div id="febr-140" class="section level1">
+<h1 class="page-header" data-toc-text="1.4.0">
+<a href="#febr-140" class="anchor"></a>febr 1.4.0<small> Unreleased </small>
+</h1>
+<ul>
+<li>New function <code>morphology</code> to extract and process soil morphological properties from field soil morphology descriptions.</li>
+<li>Adds data conversion routines in <code>febr2smartsolos</code> for the following soil variables: taxonomic classification, soil matrix color (wet and dry), soil structure.</li>
+</ul>
+</div>
+    <div id="febr-132" class="section level1">
+<h1 class="page-header" data-toc-text="1.3.2">
+<a href="#febr-132" class="anchor"></a>febr 1.3.2<small> Unreleased </small>
+</h1>
+<ul>
+<li>Improves translation of variable names when converting soil profile data between FEBR and SMARTSolos.</li>
+</ul>
+</div>
+    <div id="febr-131" class="section level1">
+<h1 class="page-header" data-toc-text="1.3.1">
+<a href="#febr-131" class="anchor"></a>febr 1.3.1<small> Unreleased </small>
 </h1>
 <ul>
 <li>Deals with suggested packages.</li>
 </ul>
 </div>
-    <div id="febr-1-3-0" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-3-0" class="anchor"></a>febr 1.3.0<small> Unreleased </small>
+    <div id="febr-130" class="section level1">
+<h1 class="page-header" data-toc-text="1.3.0">
+<a href="#febr-130" class="anchor"></a>febr 1.3.0<small> Unreleased </small>
 </h1>
 <ul>
 <li>New functions <code>febr2smartsolos()</code> and <code>smartsolos2febr()</code> for soil profile data conversion between FEBR and SMARTSolos.</li>
 </ul>
 </div>
-    <div id="febr-1-2-4" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-2-4" class="anchor"></a>febr 1.2.4<small> Unreleased </small>
+    <div id="febr-124" class="section level1">
+<h1 class="page-header" data-toc-text="1.2.4">
+<a href="#febr-124" class="anchor"></a>febr 1.2.4<small> Unreleased </small>
 </h1>
 <ul>
 <li>Improves documentation for new release.</li>
 </ul>
 </div>
-    <div id="febr-1-2-3" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-2-3" class="anchor"></a>febr 1.2.3<small> Unreleased </small>
+    <div id="febr-123" class="section level1">
+<h1 class="page-header" data-toc-text="1.2.3">
+<a href="#febr-123" class="anchor"></a>febr 1.2.3<small> Unreleased </small>
 </h1>
 <ul>
 <li>Improves documentation for new release.</li>
 </ul>
 </div>
-    <div id="febr-1-2-2" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-2-2" class="anchor"></a>febr 1.2.2<small> Unreleased </small>
+    <div id="febr-122" class="section level1">
+<h1 class="page-header" data-toc-text="1.2.2">
+<a href="#febr-122" class="anchor"></a>febr 1.2.2<small> Unreleased </small>
 </h1>
 <ul>
 <li>
-<code>readFEBR()</code>: improves output object.</li>
+<code><a href="../reference/readFEBR.html">readFEBR()</a></code>: improves output object.</li>
 </ul>
 </div>
-    <div id="febr-1-2-1" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-2-1" class="anchor"></a>febr 1.2.1<small> Unreleased </small>
+    <div id="febr-121" class="section level1">
+<h1 class="page-header" data-toc-text="1.2.1">
+<a href="#febr-121" class="anchor"></a>febr 1.2.1<small> Unreleased </small>
 </h1>
 <ul>
 <li>Improves package documentation.</li>
 <li>
-<code>readFEBR()</code>: new general purpose function to download raw data.</li>
+<code><a href="../reference/readFEBR.html">readFEBR()</a></code>: new general purpose function to download raw data.</li>
 </ul>
 </div>
-    <div id="febr-1-1-2" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-1-2" class="anchor"></a>febr 1.1.2<small> Unreleased </small>
+    <div id="febr-112" class="section level1">
+<h1 class="page-header" data-toc-text="1.1.2">
+<a href="#febr-112" class="anchor"></a>febr 1.1.2<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fix: correct file format i.e. TXT instead of CSV.</li>
 </ul>
 </div>
-    <div id="febr-1-1-1" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-1-1" class="anchor"></a>febr 1.1.1<small> Unreleased </small>
+    <div id="febr-111" class="section level1">
+<h1 class="page-header" data-toc-text="1.1.1">
+<a href="#febr-111" class="anchor"></a>febr 1.1.1<small> Unreleased </small>
 </h1>
 <ul>
-<li>Improvements:</li>
+<li>Improvements:
+<ul>
 <li>Includes changes to download data from new webserver</li>
 <li>New function argument <code>febr.repo</code> allows user to set where the data should be read from: the remote web server or a local directory</li>
-<li>Other changes:</li>
+</ul>
+</li>
+<li>Other changes:
+<ul>
 <li>
-<code>header()</code> is now deprecated due to the new file structure used in <strong>FEBR</strong>. Users can now rely on the already existing <code>metadata()</code> to get the same results</li>
+<code><a href="../reference/dataset.html">header()</a></code> is now deprecated due to the new file structure used in <strong>FEBR</strong>. Users can now rely on the already existing <code><a href="../reference/metadata.html">metadata()</a></code> to get the same results</li>
 <li>
-<code>febr2spdf()</code> is now defunct.</li>
+<code><a href="../reference/dataset.html">febr2spdf()</a></code> is now defunct.</li>
+</ul>
+</li>
 </ul>
 </div>
-    <div id="febr-1-1-0" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-1-0" class="anchor"></a>febr 1.1.0<small> 2020-03-17 </small>
+    <div id="febr-110" class="section level1">
+<h1 class="page-header" data-toc-text="1.1.0">
+<a href="#febr-110" class="anchor"></a>febr 1.1.0<small> 2020-03-17 </small>
 </h1>
 <ul>
-<li>Improvements:</li>
+<li>Improvements:
+<ul>
 <li>Packages <strong>googlesheets</strong>, <strong>googlesheets4</strong> and <strong>readr</strong> are not dependencies anymore;</li>
 <li>A new function <code>febr2sf</code> is available as a replacement for <code>febr2sp</code> – <strong>sp</strong> is not dependencies anymore;</li>
 <li>
 <code>febr2xlsx</code> is now deprecated – <strong>xlsx</strong> is not dependencies anymore;</li>
-<li>Bug fix:</li>
+</ul>
+</li>
+<li>Bug fix:
+<ul>
 <li>
 <code>layer</code>: standard variables are only set to type character when <code>stack = TRUE</code>.</li>
 </ul>
+</li>
+</ul>
 </div>
-    <div id="febr-1-0-3-9004" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3-9004" class="anchor"></a>febr 1.0.3.9004<small> Unreleased </small>
+    <div id="febr-1039004" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3.9004">
+<a href="#febr-1039004" class="anchor"></a>febr 1.0.3.9004<small> Unreleased </small>
 </h1>
 <ul>
 <li>Getting rid of <strong>googlesheets4</strong>.</li>
 </ul>
 </div>
-    <div id="febr-1-0-3-9003" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3-9003" class="anchor"></a>febr 1.0.3.9003<small> Unreleased </small>
+    <div id="febr-1039003" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3.9003">
+<a href="#febr-1039003" class="anchor"></a>febr 1.0.3.9003<small> Unreleased </small>
 </h1>
 <ul>
-<li>Using <code><a href="https://www.rdocumentation.org/packages/base/topics/Sys.sleep">Sys.sleep(time = 10)</a></code> to pass checks in functions examples. This is necessary because the new Google Sheets API has a limit of 500 requests per 100 seconds per project, and 100 requests per 100 seconds per user (<a href="https://developers.google.com/sheets/api/limits" class="uri">https://developers.google.com/sheets/api/limits</a>). This issue has also been found elsewhere, e.g. <a href="https://stackoverflow.com/questions/53765222/python-google-sheets-api-limit-429-error-with-loop" class="uri">https://stackoverflow.com/questions/53765222/python-google-sheets-api-limit-429-error-with-loop</a>. We soon will remove the dependency upon <strong>googlesheets4</strong> and thus solve this issue.</li>
+<li>Using <code><a href="https://rdrr.io/r/base/Sys.sleep.html">Sys.sleep(time = 10)</a></code> to pass checks in functions examples. This is necessary because the new Google Sheets API has a limit of 500 requests per 100 seconds per project, and 100 requests per 100 seconds per user (<a href="https://developers.google.com/sheets/api/limits" class="uri">https://developers.google.com/sheets/api/limits</a>). This issue has also been found elsewhere, e.g. <a href="https://stackoverflow.com/questions/53765222/python-google-sheets-api-limit-429-error-with-loop" class="uri">https://stackoverflow.com/questions/53765222/python-google-sheets-api-limit-429-error-with-loop</a>. We soon will remove the dependency upon <strong>googlesheets4</strong> and thus solve this issue.</li>
 <li>Preparing for removal of <strong>googlesheets4</strong> from the list of imports.</li>
 </ul>
 </div>
-    <div id="febr-1-0-3-9002" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3-9002" class="anchor"></a>febr 1.0.3.9002<small> Unreleased </small>
+    <div id="febr-1039002" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3.9002">
+<a href="#febr-1039002" class="anchor"></a>febr 1.0.3.9002<small> Unreleased </small>
 </h1>
 <ul>
-<li>Improvements:</li>
+<li>Improvements:
+<ul>
 <li>New function: <code>febr2sf</code> as a replacement for <code>febr2sp</code>;</li>
 <li>Replaces <strong>googlesheets</strong> with <code>.readGoogleSheets</code>;</li>
 <li>
 <code>febr2xlsx</code> is now deprecated and <strong>febr</strong> does not depend upon <strong>xlsx</strong> anymore;</li>
 <li>Improves documentation;</li>
-<li>Bug fixes:</li>
+</ul>
+</li>
+<li>Bug fixes:
+<ul>
 <li>
 <code>layer</code>: standard variables are only set to type character when <code>stack = TRUE</code>;</li>
 </ul>
+</li>
+</ul>
 </div>
-    <div id="febr-1-0-3-9001" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3-9001" class="anchor"></a>febr 1.0.3.9001<small> Unreleased </small>
+    <div id="febr-1039001" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3.9001">
+<a href="#febr-1039001" class="anchor"></a>febr 1.0.3.9001<small> Unreleased </small>
 </h1>
 <ul>
-<li>Improvements:</li>
+<li>Improvements:
+<ul>
 <li>Replaces <strong>sp</strong> with <strong>sf</strong>;</li>
 <li>Exports new data reading function: <code>.readGoogleSheets</code>;</li>
 <li>Improves documentation;</li>
-<li>Bug fixes:</li>
+</ul>
+</li>
+<li>Bug fixes:
+<ul>
 <li>
 <code>metadata</code>: get correct file id.</li>
 </ul>
+</li>
+</ul>
 </div>
-    <div id="febr-1-0-3-9000" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3-9000" class="anchor"></a>febr 1.0.3.9000<small> Unreleased </small>
+    <div id="febr-1039000" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3.9000">
+<a href="#febr-1039000" class="anchor"></a>febr 1.0.3.9000<small> Unreleased </small>
 </h1>
 <ul>
 <li>Replacing <strong>googlesheets</strong> with <strong>googlesheets4</strong>.</li>
 </ul>
 </div>
-    <div id="febr-1-0-3" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-3" class="anchor"></a>febr 1.0.3<small> 2020-01-25 </small>
+    <div id="febr-103" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.3">
+<a href="#febr-103" class="anchor"></a>febr 1.0.3<small> 2020-01-25 </small>
 </h1>
 <ul>
 <li>New version (patch) including internal changes in download functions and documentation improvements.</li>
 </ul>
 </div>
-    <div id="febr-1-0-2-9001" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-2-9001" class="anchor"></a>febr 1.0.2.9001<small> Unreleased </small>
+    <div id="febr-1029001" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.2.9001">
+<a href="#febr-1029001" class="anchor"></a>febr 1.0.2.9001<small> Unreleased </small>
 </h1>
 <ul>
 <li>Preparing for future modifications in data storage in <strong><em>febr</em></strong>. Now the sheet name (<code>dataset</code>, <code>observacao</code>, <code>camada</code> or <code>metadado</code>) is explicitly specified withing download functions. The user should not have to worry about this change.</li>
 </ul>
 </div>
-    <div id="febr-1-0-2-9000" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-2-9000" class="anchor"></a>febr 1.0.2.9000<small> Unreleased </small>
+    <div id="febr-1029000" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.2.9000">
+<a href="#febr-1029000" class="anchor"></a>febr 1.0.2.9000<small> Unreleased </small>
 </h1>
 <ul>
-<li>Bug fix: setting argument <code>missing = list(coord = 'drop')</code> in function <code>observation()</code> now correctly drops observations missing spatial coordinates. Thanks to Edberto Moura Lima, from the Federal University of Santa Maria, who identified the bug. Equivalent modifications were implemented in function <code>layer()</code>.</li>
+<li>Bug fix: setting argument <code>missing = list(coord = 'drop')</code> in function <code><a href="../reference/observation.html">observation()</a></code> now correctly drops observations missing spatial coordinates. Thanks to Edberto Moura Lima, from the Federal University of Santa Maria, who identified the bug. Equivalent modifications were implemented in function <code><a href="../reference/layer.html">layer()</a></code>.</li>
 </ul>
 </div>
-    <div id="febr-1-0-2" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-2" class="anchor"></a>febr 1.0.2<small> 2019-05-06 </small>
+    <div id="febr-102" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.2">
+<a href="#febr-102" class="anchor"></a>febr 1.0.2<small> 2019-05-06 </small>
 </h1>
 <ul>
 <li>New version (patch) – including several bug fixes.</li>
 </ul>
 </div>
-    <div id="febr-1-0-1-9003" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-1-9003" class="anchor"></a>febr 1.0.1.9003<small> Unreleased </small>
+    <div id="febr-1019003" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.1.9003">
+<a href="#febr-1019003" class="anchor"></a>febr 1.0.1.9003<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fixes:
@@ -297,61 +490,61 @@
 <li>
 <code>observatio()</code>: checking if the number of observations with date is greater than the number of observations without date.</li>
 <li>
-<code>unit()</code>: checking if the value passed to an argument is valid.</li>
+<code><a href="../reference/unit.html">unit()</a></code>: checking if the value passed to an argument is valid.</li>
 </ul>
 </li>
 </ul>
 </div>
-    <div id="febr-1-0-1-9002" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-1-9002" class="anchor"></a>febr 1.0.1.9002<small> Unreleased </small>
+    <div id="febr-1019002" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.1.9002">
+<a href="#febr-1019002" class="anchor"></a>febr 1.0.1.9002<small> Unreleased </small>
 </h1>
 <ul>
 <li>
 <code>#VALUE!</code> now is considered as <code>NA</code>. This can be found when a calculation is performed in one of the Google Sheets.</li>
 </ul>
 </div>
-    <div id="febr-1-0-1-9001" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-1-9001" class="anchor"></a>febr 1.0.1.9001<small> Unreleased </small>
+    <div id="febr-1019001" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.1.9001">
+<a href="#febr-1019001" class="anchor"></a>febr 1.0.1.9001<small> Unreleased </small>
 </h1>
 <ul>
 <li>
 <code>tr</code> now is considered as <code>NA</code>. This is frequently found in the <em>camada</em> table.</li>
 </ul>
 </div>
-    <div id="febr-1-0-1-9000" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-1-9000" class="anchor"></a>febr 1.0.1.9000<small> Unreleased </small>
+    <div id="febr-1019000" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.1.9000">
+<a href="#febr-1019000" class="anchor"></a>febr 1.0.1.9000<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fixes:
 <ul>
-<li>Many layers from datasets that have not gone through revision yet are lacking the identification code <code>camada_id</code>, which is automatically set to <code>NA_character_</code>. In these cases, when merging repeated layer data using <code>layer(standardization = list(repetition = "combine"))</code>, the entire observation would be merged. This was because for all layers <code>camada_id = NA_character_</code>, that is, <code>camada_id</code> was duplicated. Now duplicates are checked using <code><a href="https://www.rdocumentation.org/packages/base/topics/duplicated">duplicated(incomparables = NA)</a></code> to avoid incorrect merges.</li>
-<li>The lowermost limit of some layers is recorded as being a wavy or irregular layer trasitions. This is done using <code>/</code>. The depth data of these layes may include a plus sign indicating that the same material can be found deeper in the soil. This poses a difficulty when processing the plus sign with <code><a href="https://www.rdocumentation.org/packages/base/topics/eval">eval()</a></code> and <code><a href="https://www.rdocumentation.org/packages/base/topics/parse">parse()</a></code> because <code>/</code> is interpreted as a division sign. Now the presence of <code>/</code> is checked before deciding how to deal with the plus sign.</li>
+<li>Many layers from datasets that have not gone through revision yet are lacking the identification code <code>camada_id</code>, which is automatically set to <code>NA_character_</code>. In these cases, when merging repeated layer data using <code><a href="../reference/layer.html">layer(standardization = list(repetition = "combine"))</a></code>, the entire observation would be merged. This was because for all layers <code>camada_id = NA_character_</code>, that is, <code>camada_id</code> was duplicated. Now duplicates are checked using <code><a href="https://rdrr.io/r/base/duplicated.html">duplicated(incomparables = NA)</a></code> to avoid incorrect merges.</li>
+<li>The lowermost limit of some layers is recorded as being a wavy or irregular layer trasitions. This is done using <code><a href="https://rdrr.io/r/base/Arithmetic.html">/</a></code>. The depth data of these layes may include a plus sign indicating that the same material can be found deeper in the soil. This poses a difficulty when processing the plus sign with <code><a href="https://rdrr.io/r/base/eval.html">eval()</a></code> and <code><a href="https://rdrr.io/r/base/parse.html">parse()</a></code> because <code><a href="https://rdrr.io/r/base/Arithmetic.html">/</a></code> is interpreted as a division sign. Now the presence of <code><a href="https://rdrr.io/r/base/Arithmetic.html">/</a></code> is checked before deciding how to deal with the plus sign.</li>
 </ul>
 </li>
 </ul>
 </div>
-    <div id="febr-1-0-1" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-1" class="anchor"></a>febr 1.0.1<small> 2018-11-12 </small>
+    <div id="febr-101" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.1">
+<a href="#febr-101" class="anchor"></a>febr 1.0.1<small> 2018-11-12 </small>
 </h1>
 <ul>
 <li>New version (patch) – including several bug fixes.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9009" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9009" class="anchor"></a>febr 1.0.0.9009<small> Unreleased </small>
+    <div id="febr-1009009" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9009">
+<a href="#febr-1009009" class="anchor"></a>febr 1.0.0.9009<small> Unreleased </small>
 </h1>
 <ul>
 <li>Adjustments for new release.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9008" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9008" class="anchor"></a>febr 1.0.0.9008<small> Unreleased </small>
+    <div id="febr-1009008" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9008">
+<a href="#febr-1009008" class="anchor"></a>febr 1.0.0.9008<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fixes:
@@ -360,64 +553,67 @@
 <li>Corrects the stacking of measurement units and fields names.</li>
 <li>Takes into account that both ‘&lt;’ and ‘&lt;’ are used to indicate ‘less than’.</li>
 <li>
-<code>-</code> is used as a surrogate measurement unit for variables that are unitless.</li>
+<code><a href="https://rdrr.io/r/base/Arithmetic.html">-</a></code> is used as a surrogate measurement unit for variables that are unitless.</li>
 </ul>
 </li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9007" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9007" class="anchor"></a>febr 1.0.0.9007<small> Unreleased </small>
+    <div id="febr-1009007" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9007">
+<a href="#febr-1009007" class="anchor"></a>febr 1.0.0.9007<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fix: proceeds with standardization and harmonization only when the dataset has data on the selected variables. This should produce a minor speed improvement.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9006" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9006" class="anchor"></a>febr 1.0.0.9006<small> Unreleased </small>
+    <div id="febr-1009006" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9006">
+<a href="#febr-1009006" class="anchor"></a>febr 1.0.0.9006<small> Unreleased </small>
 </h1>
 <ul>
-<li>Bug fix: <code>-</code> is used as a surrogate measurement unit for variables that are unitless. This is necessary to perform data standardization.</li>
+<li>Bug fix: <code><a href="https://rdrr.io/r/base/Arithmetic.html">-</a></code> is used as a surrogate measurement unit for variables that are unitless. This is necessary to perform data standardization.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9005" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9005" class="anchor"></a>febr 1.0.0.9005<small> Unreleased </small>
+    <div id="febr-1009005" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9005">
+<a href="#febr-1009005" class="anchor"></a>febr 1.0.0.9005<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fix: exports correct data type when combining categorical data values when there are repeated measurements.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9004" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9004" class="anchor"></a>febr 1.0.0.9004<small> Unreleased </small>
+    <div id="febr-1009004" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9004">
+<a href="#febr-1009004" class="anchor"></a>febr 1.0.0.9004<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fix: stops execution of <code>layer</code> and <code>observation</code> when downloading a single dataset with <code>stack = TRUE</code>.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9003" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9003" class="anchor"></a>febr 1.0.0.9003<small> Unreleased </small>
+    <div id="febr-1009003" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9003">
+<a href="#febr-1009003" class="anchor"></a>febr 1.0.0.9003<small> Unreleased </small>
 </h1>
 <ul>
-<li>Accommodates changes in <strong><em>febr</em></strong>:</li>
+<li>Accommodates changes in <strong><em>febr</em></strong>:
+<ul>
 <li>Field <code>camada_numero</code> now is <code>camada_id</code>.</li>
 <li>Field <code>amostra_codigo</code> now is <code>amostra_id</code>.</li>
 </ul>
+</li>
+</ul>
 </div>
-    <div id="febr-1-0-0-9002" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9002" class="anchor"></a>febr 1.0.0.9002<small> Unreleased </small>
+    <div id="febr-1009002" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9002">
+<a href="#febr-1009002" class="anchor"></a>febr 1.0.0.9002<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fix: during the standardization of measurement units, now understands that measurements units are stored in the second line of tables <code>camada</code> and <code>observacao</code>.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9001" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9001" class="anchor"></a>febr 1.0.0.9001<small> Unreleased </small>
+    <div id="febr-1009001" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9001">
+<a href="#febr-1009001" class="anchor"></a>febr 1.0.0.9001<small> Unreleased </small>
 </h1>
 <ul>
 <li>Bug fixes.</li>
@@ -426,18 +622,18 @@
 <li>Adds custom package devel version badge (based on <a href="https://github.com/GuangchuangYu/badger" class="uri">https://github.com/GuangchuangYu/badger</a>).</li>
 </ul>
 </div>
-    <div id="febr-1-0-0-9000" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0-9000" class="anchor"></a>febr 1.0.0.9000<small> Unreleased </small>
+    <div id="febr-1009000" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0.9000">
+<a href="#febr-1009000" class="anchor"></a>febr 1.0.0.9000<small> Unreleased </small>
 </h1>
 <ul>
 <li>New string used to identify comments in data tables <code>camada</code> and <code>observacao</code>. Now using <code>#metadado&gt;</code> – as a replacement of <code>#unidade</code>. This allows setting multiple lines with comments.</li>
 <li>Functions <code>layer</code> and <code>observation</code>: the measurement unit, <code>field_unit</code>, and true variable name, <code>field_name</code>, are exported as attributes of the output <code>data.frame</code> object.</li>
 </ul>
 </div>
-    <div id="febr-1-0-0" class="section level1">
-<h1 class="page-header">
-<a href="#febr-1-0-0" class="anchor"></a>febr 1.0.0<small> Unreleased </small>
+    <div id="febr-100" class="section level1">
+<h1 class="page-header" data-toc-text="1.0.0">
+<a href="#febr-100" class="anchor"></a>febr 1.0.0<small> Unreleased </small>
 </h1>
 <ul>
 <li>Submission to CRAN.</li>
@@ -445,49 +641,14 @@
 </div>
   </div>
 
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <div id="tocnav">
-      <h2>Conteúdo</h2>
-      <ul class="nav nav-pills nav-stacked">
-        <li><a href="#febr-1-3-1">1.3.1</a></li>
-        <li><a href="#febr-1-3-0">1.3.0</a></li>
-        <li><a href="#febr-1-2-4">1.2.4</a></li>
-        <li><a href="#febr-1-2-3">1.2.3</a></li>
-        <li><a href="#febr-1-2-2">1.2.2</a></li>
-        <li><a href="#febr-1-2-1">1.2.1</a></li>
-        <li><a href="#febr-1-1-2">1.1.2</a></li>
-        <li><a href="#febr-1-1-1">1.1.1</a></li>
-        <li><a href="#febr-1-1-0">1.1.0</a></li>
-        <li><a href="#febr-1-0-3-9004">1.0.3.9004</a></li>
-        <li><a href="#febr-1-0-3-9003">1.0.3.9003</a></li>
-        <li><a href="#febr-1-0-3-9002">1.0.3.9002</a></li>
-        <li><a href="#febr-1-0-3-9001">1.0.3.9001</a></li>
-        <li><a href="#febr-1-0-3-9000">1.0.3.9000</a></li>
-        <li><a href="#febr-1-0-3">1.0.3</a></li>
-        <li><a href="#febr-1-0-2-9001">1.0.2.9001</a></li>
-        <li><a href="#febr-1-0-2-9000">1.0.2.9000</a></li>
-        <li><a href="#febr-1-0-2">1.0.2</a></li>
-        <li><a href="#febr-1-0-1-9003">1.0.1.9003</a></li>
-        <li><a href="#febr-1-0-1-9002">1.0.1.9002</a></li>
-        <li><a href="#febr-1-0-1-9001">1.0.1.9001</a></li>
-        <li><a href="#febr-1-0-1-9000">1.0.1.9000</a></li>
-        <li><a href="#febr-1-0-1">1.0.1</a></li>
-        <li><a href="#febr-1-0-0-9009">1.0.0.9009</a></li>
-        <li><a href="#febr-1-0-0-9008">1.0.0.9008</a></li>
-        <li><a href="#febr-1-0-0-9007">1.0.0.9007</a></li>
-        <li><a href="#febr-1-0-0-9006">1.0.0.9006</a></li>
-        <li><a href="#febr-1-0-0-9005">1.0.0.9005</a></li>
-        <li><a href="#febr-1-0-0-9004">1.0.0.9004</a></li>
-        <li><a href="#febr-1-0-0-9003">1.0.0.9003</a></li>
-        <li><a href="#febr-1-0-0-9002">1.0.0.9002</a></li>
-        <li><a href="#febr-1-0-0-9001">1.0.0.9001</a></li>
-        <li><a href="#febr-1-0-0-9000">1.0.0.9000</a></li>
-        <li><a href="#febr-1-0-0">1.0.0</a></li>
-      </ul>
-    </div>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -497,13 +658,16 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Exceto quando proveniente de outras fontes ou onde especificado o contrário, o conteúdo desta página está licenciado sob uma licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 </div>
 <div class="pkgdown">
-  <p>Página construída com <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.</p>
+  <p>Página construída com <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 
