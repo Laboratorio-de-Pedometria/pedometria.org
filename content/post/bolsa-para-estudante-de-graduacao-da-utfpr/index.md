@@ -6,7 +6,7 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Bolsa para Estudante de Graduação da UTFPR"
 subtitle: "Bacharelado em Ciência da Computação e áreas afins"
-summary: "Chamada para estudantes dos cursos de bacharelado em Ciência da Computação, Engenharia de Software ou Sistemas de Informação da UTFPR atuarem em projeto de desenvolvimento de recursos educacional aberto com a participação de pesquisadores da Embrapa Solos, IBGE e Embrapa Informática Agropecuária e professores da UTFPR, UFRRJ e UFSM."
+summary: "Chamada para estudantes dos cursos de bacharelado em Ciência da Computação, Engenharia de Software ou Sistemas de Informação da UTFPR atuarem em projeto de pesquisa de extração de dados de textos usando expressões regulares (regex). Os desenvolvimentos da pesquisa serão publicados na forma de pacote R."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
@@ -31,8 +31,10 @@ tags:
 # - Software
 categories:
   - "Bolsa"
+  - "Pesquisa"
+  - "Software"
 
-date: 2021-01-12T15:51:23-03:00
+date: 2021-05-17
 featured: false
 draft: false
 
@@ -56,33 +58,42 @@ projects: []
 O Laboratório de Pedometria convida os estudantes dos cursos de bacharelado em
 Ciência da Computação, Engenharia de Software ou Sistemas de Informação da UTFPR
 para atuar no projeto
-[Desenvolvimento de um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos][projeto].
+[Desenvolvimento de Software Livre para Extração de Dados de Descrições Morfológicas de Perfis de Solo][projeto].
+O objetivo do projeto é
+implementar soluções para extrair dados qualitativos de textos usando [expressões regulares](https://pt.wikipedia.org/wiki/Express%C3%A3o_regular).
 
-[projeto]: https://drive.google.com/file/d/1rBmD7tSX8j4myaGMpj7htKkzDNq86vsr/
+[projeto]: https://docs.google.com/document/d/1uqfw2JPlu9V4F4AKX3W6yLYb_bzgaDMAwY9k4nxP-xU/edit?usp=sharing
 
-O estudante selecionado trabalhará com uma equipe multidisciplinar compostas por pesquisadores da Embrapa Solos, IBGE e Embrapa Informática Agropecuária e professores da UTFPR, UFRRJ e UFSM.
+O estudante selecionado trabalhará com uma equipe multidisciplinar compostas por pesquisadores da
+Embrapa Informática Agropecuária e professores da UTFPR.
 
 Durante o período de atividades, que vai de
-**01 de março a 30 de junho de 2021** (quatro meses),
+**01 de junho a 31 de maio de 2022** (doze meses),
 o estudante receberá bolsa no valor de
-**R$ 600,00** mensais,
-financiada pela UTFPR (Edital 37/2020 - PROGRAD).
+**R$ 400,00** mensais,
+financiada pela Fundação Araucária.
 
 ## Requisitos
 
-* Estar regularmente matriculado em curso de bacharelado da área do conhecimento da Ciência da Computação da UTFPR;
-* Não ser bolsista em qualquer outro programa, excetuando-se a Bolsa-Permanência e Auxílio Estudantil Emergencial Covid-19, se for o seu caso;
-* Não ter sofrido penalidades disciplinares no âmbito da UTFPR;
-* Ter conhecimento teórico-prático nos seguintes temas:
-  * fundamentos de programação,
-  * linguagem de programação orientada a objetos,
-  * plataformas de desenvolvimento integrado (IDEs),
-  * sistemas gerenciadores de banco de dados e
-  * uso de frameworks.
+Para participar do projeto, o estudante deve cumprir três requisitos:
+
+1. Estar regularmente matriculado em curso de bacharelado da área do conhecimento da Ciência da Computação da UTFPR,
+2. Não ser bolsista em qualquer outro programa, excetuando-se a Bolsa-Permanência e Auxílio Estudantil Emergencial Covid-19, e
+3. Não ter sofrido penalidades disciplinares no âmbito da UTFPR.
+
+O estudante deve ter experiência nos seguintes temas da [teoria da computação](https://pt.wikipedia.org/wiki/Teoria_da_computa%C3%A7%C3%A3o):
+
+* [Autômatos](https://pt.wikipedia.org/wiki/Teoria_dos_aut%C3%B4matos)
+* [Linguagens formais](https://pt.wikipedia.org/wiki/Linguagem_formal)
+
+Experiência no uso da [linguagem e ambiente R][r] de análise de dados e
+[sistema git][git] de versionamento de código fonte
+é desejável mas não obrigatória.
+
+[r]: https://pt.wikipedia.org/wiki/R_(linguagem_de_programa%C3%A7%C3%A3o)
+[git]: https://pt.wikipedia.org/wiki/Git
 
 ## Inscrições
 
-* Período: entre 03 e 08 de fevereiro de 2021
-* Formulário: [visite a página do edital][edital]
-
-[edital]: https://portal.utfpr.edu.br/editais/graduacao-e-educacao-profissional/reitoria/edital-37-2020-prograd
+* Período: entre 17 e 21 de maio de 2021
+  * Formulário: <https://forms.gle/mF3HjwbwZWmk8t698>
