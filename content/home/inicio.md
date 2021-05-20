@@ -47,5 +47,5 @@ subtitle = ""
 +++
 
 <div style="width:70%;">
-O <b>Laboratório de Pedometria</b> da Universidade Tecnológica Federal do Paraná (UTFPR) atua no desenvolvimento e aplicação de métodos matemáticos, estatísticos e computacionais para o estudo do solo, em especial sua formação e distribuição espacial e temporal de propriedades de interesse agrícola e ambiental.
+O <b>Laboratório de Pedometria</b> da Universidade Tecnológica Federal do Paraná (UTFPR) atua no desenvolvimento e aplicação de métodos matemáticos, estatísticos e computacionais para o estudo da distribuição espacial e temporal de propriedades do solo de interesse agrícola e ambiental.
 </div>

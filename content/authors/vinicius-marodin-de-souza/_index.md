@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Estudantes de Graduação
+- Egressos
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
@@ -94,7 +94,7 @@ Vinícius Marodin de Souza, nascido em Medianeira-PR, no ano de 2001, graduando 
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
 __Data de início__: 2021-03-01<br>
-__Data de término__: YYYY-MM-DD
+__Data de término__: 2021-04-01
 
 <!--
 {{% btn %}}
