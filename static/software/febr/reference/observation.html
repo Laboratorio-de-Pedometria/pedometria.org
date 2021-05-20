@@ -75,7 +75,7 @@ land use and vegetation, local topography, soil classification, and much more." 
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.2</span>
       </span>
     </div>
 
@@ -178,14 +178,14 @@ SIRGAS 2000, the standard CRS for Brazil. Defaults to <code>crs = NULL</code>, i
 is performed.</p></li>
 <li><p><code>time.format</code> Character string indicating how to format dates. For example,
 <code>time.format = "%d-%m-%Y"</code>, i.e. dd-mm-yyyy such as in 31-12-2001. Defaults to
-<code>time.format = NULL</code>, i.e. no formatting is performed. See <code><a href='https://rdrr.io/r/base/as.Date.html'>as.Date</a></code> for more
+<code>time.format = NULL</code>, i.e. no formatting is performed. See <code><a href='https://rdrr.io/r/base/as.Date.html'>base::as.Date()</a></code> for more
 details.</p></li>
 <li><p><code>units</code> Logical value indicating if the measurement unit(s) of the continuous variable(s)
 should be converted to the standard measurement unit(s). Defaults to <code>units = FALSE</code>, i.e. no
-conversion is performed. See <code><a href='dataset.html'>standard</a></code> for more information.</p></li>
+conversion is performed. See <code><a href='dictionary.html'>dictionary()</a></code> for more information.</p></li>
 <li><p><code>round</code> Logical value indicating if the values of the continuous variable(s) should be
 rounded to the standard number of decimal places. Requires <code>units = TRUE</code>. Defaults to
-<code>round = FALSE</code>, i.e. no rounding is performed. See <code><a href='dataset.html'>standard</a></code> for more
+<code>round = FALSE</code>, i.e. no rounding is performed. See <code><a href='dictionary.html'>dictionary()</a></code> for more
 information.</p></li>
 </ul></td>
     </tr>
@@ -270,7 +270,7 @@ variables will be re-coded as <code>aaa_bbb</code>, thus becoming the same varia
     <p>Check the new core data download function <code><a href='readFEBR.html'>readFEBR()</a></code>.</p>
     <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
 
-    <div class='dont-index'><p><code><a href='layer.html'>layer</a></code>, <code><a href='dataset.html'>standard</a></code>, <code><a href='unit.html'>unit</a></code></p></div>
+    <div class='dont-index'><p><code><a href='layer.html'>layer()</a></code>, <code><a href='dictionary.html'>dictionary()</a></code>, <code><a href='unit.html'>unit()</a></code></p></div>
     <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
 
     <p>Alessandro Samuel-Rosa <a href='mailto:alessandrosamuelrosa@gmail.com'>alessandrosamuelrosa@gmail.com</a></p>
@@ -294,7 +294,7 @@ variables will be re-coded as <code>aaa_bbb</code>, thus becoming the same varia
 <span class='va'>res</span> <span class='op'>&lt;-</span> <span class='fu'>observation</span><span class='op'>(</span>data.set <span class='op'>=</span> <span class='st'>"ctb0020"</span><span class='op'>)</span>
 
 <span class='co'># Try to download a non existing data set</span>
-<span class='va'>res</span> <span class='op'>&lt;-</span> <span class='fu'>observation</span><span class='op'>(</span>data.set <span class='op'>=</span> <span class='st'>"ctb0000"</span><span class='op'>)</span>
+<span class='co'>#res &lt;- observation(data.set = "ctb0000")</span>
 
 <span class='co'># Try to read all files from local directory</span>
 <span class='va'>febr.repo</span> <span class='op'>&lt;-</span> <span class='st'>"~/ownCloud/febr-repo/publico"</span>
