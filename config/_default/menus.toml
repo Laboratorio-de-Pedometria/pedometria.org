@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Projetos"
-  url = "#projetos"
+  name = "Publicações"
+  url = "#publicacoes"
   weight = 30
 
 [[main]]
-  name = "Publicações"
-  url = "#publicacoes"
+  name = "Palestras"
+  url = "#palestras"
   weight = 40
 
 [[main]]
@@ -29,19 +29,19 @@
   weight = 50
 
 [[main]]
-  name = "Livros"
-  url = "livros/"
+  name = "Projetos"
+  url = "#projetos"
   weight = 60
 
-[[main]]
-  name = "Palestras"
-  url = "#palestras"
-  weight = 70
+# [[main]]
+#   name = "Livros"
+#   url = "livros/"
+#   weight = 60
 
 [[main]]
   name = "Equipe"
   url = "#equipe"
-  weight = 79
+  weight = 70
 
 [[main]]
   name = "Contato"
