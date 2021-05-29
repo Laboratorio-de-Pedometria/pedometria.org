@@ -25,7 +25,7 @@ tags:
 
 <!-- {{% toc %}} -->
 
-Sendo fundamentalmente
+Sendo fundamentalmente 
 orientadas por dados, o sucesso das técnicas modernas de modelagem geoespacial depende, em grande medida, do
 número e distribuição espacial das amostras. Enquanto, o número máximo de amostras é definido em
 função da disponibilidade de recursos, sua distribuição espacial depende de critérios definidos pelos métodos de
