@@ -1,5 +1,7 @@
 ---
-title: Otimização de Amostras Espaciais via Recozimento Simulado (SPSANN)
+title: Otimização de delineamentos amostrais para modelagem geoespacial
+slug: spsann
+url: /spsann/
 summary: " "
 authors:
   - admin
@@ -9,6 +11,7 @@ date: 2016-09-18
 categories:
   - Projeto
   - Pesquisa
+  - Desenvolvimento
 tags:
   - Amostragem
   - Otimização
@@ -21,6 +24,19 @@ tags:
 ---
 
 <!-- {{% toc %}} -->
+
+Sendo fundamentalmente
+orientadas por dados, o sucesso das técnicas modernas de modelagem geoespacial depende, em grande medida, do
+número e distribuição espacial das amostras. Enquanto, o número máximo de amostras é definido em
+função da disponibilidade de recursos, sua distribuição espacial depende de critérios definidos pelos métodos de
+aprendizagem estatística utilizados. Assim, é necessário definir estratégias amostrais que otimizem o uso dos
+recursos disponíveis com manutenção ou, preferencialmente, incremento da capacidade preditiva dos modelos. Este
+projeto visa atender à essa necessidade por meio da 1) implementação computacional de modelos
+teóricos de amostragem geoespacial e 2) submissão desses modelos teóricas a
+rigorosas avaliações empírico-indutivas baseadas em simulações computacionais e dados reais. Uma versão preliminar da
+referida implementação computacional foi publicada na forma de um pacote, intitulado **spsann**, para o ambiente de 
+análise de dados [R](https://www.r-project.org/).
+
 
 O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto
 

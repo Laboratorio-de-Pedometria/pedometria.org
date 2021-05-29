@@ -1,18 +1,20 @@
 ---
-draft: true
+draft: false
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Wikipedon"
+title: "Produção colaborativa de informações de recursos do solo e da terra"
 slug: wikipedon
 url: /wikipedon/
-summary: "Produção Colaborativa de Conteúdo Aberto sobre Recursos do Solo e da Terra"
+summary: " "
 authors:
   - admin
 tags:
   - Wikipédia
 categories:
-  - Extensão
   - Projeto
+  - Pesquisa
+  - Desenvolvimento
+  - Extensão
 date: 2021-02-26T20:02:09-03:00
 
 # Featured image
@@ -31,6 +33,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 ---
+
+O principal objetivo deste projeto de pesquisa consiste em projetar, construir e aplicar um tipo completamente novo de modelo de predição para produção de informação pedológica tridimensional em escala nacional. Também é objetivo do projeto mostrar que este novo tipo de modelo de predição permite fazer predições acuradas usando apenas dados abertos e programas livres e de código aberto. Isso promoverá o compartilhamento de dados pedológicos, a reprodutibilidade dos resultados, e a popularização da ciência.
+
 
 ## Edições
 
