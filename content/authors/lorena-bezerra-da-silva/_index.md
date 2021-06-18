@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Estudantes de Graduação
+- Egressos
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
@@ -89,7 +89,7 @@ social:
   icon_pack: fab
   link: https://github.com/lorenabezerra
 ---
-Atualmente é monitora de estatística aplicada da Universidade Tecnológica Federal do Paraná. Tem experiência na área de Agronomia.
+Atualmente foi monitora de Estatística Aplicada da Universidade Tecnológica Federal do Paraná. Tem experiência na área de Agronomia.
 
 ### UTFPR -- MONITORIA 2021
 
