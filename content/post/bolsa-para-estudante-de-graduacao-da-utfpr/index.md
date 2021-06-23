@@ -1,4 +1,5 @@
 ---
+draft: true
 # Documentação: https://sourcethemes.com/academic/docs/managing-content/
 
 # Título da postagem
@@ -36,7 +37,6 @@ categories:
 
 date: 2021-05-17
 featured: false
-draft: false
 
 # Featured image
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
