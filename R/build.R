@@ -9,7 +9,7 @@ for (i in seq(length(html))) {
 html <- sub("<title>index.utf8.md</title>", "<title>FEBR | Visualização Espacial</title>", html)
 writeLines(text = html, con = file)
 
-# Repositório Brasileiro Livre para Dados Abertos do Solo ###########################
+# Repositório Brasileiro Livre para Dados Abertos do Solo ##########################################
 
 # Página de busca febr/busca/
 # Preparar arquivo TXT com dados no formato JSON
@@ -38,6 +38,20 @@ for (i in 1:length(ctb)) {
     paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"),
     stringsAsFactors = FALSE, header = TRUE)
   rownames(identificacao) <- identificacao$campo
+  # Disfarçar endereços de e-mail
+  identificacao["dados_autor", "valor"] <- gsub("@", " em ", identificacao["dados_autor", "valor"])
+  identificacao["dados_autor", "valor"] <-
+    gsub(".com", " com", identificacao["dados_autor", "valor"], fixed = TRUE)
+  identificacao["dados_autor", "valor"] <-
+    gsub(".br", " br", identificacao["dados_autor", "valor"], fixed = TRUE)
+  identificacao["dados_autor", "valor"] <- 
+    gsub(" (NA)", "", identificacao["dados_autor", "valor"], fixed = TRUE)
+  identificacao["dados_autor", "valor"] <-
+    gsub(" (xx)", "", identificacao["dados_autor", "valor"], fixed = TRUE)
+  write.table(
+    identificacao, paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), 
+    row.names = FALSE)
+
   index_template <- readLines("content/febr/buscar/index_template.txt")
   index_template <- sub("dados_id", ctb[i], index_template)
   index_template <- sub("dados_id", ctb[i], index_template)
