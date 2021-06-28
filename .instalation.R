@@ -58,5 +58,9 @@ blogdown::install_theme("wowchemy/starter-academic")
 #   google_analytics = "UA-62786300-4"
 
 # renv::init()
+# install.packages()
+# install.packages()
+# install.packages(c("gstat", "kableExtra", "latticeExtra", "leafem", "openxlsx", "pkgdown", "spsann"))
+# install.packages(c("blogdown", "sf", "dplyr", "DT", "devtools", "leaflet", "pander", "sp"))
 renv::snapshot()
 # update.packages(ask = FALSE, checkBuilt = TRUE)
