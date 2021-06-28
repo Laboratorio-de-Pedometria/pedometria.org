@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0037"
-"dados_titulo"	"Solo da sub-bacia do Rio Giruazinho, Giruá, RS"
-"dados_autor"	"Jean Michel Moura-Bueno (bueno.jean1@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
-"organizacao_nome"	"Universidade Federal de Santa Maria (UFSM)"
-"organizacao_local"	"Brasil, Santa Maria, 97105-900, Av. Roraima, 1000"
-"organizacao_url"	"http://site.ufsm.br/"
-"dados_descricao"	"Compreende dados do solo de 263 observações realizadas entre 2013 e 2015 na sub-bacia do Rio Giruazinho, localizada no município de Giruá no Estado do Rio Grande do Sul, Brasil. Esses dados foram produzidos para dar subsídio a projetos de pesquisa que visam a produção de mapas digitais detalhados de propriedados do solo, como teor de argila e carbono orgânico no solo. Todos os locais de observação foram selecionados intencionalmente. Várias características ambientais foram descritas nos locais de observação, tais como o uso da terra, geologia, classes de solo e condições de drenagem. Duas observações apresentam a descrição completa do perfil de solo e dados analiticos dos horizontes pedogenéticos. O conjunto de dados inclui a identificação de todos os locais de observação, as suas coordenadas geográficas. A densidade do solo foi determinada em algumas amostras. O conjunto possui dados analitícos de carbono orgânico e granulometria de todas as amostras e teor de cálcio, magnésio, fósforo, alumínio, ferro e pH de algumas amostras."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Mapeamento digital do solo; Pedometria; Espectroscopia Vis-NIR, Amostragem intencional; Descrição do solo no campo"
-"dados_publicacao"	"https://repositorio.ufsm.br/bitstream/handle/1/5613/BUENO%2c%20JEAN%20MICHEL%20MOURA.pdf?sequence=1&isAllowed=y; https://repositorio.ufsm.br/bitstream/handle/1/16306/TES_PPGCS_2018_BUENO_JEAN.pdf?sequence=1&isAllowed=y; https://doi.org/10.1016/j.geoderma.2018.10.015"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"completos (100% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0037"
+"dados_titulo" "Solo da sub-bacia do Rio Giruazinho, Giruá, RS"
+"dados_autor" "Jean Michel Moura-Bueno (bueno.jean1 em gmail com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm br)"
+"organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
+"organizacao_local" "Brasil, Santa Maria, 97105-900, Av. Roraima, 1000"
+"organizacao_url" "http://site.ufsm.br/"
+"dados_descricao" "Compreende dados do solo de 263 observações realizadas entre 2013 e 2015 na sub-bacia do Rio Giruazinho, localizada no município de Giruá no Estado do Rio Grande do Sul, Brasil. Esses dados foram produzidos para dar subsídio a projetos de pesquisa que visam a produção de mapas digitais detalhados de propriedados do solo, como teor de argila e carbono orgânico no solo. Todos os locais de observação foram selecionados intencionalmente. Várias características ambientais foram descritas nos locais de observação, tais como o uso da terra, geologia, classes de solo e condições de drenagem. Duas observações apresentam a descrição completa do perfil de solo e dados analiticos dos horizontes pedogenéticos. O conjunto de dados inclui a identificação de todos os locais de observação, as suas coordenadas geográficas. A densidade do solo foi determinada em algumas amostras. O conjunto possui dados analitícos de carbono orgânico e granulometria de todas as amostras e teor de cálcio, magnésio, fósforo, alumínio, ferro e pH de algumas amostras."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Mapeamento digital do solo; Pedometria; Espectroscopia Vis-NIR, Amostragem intencional; Descrição do solo no campo"
+"dados_publicacao" "https://repositorio.ufsm.br/bitstream/handle/1/5613/BUENO%2c%20JEAN%20MICHEL%20MOURA.pdf?sequence=1&isAllowed=y; https://repositorio.ufsm.br/bitstream/handle/1/16306/TES_PPGCS_2018_BUENO_JEAN.pdf?sequence=1&isAllowed=y; https://doi.org/10.1016/j.geoderma.2018.10.015"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "completos (100% de cobertura)"
+"dados_consistencia" "consistência estrutural"

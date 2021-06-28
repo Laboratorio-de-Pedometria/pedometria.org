@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0031"
-"dados_titulo"	"Classificação do solo em Arroio Grande, Santa Maria, RS"
-"dados_autor"	"Jean Michel Moura-Bueno (bueno.jean1@gmail.com); Taciara Zborowski Horst (tacihorst@gmail.com); Luciano Campos Cancian (lucianocancian@msn.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
-"organizacao_nome"	"Universidade Federal de Santa Maria (UFSM)"
-"organizacao_local"	"Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
-"organizacao_url"	"http://w3.ufsm.br/ppgcs/"
-"dados_descricao"	"Dados coletados em pontos distribuidos em uma área do município de Santa Maria, na região do Rebordo do Planalto do Rio Grande do Sul, utilizando o Hipercubo Latino Condicionado como técnica de seleção dos pontos."
-"area_conhecimento"	NA
-"palavras_chave"	"classificaão do solo, levantamento do solo, mapeamento digital de solos"
-"dados_publicacao"	NA
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0031"
+"dados_titulo" "Classificação do solo em Arroio Grande, Santa Maria, RS"
+"dados_autor" "Jean Michel Moura-Bueno (bueno.jean1 em gmail com); Taciara Zborowski Horst (tacihorst em gmail com); Luciano Campos Cancian (lucianocancian em msn com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm br)"
+"organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
+"organizacao_local" "Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
+"organizacao_url" "http://w3.ufsm.br/ppgcs/"
+"dados_descricao" "Dados coletados em pontos distribuidos em uma área do município de Santa Maria, na região do Rebordo do Planalto do Rio Grande do Sul, utilizando o Hipercubo Latino Condicionado como técnica de seleção dos pontos."
+"area_conhecimento" NA
+"palavras_chave" "classificaão do solo, levantamento do solo, mapeamento digital de solos"
+"dados_publicacao" NA
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

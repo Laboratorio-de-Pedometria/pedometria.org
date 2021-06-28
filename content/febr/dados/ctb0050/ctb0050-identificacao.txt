@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0050"
-"dados_titulo"	"Projeto RADAMBRASIL. Folha SG.22 Curitiba, parte da folha SG.21 Asunción e folha SG.23 Iguape"
-"dados_autor"	"Isaias Oenning; José Marcos Moser; Sérgio Hideiti Shimizu; Moacir de Jesus Rauen; Américo Pereira de Carvalho"
-"organizacao_nome"	"Instituto Brasileiro de Geografia e Estatística (IBGE)"
-"organizacao_local"	NA
-"organizacao_url"	NA
-"dados_descricao"	"Dados do solo de levantamento do Projeto RADAMBRASIL cobrindo o norte do Estado do Rio Grande do Sul, quase todo o Estado de Santa Catarina, grande parte do Estado do Paraná e pequena porção do sul do Estado de São Paulo. Inclui observações compiladas de trabalhos prévios realizados na área, totalizando 106 perfis completos e __ pontos de amostras extra. As observações do solo realizadas especificamente para estre trabalho ocorreram, quase sempre, em cortes de estradas, sendo em alguns casos utilizadas tradagens, totalizando 64 perfis completos e __ pontos de amostras extras. As descrições do solo seguiram as normas e definições do SNLCS - EMBRAPA e as constantes na Soil Taxonomy (1975). As análises laboratoriais foram realizadas nos laboratórios do SUDESUL e SNLCS, que podem diferir entre si. A classificação dos solos segue as normas do SNLCS. No total, são 170 perfis de solos, 200 pontos de amostras extra (o documento original sugere 201 pontos de amostras extra) e 05 pontos de amostras para avaliação da fertilidade. Os dados dos trabalhos prévios são omitidos, exceto a classificação taxonômica, que foi atualizada."
-"area_conhecimento"	NA
-"palavras_chave"	NA
-"dados_publicacao"	"https://www.dropbox.com/s/mkscfu93nhskc8t/OenningEtAl2018.pdf?dl=0"
-"dados_idioma"	"português"
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"aproximadamente completos (entre 70 e 95% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0050"
+"dados_titulo" "Projeto RADAMBRASIL. Folha SG.22 Curitiba, parte da folha SG.21 Asunción e folha SG.23 Iguape"
+"dados_autor" "Isaias Oenning; José Marcos Moser; Sérgio Hideiti Shimizu; Moacir de Jesus Rauen; Américo Pereira de Carvalho"
+"organizacao_nome" "Instituto Brasileiro de Geografia e Estatística (IBGE)"
+"organizacao_local" NA
+"organizacao_url" NA
+"dados_descricao" "Dados do solo de levantamento do Projeto RADAMBRASIL cobrindo o norte do Estado do Rio Grande do Sul, quase todo o Estado de Santa Catarina, grande parte do Estado do Paraná e pequena porção do sul do Estado de São Paulo. Inclui observações compiladas de trabalhos prévios realizados na área, totalizando 106 perfis completos e __ pontos de amostras extra. As observações do solo realizadas especificamente para estre trabalho ocorreram, quase sempre, em cortes de estradas, sendo em alguns casos utilizadas tradagens, totalizando 64 perfis completos e __ pontos de amostras extras. As descrições do solo seguiram as normas e definições do SNLCS - EMBRAPA e as constantes na Soil Taxonomy (1975). As análises laboratoriais foram realizadas nos laboratórios do SUDESUL e SNLCS, que podem diferir entre si. A classificação dos solos segue as normas do SNLCS. No total, são 170 perfis de solos, 200 pontos de amostras extra (o documento original sugere 201 pontos de amostras extra) e 05 pontos de amostras para avaliação da fertilidade. Os dados dos trabalhos prévios são omitidos, exceto a classificação taxonômica, que foi atualizada."
+"area_conhecimento" NA
+"palavras_chave" NA
+"dados_publicacao" "https://www.dropbox.com/s/mkscfu93nhskc8t/OenningEtAl2018.pdf?dl=0"
+"dados_idioma" "português"
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "aproximadamente completos (entre 70 e 95% de cobertura)"
+"dados_consistencia" "consistência estrutural"

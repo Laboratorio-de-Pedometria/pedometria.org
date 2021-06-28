@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0793"
-"dados_titulo"	"Conjunto de dados do levantamento de reconhecimento de média intensidade 'Vale dos Vinhedos-Caracterização Geográfica da Região'"
-"dados_autor"	"Ivanira Falcade (ifalcade@ucs.br;); Francisco Mandelli (NA); Carlos Alberto Flores (NA); Pedro Jorge Fasolo (NA); Reinaldo Oscar Potter (NA)"
-"organizacao_nome"	"Universidade de Caxias do Sul; Embrapa Uva e Vinho"
-"organizacao_local"	"Rua Francisco Getúlio Vargas, 1130.0, Caxias do Sul, Brasil, 95070-560"
-"organizacao_url"	"www.ucs.br"
-"dados_descricao"	"Conjunto de dados públicos do solo originalmente obtidos do Sistema de Informação de Solos Brasileiros (SISB), construído e mantido pela Embrapa Solos (Rio de Janeiro) e Embrapa Informática Agropecuária (Campinas), referente ao levantamento de reconhecimento de média intensidade 'Vale dos Vinhedos-Caracterização Geográfica da Região'. Como dados sobre o sistema de coordenadas de referência não estavam disponíveis, adotou-se o SAD69 como datum padrão uma vez que os autores usaram esse datum em outros trabalhos da época. Dados do conteúdo de ferro apresentando valores discrepantes foram corrigidos depois de consultar o relatório do levantamento do solo onde originalmente foram publicados. A fim de preservar a conexão dos dados com o SISB, usa-se o mesmo código de identificação daquele sistema para o conjunto de dados, assim como o código de identificação de cada observação corresponde ao código do perfil do solo no SISB e o código das amostras corresponde ao código dos horizontes. Todas os demais dados são mantidos como dados adicionais para facilitar o reuso do conjunto de dados como um todo. Nenhum item técnico-científico do SISB e seu respectivo banco de dados que seja fruto da atividade intelectual, criativa, inovadora e inédita dos projetos conduzidos pela Embrapa foi ou é usado para organizar estruturalmente a presente versão do conjunto de dados. O emprego deste conjunto de dados para finalidades profissionais e/ou comerciais deve ser precedido pelo contato com a Embrapa."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Geografia regional; Geografia física; Edafologia; Classificação de solos; Viticultura"
-"dados_publicacao"	"http://ainfo.cnptia.embrapa.br/digital/bitstream/item/142596/1/vale-dos-vinhedos.pdf; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html; https://www.dropbox.com/s/ju76c7flmkjg15v/FalcadeEtAl1999.pdf?dl=0"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0793"
+"dados_titulo" "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Vale dos Vinhedos-Caracterização Geográfica da Região'"
+"dados_autor" "Ivanira Falcade (ifalcade em ucs br;); Francisco Mandelli; Carlos Alberto Flores; Pedro Jorge Fasolo; Reinaldo Oscar Potter"
+"organizacao_nome" "Universidade de Caxias do Sul; Embrapa Uva e Vinho"
+"organizacao_local" "Rua Francisco Getúlio Vargas, 1130.0, Caxias do Sul, Brasil, 95070-560"
+"organizacao_url" "www.ucs.br"
+"dados_descricao" "Conjunto de dados públicos do solo originalmente obtidos do Sistema de Informação de Solos Brasileiros (SISB), construído e mantido pela Embrapa Solos (Rio de Janeiro) e Embrapa Informática Agropecuária (Campinas), referente ao levantamento de reconhecimento de média intensidade 'Vale dos Vinhedos-Caracterização Geográfica da Região'. Como dados sobre o sistema de coordenadas de referência não estavam disponíveis, adotou-se o SAD69 como datum padrão uma vez que os autores usaram esse datum em outros trabalhos da época. Dados do conteúdo de ferro apresentando valores discrepantes foram corrigidos depois de consultar o relatório do levantamento do solo onde originalmente foram publicados. A fim de preservar a conexão dos dados com o SISB, usa-se o mesmo código de identificação daquele sistema para o conjunto de dados, assim como o código de identificação de cada observação corresponde ao código do perfil do solo no SISB e o código das amostras corresponde ao código dos horizontes. Todas os demais dados são mantidos como dados adicionais para facilitar o reuso do conjunto de dados como um todo. Nenhum item técnico-científico do SISB e seu respectivo banco de dados que seja fruto da atividade intelectual, criativa, inovadora e inédita dos projetos conduzidos pela Embrapa foi ou é usado para organizar estruturalmente a presente versão do conjunto de dados. O emprego deste conjunto de dados para finalidades profissionais e/ou comerciais deve ser precedido pelo contato com a Embrapa."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Geografia regional; Geografia física; Edafologia; Classificação de solos; Viticultura"
+"dados_publicacao" "http://ainfo.cnptia.embrapa.br/digital/bitstream/item/142596/1/vale-dos-vinhedos.pdf; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html; https://www.dropbox.com/s/ju76c7flmkjg15v/FalcadeEtAl1999.pdf?dl=0"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

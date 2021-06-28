@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0562"
-"dados_titulo"	"Levantamento de Reconhecimento de Média Intensidade dos Solos da Região do Alto Paranaíba, Minas Gerais"
-"dados_autor"	"Paulo Emílio Ferreira da Motta (NA); Alfredo Melhem Baruqui (NA); Humberto Gonçalves dos Santos (NA)"
-"organizacao_nome"	"Embrapa"
-"organizacao_local"	"Rio de Janeiro, Brasil"
-"organizacao_url"	NA
-"dados_descricao"	"Dados de perfis do solo observados e amostrados, para fins de classificação e mapeamento pedológico na escala 1:250.000, na região do Alto Paranaíba, oeste do Estado de Minas Gerais. As observações dos perfis foram feitas em cortes de estradas, em pequenas trincheiras ou por meio de tradagens. Ao todo, são 30 perfis descritos e amostrados em trincheiras e 81 amostras extras seguindo as normas e definições de Lemos & Santos (1996). Os métodos analíticos seguem o Manual de Métodos de Análise de Solo (Embrapa, 1997). Os dados de nomenclatura dos horizontes e a classificação taxonômica, originalmente produzidos na década de 1980, foi atualizada para publicação dos relatório em 2004. (Dados originalmente descarregados do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Solo; Classificação; Brasil; Minas Gerais; Alto Paranaíba; Levantamento"
-"dados_publicacao"	"https://www.infoteca.cnptia.embrapa.br/bitstream/doc/965578/1/bpd442004altoparanaiba.pdf; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html; http://doi.org/10.2136/sssaj2004.0140"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0562"
+"dados_titulo" "Levantamento de Reconhecimento de Média Intensidade dos Solos da Região do Alto Paranaíba, Minas Gerais"
+"dados_autor" "Paulo Emílio Ferreira da Motta; Alfredo Melhem Baruqui; Humberto Gonçalves dos Santos"
+"organizacao_nome" "Embrapa"
+"organizacao_local" "Rio de Janeiro, Brasil"
+"organizacao_url" NA
+"dados_descricao" "Dados de perfis do solo observados e amostrados, para fins de classificação e mapeamento pedológico na escala 1:250.000, na região do Alto Paranaíba, oeste do Estado de Minas Gerais. As observações dos perfis foram feitas em cortes de estradas, em pequenas trincheiras ou por meio de tradagens. Ao todo, são 30 perfis descritos e amostrados em trincheiras e 81 amostras extras seguindo as normas e definições de Lemos & Santos (1996). Os métodos analíticos seguem o Manual de Métodos de Análise de Solo (Embrapa, 1997). Os dados de nomenclatura dos horizontes e a classificação taxonômica, originalmente produzidos na década de 1980, foi atualizada para publicação dos relatório em 2004. (Dados originalmente descarregados do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Solo; Classificação; Brasil; Minas Gerais; Alto Paranaíba; Levantamento"
+"dados_publicacao" "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/965578/1/bpd442004altoparanaiba.pdf; https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html; http://doi.org/10.2136/sssaj2004.0140"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

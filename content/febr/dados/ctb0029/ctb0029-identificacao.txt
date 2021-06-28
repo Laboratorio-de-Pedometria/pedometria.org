@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0029"
-"dados_titulo"	"Carbono e matéria orgânica em amostras do solo do Estado do Rio Grande do Sul por diferentes métodos de determinação"
-"dados_autor"	"Alessandro Samuel-Rosa (alessandrosamuelrosa@gmail.com); Douglas Adams Weiler (douglasweiler@yahoo.com.br); Manoeli Lupatini (mlupatini@gmail.com)"
-"organizacao_nome"	"Universidade Federal de Santa Maria (UFSM)"
-"organizacao_local"	"Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
-"organizacao_url"	"http://site.ufsm.br/"
-"dados_descricao"	"O presente conjunto de dados foi elaborado a partir de estudo desenvolvido como parte do curso de Química do Solo do Programa de Pós-graduação em Ciência do Solo da Universidade Federal de Santa Maria (PPGCS-UFSM) no ano de 2011, conduzida pelo professor Danilo Rheinheimer dos Santos. Os dados foram produzidos a partir da análise de um conjunto de 105 amostras, coletadas em diferentes locais do Estado do Rio Grande do Sul (RS), por outros pesquisadores do PPGCS-UFSM e do Programa de Pós-graduação em Ciência do Solo da Universidade Federal do Rio Grande do Sul (PPGCS-UFRGS), como parte de seus trabalhos de iniciação científica, mestrado ou doutorado. A grande maioria das amostras não possui coordenadas espaciais, tendo-se atribuído a coordenada central do município do RS onde foram coletadas. Os dados de conteúdo de argila e classificação taxonômica foram obtidos dos trabalhos originais. Em todos os trabalhos, a classificação taxonômica foi inferida a partir do conhecimento tácito dos autores e referências da literatura, sem uso de descrição de perfis e coleta de amostras de horizontes para análises laboratoriais. A classificação taxonômica foi harmonizada para a edição de 2009 do Sistema Brasileiro de Classificação de Solos usando regras de correlação. Os dados de conteúdo de carbono e matéria orgânica foram produzidos como parte das atividades do estudo."
-"area_conhecimento"	"Química do Solo"
-"palavras_chave"	"consistência estrutural"
-"dados_publicacao"	"-"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"completos (100% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0029"
+"dados_titulo" "Carbono e matéria orgânica em amostras do solo do Estado do Rio Grande do Sul por diferentes métodos de determinação"
+"dados_autor" "Alessandro Samuel-Rosa (alessandrosamuelrosa em gmail com); Douglas Adams Weiler (douglasweiler em yahoo com br); Manoeli Lupatini (mlupatini em gmail com)"
+"organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
+"organizacao_local" "Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
+"organizacao_url" "http://site.ufsm.br/"
+"dados_descricao" "O presente conjunto de dados foi elaborado a partir de estudo desenvolvido como parte do curso de Química do Solo do Programa de Pós-graduação em Ciência do Solo da Universidade Federal de Santa Maria (PPGCS-UFSM) no ano de 2011, conduzida pelo professor Danilo Rheinheimer dos Santos. Os dados foram produzidos a partir da análise de um conjunto de 105 amostras, coletadas em diferentes locais do Estado do Rio Grande do Sul (RS), por outros pesquisadores do PPGCS-UFSM e do Programa de Pós-graduação em Ciência do Solo da Universidade Federal do Rio Grande do Sul (PPGCS-UFRGS), como parte de seus trabalhos de iniciação científica, mestrado ou doutorado. A grande maioria das amostras não possui coordenadas espaciais, tendo-se atribuído a coordenada central do município do RS onde foram coletadas. Os dados de conteúdo de argila e classificação taxonômica foram obtidos dos trabalhos originais. Em todos os trabalhos, a classificação taxonômica foi inferida a partir do conhecimento tácito dos autores e referências da literatura, sem uso de descrição de perfis e coleta de amostras de horizontes para análises laboratoriais. A classificação taxonômica foi harmonizada para a edição de 2009 do Sistema Brasileiro de Classificação de Solos usando regras de correlação. Os dados de conteúdo de carbono e matéria orgânica foram produzidos como parte das atividades do estudo."
+"area_conhecimento" "Química do Solo"
+"palavras_chave" "consistência estrutural"
+"dados_publicacao" "-"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "completos (100% de cobertura)"
+"dados_consistencia" "consistência estrutural"

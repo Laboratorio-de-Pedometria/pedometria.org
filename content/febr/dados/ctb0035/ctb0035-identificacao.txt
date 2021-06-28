@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0035"
-"dados_titulo"	"Banco de Solos do Estado de Minas Gerais"
-"dados_autor"	"Walter Antônio Pereira Abrahão (wabrahao@gmail.com); José João Lelis Leal de Souza (jjlelis@gmail.com)"
-"organizacao_nome"	"Universidade Federal de Viçosa"
-"organizacao_local"	"Av. Professor Peter Henry Rolfs, s/n, Viçosa, Minas Gerais, CEP 39570-900"
-"organizacao_url"	NA
-"dados_descricao"	"Conjunto de dados derivados de amostras superficiais (0-20 cm) coletadas em áreas minimamente antropizadas. Dispõe-se de dados de textura, reatividade do solo e teor de carbono orgânico."
-"area_conhecimento"	"Química do Solo"
-"palavras_chave"	"Áreas minimamente antropizadas; Minas Gerais"
-"dados_publicacao"	"10.1016/j.scitotenv.2014.09.098; 10.1590/18069657rbcs20170231"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"aproximadamente completos (entre 70 e 95% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0035"
+"dados_titulo" "Banco de Solos do Estado de Minas Gerais"
+"dados_autor" "Walter Antônio Pereira Abrahão (wabrahao em gmail com); José João Lelis Leal de Souza (jjlelis em gmail com)"
+"organizacao_nome" "Universidade Federal de Viçosa"
+"organizacao_local" "Av. Professor Peter Henry Rolfs, s/n, Viçosa, Minas Gerais, CEP 39570-900"
+"organizacao_url" NA
+"dados_descricao" "Conjunto de dados derivados de amostras superficiais (0-20 cm) coletadas em áreas minimamente antropizadas. Dispõe-se de dados de textura, reatividade do solo e teor de carbono orgânico."
+"area_conhecimento" "Química do Solo"
+"palavras_chave" "Áreas minimamente antropizadas; Minas Gerais"
+"dados_publicacao" "10.1016/j.scitotenv.2014.09.098; 10.1590/18069657rbcs20170231"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "aproximadamente completos (entre 70 e 95% de cobertura)"
+"dados_consistencia" "consistência estrutural"

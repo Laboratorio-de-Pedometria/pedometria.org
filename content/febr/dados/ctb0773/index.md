@@ -3,7 +3,7 @@ title: "IX Reunião de Classificação e Correlação de Solos: Solos sedimentar
 date: 2020-10-28
 slug: ../ctb0773
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Lúcia Helena Cunha dos Anjos", "Lucielio Manoel da Silva", "Paulo Guilherme Salvador Wadt", "José Francisco Lumbreras", "Marcos Gervasio Pereira", "(NA)"]
+#authors: ["Lúcia Helena Cunha dos Anjos", "Lucielio Manoel da Silva", "Paulo Guilherme Salvador Wadt", "José Francisco Lumbreras", "Marcos Gervasio Pereira;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

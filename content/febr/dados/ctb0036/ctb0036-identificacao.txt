@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0036"
-"dados_titulo"	"Solo construído no aterro encerrado da Caturrita, Santa Maria (RS)"
-"dados_autor"	"Alessandro Samuel-Rosa (alessandrosamuelrosa@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
-"organizacao_nome"	"Universidade Federal de Santa Maria (UFSM)"
-"organizacao_local"	"Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
-"organizacao_url"	"http://site.ufsm.br/"
-"dados_descricao"	"A caracterização do solo construído foi realizada em dois momentos distintos. Primeiro, no ano de 2007, pela coleta de 15 amostras da camada superficial do solo (0-20) em três ambientes identificados no aterro encerrado. Esses ambientes são os terços superior, médio e inferior, delimitados por canais superficiais de drenagem pluvial. As coordenadas espaciais das quinze observações foi inferida no escritório usando imagem de satélite de alta resolução espacial. O segundo momento de caracterização do solo construído ocorreu em 2008, pela coleta de 48 amostras na profundidade de 0 a 20 cm posicionadas em grade regular com espaçamento de 22,4 m. A localização dos pontos de observação no campo foi realizada usando GPS de navegação. O solo da área de empréstimo foi caracterizado para fins de comparação. As amostras da segunda amostragem foram analisadas em triplicata. Participaram das atividades de amostragem e análise laboratorial da segunda fase: Jean Michel Moura Bueno, Andrisa Balbinot, Pablo Miguel, Jessé Rodrigo Fink, André Carnielleto Dotto, Gabriel Deobal."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Solos construídos; Solos antrópicos; Solos urbanos; Pedogênese;"
-"dados_publicacao"	"http://dx.doi.org/10.1590/S1413-41522011000200004"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0036"
+"dados_titulo" "Solo construído no aterro encerrado da Caturrita, Santa Maria (RS)"
+"dados_autor" "Alessandro Samuel-Rosa (alessandrosamuelrosa em gmail com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm br)"
+"organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
+"organizacao_local" "Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
+"organizacao_url" "http://site.ufsm.br/"
+"dados_descricao" "A caracterização do solo construído foi realizada em dois momentos distintos. Primeiro, no ano de 2007, pela coleta de 15 amostras da camada superficial do solo (0-20) em três ambientes identificados no aterro encerrado. Esses ambientes são os terços superior, médio e inferior, delimitados por canais superficiais de drenagem pluvial. As coordenadas espaciais das quinze observações foi inferida no escritório usando imagem de satélite de alta resolução espacial. O segundo momento de caracterização do solo construído ocorreu em 2008, pela coleta de 48 amostras na profundidade de 0 a 20 cm posicionadas em grade regular com espaçamento de 22,4 m. A localização dos pontos de observação no campo foi realizada usando GPS de navegação. O solo da área de empréstimo foi caracterizado para fins de comparação. As amostras da segunda amostragem foram analisadas em triplicata. Participaram das atividades de amostragem e análise laboratorial da segunda fase: Jean Michel Moura Bueno, Andrisa Balbinot, Pablo Miguel, Jessé Rodrigo Fink, André Carnielleto Dotto, Gabriel Deobal."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Solos construídos; Solos antrópicos; Solos urbanos; Pedogênese;"
+"dados_publicacao" "http://dx.doi.org/10.1590/S1413-41522011000200004"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

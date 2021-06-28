@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0010"
-"dados_titulo"	"Substâncias húmicas em solos de diferentes feições geomorfológicas no rebordo do planalto do Rio Grande do Sul"
-"dados_autor"	"Fábio Pacheco Menezes (fpmbio@gmail.com); Ricardo Simão Diniz Dalmolin (dalmolin@ufsm.br)"
-"organizacao_nome"	"Universidade Federal de Santa Maria (UFSM)"
-"organizacao_local"	"Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
-"organizacao_url"	"http://w3.ufsm.br/ppgcs/"
-"dados_descricao"	"Os perfis foram descritos e os solos amostrados em trincheiras abertas em três topossequências, segundo Santos et al. (2005). Totalizaram-se nove perfis descritos, sendo três para cada tipo de uso da terra (lavoura, capoeira e floresta). Os usos foram avaliados em diferentes posições da toposseqüência (topo, meia encosta e encosta inferior). Avaliaram-se três profundidades (0-10; 10-20 e 20-30 cm) em cada posição da paisagem. Os solos estudados foram classificados segundo Embrapa (2006) como: Neossolo Regolítico Eutrófico típico e Cambissolo Háplico Ta Eutrófico típico. Os Neossolos ocupam as três posições da paisagem no uso capoeira. Na lavoura e floresta, apenas a encosta inferior apresentou Cambissolos, sendo as demais posições ocupadas por Neossolos.As amostras de solo para análises morfológicas, físicas (granulometria) e químicas foram coletadas com o auxílio de uma faca e bandejas plásticas em cada horizonte e camada do perfil de solo. Para análise da MOS, as profundidades amostradas foram de 0-10; 10-20; 20-30 cm para cada uso (lavoura, capoeira e floresta) e posição na paisagem. Foram realizadas três repetições a campo para cada uso e posição da paisagem. As repetições distaram aproximadamente quatro metros entre si, buscando verificar as variações dentro do mesmo uso e da mesma feição geomorfológica. As coordenadas do ponto C3 foram corrigidas usando umagens do Google Maps."
-"area_conhecimento"	"Manejo e Conservação do Solo"
-"palavras_chave"	"Fracionamento químico; Frações húmicas; Solos rasos; Pedologia;"
-"dados_publicacao"	"http://w3.ufsm.br/ppgcs/images/Dissertacoes/FABIO-PACHECO-MENEZES.pdf"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"incompletos (menos de 70% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0010"
+"dados_titulo" "Substâncias húmicas em solos de diferentes feições geomorfológicas no rebordo do planalto do Rio Grande do Sul"
+"dados_autor" "Fábio Pacheco Menezes (fpmbio em gmail com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm br)"
+"organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
+"organizacao_local" "Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
+"organizacao_url" "http://w3.ufsm.br/ppgcs/"
+"dados_descricao" "Os perfis foram descritos e os solos amostrados em trincheiras abertas em três topossequências, segundo Santos et al. (2005). Totalizaram-se nove perfis descritos, sendo três para cada tipo de uso da terra (lavoura, capoeira e floresta). Os usos foram avaliados em diferentes posições da toposseqüência (topo, meia encosta e encosta inferior). Avaliaram-se três profundidades (0-10; 10-20 e 20-30 cm) em cada posição da paisagem. Os solos estudados foram classificados segundo Embrapa (2006) como: Neossolo Regolítico Eutrófico típico e Cambissolo Háplico Ta Eutrófico típico. Os Neossolos ocupam as três posições da paisagem no uso capoeira. Na lavoura e floresta, apenas a encosta inferior apresentou Cambissolos, sendo as demais posições ocupadas por Neossolos.As amostras de solo para análises morfológicas, físicas (granulometria) e químicas foram coletadas com o auxílio de uma faca e bandejas plásticas em cada horizonte e camada do perfil de solo. Para análise da MOS, as profundidades amostradas foram de 0-10; 10-20; 20-30 cm para cada uso (lavoura, capoeira e floresta) e posição na paisagem. Foram realizadas três repetições a campo para cada uso e posição da paisagem. As repetições distaram aproximadamente quatro metros entre si, buscando verificar as variações dentro do mesmo uso e da mesma feição geomorfológica. As coordenadas do ponto C3 foram corrigidas usando umagens do Google Maps."
+"area_conhecimento" "Manejo e Conservação do Solo"
+"palavras_chave" "Fracionamento químico; Frações húmicas; Solos rasos; Pedologia;"
+"dados_publicacao" "http://w3.ufsm.br/ppgcs/images/Dissertacoes/FABIO-PACHECO-MENEZES.pdf"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "incompletos (menos de 70% de cobertura)"
+"dados_consistencia" "consistência estrutural"

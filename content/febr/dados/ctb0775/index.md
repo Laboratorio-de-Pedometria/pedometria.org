@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento exploratório-reconhecimento 'Levantam
 date: 2020-10-28
 slug: ../ctb0775
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["JACOMINE", "Paulo Klinger Tito et al.&#10", "(NA)"]
+#authors: ["JACOMINE", "Paulo Klinger Tito et al.&#10;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

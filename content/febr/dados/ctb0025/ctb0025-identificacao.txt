@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0025"
-"dados_titulo"	"Os solos do Vale dos Vinhedos"
-"dados_autor"	"Carlos Alberto Flores (cflores@terra.com.br); Reinaldo Oscar Pötter (NA); Eliana Casco Sarmento (eliana.sarmento@ufrgs.br); Eliseu José Weber (eweber@portoweb.com.br); Heinrich Hasenack (hhasenack@ufrgs.br)"
-"organizacao_nome"	"Embrapa Uva e Vinho"
-"organizacao_local"	"Rua Livramento, 515.0, Bento Gonçalves, Brasil, 95701-008"
-"organizacao_url"	"https://www.embrapa.br/uva-e-vinho"
-"dados_descricao"	"O trabalho de campo foi precedido pela delimitação das principais unidades fisiográficas em cartas de campo para planejamento dos trajetos a percorrer na fase inicial. Os trajetos foram foram percorridos desde as partes mais baixas até o topo das elevações, analisando-se cortes de estradas e outras observações. Os percursos foram realizados com auxílio de receptores GPS, capturando-se as coordenadas dos pontos de observação. A fase sistemática do levantamento foi realizada mediante tradagens, observações em trincheiras e barrancos de estradas. Os locais para observação, descrição de perfis de solos e coleta de amostras foram selecionados de maneira a manter uma adequada representatividade das diferentes unidades de paisagem. A descrição de perfis de solo foi realizada com base no Manual de Descrição e Coleta de Solo no Campo (LEMOS; SANTOS, 1996). As análises físicas e químicas das amostras de solos foram executadas no Laboratório de Solo e Água da UFRGS, em Porto Alegre, de acordo com metodologia preconizada pela Embrapa (SANTOS et al., 2006) e Manual de Métodos de Análise de solo (EMBRAPA, 1979)."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Levantamento de solos; Sistemas de informação geográfica; Viticultura; Indicação geográfica; Vale dos Vinhedos"
-"dados_publicacao"	"https://www.ufrgs.br/labgeo/index.php/dados-espaciais/248-levantamento-detalhado-de-solos-do-vale-dos-vinhedos"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"completos (100% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0025"
+"dados_titulo" "Os solos do Vale dos Vinhedos"
+"dados_autor" "Carlos Alberto Flores (cflores em terra com br); Reinaldo Oscar Pötter; Eliana Casco Sarmento (eliana.sarmento em ufrgs br); Eliseu José Weber (eweber em portoweb com br); Heinrich Hasenack (hhasenack em ufrgs br)"
+"organizacao_nome" "Embrapa Uva e Vinho"
+"organizacao_local" "Rua Livramento, 515.0, Bento Gonçalves, Brasil, 95701-008"
+"organizacao_url" "https://www.embrapa.br/uva-e-vinho"
+"dados_descricao" "O trabalho de campo foi precedido pela delimitação das principais unidades fisiográficas em cartas de campo para planejamento dos trajetos a percorrer na fase inicial. Os trajetos foram foram percorridos desde as partes mais baixas até o topo das elevações, analisando-se cortes de estradas e outras observações. Os percursos foram realizados com auxílio de receptores GPS, capturando-se as coordenadas dos pontos de observação. A fase sistemática do levantamento foi realizada mediante tradagens, observações em trincheiras e barrancos de estradas. Os locais para observação, descrição de perfis de solos e coleta de amostras foram selecionados de maneira a manter uma adequada representatividade das diferentes unidades de paisagem. A descrição de perfis de solo foi realizada com base no Manual de Descrição e Coleta de Solo no Campo (LEMOS; SANTOS, 1996). As análises físicas e químicas das amostras de solos foram executadas no Laboratório de Solo e Água da UFRGS, em Porto Alegre, de acordo com metodologia preconizada pela Embrapa (SANTOS et al., 2006), Manual de Métodos de Análise de solo (EMBRAPA, 1997) e Manual de adubação e de calagem para os Estados do Rio Grande do Sul e de Santa Catarina (Tedesco et al., 2004)."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Levantamento de solos; Sistemas de informação geográfica; Viticultura; Indicação geográfica; Vale dos Vinhedos"
+"dados_publicacao" "https://www.ufrgs.br/labgeo/index.php/dados-espaciais/248-levantamento-detalhado-de-solos-do-vale-dos-vinhedos;https://www.embrapa.br/busca-de-publicacoes/-/publicacao/966821/os-solos-do-vale-dos-vinhedos"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "completos (100% de cobertura)"
+"dados_consistencia" "consistência documental"

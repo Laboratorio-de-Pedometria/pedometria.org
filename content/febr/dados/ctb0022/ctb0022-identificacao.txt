@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0022"
-"dados_titulo"	"Levantamento semidetalhado de solos do Município de Londrina"
-"dados_autor"	"Itamar Antonio Bognola (itamar.bognola@embrapa.br); Gustavo Ribas Curcio (gustavo.curcio@embrapa.br); João Bosco Vasconcellos Gomes (joao.bv.gomes@embrapa.br); João Henrique Caviglione (jhenriq@iapar.br); Alexandre Uhlmann (alexandre.uhlmann@embrapa.br); Alcides Cardoso (NA); Américo Pereira de Carvalho (NA)"
-"organizacao_nome"	"Instituto Agrononômico do Paraná"
-"organizacao_local"	"Rodovia Celso Garcia Cid, km 375, s/n, Londrina, Brasil, 86047-902"
-"organizacao_url"	"http://www.iapar.br/"
-"dados_descricao"	"Dados de identificação e caracterização dos solos do municipio de Londrina, utilizados para o seu mapeamento na escala 1:65.000 (levantamento semidetalhado). As observações do solo foram obtidas pela prospecção das diferentes unidades fisiográficas delimitadas após a interpretação de material básico, procurando-se atender às distribuições pedossequenciais. Os perfis do solo foram examinados em barrancos, microtrincheiras e tradagens, sendo descritos conforme Santos et al. (2005), a maioria dos quais foram georeferrenciados usando GPS de navegação. Amostras do solo foram coletadas apenas para os horizontes superficial e subsuperficial, para as quais foram determinadas algumas propriedades mosfológicas, físicas e químicas básicas necessárias para a sua classificação taxonômica."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Classificação; Mapeamento; Solos; Reconhecimento do solo"
-"dados_publicacao"	"http://www.iapar.br/modules/conteudo/conteudo.php?conteudo=1034; https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=896626&biblioteca=vazio&busca=autoria:%22B.%22&qFacets=autoria:%22B.%22&sort=&paginacao=t&paginaAtual=2226"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"completos (100% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0022"
+"dados_titulo" "Levantamento semidetalhado de solos do Município de Londrina"
+"dados_autor" "Itamar Antonio Bognola (itamar.bognola em embrapa br); Gustavo Ribas Curcio (gustavo.curcio em embrapa br); João Bosco Vasconcellos Gomes (joao.bv.gomes em embrapa br); João Henrique Caviglione (jhenriq em iapar br); Alexandre Uhlmann (alexandre.uhlmann em embrapa br); Alcides Cardoso; Américo Pereira de Carvalho"
+"organizacao_nome" "Instituto Agrononômico do Paraná"
+"organizacao_local" "Rodovia Celso Garcia Cid, km 375, s/n, Londrina, Brasil, 86047-902"
+"organizacao_url" "http://www.iapar.br/"
+"dados_descricao" "Dados de identificação e caracterização dos solos do municipio de Londrina, utilizados para o seu mapeamento na escala 1:65.000 (levantamento semidetalhado). As observações do solo foram obtidas pela prospecção das diferentes unidades fisiográficas delimitadas após a interpretação de material básico, procurando-se atender às distribuições pedossequenciais. Os perfis do solo foram examinados em barrancos, microtrincheiras e tradagens, sendo descritos conforme Santos et al. (2005), a maioria dos quais foram georeferrenciados usando GPS de navegação. Amostras do solo foram coletadas apenas para os horizontes superficial e subsuperficial, para as quais foram determinadas algumas propriedades mosfológicas, físicas e químicas básicas necessárias para a sua classificação taxonômica."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Classificação; Mapeamento; Solos; Reconhecimento do solo"
+"dados_publicacao" "http://www.iapar.br/modules/conteudo/conteudo.php?conteudo=1034; https://www.bdpa.cnptia.embrapa.br/consulta/busca?b=pc&id=896626&biblioteca=vazio&busca=autoria:%22B.%22&qFacets=autoria:%22B.%22&sort=&paginacao=t&paginaAtual=2226"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "completos (100% de cobertura)"
+"dados_consistencia" "consistência estrutural"

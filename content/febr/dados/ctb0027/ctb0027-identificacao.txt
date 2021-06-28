@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0027"
-"dados_titulo"	"Conjunto de dados de ferro de Guarapuava - PR."
-"dados_autor"	"Aline Marques Genú (agenu@unicentro.br)"
-"organizacao_nome"	"Universidade Estadual do Centro Oeste (UNICENTRO)"
-"organizacao_local"	"Rua Simeão Camargo Varela de Sá, 3.0, Guarapuava (PR), Brasil, 85040-080"
-"organizacao_url"	"http://www3.unicentro.br/"
-"dados_descricao"	"Os dados referem-se a resultados analiticos de perfis de solo coletados no Campus Cedeteg, da UNICENTRO, para a geração do mapa de solos detalhado da área experimental da instituição. Foram coletadas amostras dos horizontes A e B de cinco perfis de Latossolo Bruno, sob diferentes usos agrícolas."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Mineralogia; Latossolo Bruno; Óxidos de ferro"
-"dados_publicacao"	"http://www.eaic.uem.br/eaic2012/anais; http://www.sbcs-nepar.org.br/images/nepar/publicacoes/anais-iii-rpcs.pdf"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0027"
+"dados_titulo" "Conjunto de dados de ferro de Guarapuava - PR."
+"dados_autor" "Aline Marques Genú (agenu em unicentro br)"
+"organizacao_nome" "Universidade Estadual do Centro Oeste (UNICENTRO)"
+"organizacao_local" "Rua Simeão Camargo Varela de Sá, 3.0, Guarapuava (PR), Brasil, 85040-080"
+"organizacao_url" "http://www3.unicentro.br/"
+"dados_descricao" "Os dados referem-se a resultados analiticos de perfis de solo coletados no Campus Cedeteg, da UNICENTRO, para a geração do mapa de solos detalhado da área experimental da instituição. Foram coletadas amostras dos horizontes A e B de cinco perfis de Latossolo Bruno, sob diferentes usos agrícolas."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Mineralogia; Latossolo Bruno; Óxidos de ferro"
+"dados_publicacao" "http://www.eaic.uem.br/eaic2012/anais; http://www.sbcs-nepar.org.br/images/nepar/publicacoes/anais-iii-rpcs.pdf"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento de média intensidad
 date: 2020-10-28
 slug: ../ctb0772
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Osvaldo Ferreira Lopes", "José Carlos Pereira dos Santos", "Alexandre Hugo Cezar Barros.&#10", "(NA)"]
+#authors: ["Osvaldo Ferreira Lopes", "José Carlos Pereira dos Santos", "Alexandre Hugo Cezar Barros.&#10;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

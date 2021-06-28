@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0804"
-"dados_titulo"	"Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul. Primeira Etapa, Planalto Rio-grandense"
-"dados_autor"	"Raimundo Costa de Lemos; Miguel Ângelo Décimo Azolin; Paulo Ubirajara Rodrigues Abrão; Milton da Conceição Lopes dos Santos; Américo Pereira de Carvalho"
-"organizacao_nome"	"Divisão de Pedologia e Fertilidade do Solo do Ministério da Agricultura"
-"organizacao_local"	"Brasil"
-"organizacao_url"	NA
-"dados_descricao"	"Dados da primeira etapa do Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul, cobrindo a Região do Planalto. A descrição dos perfis seguem as normas e definições do ‘Soil Survey Manual’ (U.S. Dept. Agr. 1951) e do ‘Manual de Métodos de Trabalho de Campo’ (Soc. Bras. Ciênc. Solo 1964). Estão incluídos os dados morfológicos e analíticos de 41 perfis do solo, tendo as análises químicas e físicas sido realizadas pela Seção de Análise da Divisão de Pedologia e Fertilidade do Solo. Uma parte minoritária dos dados foi originalmente obtida do Sistema de Informação de Solos Brasileiros (SISB), com alguma complementação a partir dos dados compilados por Cooper et al. (2005) e publicados no artigo 'A national soil profile database for Brazil available to international scientists'."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	NA
-"dados_publicacao"	"https://www.dropbox.com/s/3q04uznpks6l20q/LemosEtAl1967.pdf?dl=0;https://seer.sct.embrapa.br/index.php/pab/article/view/17891/0"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"virtualmente completos (mais de 95% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0804"
+"dados_titulo" "Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul. Primeira Etapa, Planalto Rio-grandense"
+"dados_autor" "Raimundo Costa de Lemos; Miguel Ângelo Décimo Azolin; Paulo Ubirajara Rodrigues Abrão; Milton da Conceição Lopes dos Santos; Américo Pereira de Carvalho"
+"organizacao_nome" "Divisão de Pedologia e Fertilidade do Solo do Ministério da Agricultura"
+"organizacao_local" "Brasil"
+"organizacao_url" NA
+"dados_descricao" "Dados da primeira etapa do Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul, cobrindo a Região do Planalto. A descrição dos perfis seguem as normas e definições do ‘Soil Survey Manual’ (U.S. Dept. Agr. 1951) e do ‘Manual de Métodos de Trabalho de Campo’ (Soc. Bras. Ciênc. Solo 1964). Estão incluídos os dados morfológicos e analíticos de 41 perfis do solo, tendo as análises químicas e físicas sido realizadas pela Seção de Análise da Divisão de Pedologia e Fertilidade do Solo. Uma parte minoritária dos dados foi originalmente obtida do Sistema de Informação de Solos Brasileiros (SISB), com alguma complementação a partir dos dados compilados por Cooper et al. (2005) e publicados no artigo 'A national soil profile database for Brazil available to international scientists'."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" NA
+"dados_publicacao" "https://www.dropbox.com/s/3q04uznpks6l20q/LemosEtAl1967.pdf?dl=0;https://seer.sct.embrapa.br/index.php/pab/article/view/17891/0"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "virtualmente completos (mais de 95% de cobertura)"
+"dados_consistencia" "consistência estrutural"

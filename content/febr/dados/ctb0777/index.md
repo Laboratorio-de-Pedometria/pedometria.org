@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento exploratório-reconhecimento 'LEVANTAM
 date: 2020-10-28
 slug: ../ctb0777
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Serviço Nacional de Levantamento e Conservação de Solos;&#10", "(NA)"]
+#authors: ["Serviço Nacional de Levantamento e Conservação de Solos;&#10;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

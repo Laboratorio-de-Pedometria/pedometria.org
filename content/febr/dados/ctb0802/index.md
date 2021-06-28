@@ -3,7 +3,7 @@ title: "Conjunto de dados do  'CARACTERIZAÇÃO FÍSICO-HÍDRICA DOS PRINCIPAIS 
 date: 2020-10-28
 slug: ../ctb0802
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Tarcísio Eweton Rodrigues;&#10;Raimundo Cosme de Oliveira Junior;&#10;João Marcos Lima da Silva;&#10;Moacir Azevedo Valente;&#10;Claudio Lucas Capeche;&#10;Wilson SantAnna de Araujo;&#10;Marie Elizabeth C. C. de Magalhães Melo;&#10;Washington de Oliveira Barreto;&#10;José Lopes de Paula;&#10;Evanda Maria Rodrigues;&#10;Daniel Luiz Leal Mangas;&#10;Antonio Guilherme Soares Campos.&#10", "(NA)"]
+#authors: ["Tarcísio Eweton Rodrigues;&#10;Raimundo Cosme de Oliveira Junior;&#10;João Marcos Lima da Silva;&#10;Moacir Azevedo Valente;&#10;Claudio Lucas Capeche;&#10;Wilson SantAnna de Araujo;&#10;Marie Elizabeth C. C. de Magalhães Melo;&#10;Washington de Oliveira Barreto;&#10;José Lopes de Paula;&#10;Evanda Maria Rodrigues;&#10;Daniel Luiz Leal Mangas;&#10;Antonio Guilherme Soares Campos.&#10;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0838"
-"dados_titulo"	"Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'"
-"dados_autor"	"Elias Mendes Costa (eliasmccosta@yahoo.com.br); Lúcia Helena Cunha dos Anjos (lanjosrural@gmail.com)"
-"organizacao_nome"	"Universidade Federal Rural do Rio de Janeiro (UFRRJ)"
-"organizacao_local"	"BR-465, Km 7, Sem número, Seropédica, Brasil, 23.897-000"
-"organizacao_url"	"www.ia.ufrrj.br/cpacs/"
-"dados_descricao"	"Conjunto de dados produzido como parte da Dissetação submetida como requisito parcial para obtenção do grau de Mestre no Curso de Pós-Graduação em Agronomia da Universidade Federal Rural do Rio de Janeiro. Inclui dados do conteúdo de ferro total determinado via extração com solução de ácido sulfúrico para 20 perfis do solo observados no município de Pinheiral (RJ). Com base no conhecimento da área de estudo, a partir de informações prévias sobre o meio físico e solo, foram selecionados pontos representativos que contemplassem a variação dos fatores de formação do solo. Foram abertas tricheiras para descrição dos perfis e coleta de amostras dos horizontes para caracterização do solo segundo procedimentos descritos no Manual de Descrição e Coleta de Solo no Campo (Santos et al., 2013). Devido à existência de limitações orçamentárias, apenas amostras de horizontes selecionados foram submetidos à determinação do conteúdo de ferro total. Em alguns casos apenas os horizontes B diagnósticos foram analisados, em outros o primeiro horizonte A e um ou mais horizontes subsuperficiais."
-"area_conhecimento"	"Gênese, Morfologia e Classificação dos Solos"
-"palavras_chave"	"Pedologia; Pedometria; Sensoriamento remoto; Relação solo-paisagem"
-"dados_publicacao"	"https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping; http://www.ia.ufrrj.br/cpacs/arquivos/teses_dissert/439_(ME-2015)_Elias_Mendes_Costa.pdf"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY-NC 4.0 Atribuição-NãoComercial"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0838"
+"dados_titulo" "Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'"
+"dados_autor" "Elias Mendes Costa (eliasmccosta em yahoo com br); Lúcia Helena Cunha dos Anjos (lanjosrural em gmail com)"
+"organizacao_nome" "Universidade Federal Rural do Rio de Janeiro (UFRRJ)"
+"organizacao_local" "BR-465, Km 7, Sem número, Seropédica, Brasil, 23.897-000"
+"organizacao_url" "www.ia.ufrrj.br/cpacs/"
+"dados_descricao" "Conjunto de dados produzido como parte da Dissetação submetida como requisito parcial para obtenção do grau de Mestre no Curso de Pós-Graduação em Agronomia da Universidade Federal Rural do Rio de Janeiro. Inclui dados do conteúdo de ferro total determinado via extração com solução de ácido sulfúrico para 20 perfis do solo observados no município de Pinheiral (RJ). Com base no conhecimento da área de estudo, a partir de informações prévias sobre o meio físico e solo, foram selecionados pontos representativos que contemplassem a variação dos fatores de formação do solo. Foram abertas tricheiras para descrição dos perfis e coleta de amostras dos horizontes para caracterização do solo segundo procedimentos descritos no Manual de Descrição e Coleta de Solo no Campo (Santos et al., 2013). Devido à existência de limitações orçamentárias, apenas amostras de horizontes selecionados foram submetidos à determinação do conteúdo de ferro total. Em alguns casos apenas os horizontes B diagnósticos foram analisados, em outros o primeiro horizonte A e um ou mais horizontes subsuperficiais."
+"area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
+"palavras_chave" "Pedologia; Pedometria; Sensoriamento remoto; Relação solo-paisagem"
+"dados_publicacao" "https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping; http://www.ia.ufrrj.br/cpacs/arquivos/teses_dissert/439_(ME-2015)_Elias_Mendes_Costa.pdf"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

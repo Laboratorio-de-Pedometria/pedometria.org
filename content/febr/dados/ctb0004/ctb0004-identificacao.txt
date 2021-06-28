@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0004"
-"dados_titulo"	"Conjunto de dados da tese 'Fate of fipronil in soils under sugar cane cultivation from the northeast of Brazil: sorption and degradation'"
-"dados_autor"	"Carmem Sueze Miranda Masutti (carmem.masutti@univasf.edu.br); Ahmet R. Mermut (a.mermut@usask.ca)"
-"organizacao_nome"	"University of Saskatchewan (U of S)"
-"organizacao_local"	"Campus Drive, 51.0, Saskatoon, Canadá, S7N 5A8"
-"organizacao_url"	"https://agbio.usask.ca/departments/soil-science.php"
-"dados_descricao"	"Dados produzidos como parte de tese submetida por Carmem Sueze Miranda Masutti, sob orientação de Ahmet R. Mermut, ao College of Graduate Studies and Research como requisito parcial de obtenção do título de PhD no Department of Soil Science. Os dados foram produzidos a partir de amostras do solo, coletadas em transectos de 27 m de comprimento posicionados transversalmente às fileiras de cana-de-açúcar, de duas profundidades: 0-15 e 15-30 cm. Duas posições da paisagem foram amostradas, topo -- Ustox -- e baixada -- Aquept --, com dois transetos em cada, ambas as posições sendo áreas de produção de cana-de-açúcar, enquanto um quinto transecto foi colocado em uma área de floresta. 56 amostras individuais foram obtidas em cada transeto. A distância entre os pontos de amostragem dentro de um transecto coincidiu com o espaçamento de plantio da cana-de-açúcar, ou seja, 1 m. Depois de coletadas, a cada quatro amostras individuais adjacentes dentro de cada transecto, foi produzida uma amostra composta, resultando em 14 amostras compostas em cada transecto. A composição das amostras se deveu à grande homogeneidade do solo e à necessidade de minimização do número de amostras para as análises laboratoriais. A tese não apresenta dados precisos sobre as coordenadas espaciais do transectos. Na presente versão do conjunto de dados, as coordenadas mais prováveis dos transectos foram inferidas a partir da descrição dos locais amostrais. O comprimento dos transectos (27 m) foi usado como medida da acurácia das coordenadas espaciais. A posição espacial inferida para os transectos pode ser vista no Google My Maps (https://drive.google.com/open?id=1FiiDnLfIl2SrNhq4mY5ghLc_fwc&usp=sharing)."
-"area_conhecimento"	"Química do Solo"
-"palavras_chave"	"Fipronil; Solos tropicais; Adsorção; Desorção; Goethita"
-"dados_publicacao"	"http://dx.doi.org/10.1016/j.geoderma.2007.02.020; http://dx.doi.org/10.1080/03601230601017981"
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	NA
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0004"
+"dados_titulo" "Conjunto de dados da tese 'Fate of fipronil in soils under sugar cane cultivation from the northeast of Brazil: sorption and degradation'"
+"dados_autor" "Carmem Sueze Miranda Masutti (carmem.masutti em univasf.edu br); Ahmet R. Mermut (a.mermut em usask.ca)"
+"organizacao_nome" "University of Saskatchewan (U of S)"
+"organizacao_local" "Campus Drive, 51.0, Saskatoon, Canadá, S7N 5A8"
+"organizacao_url" "https://agbio.usask.ca/departments/soil-science.php"
+"dados_descricao" "Dados produzidos como parte de tese submetida por Carmem Sueze Miranda Masutti, sob orientação de Ahmet R. Mermut, ao College of Graduate Studies and Research como requisito parcial de obtenção do título de PhD no Department of Soil Science. Os dados foram produzidos a partir de amostras do solo, coletadas em transectos de 27 m de comprimento posicionados transversalmente às fileiras de cana-de-açúcar, de duas profundidades: 0-15 e 15-30 cm. Duas posições da paisagem foram amostradas, topo -- Ustox -- e baixada -- Aquept --, com dois transetos em cada, ambas as posições sendo áreas de produção de cana-de-açúcar, enquanto um quinto transecto foi colocado em uma área de floresta. 56 amostras individuais foram obtidas em cada transeto. A distância entre os pontos de amostragem dentro de um transecto coincidiu com o espaçamento de plantio da cana-de-açúcar, ou seja, 1 m. Depois de coletadas, a cada quatro amostras individuais adjacentes dentro de cada transecto, foi produzida uma amostra composta, resultando em 14 amostras compostas em cada transecto. A composição das amostras se deveu à grande homogeneidade do solo e à necessidade de minimização do número de amostras para as análises laboratoriais. A tese não apresenta dados precisos sobre as coordenadas espaciais do transectos. Na presente versão do conjunto de dados, as coordenadas mais prováveis dos transectos foram inferidas a partir da descrição dos locais amostrais. O comprimento dos transectos (27 m) foi usado como medida da acurácia das coordenadas espaciais. A posição espacial inferida para os transectos pode ser vista no Google My Maps (https://drive.google.com/open?id=1FiiDnLfIl2SrNhq4mY5ghLc_fwc&usp=sharing)."
+"area_conhecimento" "Química do Solo"
+"palavras_chave" "Fipronil; Solos tropicais; Adsorção; Desorção; Goethita"
+"dados_publicacao" "http://dx.doi.org/10.1016/j.geoderma.2007.02.020; http://dx.doi.org/10.1080/03601230601017981"
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" NA
+"dados_consistencia" "consistência estrutural"

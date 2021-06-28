@@ -3,7 +3,7 @@ title: "Conjunto de dados do levantamento de reconhecimento de média intensidad
 date: 2020-10-28
 slug: ../ctb0673
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["José Raimundo Natividade Ferreira Gama", "Tarcísio Ewerton Rodrigues", "Raphael David dos Santos", "Raimundo Silva Rego", "Paulo Lacerda dos Santos", "Antonio Agostinho Cavalcanti Lima", "Amarindo Fausto Soares", "João Souza Martins", "João Marcos Lima da Silva", "Raymundo Mendes Sobral Filho", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "José Lopes de Paula", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Terezinha Xavier Bastos&#10", "(NA)"]
+#authors: ["José Raimundo Natividade Ferreira Gama", "Tarcísio Ewerton Rodrigues", "Raphael David dos Santos", "Raimundo Silva Rego", "Paulo Lacerda dos Santos", "Antonio Agostinho Cavalcanti Lima", "Amarindo Fausto Soares", "João Souza Martins", "João Marcos Lima da Silva", "Raymundo Mendes Sobral Filho", "Washington de Oliveira Barreto", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "José Lopes de Paula", "Loiva Lizia Antonello", "Therezinha da Costa Lima", "Evanda Maria Rodrigues", "Raphael Minotti Bloise", "Gisa Nara C. Moreira", "Terezinha Xavier Bastos&#10;"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 

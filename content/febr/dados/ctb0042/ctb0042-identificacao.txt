@@ -1,19 +1,19 @@
-"campo"	"valor"
-"dados_id"	"ctb0042"
-"dados_titulo"	"Alteração do pH do solo por influência da diluição, tipo de solvente e tempo de contato"
-"dados_autor"	"José Mário Braga (NA); Lafayette Franco Sobral (NA); Luciano da Silva Souza (NA); Helena F Oliveira (NA)"
-"organizacao_nome"	NA
-"organizacao_local"	"Brasil"
-"organizacao_url"	NA
-"dados_descricao"	"Dados de experimento realizado com quartro amostras de solo do Estado de Minas Gerais. Inclui dados de propriedades químicas e físicas solo sem informação sobre o laboratório onde as análises foram realizadas. Também não especifica os métodos anaíticos utilizados. Os dados de pH do solo foram obtidos sob várias condições de diluição, tipo de solvente e tempo de contato do solo com o solvente a fim de testar seu efeito sobre os valores obtidos."
-"area_conhecimento"	"Química do Solo"
-"palavras_chave"	NA
-"dados_publicacao"	NA
-"dados_idioma"	NA
-"fonte_financeira"	NA
-"dados_licenca"	"CC BY 4.0 Atribuição"
-"extensao_temporal"	NA
-"extensao_espacial"	NA
-"extensao_altimetrica"	NA
-"dados_completude"	"completos (100% de cobertura)"
-"dados_consistencia"	"consistência estrutural"
+"campo" "valor"
+"dados_id" "ctb0042"
+"dados_titulo" "Alteração do pH do solo por influência da diluição, tipo de solvente e tempo de contato"
+"dados_autor" "José Mário Braga; Lafayette Franco Sobral; Luciano da Silva Souza; Helena F Oliveira"
+"organizacao_nome" NA
+"organizacao_local" "Brasil"
+"organizacao_url" NA
+"dados_descricao" "Dados de experimento realizado com quartro amostras de solo do Estado de Minas Gerais. Inclui dados de propriedades químicas e físicas solo sem informação sobre o laboratório onde as análises foram realizadas. Também não especifica os métodos anaíticos utilizados. Os dados de pH do solo foram obtidos sob várias condições de diluição, tipo de solvente e tempo de contato do solo com o solvente a fim de testar seu efeito sobre os valores obtidos."
+"area_conhecimento" "Química do Solo"
+"palavras_chave" NA
+"dados_publicacao" NA
+"dados_idioma" NA
+"fonte_financeira" NA
+"dados_licenca" "CC BY 4.0 Atribuição"
+"extensao_temporal" NA
+"extensao_espacial" NA
+"extensao_altimetrica" NA
+"dados_completude" "completos (100% de cobertura)"
+"dados_consistencia" "consistência estrutural"
