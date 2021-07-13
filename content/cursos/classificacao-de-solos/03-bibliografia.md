@@ -21,3 +21,5 @@ type: book  # Do not modify.
 
 * REICHERT, J. M. (ED.). Fundamentos da Ciência do Solo. Santa Maria, RS: Universidade Federal de Santa Maria, Departamento de Solos, 2007. 169 p. URL: <http://www.fisicadosolo.ccr.ufsm.quoos.com.br/downloads/Disciplinas/FundCiSolo/Apostila_FundaCiSolo.pdf>
 * IBGE. Manual Técnico de Uso da Terra. 3. ed. Rio de Janeiro, RJ: Instituto Brasileiro de Geografia e Estatística, 2013. 170 p. ISBN 978-85-240-4307-9. URL: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv81615.pdf>
+* HUDSON, B. D. The soil survey as paradigm-based science. Soil Science Society of America Journal, v. 56, p. 836–841, 1992. URL: <https://www.dropbox.com/s/lye2y8li2rwe6ga/Hudson1992_The_soil_survey_as_paradigm-based_science.pdf?dl=0>
+* SWANSON, D. K. Comments on "The soil survey as a paradigm-based science. Soil Science Society of America Journal, v. 57, p. 1164, 1993. URL: <https://www.dropbox.com/s/gyrfi71104v9qpt/Swanson1993_Comments_on_The_soil_survey_as_a_paradigm-based_science.pdf?dl=0>

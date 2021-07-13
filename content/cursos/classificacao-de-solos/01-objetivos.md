@@ -14,5 +14,3 @@ type: book  # Do not modify.
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Solos-do-brasil.gif" alt="Solos do Brasil" style="margin: 5px; float: right;" width="300"/>
 
 Ao final desta disciplina, ofertada no terceiro período do curso de Agronomia, espera-se que os alunos saibam __avaliar__ dados e informações sobre recursos do solo, selecionando variáveis, materiais e ferramentas que se apliquem ao contexto analisado, demonstrando atitude cooperativa e com comunicação efetiva. Especificamente, os alunos devem ser capazes de (a) __levantar__ dados e informações de recursos do solo, (b) __aplicar__ modelos qualitativos ou quantitativos aos dados e informações levantadas, (c) __analisar__ resultados gerados pelos modelos aplicados e (d) __julgar__ o contexto analisado a partir das análises realizadas.
-
-<img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbsbmXJCP9TwIYEqt64mHztgt7qIFKhKjucFyHoi4wX567I67qPt72oHRNBqpZMI9Zlcz2ISc2Xq-w/pubchart?oid=1818091683&format=image"/>
