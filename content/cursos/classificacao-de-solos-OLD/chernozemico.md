@@ -4,7 +4,7 @@ linktitle: Horizonte A chernozêmico
 toc: true
 type: docs
 date: "2020-10-14"
-draft: false
+draft: true
 menu:
   horizon:
     parent: Horizontes diagnósticos

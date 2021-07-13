@@ -4,7 +4,7 @@ linktitle: Horizonte A fraco
 toc: true
 type: docs
 date: "2020-10-16"
-draft: false
+draft: true
 menu:
   horizon:
     parent: Horizontes diagnósticos
