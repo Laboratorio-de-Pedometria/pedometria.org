@@ -73,6 +73,7 @@ Procuramos um candidato motivado que tenha:
 * Conhecimento da estrutura, funcionamento e administração de sistemas livres e de código aberto usados no gerenciamento de dados e metadados como o [DataVerse](https://dataverse.org/).
 * Atitude pró-ativa com paixão e experiência em pesquisa interdisciplinar e desejo de contribuir para o desenvolvimento de estratégias de gestão de dados e metadados da pesquisa com base nos princípios [FAIR](https://www.nature.com/articles/sdata201618) e [TRUST](https://www.nature.com/articles/s41597-020-0486-7).
 * Excelentes habilidades de comunicação oral e escrita, com bom histórico acadêmico e de publicação científica ou tecnológica.
+* Disponibilidade média de 40 horas semanais.
 
 Além disso, é uma vantagem quando você também tem:
 
