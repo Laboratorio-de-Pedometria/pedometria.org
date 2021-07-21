@@ -97,7 +97,7 @@ image:
 url_slides: https://docs.google.com/presentation/d/e/2PACX-1vTDxsCk-Hh07OTc5NOmfLyNPrvLFrFKLyKgLPwR_hYd1xyzcQozBCUagHWRF2ijQU7bigmZVXvswOFw/pub?start=true&loop=false&delayms=10000
 url_code: https://gitlab.com/laboratorio-de-pedometria/mb-solos-pilot
 url_pdf:
-url_video:
+url_video: https://drive.google.com/file/d/1_nb-USsbQchcCKAGnDbrBvPMQgeiHxTP/view?usp=sharing
 
 # Slides Markdown (opcional)
 # Associe esta palestra/curso com slides Markdown (reveal.js)
