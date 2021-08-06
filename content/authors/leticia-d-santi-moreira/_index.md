@@ -24,7 +24,7 @@ superuser: false
 # - Estudantes de Pós-Graduação
 # - Egressos
 user_groups:
-- Estudantes de Graduação
+- Egressos
 
 # Função/Posição:
 # - Bolsista de Iniciação Científica
