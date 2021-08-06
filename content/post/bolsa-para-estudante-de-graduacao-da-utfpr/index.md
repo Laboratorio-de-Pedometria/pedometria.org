@@ -7,7 +7,7 @@ draft: false
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Bolsas para Dois Estudantes de Graduação da UTFPR"
 subtitle: "Bacharelado em Ciência da Computação e áreas afins"
-summary: "Chamada para estudantes dos cursos de bacharelado em Ciência da Computação, Engenharia de Software ou Sistemas de Informação da UTFPR atuarem em projetos de desenvolvimento de (1) aplicativo híbrido ou (2) sistema de gestão de repositório de dados."
+summary: "CHAMADA PRORROGADA ATÉ RETORNO DO PORTAL LATTES!<br>Chamada para estudantes dos cursos de bacharelado em Ciência da Computação, Engenharia de Software ou Sistemas de Informação da UTFPR atuarem em projetos de desenvolvimento de (1) aplicativo híbrido ou (2) sistema de gestão de repositório de dados."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
@@ -97,6 +97,6 @@ Experiência no uso do [sistema git][git] de versionamento de código fonte é d
 
 ## Inscrições
 
-* Período: entre 21 e 31 de julho de 2021
+* Período: entre 21 e 15 de agosto de 2021
   * Criação da instância DataVerse do FEBR: <https://forms.gle/SxdFjoTzsAyDUGiA8>
   * soilDT: Aplicativo para Aprendizado da Classificação de Solos <https://forms.gle/23YfFboWc8cSjY3Z9>
