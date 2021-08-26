@@ -1227,7 +1227,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0829/\">ctb0829<\/a>",
-      "dados_titulo": "Levantamento de reconhecimento dos solos da região sul-sudeste do Estado do Amazonas-IPAAM"
+      "dados_titulo": "Levantamento de reconhecimento dos solos da região sul-sudeste do Estado do Amazonas",
+      "dados_autor": "IPAAM"
     },
     {
       "dados_id": "<a href=\"../ctb0831/\">ctb0831<\/a>",

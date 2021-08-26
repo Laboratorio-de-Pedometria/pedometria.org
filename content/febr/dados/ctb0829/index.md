@@ -1,9 +1,9 @@
 ---
-title: "Levantamento de reconhecimento dos solos da região sul-sudeste do Estado do Amazonas-IPAAM"
+title: "Levantamento de reconhecimento dos solos da região sul-sudeste do Estado do Amazonas"
 date: 2020-10-28
 slug: ../ctb0829
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["NA"]
+#authors: ["IPAAM"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,21 +52,21 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0829.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>733376 bytes</td>
+      <td>738307 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0829&files=ctb0829.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0829-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3001 bytes</td>
+      <td>2989 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0829&files=ctb0829-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0829-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>741 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0829&files=ctb0829-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

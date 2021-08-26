@@ -16,4 +16,4 @@
 "extensao_espacial" NA
 "extensao_altimetrica" NA
 "dados_completude" "completos (100% de cobertura)"
-"dados_consistencia" "consistência documental"
+"dados_consistencia" "consistência estrutural"

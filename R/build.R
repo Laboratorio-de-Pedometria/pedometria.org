@@ -1,4 +1,6 @@
 # rmarkdown::render("content/febr/catalogo/_index.Rmd")
+# install.packages("languageserver")
+renv::snapshot()
 
 # Editar a linha 92 do arquivo HTML, substituindo
 file <- 'static/projeto/febr/espacial/index.html'
