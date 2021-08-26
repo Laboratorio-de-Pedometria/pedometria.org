@@ -32,7 +32,7 @@ social:
 superuser: false
 title: Marcos Alexandre dos Anjos
 user_groups:
-- Estudantes de Graduação
+- Pesquisadores
 ---
 
 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR) campus Santa Helena, localizado no Oeste do Paraná. Formado pela UDACITY nos cursos de Nanodegree, sendo eles: Front End Developer, nos quais pude aprender sobre novas tecnologias, framework, padrões de projetos, e paradigmas de programação. Entusiasta do mundo dos dados, áreas de estudos: análise de dados, BigData, IA para Trading.

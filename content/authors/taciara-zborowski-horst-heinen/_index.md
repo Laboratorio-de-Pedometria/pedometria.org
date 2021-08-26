@@ -40,7 +40,7 @@ social:
 superuser: false
 title: Taciara Zborowski Horst-Heinen
 user_groups:
-- Estudantes de Pós-Graduação
+- Pesquisadores
 ---
 
 Taciara é aluna de doutorado no Programa de Pós-Graduação em Ciência do Solo da Universidade Federal de Santa Maria. Foi bolsista de doutorado sanduíche do Programa Institucional de Internacionalização (CAPES-PrInt) e esteve por oito meses no Laboratório de Pedometria, Análise de Paisagem e SIG da Universidade da Flórida, nos Estados Unidos.
