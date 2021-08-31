@@ -46,9 +46,6 @@ __Data de início__: 2019-09-01<br>
 __Data de término__: 2020-08-31
 
 {{% btn %}}
-  [Plano de trabalho](https://drive.google.com/file/d/1iGhBVZcmpsL1CeLwxA5FwYFzvYj0q4D0)
-{{% /btn %}}
-{{% btn %}}
   [Relatório de atividades](https://docs.google.com/document/d/1b9eves6zX1DPj025eALVS-6pmVqZxlIqf3OW2qST0L4/)
 {{% /btn %}}
 {{% btn %}}
@@ -62,11 +59,21 @@ __Data de início__: 2020-09-01<br>
 __Data de término__: 2021-08-31
 
 {{% btn %}}
-  [Plano de trabalho](https://docs.google.com/document/d/12w2Fhw1Az3A7mD5QdFqOf6uWZnOv1EF2oy-v7qX7yIM)
-{{% /btn %}}
-{{% btn %}}
   [Relatório de atividades](https://docs.google.com/document/d/1RhhxTI5OlXb0kJXsqnIljWyRcH-kRPx8JL9JquaLfY8/)
 {{% /btn %}}
 <!-- {{% btn %}}
   [Artigo SEI 2021]()
+{{% /btn %}} -->
+
+### UTFPR -- PROREC 2021/2022
+
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
+__Data de início__: 2020-10-01<br>
+__Data de término__: 2021-09-30
+
+<!-- {{% btn %}}
+  [Relatório de atividades]()
+{{% /btn %}} -->
+<!-- {{% btn %}}
+  [Artigo SEI 2022]()
 {{% /btn %}} -->
