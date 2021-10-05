@@ -134,11 +134,28 @@ Seja suave:
 * descreva como tentou resolvê-lo;
 * ofereça alguma resposta provisória que tenha encontrado.
 
-<!-- ## A introdução
+## A introdução
 
-* Sua introdução está longa, superficial e demasiado teórica. Tente sempre organizar em três parágrafos: no primeiro, apresente o tema geral (qualidade de semente); no segundo, apresente o problema; no terceiro, apresente a solução que você quer testar para o problema. Use menos referências.
+* Evite introdução longa, superficial e demasiado teórica
+* Tente organizar a introdução em três parágrafos:
+  * no primeiro, apresente o tema geral;
+  * no segundo, apresente o problema;
+  * no terceiro, apresente a solução que você quer testar para o problema.
+* Use poucas referências: mostre que você sabe do que está falando
 
-* Sempre insira figuras dos organismos com os quais está estudando, dos sistemas de manejo, uma mapa da área de estudo. Tenha sempre em mente que os leitores não conhecem seu estudo.
-* PARABÉNS POR USAR O R. Você disponibilizou o código em algum repositório público como o GitHub. Dê uma olhada em https://github.com/samuel-rosa.
-* Nos resultados dos testes estatísticos, sempre apresente o valor P. Alguns leitores podem preferir usar níveis de significância diferente daquele que você usou e, assim, podem chegar a resultados distintos. Não podemos "roubar" essa oportunidade dos nossos leitores.
-* Sua conclusão não é uma conclusão. "os porta-enxertos ‘Ishtara’ e ‘Genovesa’ se mostraram pouco produtivos" é uma repetição dos resultados. Na conclusão você deve nos dizer se vale a pena ou não usar as estratégias que você testou. O que você recomenda, a partir dos seus resultados, para um agricultor. Por exemplo, fiquei esperando alguma indicação das combinações mais adequadas para a região sudoeste do Paraná e Oeste de Santa Catarina. -->
+## Material e métodos
+
+* Sempre insira figuras dos organismos que está estudando, dos sistemas de manejo, uma mapa da área de estudo.
+  * Tenha sempre em mente que os leitores não conhecem seu estudo.
+
+## Resultados
+
+* Nos resultados dos testes estatísticos, sempre apresente o valor P.
+  * Alguns leitores podem preferir usar níveis de significância diferente daquele que você usou e, assim, podem chegar a resultados distintos.
+  * Não podemos "roubar" essa oportunidade dos nossos leitores.
+
+## Conclusão
+
+* Sua conclusão não deve ser uma repetição dos resultados.
+* Na conclusão você deve nos dizer se vale a pena ou não usar as estratégias que você testou.
+* O que você recomenda, a partir dos seus resultados, para as pessoas.
