@@ -43,7 +43,7 @@ publishDate: 2020-11-23T19:20:54-03:00
 # Autores da palestra/curso
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
 authors:
-  - taciara-zborowski-horst-heinen
+  - taciara-zborowski-horst
   - Ricardo Simão Diniz Dalmolin
   - admin
   - Sabine Grunwald

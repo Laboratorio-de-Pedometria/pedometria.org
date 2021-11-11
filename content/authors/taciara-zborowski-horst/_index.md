@@ -1,6 +1,6 @@
 ---
 authors:
-- taciara-zborowski-horst-heinen
+- taciara-zborowski-horst
 bio: ""
 education:
   courses:
@@ -38,7 +38,7 @@ social:
   icon_pack: ai
   link: http://lattes.cnpq.br/6763043931071514
 superuser: false
-title: Taciara Zborowski Horst-Heinen
+title: Taciara Zborowski Horst
 user_groups:
 - Pesquisadores
 ---
