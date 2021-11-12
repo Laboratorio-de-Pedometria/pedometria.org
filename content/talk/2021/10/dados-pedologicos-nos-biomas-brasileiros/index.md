@@ -4,7 +4,7 @@
 # Título da palestra/curso
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Dados Pedologicos nos Biomas Brasileiros"
+title: "Dados Pedológicos nos Biomas Brasileiros"
 
 # Nome do evento
 event: Desafios para o Monitoramento de Carbono nas Pastagens Brasileiras
