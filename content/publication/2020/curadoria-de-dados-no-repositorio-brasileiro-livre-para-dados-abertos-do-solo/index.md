@@ -6,7 +6,7 @@
 # Título da publicação
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Curadoria de Dados no Repositório Brasileiro Livre para Dados Abertos Do Solo"
+title: "Curadoria de Dados no Repositório Brasileiro Livre para Dados Abertos do Solo"
 
 # Autores da publicação
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
@@ -124,4 +124,6 @@ Maiores informações estão disponíveis no [relatório de atividades](https://
 
 ### Agradecimentos
 
-Este trabalho foi financiado pela Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná na forma de bolsa de iniciação científica (Edital UTFPR/PROPPG – 02/2019). Os autores são gratos à Marcos Alexandre dos Anjos (UTFPR), Maiara Pusch (UNICAMP) e Taciara Horst-Heinen (UFSM) pelos comentários em uma versão preliminar do artigo. Os autores também são gratos à Luciana Sampaio (Embrapa Solos), João Herbert (Embrapa Milho e Sorgo), Wenceslau Geraldes Teixeira (Embrapa Solos), pelas informações prestadas sobre os conjuntos de dados.
+Este trabalho foi financiado pela Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná na forma de bolsa de iniciação científica (Edital UTFPR/PROPPG – 02/2019). Os autores são gratos à Marcos Alexandre dos Anjos (UTFPR), Maiara Pusch (UNICAMP) e [Taciara Zborowski Horst][taciara] (UFSM) pelos comentários em uma versão preliminar do artigo. Os autores também são gratos à Luciana Sampaio (Embrapa Solos), João Herbert (Embrapa Milho e Sorgo), Wenceslau Geraldes Teixeira (Embrapa Solos), pelas informações prestadas sobre os conjuntos de dados.
+
+[taciara]: ../../taciara-zborowski-horst

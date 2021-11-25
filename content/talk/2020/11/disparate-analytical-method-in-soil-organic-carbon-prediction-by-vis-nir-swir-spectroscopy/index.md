@@ -141,6 +141,6 @@ Baritz, R., Erdogan, H., Fujii, K., Takata, Y., Nocita, M., Bussian, B., ... & V
 
 Hartmann, C. & Suvannang, N. 2019. Global Soil Laboratory Assessment, 2018 online survey. Rome, FAO. http://www.fao.org/3/ca7091en/CA7091EN.pdf
 
-Moura-Bueno, J.M., Dalmolin, R.S.D., Horst-Heinen, T.Z., ten Caten, A., Vasques, G.M., Dotto, A.C., Grunwald, S., 2020. When does stratification of a subtropical soil spectral library improve predictions of soil organic carbon content? Science of The Total Environment 139895. https://doi.org/10.1016/j.scitotenv.2020.139895
+Moura-Bueno, J.M., Dalmolin, R.S.D., Horst, T.Z., ten Caten, A., Vasques, G.M., Dotto, A.C., Grunwald, S., 2020. When does stratification of a subtropical soil spectral library improve predictions of soil organic carbon content? Science of The Total Environment 139895. https://doi.org/10.1016/j.scitotenv.2020.139895
 
 Viscarra Rossel, R.A., Behrens, T., Ben-Dor, E., Brown, D.J., Demattê, J.A.M., Shepherd, K.D., …& Ji, W., 2016. A global spectral library to characterize the world’s soil. Earth-Science Reviews 155, 198–230. https://doi.org/10.1016/j.earscirev.2016.01.012

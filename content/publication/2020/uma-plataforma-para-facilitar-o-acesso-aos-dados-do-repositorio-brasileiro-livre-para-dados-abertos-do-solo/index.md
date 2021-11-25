@@ -124,4 +124,6 @@ Mais informações estão disponíveis no [relatório de atividades](https://doc
 
 ### Agradecimentos
 
-Este trabalho foi financiado pela da UTFPR/PROREC como financiadora do PIBEX, na forma de bolsa de projeto de extensão (Edital 01/2019 – PROREC/UTFPR). Os autores são gratos à Gabriel Panca Santos (UTFPR), Maiara Pusch (UNICAMP) e Taciara Horst-Heinen (UFSM) pelos comentários em uma versão preliminar do artigo. Os autores também são gratos à ​Augusto Herrmann (Ministério do Planejamento), Debora Pignatari Drucker (Embrapa Informática Agropecuária) pelas informações prestadas sobre os sistemas de de gerenciamento de metadados em repositórios.
+Este trabalho foi financiado pela da UTFPR/PROREC como financiadora do PIBEX, na forma de bolsa de projeto de extensão (Edital 01/2019 – PROREC/UTFPR). Os autores são gratos à Gabriel Panca Santos (UTFPR), Maiara Pusch (UNICAMP) e [Taciara Zborowski Horst][taciara] (UFSM) pelos comentários em uma versão preliminar do artigo. Os autores também são gratos à ​Augusto Herrmann (Ministério do Planejamento), Debora Pignatari Drucker (Embrapa Informática Agropecuária) pelas informações prestadas sobre os sistemas de de gerenciamento de metadados em repositórios.
+
+[taciara]: ../../taciara-zborowski-horst
