@@ -4,3 +4,5 @@ summary: Disciplina optativa ofertada no sétimo período do curso de bacharelad
 type: book  # Do not modify.
 toc: false
 ---
+
+Disciplina optativa ofertada no sétimo período do curso de bacharelado em Ciência da Computação do câmpus Santa Helena da Universidade Tecnológica Federal do Paraná (UTFPR)
