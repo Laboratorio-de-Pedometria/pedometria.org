@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: PARTE I. ATRIBUTOS DIAGNÓSTICOS
-weight: 1
+linktitle: PARTE II. ATRIBUTOS DIAGNÓSTICOS
+weight: 200
 # icon: book
 # icon_pack: fas
 

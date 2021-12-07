@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Materiais diagnósticos
-weight: 3
+linktitle: PARTE I. MATERIAIS DIAGNÓSTICOS
+weight: 100
 
 # Page metadata.
 title: Materiais diagnósticos
