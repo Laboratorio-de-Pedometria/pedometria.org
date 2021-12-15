@@ -16,7 +16,7 @@ type: book  # Do not modify.
 Alguns solos possuem um ou mais horizontes eluviais (E) seguidos imediatamente por um ou mais horizontes iluviais (B).
 A seção de um solo constituída por horizontes E e B é chamada de _sequum_.
 
-![Sequum](sequum.png "Solos com presença de sequum e paisagens de ocorrência. a) Argissolo Vermelho-Amarelo Distrófico arênico; b) Planossolo Háplico Eutrófico arênico; c) Planossolo Háplico Eutrófico solódico.")
+{{< figure src="/livros/classificacao-de-solos/termos-e-definicoes/sequum.png" caption="Solos com presença de _sequum_ e paisagens de ocorrência. a) Argissolo Vermelho-Amarelo Distrófico arênico; b) Planossolo Háplico Eutrófico arênico; c) Planossolo Háplico Eutrófico solódico." numbered="true" >}}
 
 ## Referências
 

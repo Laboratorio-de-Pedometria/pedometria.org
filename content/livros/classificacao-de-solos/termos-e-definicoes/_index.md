@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: TERMOS E DEFINIÇÕES
+linktitle: Termos e Definições
 weight: 001
 
 # Page metadata.
