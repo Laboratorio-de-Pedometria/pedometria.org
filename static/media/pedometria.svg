@@ -393,6 +393,28 @@
          id="rect1739"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.72325337;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1359">
+      <rect
+         style="opacity:1;fill:#e3dbdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07756743;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1361"
+         width="190.5"
+         height="190.5"
+         x="-679.49561"
+         y="558.05432" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382">
+      <rect
+         style="opacity:1;fill:#e3dbdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05484845;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1384"
+         width="190.5"
+         height="95.25"
+         x="-679.49561"
+         y="640.07495" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -401,9 +423,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18601944"
-     inkscape:cx="-1196.4636"
-     inkscape:cy="-156.08641"
+     inkscape:zoom="0.52614243"
+     inkscape:cx="-2176.2108"
+     inkscape:cy="-1419.7151"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"

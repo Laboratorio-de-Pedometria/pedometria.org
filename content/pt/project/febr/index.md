@@ -1,5 +1,5 @@
 ---
-title: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
+title: Repositório de Dados do Solo (FEBR)
 slug: febr
 url: /febr/
 summary: " "
