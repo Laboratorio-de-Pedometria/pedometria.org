@@ -6,7 +6,7 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "December 2021 Snapshot of the Soil Data Repository"
 subtitle: ""
-summary: "Um instantâneo, ou snapshot, é um retrato dos dados publicados no repositório de dados abertos do solo FEBR. No FEBR, instantâneos são produzidos após a padronização e harmonização dos dados. O instantâneo de dezembro de 2021 traz como principal novidade dados do uso e cobertura da terra."
+summary: "A snapshot is a picture of the data published in the FEBR soil data repository. In FEBR, snapshots are produced after data standardization and harmonization. The December 2021 snapshot brings as its main novelty land use and land cover data."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
@@ -60,75 +60,75 @@ projects:
  - febr
 ---
 
-Um instantâneo (_snapshot_) é um __retrato__ dos dados publicados no repositório de dados do solo FEBR.
-No FEBR, instantâneos são publicados nos meses de junho e dezembro.
-Nesses meses são celebrados os dias mundiais do meio ambiente (05 de junho) e do solo (05 de dezembro).
+A __snapshot__ is a picture of the data published in the FEBR soil data repository.
+In FEBR, snapshots are published in June and December.
+In these months, World Environment Day (June 5th) and World Soil Day (December 5th) are celebrated.
 
-No FEBR, instantâneos são produzidos após a padronização e harmonização dos dados.
-A __padronização__ garante que os valores de uma propriedade do solo sejam expressos usando o mesmo tipo de dado, número de casas decimais e unidade de medida.
+In FEBR, snapshots are produced after data standardization and harmonization.
+__Standardization__ ensures that the values of a soil property are expressed using the same data type, number of decimal places, and unit of measure.
 
-Já a __harmonização__ transforma os valores de uma propriedade do solo, determinados usando um método analítico qualquer, para os valores que mais provavelmente seriam obtidos se um método analítico de referência fosse usado.
+__Harmonization__ transforms the values of a soil property, determined using any analytical method, to the values that are more likely to be obtained if a reference analytical method were used.
 
-O conjunto de dados resultante--um super conjunto de dados--está pronto para uso (_analysis ready_) imediato pela comunidade.
+The resulting dataset--a super dataset--is ready for immediate use (_analysis ready_) by the community.
 
-## Conteúdo do instantâneo
+## Snapchat content
 
-O instantâneo de dezembro de 2021 pode ser descarregado de <https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG>.
+The December 2021 snapshot can be downloaded from <https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG>.
 
-As seções a seguir descrevem os campos contidos no instantâneo de dezembro de 2021.
-As __fontes__ são os trabalhos de origem dos dados.
-Já os __eventos__ são as observações do solo (perfis, tradagens etc).
-Um evento é definido por suas coordenadas espaciais (latitude e longitude) e temporal (data).
-Por fim, as __amostras__ correspondem às camadas e horizontes, cada uma dela proveniente de um evento.
+The following sections describe the label contained in the December 2021 snapshot.
+__Sources__ are the source of the data.
+__Events__ are soil observations (profiles, auger observations etc).
+An event is defined by its spatial (latitude and longitude) and temporal (date) coordinates.
+Finally, __samples__ correspond to layers and horizons, each coming from an event.
 
-### Fonte
+### Font
 
-* `dataset_id`: Código de identificação do conjunto de dados no FEBR
-* `dataset_titulo`: Título do conjunto de dados
-* `autor_nome`: Nome do autor (responsável) do conjuntos de dados
-* `organizacao_nome`: Nome da organização autora (responsável) do conjunto de dados
-* `dataset_licenca`: Licença de uso e distribuição do conjunto de dados
-* `dataset_versao`: Número da última versão do conjunto de dados
-* `publicacao_data`: Data de publicação da última versão do conjunto de dados
-* `palavras_chave`: Termos que descrevem o conjunto de dados
-* `area_conhecimento`: Área da ciência do solo à qual o conjunto de dados está relacionado
+* `dataset_id`: Dataset identification code in FEBR
+* `dataset_titulo`: Dataset title
+* `autor_nome`: Dataset author
+* `organizacao_nome`: Dataset authoring organization
+* `dataset_licenca`: Dataset use and distribution license
+* `dataset_versao`: Dataset latest version number
+* `publicacao_data`: Date of publication of the latest version of the dataset
+* `palavras_chave`: Index terms that describe the dataset
+* `area_conhecimento`: Soil science subject to which the dataset is related
 
-### Evento
+### Events
 
-* `observacao_id`: Código de identificação da observação do solo no conjunto de dados
-* `sisb_id`: Código de identificação da observação do solo no repositório da EMBRAPA
-* `ibge_id`: Código de identificação da observação do solo no repositório do IBGE
-* `observacao_data`: Data em que a observação (amostragem, descrição) do solo foi realizada
-* `coord_x`: Longitude do ponto (central) de observação do solo (SIRGAS 2000, graus)
-* `coord_y`: Latitude do ponto (central) de observação do solo (SIRGAS 2000, graus)
-* `coord_precisao`: Precisão das coordenadas espaciais (m)
-* `coord_fonte`: Fonte das coordenadas espaciais
-* `pais_id`: Código ISO do país em que a observação do solo foi realizada
-* `estado_id`: Sigla da unidade federativa onde a observação do solo foi realizada
-* `municipio_id`: Nome do município onde a observação do solo foi realizada
-* `amostra_tipo`: Tipo de amostragem do solo (simples ou composta)
-* `amostra_quanti`: Quantidade de subamostragens do solo realizadas (amostragem composta)
-* `amostra_area`: Tamanho da área coberta pela amostragem (m<sup>2</sup>)
-* `taxon_sibcs`: Classificação taxonômica do solo pelo Sistema Brasileiro de Classificação de Solos
-* `taxon_st`: Classificação taxonômica do solo pelo Soil Taxonomy
-* `taxon_wrb`: Classificação taxonômica do solo pelo World Reference Base for Soil Resources
+* `observacao_id`: Soil observation identification code in the dataset
+* `sisb_id`: Soil observation identification code in the EMBRAPA repository
+* `ibge_id`: Soil observation identification code in the IBGE repository
+* `observacao_data`: Date on which the observation (sampling, description) of the soil was carried out
+* `coord_x`: Longitude of the (central) soil observation point (SIRGAS 2000, degrees)
+* `coord_y`: Latitude of the (central) soil observation point (SIRGAS 2000, degrees)
+* `coord_precisao`: Spatial coordinates precision (m)
+* `coord_fonte`: Spatial coordinates source
+* `pais_id`: ISO code of the country where the soil observation was carried out
+* `estado_id`: Acronym of the federative unit where the soil observation was carried out
+* `municipio_id`: Name of the municipality where the soil observation was carried out
+* `amostra_tipo`: Soil sampling type (simple or composite)
+* `amostra_quanti`: Number of soil sub-sampling carried out (composite sampling)
+* `amostra_area`: Area covered by the sampling (m<sup>2</sup>)
+* `taxon_sibcs`: Soil taxonomic classification according to the Brazilian Soil Classification System
+* `taxon_st`: Soil taxonomic classification according to the Soil Taxonomy
+* `taxon_wrb`: Soil taxonomic classification according to the World Reference Base for Soil Resources
 
 ### Amostra
 
-* `camada_id`: Número ordinal da camada (horizonte) de solo observada
-* `amostra_id`: Código de identificação da amostra (ou sua repetição) no laboratório de análise de solo
-* `camada_nome`: Nome (ou símbolo alfanumérico) da camada de solo observada
-* `profund_sup`: Limite de profundidade superior da camada de solo observada (cm)
-* `profund_inf`: Limite de profundidade inferior da camada de solo observada (cm)
-* `terrafina`: Conteúdo de terra fina (g kg<sup>-1</sup>)
-* `argila`: Conteúdo de argila na terra fina (g kg<sup>-1</sup>)
-* `silte`: Conteúdo de silte na terra fina (g kg<sup>-1</sup>)
-* `areia`: Conteúdo de areia na terra fina (g kg<sup>-1</sup>)
-* `carbono`: Conteúdo de carbono na terra fina (g kg<sup>-1</sup>)
-* `ctc`: Capacidade de troca de cátions potencial na terra fina (cmol<sub>c</sub> kg<sup>-1</sup>)
-* `ph`: pH em água na terra fina (sem unidade)
-* `dsi`: Densidade do solo inteiro (kg dm<sup>-3</sup>)
-* `ce`: Condutividade elétrica na terra fina (mS cm<sup>-1</sup>)
+* `camada_id`: Ordinal number of the observed soil layer (horizon)
+* `amostra_id`: Sample identification code (or its repetition) in the soil analysis laboratory
+* `camada_nome`: Name (or alphanumeric symbol) of the observed soil layer
+* `profund_sup`: Upper depth limit of the observed soil layer (cm)
+* `profund_inf`: Lower depth limit of the observed soil layer (cm)
+* `terrafina`: Fine earth content (g kg<sup>-1</sup>)
+* `argila`: Clay content in the fine earth (g kg<sup>-1</sup>)
+* `silte`: Silt content in the fine earth (g kg<sup>-1</sup>)
+* `areia`: Sand content in the fine earth (g kg<sup>-1</sup>)
+* `carbono`: Carbon content in the fine earth (g kg<sup>-1</sup>)
+* `ctc`: Potential cation exchange capacity in fine earth (cmol<sub>c</sub> kg<sup>-1</sup>)
+* `ph`: pH of water in fine earth (dimensionless)
+* `dsi`: Whole soil bulk density (kg dm<sup>-3</sup>)
+* `ce`: Apparent electrical conductivity in the fine earth (mS cm<sup>-1</sup>)
 
 ## How to cite
 
