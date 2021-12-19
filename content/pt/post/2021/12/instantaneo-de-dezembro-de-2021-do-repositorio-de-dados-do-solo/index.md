@@ -61,10 +61,10 @@ projects:
 ---
 
 Um instantâneo (_snapshot_) é um __retrato__ dos dados publicados no repositório de dados do solo FEBR.
-No FEBR, instantâneos são publicados nos meses de junho e dezembro.
+Instantâneos do FEBR são publicados nos meses de junho e dezembro.
 Nesses meses são celebrados os dias mundiais do meio ambiente (05 de junho) e do solo (05 de dezembro).
 
-No FEBR, instantâneos são produzidos após a padronização e harmonização dos dados.
+Instantâneos do FEBR são produzidos após a padronização e harmonização dos dados.
 A __padronização__ garante que os valores de uma propriedade do solo sejam expressos usando o mesmo tipo de dado, número de casas decimais e unidade de medida.
 
 Já a __harmonização__ transforma os valores de uma propriedade do solo, determinados usando um método analítico qualquer, para os valores que mais provavelmente seriam obtidos se um método analítico de referência fosse usado.
@@ -73,7 +73,7 @@ O conjunto de dados resultante--um super conjunto de dados--está pronto para us
 
 ## Conteúdo do instantâneo
 
-O instantâneo de dezembro de 2021 pode ser descarregado de <https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG>.
+O instantâneo de dezembro de 2021 pode ser descarregado de <https://cloud.utfpr.edu.br/index.php/s/akjtYo6JWdHDkl4>.
 
 As seções a seguir descrevem os campos contidos no instantâneo de dezembro de 2021.
 As __fontes__ são os trabalhos de origem dos dados.
@@ -81,7 +81,7 @@ Já os __eventos__ são as observações do solo (perfis, tradagens etc).
 Um evento é definido por suas coordenadas espaciais (latitude e longitude) e temporal (data).
 Por fim, as __amostras__ correspondem às camadas e horizontes, cada uma dela proveniente de um evento.
 
-### Fonte
+### Fontes
 
 * `dataset_id`: Código de identificação do conjunto de dados no FEBR
 * `dataset_titulo`: Título do conjunto de dados
@@ -93,7 +93,7 @@ Por fim, as __amostras__ correspondem às camadas e horizontes, cada uma dela pr
 * `palavras_chave`: Termos que descrevem o conjunto de dados
 * `area_conhecimento`: Área da ciência do solo à qual o conjunto de dados está relacionado
 
-### Evento
+### Eventos
 
 * `observacao_id`: Código de identificação da observação do solo no conjunto de dados
 * `sisb_id`: Código de identificação da observação do solo no repositório da EMBRAPA
@@ -113,7 +113,7 @@ Por fim, as __amostras__ correspondem às camadas e horizontes, cada uma dela pr
 * `taxon_st`: Classificação taxonômica do solo pelo Soil Taxonomy
 * `taxon_wrb`: Classificação taxonômica do solo pelo World Reference Base for Soil Resources
 
-### Amostra
+### Amostras
 
 * `camada_id`: Número ordinal da camada (horizonte) de solo observada
 * `amostra_id`: Código de identificação da amostra (ou sua repetição) no laboratório de análise de solo

@@ -61,27 +61,27 @@ projects:
 ---
 
 A __snapshot__ is a picture of the data published in the FEBR soil data repository.
-In FEBR, snapshots are published in June and December.
+FEBR snapshots are published in June and December.
 In these months, World Environment Day (June 5th) and World Soil Day (December 5th) are celebrated.
 
-In FEBR, snapshots are produced after data standardization and harmonization.
-__Standardization__ ensures that the values of a soil property are expressed using the same data type, number of decimal places, and unit of measure.
+FEBR snapshots are produced after data standardization and harmonization.
+__Standardization__ ensures that the values of a soil property are expressed using the same data type, number of decimal places, and measurement unit.
 
-__Harmonization__ transforms the values of a soil property, determined using any analytical method, to the values that are more likely to be obtained if a reference analytical method were used.
+__Harmonization__ transforms the values of a soil property, determined using any analytical method, to the values that are more likely to be obtained if a reference analytical method was used.
 
 The resulting dataset--a super dataset--is ready for immediate use (_analysis ready_) by the community.
 
-## Snapchat content
+## Snapshot content
 
-The December 2021 snapshot can be downloaded from <https://cloud.utfpr.edu.br/index.php/s/nEXaoXIE0nZ1AqG>.
+The December 2021 snapshot can be downloaded from <https://cloud.utfpr.edu.br/index.php/s/akjtYo6JWdHDkl4>.
 
-The following sections describe the label contained in the December 2021 snapshot.
-__Sources__ are the source of the data.
+The following sections describe the fields contained in the December 2021 snapshot.
+__Sources__ are the source datasets of the data.
 __Events__ are soil observations (profiles, auger observations etc).
 An event is defined by its spatial (latitude and longitude) and temporal (date) coordinates.
 Finally, __samples__ correspond to layers and horizons, each coming from an event.
 
-### Font
+### Sources
 
 * `dataset_id`: Dataset identification code in FEBR
 * `dataset_titulo`: Dataset title
@@ -113,7 +113,7 @@ Finally, __samples__ correspond to layers and horizons, each coming from an even
 * `taxon_st`: Soil taxonomic classification according to the Soil Taxonomy
 * `taxon_wrb`: Soil taxonomic classification according to the World Reference Base for Soil Resources
 
-### Amostra
+### Samples
 
 * `camada_id`: Ordinal number of the observed soil layer (horizon)
 * `amostra_id`: Sample identification code (or its repetition) in the soil analysis laboratory
