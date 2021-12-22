@@ -82,7 +82,7 @@ featured: false
 # Se possível, uma imagem da palestra. Do contrário, o logo do evento.
 # focal_point: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: ""
+  caption: "Leitura da reflectância difusa no Vis-NIR"
   focal_point: ""
   preview_only: false
 
