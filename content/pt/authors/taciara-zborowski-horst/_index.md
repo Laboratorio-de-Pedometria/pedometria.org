@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD em Ciência do Solo (Pedometria)
     institution: Universidade Federal de Santa Maria & University of Florida
-    year: em andamento
+    year: 2022
   - course: MSc em Ciência do Solo (Pedometria)
     institution: Universidade Federal de Santa Maria
     year: 2017
@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Universidade Federal de Santa Maria
   url: https://www.ufsm.br/
-role: Coorientada de Doutorado
+role: Pesquisadora de Pós-Doutorado
 social:
 - icon: envelope
   icon_pack: fas
