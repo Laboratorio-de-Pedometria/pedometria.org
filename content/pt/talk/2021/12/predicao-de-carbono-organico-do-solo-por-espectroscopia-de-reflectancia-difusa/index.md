@@ -23,10 +23,31 @@ address:
 
 # Resumo da palestra/curso (conforme publicado no evento)
 abstract: "
-Um banco de dados abrangente e diversificado é fundamental para alcançar predições confiáveis de carbono orgânico do solo (COS) a partir da espectroscopia de reflectânci difusa no comprimento de onda do visível ao infravermelho próximo e médio (Vis-NIR; 250-3500 nm).
-Entretanto, ter um banco de dados abrangente normalmente implica na compilação de dados de solo coletados para diferentes propósitos, sob diferentes padrões e metodologias, o que pode levar o banco de dados a sofrer com dísparidade analítica. Apesar do potencial da espectroscopia para prever o teor de COS em amostras, a eficácia e a consistência entre os métodos analíticos usados para produzir os dados alvo são pouco discutidos na literatura. 
-O objetivo principal desta pesquisa foi investigar a interação entre métodos analíticos usados para produzir os dados alvo do COS, técnicas de pré-processamento, e arquiteturas de modelo. Para isso, estabelecemos dois objetivos específicos: i) avaliar a interação entre métodos analíticos, técnicas de pré-processamento e arquiteturas de modelo nas predições do COS, ii) avaliar se essa interação pode ser traduzida em alguma forma de hierarquia entre as métricas de validação. Nesta tese de doutorado, foram desenvolvidos dois experimentos que abordam o tema onde os objetivos acima mencionados foram alcançados. Neles utilizamos conjunto de dados 395 amostras de solo subtropical do sul do Brasil. Em cada amostra, o COS foi medido utilizando três métodos analíticos (combustão seca, e combustão úmida com quantificação por titulometria e colorimetria) e a reflectância das amostras (350-2500 nm) foi processado de três formas (suavização, continuum remoção e Savitzky-Golay primeira derivada). Três arquiteturas de modelos preditivos foram treinados (random forest, cubist e regressão de mínimos quadrados parciais -PLSR). Cada experimento deu origem a um Capítulo da tese. O Capítulo I apresenta como mudanças no método analítico e nas técnicas de pré-processamento afetam a relação empírica capturada por diferentes arquiteturas de modelos. Métricas de validação cruzada (leave-one-out) foram usadas para comparar o desempenho paralelo de 27 modelos preditivos. A relação entre a matriz de covariável e os dados alvo é explorada com base na importância da variável. O Capítulo II mostra como a interação entre esses três fatores pode ser traduzida em uma hierarquia. Uma técnica de reamostragem foi usada para dividir o conjunto de dados em conjuntos de treinamento e validação 100 vezes para atingir desempenhos realistas e explorar como o desempenho preditivo mudou conforme o conjunto de treinamento muda.
-A análise da árvore de inferência condicional foi realizada para avaliar como esses três fatores influenciaram as métricas de validação global. Os resultados mostraram que o desempenho preditivo varia dependendo do método analítico utilizados para determinar o COS, da técnica de pré-processamento e da arquitetura do modelo empregada. No geral, os dados do COS produzidos com diferentes métodos analíticos em um conjunto de dados de treinamento afetaram significativamente a confiabilidade, capacidade e avaliação das predições. Dentre os três métodos analíticos testados, a combustão seca e e a combustão úmida com determinação por titulação proporcionaram maior correlação entre COS e espectros do que combustão úmida com determinação por colorimetria e, portanto, resultaram em melhor desempenho dos modelos. Os modelos PLSR foram mais influenciados pelo método analítico, enquanto a técnica de pré-processamento influenciou mais os modelos random forest e cubist. PLSR apresentou desempenho intermediário, porém mais consistente do que random forest e cubist. Entretando, todos os modelos preditivos apresentaram dificuldade para predizer amostras com mais de 7% de COS. Os resultados dessa pesquisa destacam a necessidade de documentação transparente e precisa sobre a modelagem espectroscópica para permitir uma comparação justa entre as publicações, e podem ser úteis para orientar a seleção de métodos analíticos para novos projetos ou para gerenciar bancos de dados já disponíveis."
+<p>
+Um banco de dados abrangente e diversificado é fundamental para alcançar predições confiáveis de carbono orgânico do solo (COS) a partir da espectroscopia de reflectância difusa no comprimento de onda do visível ao infravermelho próximo e médio (Vis-NIR; 250-3500 nm).
+Entretanto, ter um banco de dados abrangente normalmente implica na compilação de dados de solo coletados para diferentes propósitos, sob diferentes padrões e metodologias, o que pode levar o banco de dados a sofrer com disparidade analítica. Apesar do potencial da espectroscopia para prever o teor de COS em amostras, a eficácia e a consistência entre os métodos analíticos usados para produzir os dados alvo são pouco discutidos na literatura.
+</p>
+<p>
+O objetivo principal desta pesquisa foi investigar a interação entre métodos analíticos usados para produzir os dados alvo do COS, técnicas de pré-processamento, e arquiteturas de modelo. Para isso, estabelecemos dois objetivos específicos: i) avaliar a interação entre métodos analíticos, técnicas de pré-processamento e arquiteturas de modelo nas predições do COS, ii) avaliar se essa interação pode ser traduzida em alguma forma de hierarquia entre as métricas de validação.
+</p>
+<p>
+Nesta tese de doutorado, foram desenvolvidos dois experimentos que abordam o tema onde os objetivos acima mencionados foram alcançados. Neles, utilizamos conjunto de dados 395 amostras de solo subtropical do sul do Brasil. Em cada amostra, o COS foi medido utilizando três métodos analíticos (combustão seca, e combustão úmida com quantificação por titulometria e colorimetria) e a reflectância das amostras (350-2500 nm) foi processado de três formas (suavização, continuum remoção e Savitzky-Golay primeira derivada). Três arquiteturas de modelos preditivos foram treinados (random forest, cubist e regressão de mínimos quadrados parciais-PLSR). Cada experimento deu origem a um Capítulo da tese.
+</p>
+<p>
+O Capítulo I apresenta como mudanças no método analítico e nas técnicas de pré-processamento afetam a relação empírica capturada por diferentes arquiteturas de modelos. Métricas de validação cruzada (leave-one-out) foram usadas para comparar o desempenho paralelo de 27 modelos preditivos. A relação entre a matriz de covariável e os dados alvo é explorada com base na importância da variável.
+</p>
+<p>
+O Capítulo II mostra como a interação entre esses três fatores pode ser traduzida em uma hierarquia. Uma técnica de reamostragem foi usada para dividir o conjunto de dados em conjuntos de treinamento e validação 100 vezes para atingir desempenhos realistas e explorar como o desempenho preditivo mudou conforme o conjunto de treinamento muda. A análise da árvore de inferência condicional foi realizada para avaliar como esses três fatores influenciaram as métricas de validação global.
+</p>
+<p>
+Os resultados mostraram que o desempenho preditivo varia dependendo do método analítico utilizados para determinar o COS, da técnica de pré-processamento e da arquitetura do modelo empregada. No geral, os dados do COS produzidos com diferentes métodos analíticos em um conjunto de dados de treinamento afetaram significativamente a confiabilidade, capacidade e avaliação das predições. Dentre os três métodos analíticos testados, a combustão seca e e a combustão úmida com determinação por titulação proporcionaram maior correlação entre COS e espectros do que combustão úmida com determinação por colorimetria e, portanto, resultaram em melhor desempenho dos modelos.
+</p>
+<p>
+Os modelos PLSR foram mais influenciados pelo método analítico, enquanto a técnica de pré-processamento influenciou mais os modelos random forest e cubist. PLSR apresentou desempenho intermediário, porém mais consistente do que random forest e cubist. Entretanto, todos os modelos preditivos apresentaram dificuldade para predizer amostras com mais de 7% de COS.
+</p>
+<p>
+Os resultados dessa pesquisa destacam a necessidade de documentação transparente e precisa sobre a modelagem espectroscópica para permitir uma comparação justa entre as publicações, e podem ser úteis para orientar a seleção de métodos analíticos para novos projetos ou para gerenciar bancos de dados já disponíveis.
+</p>"
 
 # Descrição sumária da palestra/curso, geralmente mais curta do que o resumo publicado
 # Usada para traduzir resumos originalmente publicados em inglês
@@ -37,8 +58,8 @@ summary: "Desenvolver técnicas sustentáveis e econômicas para medir o carbono
 # Formato: 2017-05-29T15:00:00Z
 # Se a palestra/curso durar o dia todo, basta especificar 'date' e ignorar 'date_end'
 # O horário de encerramento pode ser omitido usando o prefixo '#'
-date: 2021-12-21T17:09:00-03:00
-date_end: 2021-12-21T17:12:30-03:00
+date: 2021-12-21T09:00:00-03:00
+date_end: 2021-12-21T12:30:00-03:00
 all_day: false
 
 # Cronograme a data de publicação desta página
@@ -123,8 +144,16 @@ projects: []
 ### Agradecimentos
 
 Este trabalho foi financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) na forma de bolsa de doutorado do Programa de Excelência Acadêmica (Proex) (Nº 88882.182220/2018-01) e bolsa de doutorado sanduíche do Programa Institucional de Internacionalização (PrInt) (Nº 88887.373064/2019-00).
-A autora e o comitê de orientação agradecem a participação dos membros da banca de avaliação:
-Prof. Alexandre ten Caten - Universidade Federal de Santa Catarina (UFSC);
-Prof. Ricardo Bergamo Schenato - Universidade Federal de Santa Maria (UFSM);
-Prof. Fabrício de Araújo Pedron - Universidade Federal de Santa Maria (UFSM);
-Profa. Deorgia Tayane Mendes de Souza - Universidade Estadual de Feira de Santana (UEFS).
+
+Agradeço ao comitê de orientação:
+
+* Prof. Ricardo Simão Diniz Dalmolin - Universidade Federal de Santa Maria (UFSM);
+* Prof. Alessandro Samuel-Rosa - Universidade Tecnológica Federal do Paraná (UTFPR);
+* Profa. Sabine Grunwald - Universidade da Flórida (UF).
+
+E aos membros da banca de avaliação:
+
+* Prof. Alexandre ten Caten - Universidade Federal de Santa Catarina (UFSC);
+* Prof. Ricardo Bergamo Schenato - Universidade Federal de Santa Maria (UFSM);
+* Prof. Fabrício de Araújo Pedron - Universidade Federal de Santa Maria (UFSM);
+* Profa. Deorgia Tayane Mendes de Souza - Universidade Estadual de Feira de Santana (UEFS).
