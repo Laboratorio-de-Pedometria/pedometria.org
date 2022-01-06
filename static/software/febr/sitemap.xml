@@ -1,51 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.pedometria.org/software/febr/index.html</loc>
+    <loc>/404.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/dictionary.html</loc>
+    <loc>/articles/febr.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/febr-defunct.html</loc>
+    <loc>/articles/febr2smartsolos.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/febr2sf.html</loc>
+    <loc>/articles/index.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/febr2sse.html</loc>
+    <loc>/authors.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/goto.html</loc>
+    <loc>/index.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/identification.html</loc>
+    <loc>/news/index.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/layer.html</loc>
+    <loc>/reference/dictionary.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/metadata.html</loc>
+    <loc>/reference/febr-defunct.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/morphology.html</loc>
+    <loc>/reference/febr.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/observation.html</loc>
+    <loc>/reference/febr2sf.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/readFEBR.html</loc>
+    <loc>/reference/febr2smartsolos.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/readIndex.html</loc>
+    <loc>/reference/febr2spdf.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/taxonomy.html</loc>
+    <loc>/reference/febr2sse.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/reference/unit.html</loc>
+    <loc>/reference/febr2xlsx.html</loc>
   </url>
   <url>
-    <loc>https://www.pedometria.org/software/febr/articles/febr.html</loc>
+    <loc>/reference/goto.html</loc>
+  </url>
+  <url>
+    <loc>/reference/header.html</loc>
+  </url>
+  <url>
+    <loc>/reference/identification.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/layer.html</loc>
+  </url>
+  <url>
+    <loc>/reference/metadata.html</loc>
+  </url>
+  <url>
+    <loc>/reference/morphology.html</loc>
+  </url>
+  <url>
+    <loc>/reference/observation.html</loc>
+  </url>
+  <url>
+    <loc>/reference/readFEBR.html</loc>
+  </url>
+  <url>
+    <loc>/reference/readIndex.html</loc>
+  </url>
+  <url>
+    <loc>/reference/readVocabulary.html</loc>
+  </url>
+  <url>
+    <loc>/reference/standard.html</loc>
+  </url>
+  <url>
+    <loc>/reference/taxonomy.html</loc>
+  </url>
+  <url>
+    <loc>/reference/unit.html</loc>
   </url>
 </urlset>
