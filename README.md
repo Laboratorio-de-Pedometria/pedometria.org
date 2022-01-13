@@ -28,3 +28,10 @@ __Criar conteúdo a partir de arquétipos:__
 __Processar arquivos Rmd:__
 
 No R, executar o seguinte comando: `source("R/build.R")`.
+
+Adicionar documento do Google Docs:
+
+<!-- <iframe frameborder="0" style="width: 100%; height: 2030px" src="https://docs.google.com/document/d/e/2PACX-1vQreL5nqzaIcjddxzzqJV9etiUj8uB2VDEjBYYbu-Czyeo4UO6m9xhCTLNGI1WNm3pdzZIftSJJhvdf/pub?embedded=true"></iframe> -->
+
+<!-- https://stackoverflow.com/a/47327417/3365410 -->
+<!-- height = (line-height * font-size * line-quantity) + (font-size * line-quantity) + (figure-height) + (paragraph-quantity * 11) -->
