@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Início"
-  #url = "#home"
+  # url = "#home"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "#postagens"
+  name = "Notícias"
+  url = "#noticias"
   weight = 20
-
-[[main]]
-  name = "Publicações"
-  url = "#publicacoes"
-  weight = 30
-
-[[main]]
-  name = "Palestras"
-  url = "#palestras"
-  weight = 40
 
 [[main]]
   name = "Cursos"
   url = "cursos/"
+  weight = 30
+
+[[main]]
+  name = "Livros"
+  url = "livros/"
+  weight = 40
+
+[[main]]
+  name = "Palestras"
+  url = "#palestras"
   weight = 50
 
 [[main]]
@@ -33,20 +33,20 @@
   url = "#projetos"
   weight = 60
 
-# [[main]]
-#   name = "Livros"
-#   url = "livros/"
-#   weight = 60
+[[main]]
+  name = "Publicações"
+  url = "#publicacoes"
+  weight = 70
 
 [[main]]
   name = "Equipe"
   url = "#equipe"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Contato"
   url = "#contato"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

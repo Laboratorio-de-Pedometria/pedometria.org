@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Produção colaborativa de informações de recursos do solo e da terra"
@@ -35,7 +35,6 @@ image:
 ---
 
 O principal objetivo deste projeto de pesquisa consiste em projetar, construir e aplicar um tipo completamente novo de modelo de predição para produção de informação pedológica tridimensional em escala nacional. Também é objetivo do projeto mostrar que este novo tipo de modelo de predição permite fazer predições acuradas usando apenas dados abertos e programas livres e de código aberto. Isso promoverá o compartilhamento de dados pedológicos, a reprodutibilidade dos resultados, e a popularização da ciência.
-
 
 ## Edições
 

@@ -1,5 +1,5 @@
 ---
-title: Otimização de delineamentos amostrais para modelagem geoespacial
+title: Otimização de amostras espaciais
 slug: spsann
 url: /spsann/
 summary: " "

@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
 title = "Projetos"
 subtitle = "Ensino, Pesquisa, Desenvolvimento, Extensão"
@@ -34,7 +34,7 @@ subtitle = "Ensino, Pesquisa, Desenvolvimento, Extensão"
     tag = "Dados"
 
   [[content.filter_button]]
-    name = "MDS"
+    name = "Modelagem"
     tag = "Mapeamento Digital do Solo"
 
 [design]

@@ -47,14 +47,14 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   authors = "/:slug/"
   categories = "/categoria/:slug/"
   courses = "/cursos/:slug/"
-  books = "/livro/:slug/"
-  post = "/postagem/:slug/"
-  project = "/projeto/:slug/"
+  books = "/livros/:slug/"
+  post = "/noticias/:slug/"
+  project = "/projetos/:slug/"
   publication = "/publicacao/:slug/"
   publication_types = "/publication-type/:slug/"
   slides = "/slides/:slug/"
   tags = "/tag/:slug/"
-  talk = "/palestra/:slug/"
+  talk = "/palestras/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]

@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Linhas de Pesquisa"
 subtitle = ""
@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "archive"
   icon_pack = "fas"
-  name = "Gestão de Dados da Pesquisa"
+  name = "Gestão de Dados"
   description = "Resgate, curadoria e distribuição de dados abertos da pesquisa em ciência do solo"
 
 [[feature]]
