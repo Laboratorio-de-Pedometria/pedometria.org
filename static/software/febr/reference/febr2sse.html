@@ -18,7 +18,7 @@ Expert API."><!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax/libs
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.7</span>
       </span>
     </div>
 
@@ -91,12 +91,12 @@ URL <a href="https://arxiv.org/abs/1403.2805" class="external-link">https://arxi
     <h2>Examples</h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span class="co"># Toy example</span></span>
 <span class="r-in"><span class="va">pro</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/data.frame.html" class="external-link">data.frame</a></span><span class="op">(</span></span>
-<span class="r-in">  observacao_id <span class="op">=</span> <span class="st">"Perfil-1"</span>,</span>
+<span class="r-in">  evento_id_febr <span class="op">=</span> <span class="st">"Perfil-1"</span>,</span>
 <span class="r-in">  taxon_sibcs_1999 <span class="op">=</span> <span class="st">"Argissolo"</span>,</span>
 <span class="r-in">  stringsAsFactors <span class="op">=</span> <span class="cn">FALSE</span></span>
 <span class="r-in"><span class="op">)</span></span>
 <span class="r-in"><span class="va">hor</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/data.frame.html" class="external-link">data.frame</a></span><span class="op">(</span></span>
-<span class="r-in">  observacao_id <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/rep.html" class="external-link">rep</a></span><span class="op">(</span><span class="st">"Perfil-1"</span>, <span class="fl">3</span><span class="op">)</span>,</span>
+<span class="r-in">  evento_id_febr <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/rep.html" class="external-link">rep</a></span><span class="op">(</span><span class="st">"Perfil-1"</span>, <span class="fl">3</span><span class="op">)</span>,</span>
 <span class="r-in">  camada_id <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"Ap"</span>, <span class="st">"B1"</span>, <span class="st">"B2"</span><span class="op">)</span>,</span>
 <span class="r-in">  profund_sup <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="fl">0</span>, <span class="fl">16</span>, <span class="fl">32</span><span class="op">)</span>,</span>
 <span class="r-in">  profund_inf <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="fl">16</span>, <span class="fl">32</span>, <span class="fl">50</span><span class="op">)</span>,</span>
@@ -119,14 +119,14 @@ URL <a href="https://arxiv.org/abs/1403.2805" class="external-link">https://arxi
 <span class="r-in"><span class="va">profiles</span> <span class="op">&lt;-</span> <span class="fu"><a href="observation.html">observation</a></span><span class="op">(</span></span>
 <span class="r-in">  data.set <span class="op">=</span> <span class="st">"ctb0025"</span>, variable <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"taxon_sibcs"</span>, <span class="st">"relevo_drenagem"</span><span class="op">)</span>,</span>
 <span class="r-in">  standardization <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span>units <span class="op">=</span> <span class="cn">TRUE</span>, round <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span><span class="op">)</span></span>
-<span class="r-in"><span class="va">idx</span> <span class="op">&lt;-</span> <span class="va">profiles</span><span class="op">$</span><span class="va">observacao_id</span><span class="op">[</span><span class="fl">1</span><span class="op">]</span></span>
-<span class="r-in"><span class="va">profiles</span> <span class="op">&lt;-</span> <span class="va">profiles</span><span class="op">[</span><span class="va">profiles</span><span class="op">$</span><span class="va">observacao_id</span> <span class="op"><a href="https://rdrr.io/r/base/match.html" class="external-link">%in%</a></span> <span class="va">idx</span>, <span class="op">]</span></span>
+<span class="r-in"><span class="va">idx</span> <span class="op">&lt;-</span> <span class="va">profiles</span><span class="op">$</span><span class="va">evento_id_febr</span><span class="op">[</span><span class="fl">1</span><span class="op">]</span></span>
+<span class="r-in"><span class="va">profiles</span> <span class="op">&lt;-</span> <span class="va">profiles</span><span class="op">[</span><span class="va">profiles</span><span class="op">$</span><span class="va">evento_id_febr</span> <span class="op"><a href="https://rdrr.io/r/base/match.html" class="external-link">%in%</a></span> <span class="va">idx</span>, <span class="op">]</span></span>
 <span class="r-in"><span class="va">horizons</span> <span class="op">&lt;-</span> <span class="fu"><a href="layer.html">layer</a></span><span class="op">(</span></span>
 <span class="r-in">  data.set <span class="op">=</span> <span class="st">"ctb0025"</span>, variable <span class="op">=</span> <span class="st">"all"</span>,</span>
 <span class="r-in">  standardization <span class="op">=</span></span>
 <span class="r-in">    <span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span>plus.sign <span class="op">=</span> <span class="st">"remove"</span>, lessthan.sign <span class="op">=</span> <span class="st">"remove"</span>,</span>
 <span class="r-in">         transition <span class="op">=</span> <span class="st">"smooth"</span>, units <span class="op">=</span> <span class="cn">TRUE</span>, round <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span><span class="op">)</span></span>
-<span class="r-in"><span class="va">horizons</span> <span class="op">&lt;-</span> <span class="va">horizons</span><span class="op">[</span><span class="va">horizons</span><span class="op">$</span><span class="va">observacao_id</span> <span class="op"><a href="https://rdrr.io/r/base/match.html" class="external-link">%in%</a></span> <span class="va">idx</span>, <span class="op">]</span></span>
+<span class="r-in"><span class="va">horizons</span> <span class="op">&lt;-</span> <span class="va">horizons</span><span class="op">[</span><span class="va">horizons</span><span class="op">$</span><span class="va">evento_id_febr</span> <span class="op"><a href="https://rdrr.io/r/base/match.html" class="external-link">%in%</a></span> <span class="va">idx</span>, <span class="op">]</span></span>
 <span class="r-in"><span class="va">horizons</span><span class="op">[</span>, <span class="fl">9</span><span class="op">:</span><span class="fl">48</span><span class="op">]</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/lapply.html" class="external-link">lapply</a></span><span class="op">(</span><span class="va">horizons</span><span class="op">[</span>, <span class="fl">9</span><span class="op">:</span><span class="fl">48</span><span class="op">]</span>, <span class="va">as.numeric</span><span class="op">)</span></span>
 <span class="r-in"><span class="va">horizons</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/cbind.html" class="external-link">cbind</a></span><span class="op">(</span></span>
 <span class="r-in">  <span class="va">horizons</span>,</span>

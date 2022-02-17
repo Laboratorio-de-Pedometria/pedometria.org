@@ -22,7 +22,7 @@ dataset."><!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax/libs/ma
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.7</span>
       </span>
     </div>
 
@@ -66,7 +66,7 @@ dataset.</p>
     </div>
 
     <div id="ref-usage">
-    <div class="sourceCode"><pre class="sourceCode r"><code><span class="fu">dictionary</span><span class="op">(</span><span class="va">table</span>, <span class="va">variable</span>, <span class="va">unit</span>, <span class="va">precision</span><span class="op">)</span></code></pre></div>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="fu">dictionary</span><span class="op">(</span><span class="va">table</span>, <span class="va">variable</span>, <span class="va">unit</span>, <span class="va">precision</span>, active <span class="op">=</span> <span class="cn">NULL</span><span class="op">)</span></code></pre></div>
     </div>
 
     <div id="arguments">
@@ -85,6 +85,9 @@ used to filter the dictionary. For example, ' <code>"g/kg"</code>, <code>"g/cm^3
 <dt>precision</dt>
 <dd><p>(optional) Integer vector indicating one or more number of decimal places that
 should be used to filter the dictionary.</p></dd>
+<dt>active</dt>
+<dd><p>(optional) Logical value indicating whether active (<code>active = TRUE</code>), inactive
+(<code>active = FALSE</code>) or any (<code>active = NULL</code>, default) field should be returned.</p></dd>
 </dl></div>
     <div id="value">
     <h2>Value</h2>
@@ -137,13 +140,13 @@ should be used to filter the dictionary.</p></dd>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 4           -          g/kg              2       real   química      opcional</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 5           -          g/kg              2       real   química      opcional</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 6           -          g/kg              2       real   química      opcional</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>   status basica pedologica</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 1      1      -          -</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 2      1      -          -</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 3      1      -          -</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 4      1      -          -</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 5      1      -          -</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 6      1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>   campo_ativo basica pedologica</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1           1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2           1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3           1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4           1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5           1      -          -</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6           1      -          -</span>
 </code></pre></div>
     </div>
   </div>
