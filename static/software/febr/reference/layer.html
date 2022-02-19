@@ -20,7 +20,7 @@ and clay content, and much more."><!-- mathjax --><script src="https://cdnjs.clo
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">febr</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.7</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">1.9.8</span>
       </span>
     </div>
 
@@ -197,17 +197,9 @@ variables will be re-coded as <code>aaa_bbb</code>, thus becoming the same varia
 
     <div id="ref-examples">
     <h2>Examples</h2>
-    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span class="va">res</span> <span class="op">&lt;-</span> <span class="fu">layer</span><span class="op">(</span>data.set <span class="op">=</span> <span class="st">"ctb0003"</span><span class="op">)</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 
-  |                                                                            
-  |                                                                      |   0%</span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span> Downloading ctb0003-camada...</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> 
-  |                                                                            
-  |======================================================================| 100%</span>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/interactive.html" class="external-link">interactive</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span> <span class="op">{</span></span>
+<span class="r-in"><span class="va">res</span> <span class="op">&lt;-</span> <span class="fu">layer</span><span class="op">(</span>data.set <span class="op">=</span> <span class="st">"ctb0003"</span><span class="op">)</span></span>
 <span class="r-in"></span>
-<span class="r-in"><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/interactive.html" class="external-link">interactive</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span> <span class="op">{</span></span>
 <span class="r-in"><span class="co"># Download two data sets and standardize units</span></span>
 <span class="r-in"><span class="va">res</span> <span class="op">&lt;-</span> <span class="fu">layer</span><span class="op">(</span></span>
 <span class="r-in">  data.set <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/paste.html" class="external-link">paste</a></span><span class="op">(</span><span class="st">"ctb000"</span>, <span class="fl">4</span><span class="op">:</span><span class="fl">5</span>, sep <span class="op">=</span> <span class="st">""</span><span class="op">)</span>,</span>
