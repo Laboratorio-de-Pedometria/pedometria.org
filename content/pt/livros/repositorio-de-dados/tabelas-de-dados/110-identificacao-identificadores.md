@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: 1.1 ID e Título
-weight: 120
+linktitle: 1.1 Identificadores
+weight: 110
 
 # Page metadata.
-title: Campos de ID e Título dos Dados
+title: Campos de Identificadores dos Dados
 date: "2022-02-24T00:00:00Z"
 type: book  # Do not modify.
 ---
