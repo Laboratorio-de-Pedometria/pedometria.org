@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: 1.3 Licenciamento
-weight: 140
+linktitle: 1.6 Licenciamento
+weight: 160
 
 # Page metadata.
 title: Campo de Licenciamento dos Dados
