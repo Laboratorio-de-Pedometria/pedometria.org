@@ -1,9 +1,9 @@
 "campo" "valor"
 "dados_id" "ctb0051"
-"dados_titulo" "Projeto RADAMBRASIL. Folha SF.22 Paranapanema"
+"dados_titulo" "Projeto RADAMBRASIL. Folha SF.22 Paranapanema; Pedologia (volume 37)"
 "dados_autor" "Virlei Álvaro de Oliveira; Eduardo Leandro da Rosa Macedo; José Augusto Laus Neto; Alcides Cardoso; Reinaldo Oscar Pötter"
 "organizacao_nome" "Instituto Brasileiro de Geografia e Estatistica (IBGE)"
-"organizacao_local" NA
+"organizacao_local" "Brasil"
 "organizacao_url" NA
 "dados_descricao" "Dados pedológicos de levantamento do Projeto RADAMBRASIL cobrindo o oeste do Estado de São Paulo, o sudeste do Mato Grosso do Sul, o norte do Paraná e pequena parte do sudoeste de Minas Gerais. Inclui observações compiladas de trabalhos prévios realizados na área, totalizando 117 perfis completos (o documento original sugere 121 perfis completos) e 03 pontos de amostras extra (o documento original sugere 06 pontos de amostras extra). As observações do solo para este trabalho foram realizadas, preferencialmente, em trincheiras e em cortes de estrada, à exceção de alguns locais onde esses cortes inexistiam, onde se utilizaram para auxílio os trados, totalizando 26 perfis completos (o documento original sugre 22 perfis completos), 60 pontos de amostras extra (o documento original sugere 60 pontos de amostras extra) e 09 pontos de amostras para avaliação da fertilidade. Os perfis coletados para esse trabalho foram descritos em conforme as normas do SNLCS - EMBRAPA e Soil Taxonomy (1975). As amostras coletadas exclusivamente para este trabalho foram analisadas no laboratório do SNLCS da EMBRAPA. No total, são 143 perfis de solos, 63 pontos de amostras extra e 09 pontos de amostras para avaliação da fertilidade. Os dados dos trabalhos prévios são omitidos, exceto a classificação taxonômica, que foi atualizada."
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"

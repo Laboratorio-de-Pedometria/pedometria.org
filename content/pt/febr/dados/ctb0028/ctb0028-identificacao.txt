@@ -1,7 +1,7 @@
 "campo" "valor"
 "dados_id" "ctb0028"
 "dados_titulo" "Levantamento Pedológico do Campo Experimental da Embrapa Uva e Vinho em Bento Golçalves, RS"
-"dados_autor" "Gustavo Souza Valladares (valladares em ufpi.edu br); Naíssa Batista Luz"
+"dados_autor" "Gustavo Souza Valladares; Naíssa Batista Luz"
 "organizacao_nome" "Embrapa Monitoramento por Satélite"
 "organizacao_local" "Av. Soldado Passarinho, 303.0, Campinas, Brasil, 13070-115"
 "organizacao_url" "https://www.embrapa.br/territorial/"

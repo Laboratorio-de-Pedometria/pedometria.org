@@ -1,5 +1,5 @@
 ---
-title: "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 27 Microbacia:Rio Pinheiros (Orleans, SC)'"
+title: "Inventário das terras em microbacias hidrográficas, 27 Microbacia: Rio Pinheiros (Orleans, SC)"
 date: 2020-10-28
 slug: ../ctb0615
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
@@ -52,28 +52,28 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0615.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>129974 bytes</td>
+      <td>132878 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0615&files=ctb0615.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0615-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3404 bytes</td>
+      <td>3330 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0615&files=ctb0615-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0615-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>825 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0615&files=ctb0615-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0615-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12461 bytes</td>
+      <td>12472 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0615&files=ctb0615-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

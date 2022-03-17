@@ -1,6 +1,6 @@
 "campo" "valor"
 "dados_id" "ctb0615"
-"dados_titulo" "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 27 Microbacia:Rio Pinheiros (Orleans, SC)'"
+"dados_titulo" "Inventário das terras em microbacias hidrográficas, 27 Microbacia: Rio Pinheiros (Orleans, SC)"
 "dados_autor" "Mara Cristina Benez; Yara Maria Alves Chanin; Fernando G. de Oliveira; Augusto Carlos Pola; Airton Benedetti"
 "organizacao_nome" NA
 "organizacao_local" "Brasil"

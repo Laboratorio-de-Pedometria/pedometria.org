@@ -128,7 +128,7 @@
     {
       "dados_id": "<a href=\"../ctb0028/\">ctb0028<\/a>",
       "dados_titulo": "Levantamento Pedológico do Campo Experimental da Embrapa Uva e Vinho em Bento Golçalves, RS",
-      "dados_autor": "Gustavo Souza Valladares (valladares em ufpi.edu.br); Naíssa Batista Luz"
+      "dados_autor": "Gustavo Souza Valladares; Naíssa Batista Luz"
     },
     {
       "dados_id": "<a href=\"../ctb0029/\">ctb0029<\/a>",
@@ -173,7 +173,7 @@
     {
       "dados_id": "<a href=\"../ctb0037/\">ctb0037<\/a>",
       "dados_titulo": "Solo da sub-bacia do Rio Giruazinho, Giruá, RS",
-      "dados_autor": "Jean Michel Moura-Bueno (bueno.jean1 em gmail com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm.br)"
+      "dados_autor": "Jean Michel Moura-Bueno; Ricardo Simão Diniz Dalmolin"
     },
     {
       "dados_id": "<a href=\"../ctb0038/\">ctb0038<\/a>",
@@ -203,7 +203,7 @@
     {
       "dados_id": "<a href=\"../ctb0047/\">ctb0047<\/a>",
       "dados_titulo": "Levantamento semidetalhado de solos e diagnóstico dos remanescentes florestais do município de Cambé - PR",
-      "dados_autor": "Gustavo Ribas Curcio (gustavo.curcio em embrapa.br); Joao Bosco Vasconcellos Gomes (joao.bv.gomes em embrapa.br); Itamar Antonio Bognola (itamar.bognola em embrapa.br); João Henrique Caviglione (jhcaviglione em gmail com); Alexandre Uhlmann (alexandre.uhlmann em embrapa.br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
+      "dados_autor": "Gustavo Ribas Curcio; Joao Bosco Vasconcellos Gomes; Itamar Antonio Bognola; João Henrique Caviglione; Alexandre Uhlmann; Alcides Cardoso; Américo Pereira de Carvalho"
     },
     {
       "dados_id": "<a href=\"../ctb0048/\">ctb0048<\/a>",
@@ -217,7 +217,7 @@
     },
     {
       "dados_id": "<a href=\"../ctb0051/\">ctb0051<\/a>",
-      "dados_titulo": "Projeto RADAMBRASIL. Folha SF.22 Paranapanema",
+      "dados_titulo": "Projeto RADAMBRASIL. Folha SF.22 Paranapanema; Pedologia (volume 37)",
       "dados_autor": "Virlei Álvaro de Oliveira; Eduardo Leandro da Rosa Macedo; José Augusto Laus Neto; Alcides Cardoso; Reinaldo Oscar Pötter"
     },
     {
@@ -267,8 +267,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0573/\">ctb0573<\/a>",
-      "dados_titulo": "Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais.'",
-      "dados_autor": "Santos; H.G. dos; Filho; B.C. ; Claessen; M.E.C. ; Junior; W. de C. ; Chagas; C. da S. ; Wittern; K.P. ; Mothci; E.P. ; Barreto; W. de O.(in memorian); Araujo; W.S. de; Duriez; M.A.de M. ; Johas; R.A.L. ; Paula; J.L. de; Antonello; L.L.; Fonseca; O.O.M.de; Lemos; A.L.(in memorian). "
+      "dados_titulo": "Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais",
+      "dados_autor": "Humberto Gonçalves dos Santos; Braz Calderano Filho; Marie Elisabeth Christine Claessen; Waldir de Carvalho Júnior; César da Silva Chagas; Klaus Peter Wittern; Elias Pedro Mothci; Washington de Oliveira Barreto; Wilson Sant ́Anna de Araújo; Maria Amélia de Moraes Duriez; Ruth Andrade Leal Johas; José Lopes de Paula; Loiva Lizia Antonello; Osório Oscar Marques da Fonseca; Aroaldo Lopes Lemos"
     },
     {
       "dados_id": "<a href=\"../ctb0574/\">ctb0574<\/a>",
@@ -282,8 +282,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0578/\">ctb0578<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Levantamento Detalhado dos Solos da Fazenda Angra-PESAGRO-Rio Estação Experimental de Campos'",
-      "dados_autor": "Enio Fraga da Silva; José Ronaldo de Macedo; Helga Restum Hissa Manzatto; Claudio Lucas Capeche; Rachel Bardy Prado."
+      "dados_titulo": "Levantamento Detalhado dos Solos da Fazenda Angra-PESAGRO-Rio Estação Experimental de Campos",
+      "dados_autor": "Enio Fraga da Silva; José Ronaldo de Macedo; Helga Restum Hissa Manzatto; Claudio Lucas Capeche; Rachel Bardy Prado"
     },
     {
       "dados_id": "<a href=\"../ctb0579/\">ctb0579<\/a>",
@@ -327,13 +327,13 @@
     },
     {
       "dados_id": "<a href=\"../ctb0588/\">ctb0588<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Microbacia dos Córregos Barroso/Barrozinho no Município de Camapuã, MS'",
-      "dados_autor": "João Souza Martins; Sebastião Barreiros Calderano; Maria José Zaroni; Heitor Luiz Costa Coutinho; Jesus Fernando Mansilla Baca."
+      "dados_titulo": "Levantamento Semidetalhado dos Solos da Microbacia dos Córregos Barroso/Barrozinho no Município de Camapuã, MS",
+      "dados_autor": "João Souza Martins; Sebastião Barreiros Calderano; Maria José Zaroni; Heitor Luiz Costa Coutinho; Jesus Fernando Mansilla Baca"
     },
     {
       "dados_id": "<a href=\"../ctb0589/\">ctb0589<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento detalhado 'Solos do Campo Experimental da Embrapa Algodão, em Patos-PB Levantamento Detalhado e Potencial Edáfico'",
-      "dados_autor": "Nivaldo Burgos; Antônio Cabral Cavalcanti; Flávio Hugo Barreto Batista da Silva; Manoel Batista de Oliveira Neto."
+      "dados_titulo": "Solos do Campo Experimental da Embrapa Algodão, em Patos-PB: Levantamento Detalhado e Potencial Edáfico",
+      "dados_autor": "Nivaldo Burgos; Antônio Cabral Cavalcanti; Flávio Hugo Barreto Batista da Silva; Manoel Batista de Oliveira Neto"
     },
     {
       "dados_id": "<a href=\"../ctb0590/\">ctb0590<\/a>",
@@ -357,8 +357,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0595/\">ctb0595<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Área do Sistema Integrado de Produção Agroecológica (SIPA) - KM 47 - Seropédica, RJ'",
-      "dados_autor": "Raphael David dos Santos; Sebastião Barreiros Calderano; Osório Oscar Marques da Fonseca; Aroaldo Lopes Lemos; Braz Calderano Filho; Washington de Oliveira Barreto; Wilson Sant?Anna de Araújo; Marie Elisabeth Christine Claessen; Daniel Vidal Pérez; José Lopes de Paula; José Silva de Souza; Geovane Barbosa do Nascimento."
+      "dados_titulo": "Levantamento Semidetalhado dos Solos da Área do Sistema Integrado de Produção Agroecológica (SIPA) - KM 47 - Seropédica, RJ",
+      "dados_autor": "Raphael David dos Santos; Sebastião Barreiros Calderano; Osório Oscar Marques da Fonseca; Aroaldo Lopes Lemos; Braz Calderano Filho; Washington de Oliveira Barreto; Wilson Sant?Anna de Araújo; Marie Elisabeth Christine Claessen; Daniel Vidal Pérez; José Lopes de Paula; José Silva de Souza; Geovane Barbosa do Nascimento"
     },
     {
       "dados_id": "<a href=\"../ctb0597/\">ctb0597<\/a>",
@@ -437,7 +437,7 @@
     },
     {
       "dados_id": "<a href=\"../ctb0615/\">ctb0615<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento semidetalhado 'Inventário das terras em microbacias hidrográficas, 27 Microbacia:Rio Pinheiros (Orleans, SC)'",
+      "dados_titulo": "Inventário das terras em microbacias hidrográficas, 27 Microbacia: Rio Pinheiros (Orleans, SC)",
       "dados_autor": "Mara Cristina Benez; Yara Maria Alves Chanin; Fernando G. de Oliveira; Augusto Carlos Pola; Airton Benedetti"
     },
     {
@@ -508,7 +508,7 @@
     {
       "dados_id": "<a href=\"../ctb0631/\">ctb0631<\/a>",
       "dados_titulo": "Levantamento de reconhecimento dos solos do Estado do Paraná - Tomos I e II",
-      "dados_autor": "Jorge Olmos Iturri Larach; Alcides Cardoso; Américo Pereira de Carvalho; Delcio Peres Hochmüller; João Souza Martins; Moacyr de Jesus Rauen; Pedro Jorge Fasolo; Reinaldo Oscar Pötter; Washington Oliveira Barreto; Maria Amélia M. Duriez; Ruth A. Leal Johas; Wilson Sant'Anna de Araujo; José Lopes de Paula; Loiva Lizia Antonello; Therezinha da Costa L. Bezerra; Raphael Minotti Bloise; Orlando Faria Bandeira; Valdir Luiz de Lima."
+      "dados_autor": "Jorge Olmos Iturri Larach; Alcides Cardoso; Américo Pereira de Carvalho; Delcio Peres Hochmüller; João Souza Martins; Moacyr de Jesus Rauen; Pedro Jorge Fasolo; Reinaldo Oscar Pötter; Washington Oliveira Barreto; Maria Amélia M. Duriez; Ruth A. Leal Johas; Wilson Sant'Anna de Araujo; José Lopes de Paula; Loiva Lizia Antonello; Therezinha da Costa L. Bezerra; Raphael Minotti Bloise; Orlando Faria Bandeira; Valdir Luiz de Lima"
     },
     {
       "dados_id": "<a href=\"../ctb0632/\">ctb0632<\/a>",
@@ -548,7 +548,7 @@
     {
       "dados_id": "<a href=\"../ctb0641/\">ctb0641<\/a>",
       "dados_titulo": "Anais da III Reunião  de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola",
-      "dados_autor": "A. P. Carvalho; R. M. Sobral Filho; J. Olmos I. L.; M. N. Camargo; R. Pötter; D. Hochmüller; J. Ker; L. Achá Panoso; J. B. Oliveira; J. M. Valadares; M. Conceição; K. P. Wittern; F. Barreto; E. P. Mothci; F. Palmieri; T. E. Rodrigues; J. L. Souza; N. P. Tavares; W. Azevedo; W. Oliveira; R. N. Peres; M. A. M. Duriez; R. A. L. Johas; M. E. C. C. Melo; W. S. Araújo; J. L. Paula; J. L. R. Souza; P. C. Lima."
+      "dados_autor": "A. P. Carvalho; R. M. Sobral Filho; J. Olmos I. L.; M. N. Camargo; R. Pötter; D. Hochmüller; J. Ker; L. Achá Panoso; J. B. Oliveira; J. M. Valadares; M. Conceição; K. P. Wittern; F. Barreto; E. P. Mothci; F. Palmieri; T. E. Rodrigues; J. L. Souza; N. P. Tavares; W. Azevedo; W. Oliveira; R. N. Peres; M. A. M. Duriez; R. A. L. Johas; M. E. C. C. Melo; W. S. Araújo; J. L. Paula; J. L. R. Souza; P. C. Lima"
     },
     {
       "dados_id": "<a href=\"../ctb0642/\">ctb0642<\/a>",
@@ -702,8 +702,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0678/\">ctb0678<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento exploratório 'LEVANTAMENTO EXPLORATÓRIO - RECONHECIMENTO DE SOLOS DO ESTADO DE PERNAMBUCO - VOLUME II '",
-      "dados_autor": "Paulo Klinger Tito Jacomine; Antonio Cabral Cavalcanti; Nivaldo Burgos; Sérgio; Sérgio Costa Pinto Pessoa; Clotário Oliver da Silveira; Augusto Barros Filho; Atanásio Alves Cordeiro; Herodoto da Costa Barros; Ivanildo de Aquino Abulquerque; Maurílio de Oliveira Anonimo; Luzberto Achá Panoso; Luiz Gonzaga de Oliveira Carvalho; Jorge Olmos Iturri Larachi; José de Oliveira Melo; Raul Suarez Inclan; Marcelo Nunes Camargo; João Wanderley da Costa Lima; Jakob Bennema; Jan Hendrik Solke Bruin; Osvaldo Ferreira Lopes; Nelson Chaves Filho; Leandro Vettori; Franklin dos Santos Antunes; Maria de Lourdes A. Anastácio; Arão Horowitz; Luiz Bezerra de Oliveira; Raphael M. Bloise; Therezinha C. L. Bezerra; Hélio Pierantoni; Maria Amélia Duriez; Ruth A. L. Johas; Armando Luiz Vasconcelos; Ana Rita de O. Galvão; Edson de Santa Cruz Oliveira; Giza Nara C. Moreira; Humberto da Silveira Dantas; Ivan Ferreira Gomes; João Pedro dos Santos O. Filho; José Lopes de Paula; Loiva Lizia Antonello; Luiz Rainho S. Carneiro; Mariana E. Heynemman; Nelson Pontes Lira; Raimundo M. Sobral Filho; Stênio Jayme Galvão; Zilda A. Bremaeker; Wahington de O. Barreto; Hélio A. Vaz de Mello; Ida de Sousa S. Vettori; Maria Aparecida B. Pereira; Sinézio F. Chagas; Adahil Medeiros Leite; Manoel da Silva Cardoso."
+      "dados_titulo": "Levantamento exploratório - reconhecimento de solos do Estado de Pernambuco - Volume II",
+      "dados_autor": "Paulo Klinger Tito Jacomine; Antonio Cabral Cavalcanti; Nivaldo Burgos; Sérgio Costa Pinto Pessoa; Clotário Oliver da Silveira"
     },
     {
       "dados_id": "<a href=\"../ctb0679/\">ctb0679<\/a>",
@@ -717,7 +717,7 @@
     },
     {
       "dados_id": "<a href=\"../ctb0681/\">ctb0681<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE BARREIRINHA, ESTADO DO AMAZONAS.'",
+      "dados_titulo": "LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE BARREIRINHA, ESTADO DO AMAZONAS",
       "dados_autor": "José Raimundo Natividade Ferreira Gama; João Marcos Lima da Silva; Maria Amélia de Moraes Duriez; Marie Elizabeth C. C. de Magalhães Melo; Ruth Andrade Leal Johas; Wilson Sant'Anna de Araújo; Raphael Minotti Bloise; Gisa Nara C. Moreira; José Lopes de Paula; João LuiZ Rodrigues de Souza; Loiva Lizia Antonello; Therezinha da Costa Lima."
     },
     {
@@ -922,8 +922,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0759/\">ctb0759<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 23.'",
-      "dados_autor": "Ministério das Minas e Energia - Secretaria-Geral."
+      "dados_titulo": "PROJETO RADAMBRASIL. Folhas SB.24/25 Jaguaribe/Natal; Pedologia (volume 23)",
+      "dados_autor": "Celso Gutemberg Souza; Carlos Duval Bacelar Viana; Minoru Wake; Valdete Severo da Costa"
     },
     {
       "dados_id": "<a href=\"../ctb0760/\">ctb0760<\/a>",
@@ -932,8 +932,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0761/\">ctb0761<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 25. '",
-      "dados_autor": "Antonio José Wilman Rios (-); Virlei Álvaro de Oliveira (virlei53 em gmail com)"
+      "dados_titulo": "PROJETO RADAMBRASIL. Folha SD.22 Goiás; Pedologia (volume 25)",
+      "dados_autor": "Antonio José Wilman Rios; Virlei Álvaro de Oliveira"
     },
     {
       "dados_id": "<a href=\"../ctb0762/\">ctb0762<\/a>",
@@ -967,8 +967,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0768/\">ctb0768<\/a>",
-      "dados_titulo": "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 31. '",
-      "dados_autor": "Antônio Gladstone Carvalho Fraga (-); Antonio Santos Silva Novaes (-); Paulo César Vieira (-); Zebino Pacheco do Amaral Filho (-)"
+      "dados_titulo": "PROJETO RADAMBRASIL. Folha SE. 22 Goiânia. Pedologia. (Volume 31)",
+      "dados_autor": "Antônio Gladstone Carvalho Fraga; Antonio Santos Silva Novaes; Paulo César Vieira; Zebino Pacheco do Amaral Filho"
     },
     {
       "dados_id": "<a href=\"../ctb0769/\">ctb0769<\/a>",
@@ -1232,7 +1232,7 @@
     },
     {
       "dados_id": "<a href=\"../ctb0831/\">ctb0831<\/a>",
-      "dados_titulo": "Conjunto de dados do  'Estudo Expedito de Solos no Estado do Paraná para fins de Classificação e Correlação.'",
+      "dados_titulo": "Estudo Expedito de Solos no Estado do Paraná para fins de Classificação e Correlação",
       "dados_autor": "Não consta."
     },
     {
@@ -1242,8 +1242,8 @@
     },
     {
       "dados_id": "<a href=\"../ctb0838/\">ctb0838<\/a>",
-      "dados_titulo": "Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'",
-      "dados_autor": "Elias Mendes Costa (eliasmccosta em yahoo com.br); Lúcia Helena Cunha dos Anjos (lanjosrural em gmail com)"
+      "dados_titulo": "Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ",
+      "dados_autor": "Elias Mendes Costa; Lúcia Helena Cunha dos Anjos"
     }
   ]
 }

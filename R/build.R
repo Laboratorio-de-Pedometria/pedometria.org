@@ -1,5 +1,7 @@
-# rmarkdown::render("content/febr/catalogo/_index.Rmd")
+# rmarkdown::render("content/pt/febr/catalogo/_index.Rmd")
 # install.packages("languageserver")
+# install.packages("openxlsx")
+# install.packages("jsonlite")
 renv::snapshot()
 
 # Editar a linha 92 do arquivo HTML, substituindo
@@ -11,7 +13,7 @@ for (i in seq(length(html))) {
 html <- sub("<title>index.utf8.md</title>", "<title>FEBR | Visualização Espacial</title>", html)
 writeLines(text = html, con = file)
 
-# Repositório Brasileiro Livre para Dados Abertos do Solo ##########################################
+# Repositório de Dados do Solo Brasileiro ##########################################################
 
 # Página de busca febr/busca/
 # Preparar arquivo TXT com dados no formato JSON
@@ -20,24 +22,24 @@ catalogo <- openxlsx::read.xlsx("/home/alessandrorosa/ownCloud/febr-repo/publico
 catalogo$dados_id <- paste0('<a href="../', catalogo$dados_id, '/">', catalogo$dados_id, '</a>')
 catalogo <- jsonlite::toJSON(
   list(data = catalogo[c("dados_id", "dados_titulo", "dados_autor")]), pretty = TRUE)
-writeLines(catalogo, con = "content/febr/buscar/catalogo.txt")
+writeLines(catalogo, con = "content/pt/febr/buscar/catalogo.txt")
 
 # Páginas individuais dos conjuntos de dados do FEBR
 # 1. Criar um diretório para cada conjunto de dados
-ctb <- list.dirs("~/ownCloud/febr-repo/publico", full.names = FALSE)[-1]
-dirs <- dir.exists(paste0("content/febr/dados/", ctb))
-cmd <- paste0("mkdir content/febr/dados/", ctb[!dirs])
+ctb <- list.dirs("~/ownCloud/febr-repo/publico", full.names = FALSE)[-c(1:2)]
+dirs <- dir.exists(paste0("content/pt/febr/dados/", ctb))
+cmd <- paste0("mkdir content/pt/febr/dados/", ctb[!dirs])
 lapply(cmd, system)
 
 # 2. Copiar os metadados de citação
 cmd <- paste0(
-  "cp ~/ownCloud/febr-repo/publico/", ctb, "/", ctb, "-identificacao.txt content/febr/dados/", ctb)
+  "cp ~/ownCloud/febr-repo/publico/", ctb, "/", ctb, "-identificacao.txt content/pt/febr/dados/", ctb)
 lapply(cmd, system)
 
 # 3. Criar index.md para cada conjunto de dados
 for (i in 1:length(ctb)) {
   identificacao <- read.table(
-    paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"),
+    paste0("content/pt/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"),
     stringsAsFactors = FALSE, header = TRUE)
   rownames(identificacao) <- identificacao$campo
   # Disfarçar endereços de e-mail
@@ -51,10 +53,10 @@ for (i in 1:length(ctb)) {
   identificacao["dados_autor", "valor"] <-
     gsub(" (xx)", "", identificacao["dados_autor", "valor"], fixed = TRUE)
   write.table(
-    identificacao, paste0("content/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), 
+    identificacao, paste0("content/pt/febr/dados/", ctb[i], "/", ctb[i], "-identificacao.txt"), 
     row.names = FALSE)
 
-  index_template <- readLines("content/febr/buscar/index_template.txt")
+  index_template <- readLines("content/pt/febr/buscar/index_template.txt")
   index_template <- sub("dados_id", ctb[i], index_template)
   index_template <- sub("dados_id", ctb[i], index_template)
   # Título
@@ -102,5 +104,5 @@ for (i in 1:length(ctb)) {
     palavras_chave <- "Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos"
   }
   index_template <- gsub("palavras_chave", gsub(";", ",", palavras_chave), index_template)
-  writeLines(text = index_template, con = paste0("content/febr/dados/", ctb[i], "/index.md"))
+  writeLines(text = index_template, con = paste0("content/pt/febr/dados/", ctb[i], "/index.md"))
 }

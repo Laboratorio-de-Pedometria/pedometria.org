@@ -1,5 +1,5 @@
 ---
-title: "Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'"
+title: "Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ"
 date: 2020-10-28
 slug: ../ctb0838
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
@@ -52,28 +52,28 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>156477 bytes</td>
+      <td>157585 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0838-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>2275 bytes</td>
+      <td>2235 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0838-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>1240 bytes</td>
+      <td>1419 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0838-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>11623 bytes</td>
+      <td>12896 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -87,7 +87,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0838-camada.txt</td>
       <td>Dados das amostras do solo (camadas, horizontes)</td>
-      <td>61209 bytes</td>
+      <td>61013 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0838&files=ctb0838-camada.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

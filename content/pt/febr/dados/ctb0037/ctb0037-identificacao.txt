@@ -1,7 +1,7 @@
 "campo" "valor"
 "dados_id" "ctb0037"
 "dados_titulo" "Solo da sub-bacia do Rio Giruazinho, Giruá, RS"
-"dados_autor" "Jean Michel Moura-Bueno (bueno.jean1 em gmail com); Ricardo Simão Diniz Dalmolin (dalmolin em ufsm br)"
+"dados_autor" "Jean Michel Moura-Bueno; Ricardo Simão Diniz Dalmolin"
 "organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
 "organizacao_local" "Brasil, Santa Maria, 97105-900, Av. Roraima, 1000"
 "organizacao_url" "http://site.ufsm.br/"

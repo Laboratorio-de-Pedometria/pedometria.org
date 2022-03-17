@@ -1,8 +1,8 @@
 "campo" "valor"
 "dados_id" "ctb0047"
 "dados_titulo" "Levantamento semidetalhado de solos e diagnóstico dos remanescentes florestais do município de Cambé - PR"
-"dados_autor" "Gustavo Ribas Curcio (gustavo.curcio em embrapa br); Joao Bosco Vasconcellos Gomes (joao.bv.gomes em embrapa br); Itamar Antonio Bognola (itamar.bognola em embrapa br); João Henrique Caviglione (jhcaviglione em gmail com); Alexandre Uhlmann (alexandre.uhlmann em embrapa br); Alcides Cardoso (-); Américo Pereira de Carvalho (-)"
-"organizacao_nome" "IAPAR"
+"dados_autor" "Gustavo Ribas Curcio; Joao Bosco Vasconcellos Gomes; Itamar Antonio Bognola; João Henrique Caviglione; Alexandre Uhlmann; Alcides Cardoso; Américo Pereira de Carvalho"
+"organizacao_nome" "Instituto Agronômico do Paraná (IAPAR)"
 "organizacao_local" "Rodovia Celso Garcia Cid, km 375, s/n, Londrina, Paraná, Brasil, CEP 86047-902"
 "organizacao_url" "http://www.iapar.br/"
 "dados_descricao" NA

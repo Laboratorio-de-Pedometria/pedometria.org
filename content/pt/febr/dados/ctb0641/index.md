@@ -3,7 +3,7 @@ title: "Anais da III Reunião  de Classificação, Correlação de Solos e Inter
 date: 2020-10-28
 slug: ../ctb0641
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["A. P. Carvalho", "R. M. Sobral Filho", "J. Olmos I. L.", "M. N. Camargo", "R. Pötter", "D. Hochmüller", "J. Ker", "L. Achá Panoso", "J. B. Oliveira", "J. M. Valadares", "M. Conceição", "K. P. Wittern", "F. Barreto", "E. P. Mothci", "F. Palmieri", "T. E. Rodrigues", "J. L. Souza", "N. P. Tavares", "W. Azevedo", "W. Oliveira", "R. N. Peres", "M. A. M. Duriez", "R. A. L. Johas", "M. E. C. C. Melo", "W. S. Araújo", "J. L. Paula", "J. L. R. Souza", "P. C. Lima."]
+#authors: ["A. P. Carvalho", "R. M. Sobral Filho", "J. Olmos I. L.", "M. N. Camargo", "R. Pötter", "D. Hochmüller", "J. Ker", "L. Achá Panoso", "J. B. Oliveira", "J. M. Valadares", "M. Conceição", "K. P. Wittern", "F. Barreto", "E. P. Mothci", "F. Palmieri", "T. E. Rodrigues", "J. L. Souza", "N. P. Tavares", "W. Azevedo", "W. Oliveira", "R. N. Peres", "M. A. M. Duriez", "R. A. L. Johas", "M. E. C. C. Melo", "W. S. Araújo", "J. L. Paula", "J. L. R. Souza", "P. C. Lima"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,28 +52,28 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0641.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>166664 bytes</td>
+      <td>169136 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0641&files=ctb0641.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0641-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3675 bytes</td>
+      <td>3581 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0641&files=ctb0641-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0641-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>1497 bytes</td>
+      <td>1664 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0641&files=ctb0641-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0641-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>11720 bytes</td>
+      <td>11732 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0641&files=ctb0641-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

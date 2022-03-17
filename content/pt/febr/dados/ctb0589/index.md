@@ -1,9 +1,9 @@
 ---
-title: "Conjunto de dados do levantamento detalhado 'Solos do Campo Experimental da Embrapa Algodão, em Patos-PB Levantamento Detalhado e Potencial Edáfico'"
+title: "Solos do Campo Experimental da Embrapa Algodão, em Patos-PB: Levantamento Detalhado e Potencial Edáfico"
 date: 2020-10-28
 slug: ../ctb0589
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Nivaldo Burgos", "Antônio Cabral Cavalcanti", "Flávio Hugo Barreto Batista da Silva", "Manoel Batista de Oliveira Neto."]
+#authors: ["Nivaldo Burgos", "Antônio Cabral Cavalcanti", "Flávio Hugo Barreto Batista da Silva", "Manoel Batista de Oliveira Neto"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,35 +52,35 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0589.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>185892 bytes</td>
+      <td>187278 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0589-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3311 bytes</td>
+      <td>3199 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0589-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>768 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0589-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12467 bytes</td>
+      <td>12425 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0589-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>40491 bytes</td>
+      <td>36407 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0589&files=ctb0589-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

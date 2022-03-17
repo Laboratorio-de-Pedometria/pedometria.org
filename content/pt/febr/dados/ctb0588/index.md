@@ -1,9 +1,9 @@
 ---
-title: "Conjunto de dados do levantamento semidetalhado 'Levantamento Semidetalhado dos Solos da Microbacia dos Córregos Barroso/Barrozinho no Município de Camapuã, MS'"
+title: "Levantamento Semidetalhado dos Solos da Microbacia dos Córregos Barroso/Barrozinho no Município de Camapuã, MS"
 date: 2020-10-28
 slug: ../ctb0588
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["João Souza Martins", "Sebastião Barreiros Calderano", "Maria José Zaroni", "Heitor Luiz Costa Coutinho", "Jesus Fernando Mansilla Baca."]
+#authors: ["João Souza Martins", "Sebastião Barreiros Calderano", "Maria José Zaroni", "Heitor Luiz Costa Coutinho", "Jesus Fernando Mansilla Baca"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,35 +52,35 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0588.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>124759 bytes</td>
+      <td>127780 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0588&files=ctb0588.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0588-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3585 bytes</td>
+      <td>3208 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0588&files=ctb0588-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0588-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>814 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0588&files=ctb0588-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0588-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12461 bytes</td>
+      <td>12495 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0588&files=ctb0588-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0588-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>13947 bytes</td>
+      <td>11719 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0588&files=ctb0588-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

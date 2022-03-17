@@ -1,5 +1,5 @@
 ---
-title: "Conjunto de dados do levantamento de reconhecimento 'LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE BARREIRINHA, ESTADO DO AMAZONAS.'"
+title: "LEVANTAMENTO DE RECONHECIMENTO DOS SOLOS E AVALIAÇÃO DA APTIDÃO AGRÍCOLA DAS TERRAS DE UMA ÁREA DE COLONIZAÇÃO NO MUNICÍPIO DE BARREIRINHA, ESTADO DO AMAZONAS"
 date: 2020-10-28
 slug: ../ctb0681
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
@@ -52,28 +52,28 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0681.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>125135 bytes</td>
+      <td>127998 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0681&files=ctb0681.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0681-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>4038 bytes</td>
+      <td>3557 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0681&files=ctb0681-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0681-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>727 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0681&files=ctb0681-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0681-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>14774 bytes</td>
+      <td>14786 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0681&files=ctb0681-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

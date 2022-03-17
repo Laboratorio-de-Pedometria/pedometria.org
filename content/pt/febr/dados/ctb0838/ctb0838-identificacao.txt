@@ -1,7 +1,7 @@
 "campo" "valor"
 "dados_id" "ctb0838"
-"dados_titulo" "Conjunto de dados da dissertação 'Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ'"
-"dados_autor" "Elias Mendes Costa (eliasmccosta em yahoo com br); Lúcia Helena Cunha dos Anjos (lanjosrural em gmail com)"
+"dados_titulo" "Mapeamento digital de solos por regressão logística múltipla em ambiente de Mar de Morros em Pinheiral, RJ"
+"dados_autor" "Elias Mendes Costa; Lúcia Helena Cunha dos Anjos"
 "organizacao_nome" "Universidade Federal Rural do Rio de Janeiro (UFRRJ)"
 "organizacao_local" "BR-465, Km 7, Sem número, Seropédica, Brasil, 23.897-000"
 "organizacao_url" "www.ia.ufrrj.br/cpacs/"
@@ -15,5 +15,5 @@
 "extensao_temporal" NA
 "extensao_espacial" NA
 "extensao_altimetrica" NA
-"dados_completude" NA
+"dados_completude" "virtualmente completos (mais de 95% de cobertura)"
 "dados_consistencia" "consistência estrutural"

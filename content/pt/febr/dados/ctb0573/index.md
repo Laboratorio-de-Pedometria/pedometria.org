@@ -1,9 +1,9 @@
 ---
-title: "Conjunto de dados do  'Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais.'"
+title: "Levantamento Semidetalhado dos Solos da Microbacia do Ribeirão São Domingos, Estado de Minas Gerais"
 date: 2020-10-28
 slug: ../ctb0573
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Santos", "H.G. dos", "Filho", "B.C. ", "Claessen", "M.E.C. ", "Junior", "W. de C. ", "Chagas", "C. da S. ", "Wittern", "K.P. ", "Mothci", "E.P. ", "Barreto", "W. de O.(in memorian)", "Araujo", "W.S. de", "Duriez", "M.A.de M. ", "Johas", "R.A.L. ", "Paula", "J.L. de", "Antonello", "L.L.", "Fonseca", "O.O.M.de", "Lemos", "A.L.(in memorian). "]
+#authors: ["Humberto Gonçalves dos Santos", "Braz Calderano Filho", "Marie Elisabeth Christine Claessen", "Waldir de Carvalho Júnior", "César da Silva Chagas", "Klaus Peter Wittern", "Elias Pedro Mothci", "Washington de Oliveira Barreto", "Wilson Sant ́Anna de Araújo", "Maria Amélia de Moraes Duriez", "Ruth Andrade Leal Johas", "José Lopes de Paula", "Loiva Lizia Antonello", "Osório Oscar Marques da Fonseca", "Aroaldo Lopes Lemos"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,35 +52,35 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0573.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>132376 bytes</td>
+      <td>133905 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0573-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3579 bytes</td>
+      <td>3422 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0573-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>869 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0573-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12251 bytes</td>
+      <td>12265 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0573-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>18206 bytes</td>
+      <td>15229 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0573&files=ctb0573-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -2,7 +2,7 @@
 "dados_id" "ctb0804"
 "dados_titulo" "Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul. Primeira Etapa, Planalto Rio-grandense"
 "dados_autor" "Raimundo Costa de Lemos; Miguel Ângelo Décimo Azolin; Paulo Ubirajara Rodrigues Abrão; Milton da Conceição Lopes dos Santos; Américo Pereira de Carvalho"
-"organizacao_nome" "Divisão de Pedologia e Fertilidade do Solo do Ministério da Agricultura"
+"organizacao_nome" "Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA)"
 "organizacao_local" "Brasil"
 "organizacao_url" NA
 "dados_descricao" "Dados da primeira etapa do Levantamento de Reconhecimento dos Solos do Estado do Rio Grande do Sul, cobrindo a Região do Planalto. A descrição dos perfis seguem as normas e definições do ‘Soil Survey Manual’ (U.S. Dept. Agr. 1951) e do ‘Manual de Métodos de Trabalho de Campo’ (Soc. Bras. Ciênc. Solo 1964). Estão incluídos os dados morfológicos e analíticos de 41 perfis do solo, tendo as análises químicas e físicas sido realizadas pela Seção de Análise da Divisão de Pedologia e Fertilidade do Solo. Uma parte minoritária dos dados foi originalmente obtida do Sistema de Informação de Solos Brasileiros (SISB), com alguma complementação a partir dos dados compilados por Cooper et al. (2005) e publicados no artigo 'A national soil profile database for Brazil available to international scientists'."
