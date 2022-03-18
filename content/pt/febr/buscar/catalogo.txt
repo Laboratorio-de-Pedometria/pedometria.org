@@ -3,7 +3,7 @@
     {
       "dados_id": "<a href=\"../ctb0001/\">ctb0001<\/a>",
       "dados_titulo": "Conteúdo de ferro do solo sob dois sistemas de cultivo na Estação Experimental Terras Baixas nos anos de 2012 e 2013",
-      "dados_autor": "José Maria Filippini Alba (jose.filippini em embrapa.br)"
+      "dados_autor": "José Maria Filippini Alba"
     },
     {
       "dados_id": "<a href=\"../ctb0002/\">ctb0002<\/a>",
@@ -13,7 +13,7 @@
     {
       "dados_id": "<a href=\"../ctb0003/\">ctb0003<\/a>",
       "dados_titulo": "Conjunto de dados do solo da bacia do reservatório do DNOS-CORSAN, Santa Maria, RS",
-      "dados_autor": "Alessandro Samuel-Rosa (alessandrosamuelrosa em gmail com); Pablo Miguel; Jean Michel Moura-Bueno; Andrisa Balbinot; Ricardo Simão Diniz Dalmolin; Lúcia Helena Cunha dos Anjos"
+      "dados_autor": "Alessandro Samuel-Rosa; Pablo Miguel; Jean Michel Moura-Bueno; Andrisa Balbinot; Ricardo Simão Diniz Dalmolin; Lúcia Helena Cunha dos Anjos"
     },
     {
       "dados_id": "<a href=\"../ctb0004/\">ctb0004<\/a>",
@@ -113,7 +113,7 @@
     {
       "dados_id": "<a href=\"../ctb0025/\">ctb0025<\/a>",
       "dados_titulo": "Os solos do Vale dos Vinhedos",
-      "dados_autor": "Carlos Alberto Flores (cflores em terra com.br); Reinaldo Oscar Pötter; Eliana Casco Sarmento (eliana.sarmento em ufrgs.br); Eliseu José Weber (eweber em portoweb com.br); Heinrich Hasenack (hhasenack em ufrgs.br)"
+      "dados_autor": "Carlos Alberto Flores; Reinaldo Oscar Pötter; Eliana Casco Sarmento; Eliseu José Weber; Heinrich Hasenack"
     },
     {
       "dados_id": "<a href=\"../ctb0026/\">ctb0026<\/a>",

@@ -1,19 +1,19 @@
 "campo" "valor"
 "dados_id" "ctb0001"
 "dados_titulo" "Conteúdo de ferro do solo sob dois sistemas de cultivo na Estação Experimental Terras Baixas nos anos de 2012 e 2013"
-"dados_autor" "José Maria Filippini Alba (jose.filippini em embrapa br)"
+"dados_autor" "José Maria Filippini Alba"
 "organizacao_nome" "Embrapa Clima Temperado"
 "organizacao_local" "BR-392, Km 78, 403, Pelotas, Brasil, 96010-971"
 "organizacao_url" "https://www.embrapa.br/clima-temperado"
 "dados_descricao" "Dados usados para a preparação de artigo publicado nos anais do XVII Simpósio Brasileiro de Sensoriamento Remoto (SBSR), que ocorreu em João Pessoa (PB). de 25 a 29 de abril de 2015. Apenas uma pequena área da ETB foi amostrada, cuja área total é de aproximadamente 3000 ha, sendo aproximadamente 500 ha destinados à pesquisa. O solo foi amostrado nos pontos de interseção de uma malha regular georreferenciada, com distância entre pontos de 15 m, num total de 49 pontos. As coletas foram realizadas em 2012 e 2013, na profundidade 0-10 cm e 10-20 cm. No artigo foram apresentados apenas os dados de ferro da área tradicionalmente cultivada com arroz irrigado no sistema convencional, com sistema de rotação 3 anos de arroz por 2 anos em descanso. Enquanto isso, o conjunto de dados também inclui uma área de cultivo mínimo."
+"dados_idioma" "pt-br"
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" "Sensoriamento remoto; Processamento de imagens; Pedologia"
 "dados_publicacao" "http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2015/06.15.14.12.50"
-"dados_idioma" NA
-"fonte_financeira" NA
+"fonte_financeira" "Projeto “Agricultura de precisão para a sustentabilidade do agronegócio Brasileiro” (Embrapa, Macroprograma 1)"
 "dados_licenca" "CC BY 4.0 Atribuição"
-"extensao_temporal" NA
-"extensao_espacial" NA
+"extensao_temporal" "2012-2013"
+"extensao_espacial" "Área de arroz irrigado de 1 ha localizada na Estação Experimental Terras Baixas (EETB) da Embrapa Clima Temperado Capão do Leão, RS"
 "extensao_altimetrica" NA
 "dados_completude" "completos (100% de cobertura)"
 "dados_consistencia" "consistência estrutural"

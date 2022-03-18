@@ -1,19 +1,19 @@
 "campo" "valor"
 "dados_id" "ctb0003"
 "dados_titulo" "Conjunto de dados do solo da bacia do reservatório do DNOS-CORSAN, Santa Maria, RS"
-"dados_autor" "Alessandro Samuel-Rosa (alessandrosamuelrosa em gmail com); Pablo Miguel; Jean Michel Moura-Bueno; Andrisa Balbinot; Ricardo Simão Diniz Dalmolin; Lúcia Helena Cunha dos Anjos"
+"dados_autor" "Alessandro Samuel-Rosa; Pablo Miguel; Jean Michel Moura-Bueno; Andrisa Balbinot; Ricardo Simão Diniz Dalmolin; Lúcia Helena Cunha dos Anjos"
 "organizacao_nome" "Universidade Federal de Santa Maria (UFSM)"
 "organizacao_local" "Av. Roraima, 1000.0, Santa Maria, Brasil, 97105-900"
 "organizacao_url" "http://site.ufsm.br/"
 "dados_descricao" "Compreende dados do solo de 400 observações feitas entre 2009 e 2013 na bacia do reservatório do Departamento Nacional de Obras de Saneamento-Companhia Riograndense de Saneamento (DNOS-CORSAN), localizada no estado brasileiro do Rio Grande do Sul. Esses dados do solo foram produzidos no âmbito de projetos de pesquisa que visam a produção de mapas semi-detalhados do solo e do uso da terra, e prever o estoque superficial de carbono no solo e sua vulnerabilidade à erosão. Todos os locais de observação foram selecionados intencionalmente ou por conveniência. Várias características ambientais foram descritas nos locais de observação, tais como o uso da terra, geologia, classificação do solo, declividade, condições de drenagem, presença de fragmentos grossos e afloramentos rochosos, cobertura do solo com vegetação, entre outras peculiaridades de cada local de observação que não foram registradas de uma forma sistemática. As amostras do solo foram submetidas à análise de laboratório para determinar o conteúdo de carbono orgânico no solo, a distribuição do tamanho de partículas, a densidade e o conteúdo de bases (cálcio, magnésio, potássio e sódio) e acidez trocáveis. A capacidade de troca de cátions efetiva foi calculada como a soma das bases e acidez trocáveis. Eles incluem a identificação de todos os locais de observação, as suas coordenadas geográficas, e dados de campo e de laboratório. O número de repetições de laboratório e o desvio padrão amostral também são fornecidos."
+"dados_idioma" "pt-br"
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" "Mapeamento digital do solo; Pedometria; Amostragem intencional; Descrição do solo no campo; Análises químicas básicas; Análises físicas básicas"
 "dados_publicacao" "http://dx.doi.org/10.1590/S0100-06832013000200013; http://w3.ufsm.br/ppgcs/images/Dissertacoes/ALESSANDRO-SAMUEL-ROSA.pdf; http://dx.doi.org/10.1016/j.geoderma.2014.12.017; http://www.ia.ufrrj.br/cpacs/arquivos/teses_dissert/422_(DO-2016)_Alessandro_Samuel_Rosa.pdf"
-"dados_idioma" NA
-"fonte_financeira" NA
+"fonte_financeira" "CNPQ (CT-HIDRO)"
 "dados_licenca" "CC BY 4.0 Atribuição"
-"extensao_temporal" NA
-"extensao_espacial" NA
+"extensao_temporal" "2009-2012"
+"extensao_espacial" "Porção norte da bacia de captação do reservatório do DNOS, no território dos municípios de Itaara e Santa Maria, com área de 2000 ha."
 "extensao_altimetrica" NA
-"dados_completude" NA
+"dados_completude" "incompletos (menos de 70% de cobertura)"
 "dados_consistencia" "consistência estrutural"
