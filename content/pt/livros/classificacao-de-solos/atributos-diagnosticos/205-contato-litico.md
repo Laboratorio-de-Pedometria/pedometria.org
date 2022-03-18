@@ -12,7 +12,7 @@ type: book  # Do not modify.
 ---
 
 Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugerir modificações no Google Docs][edit]
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
 [edit]: https://docs.google.com/document/d/160aKLwHa_-3vbQQEY8_D0Tc5xuxSDB3BbBt77RgrAMw/edit?usp=sharing
 
