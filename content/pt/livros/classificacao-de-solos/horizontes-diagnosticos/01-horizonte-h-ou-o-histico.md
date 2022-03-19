@@ -1,6 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Horizonte H ou O Hístico
+slug: h-ou-o-histico
 weight: 1
 # icon: book
 # icon_pack: fas
@@ -9,6 +10,7 @@ weight: 1
 title: Horizonte Diagnóstico H ou O Hístico
 date: "2022-03-18"
 type: book  # Do not modify.
+hidden: false
 ---
 
 Quer melhorar este conteúdo?<br>
@@ -16,4 +18,4 @@ Quer melhorar este conteúdo?<br>
 
 [edit]: https://docs.google.com/document/d/1d-Mcf2WuQIayic8IpBQhsST166vPzILcAAQeLyAuDX8/edit?usp=sharing
 
-<iframe frameborder="0" style="width: 100%; height: 2800px" src="https://docs.google.com/document/d/e/2PACX-1vSrjHNtmR0QTV708qwOjMqePjNjiS7B10LUeuaQCvobahE30jC-blOV46i0griCJ5zGSn_zxzgV0V9U/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 5000px" src="https://docs.google.com/document/d/e/2PACX-1vSrjHNtmR0QTV708qwOjMqePjNjiS7B10LUeuaQCvobahE30jC-blOV46i0griCJ5zGSn_zxzgV0V9U/pub?embedded=true"></iframe>

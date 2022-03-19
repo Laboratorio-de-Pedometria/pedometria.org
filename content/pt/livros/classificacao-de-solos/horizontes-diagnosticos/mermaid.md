@@ -1,18 +1,3 @@
----
-title: Horizonte diagnóstico superficial
-linktitle: Horizonte diagnóstico superficial
-toc: true
-type: docs
-date: "2020-10-23"
-draft: false
-menu:
-  horizon:
-    parent: Horizontes diagnósticos
-    weight: 1
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-# weight: 1
----
-
 ```mermaid
 graph TB
   ORGANICA -->|TRUE| VEGETAL

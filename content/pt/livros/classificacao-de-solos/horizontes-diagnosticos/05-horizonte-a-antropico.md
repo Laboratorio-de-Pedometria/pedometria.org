@@ -1,6 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Horizonte A Antrópico
+slug: a-antropico
 weight: 05
 # icon: book
 # icon_pack: fas
@@ -16,4 +17,4 @@ Quer melhorar este conteúdo?<br>
 
 [edit]: https://docs.google.com/document/d/1G9X7OwX-TafzQnHJ2y2Wn0S5Og9Y1Y9Y5tgXMKjszY0/edit?usp=sharing
 
-<iframe frameborder="0" style="width: 100%; height: 1800px" src="https://docs.google.com/document/d/e/2PACX-1vS43iO_nP7AYKttC-1sEAD8P9tOaztZrO2Q-R07tJDlHqPU8-zFlmNmb2MZksoo1mTa3cUKHjN0kpko/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 5000px" src="https://docs.google.com/document/d/e/2PACX-1vS43iO_nP7AYKttC-1sEAD8P9tOaztZrO2Q-R07tJDlHqPU8-zFlmNmb2MZksoo1mTa3cUKHjN0kpko/pub?embedded=true"></iframe>
