@@ -1,7 +1,8 @@
 ---
 # Title, summary, and page position.
-linktitle: 1.2 Autoria
-weight: 120
+linktitle: Autoria
+slug: autoria
+weight: 02
 
 # Page metadata.
 title: Campos de Autoria dos Dados
@@ -10,7 +11,7 @@ type: book  # Do not modify.
 ---
 
 Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugerir modificações no Google Docs][edit]
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
 [edit]: https://docs.google.com/document/d/19OThx1xN5lKd7ELifmASPjre50GNFCLEanKq9CymTHE/edit?usp=sharing
 
