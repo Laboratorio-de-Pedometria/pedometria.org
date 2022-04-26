@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Tabela de Evento
+linktitle: Tabela de Eventos
 slug: evento
 weight: 0
 
