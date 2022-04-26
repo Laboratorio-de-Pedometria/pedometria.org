@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Tipificação de Dados
+linktitle: Tipificação
 slug: tipificacao
 weight: 4
 

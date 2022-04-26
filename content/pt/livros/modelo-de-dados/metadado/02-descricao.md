@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Descrição de Métodos
+linktitle: Descrição
 slug: identificadores
 weight: 2
 

@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Laboratórios Analíticos
+linktitle: Laboratórios
 slug: laboratorios
 weight: 5
 

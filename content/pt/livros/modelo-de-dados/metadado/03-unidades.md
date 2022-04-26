@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Unidades de Medida
+linktitle: Unidades
 slug: unidades
 weight: 3
 
