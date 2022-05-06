@@ -35,10 +35,10 @@ Você também pode publicar dados do solo que você tenha produzido.
       </a> -->
       <div class="card">
         <a href="/febr/buscar/" class="card-image hover-overlay">
-          <img src="/febr/cabinet.png" alt="Acessar arquivo de dados do solo" class="img-responsive ls-is-cached lazyloaded">
+          <img src="/febr/cabinet.png" alt="Acessar arquivo de dados" class="img-responsive ls-is-cached lazyloaded">
         </a>
         <div class="card-text">
-          <h4><a href="/febr/buscar/">Acessar arquivo de dados do solo</a></h4>
+          <h4><a href="/febr/buscar/">Acessar arquivo de dados</a></h4>
         </div>
       </div>
     </td>
@@ -93,10 +93,10 @@ Você também pode publicar dados do solo que você tenha produzido.
       </a> -->
       <div class="card">
         <a href="/febr/contribuir/" class="card-image hover-overlay">
-          <img src="/febr/help.png" alt="Ajudar na construção do repositório" class="img-responsive ls-is-cached lazyloaded">
+          <img src="/febr/help.png" alt="Ajudar na construção do FEBR" class="img-responsive ls-is-cached lazyloaded">
         </a>
         <div class="card-text">
-          <h4><a href="/software/febr/">Ajudar na construção do repositório</a></h4>
+          <h4><a href="/software/febr/">Ajudar na construção do FEBR</a></h4>
         </div>
       </div>
     </td>
