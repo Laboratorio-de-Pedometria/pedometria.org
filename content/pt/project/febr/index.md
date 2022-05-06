@@ -29,16 +29,32 @@ Você também pode publicar dados do solo que você tenha produzido.
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="/febr/buscar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <!-- <a href="/febr/buscar/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Buscar conjuntos de dados abertos do solo para reúso
         <br><i class="fa fa-search" aria-hidden="true"></i>
-      </a>
+      </a> -->
+      <div class="card">
+        <a href="/febr/buscar/" class="card-image hover-overlay">
+          <img src="/febr/cabinet.png" alt="Acessar arquivo de dados do solo" class="img-responsive ls-is-cached lazyloaded">
+        </a>
+        <div class="card-text">
+          <h4><a href="/febr/buscar/">Acessar arquivo de dados do solo</a></h4>
+        </div>
+      </div>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <!-- <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Buscar dados do solo padronizados e harmonizados
         <br><i class="fa fa-map" aria-hidden="true"></i>
-      </a>
+      </a> -->
+      <div class="card">
+        <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="card-image hover-overlay">
+          <img src="/febr/processed.png" alt="Buscar dados processados" class="img-responsive ls-is-cached lazyloaded">
+        </a>
+        <div class="card-text">
+          <h4><a href="/software/febr/">Buscar dados processados</a></h4>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
@@ -57,16 +73,32 @@ Você também pode publicar dados do solo que você tenha produzido.
   </tr>
   <tr>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="/software/febr/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <!-- <a href="/software/febr/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Instalar o pacote febr para o ambiente R de análise de dados
         <br><i class="fa fa-wrench" aria-hidden="true"></i>
-      </a>
+      </a> -->
+      <div class="card">
+        <a href="/software/febr/" class="card-image hover-overlay">
+          <img src="/febr/rpackage.png" alt="Instalar o pacote febr para o R" class="img-responsive ls-is-cached lazyloaded">
+        </a>
+        <div class="card-text">
+          <h4><a href="/software/febr/">Instalar o pacote febr para o R</a></h4>
+        </div>
+      </div>
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
-      <a href="/febr/contribuir/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
+      <!-- <a href="/febr/contribuir/" class="btn btn-primary btn-lg" role="button" style="font-size: 1rem; line-height: 2;">
         Contribuir no desenvolvimento do repositório de dados do solo
         <br><i class="fa fa-cogs" aria-hidden="true"></i>
-      </a>
+      </a> -->
+      <div class="card">
+        <a href="/febr/contribuir/" class="card-image hover-overlay">
+          <img src="/febr/help.png" alt="Ajudar na construção do repositório" class="img-responsive ls-is-cached lazyloaded">
+        </a>
+        <div class="card-text">
+          <h4><a href="/software/febr/">Ajudar na construção do repositório</a></h4>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
