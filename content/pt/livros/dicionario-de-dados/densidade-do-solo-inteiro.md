@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
 linktitle: Densidade do Solo Inteiro
-weight: 1
+# weight: 1
 # icon: book
 # icon_pack: fas
 
 # Page metadata.
 title: Densidade do Solo Inteiro
-date: "2022-02-19T00:00:00Z"
+date: "2022-02-19"
 type: book  # Do not modify.
 ---
 
