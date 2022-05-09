@@ -52,7 +52,7 @@ Você também pode publicar dados do solo que você tenha produzido.
           <img src="/febr/processed.png" alt="Buscar dados processados" class="img-responsive ls-is-cached lazyloaded">
         </a>
         <div class="card-text">
-          <h4><a href="/software/febr/">Buscar dados processados</a></h4>
+          <h4><a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/">Buscar dados processados</a></h4>
         </div>
       </div>
     </td>
@@ -96,7 +96,7 @@ Você também pode publicar dados do solo que você tenha produzido.
           <img src="/febr/help.png" alt="Ajudar na construção do FEBR" class="img-responsive ls-is-cached lazyloaded">
         </a>
         <div class="card-text">
-          <h4><a href="/software/febr/">Ajudar na construção do FEBR</a></h4>
+          <h4><a href="/febr/contribuir/">Ajudar na construção do FEBR</a></h4>
         </div>
       </div>
     </td>
