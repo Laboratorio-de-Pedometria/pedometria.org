@@ -27,21 +27,21 @@ social:
   link: mailto:tacihorst@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/TaciaraHorst
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=6-LIPKgAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/HorstTZ
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/6763043931071514
 superuser: false
 title: Taciara Zborowski Horst
 user_groups:
-- Pesquisadores
+- Pesquisador Principal
 ---
 
-Taciara é aluna de doutorado no Programa de Pós-Graduação em Ciência do Solo da Universidade Federal de Santa Maria. Foi bolsista de doutorado sanduíche do Programa Institucional de Internacionalização (CAPES-PrInt) e esteve por oito meses no Laboratório de Pedometria, Análise de Paisagem e SIG da Universidade da Flórida, nos Estados Unidos.
+Taciara possui doutorado pelo Programa de Pós-Graduação em Ciência do Solo da Universidade Federal de Santa Maria. Foi bolsista de doutorado sanduíche do Programa Institucional de Internacionalização (CAPES-PrInt) e esteve por oito meses no Laboratório de Pedometria, Análise de Paisagem e SIG da Universidade da Flórida, nos Estados Unidos.
 Seus interesses de pesquisa incluem sensoriamento próximo para predição de propriedades do solo, e a padronização e harmonização de dados.

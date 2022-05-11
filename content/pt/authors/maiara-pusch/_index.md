@@ -38,7 +38,7 @@ social:
 superuser: false
 title: Maiara Pusch
 user_groups:
-- Pesquisadores
+- Egressos
 ---
 
 Possui Graduação e Mestrado em Engenharia Agrícola pela Universidade Federal da Grande Dourados (UFGD). Cursando Doutorado em Engenharia Agrícola pela Universidade Estadual de Campinas (UNICAMP) na área de máquinas agrícolas com ênfase em Agricultura de Precisão. Integrante do Grupo Interdisciplinar de Tecnologia em Agricultura de Precisão GITAP.

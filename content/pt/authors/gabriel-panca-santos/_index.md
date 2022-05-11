@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Gabriel Panca Santos
 user_groups:
-- Pesquisadores
+- Egressos
 ---
 
 Nascido na cidade de Barueri, SP, em 1999. Aos 18 formou-se técnico em eletroeletrônica pelo ITB - Brasílio Flores de Azevedo. Após a conclusão do curso, trabalhou na área de desenvolvimento e execução de projetos em RF e GPS. Iniciou os estudos em Agronomia na Universidade Tecnológica Federal do Paraná no campus Santa Helena em 2019. No segundo semestre de 2019, conseguiu uma bolsa de iniciação científica com o Prof. Alessandro Samuel-Rosa no projeto do Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR).
