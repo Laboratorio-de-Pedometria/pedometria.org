@@ -6,10 +6,10 @@
 "organizacao_local" "Av. Farquar, 2986.0, Porto Velho, Brasil, 76801-361"
 "organizacao_url" "http://www.sedam.ro.gov.br/"
 "dados_descricao" "A fase de campo do levantamento se realizou entre 1996 e 1997. Os lugares inacessíveis foram objeto de reconhecimento aéreo. As principais campanhas de campo percorreram as regiões de influência dos sistemas hidrográficos Guaporé-Mamoré-Madeira e Ji-Paraná-Machado e seus tributários. A navegação pelos rios foi realizada em pequenas embarcações, os cursos dos rios servindo como eixos a partir dos quais se realizaram as campanhas terrestres. O restante da área foi coberta a partir do sistema rodoviário. A descrição das propriedades das unidades SOTRO foi feita com base no manual atualizado do SIGTERON e segundo os critérios adotados pela Sociedade Internacional da Ciência do Solo. A localização dos sítios de descrição/amostragem foi determinada usando GPS portátil com precisão de aproximadamente 100 m. O conjunto de dados inclui informações de campo de 2914 perfis descritos durante o levantamento de campo, com análises químicas e algumas físicas de 10779 amostras tomadas dos diferentes horizontes de tais perfis. As análises foram realizadas utilizando métodos aprovados tanto internacionalmente como no Brasil. Como o volume de dados é bastante grande, os mesmos foram separados em três diferentes conjuntos de dados para publicação no Repositório Brasileiro Livre para Dados Abertos do Solo. São eles: ctb0032 (SDBHORIZ – dados morfológicos dos horizontes do solo de cada perfil e SDBSITE – dados dos locais de observação do solo), ctb0033 (ANALSOLO - Dados analíticos de cada horizonte para cada perfil) e ctb0034 (SDBPHYS2 - Retenção da água). Os dados referentes aos locais de observação (SDBSITE) estão incluídos apenas no conjunto de dados ctb0032."
+"dados_idioma" "por"
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" "Solos; Rondônia; Recursos naturais; Fertilidade;"
 "dados_publicacao" "http://www.sedam.ro.gov.br/index.php/downloads.html?start=4;http://dx.doi.org/10.1590/S0044-59672006000100011; https://www.dropbox.com/s/xh5cg749mrab3m7/CochraneEtAl2000.pdf?dl=0;"
-"dados_idioma" "por"
 "fonte_financeira" NA
 "dados_licenca" "CC BY 4.0 Atribuição"
 "extensao_temporal" NA

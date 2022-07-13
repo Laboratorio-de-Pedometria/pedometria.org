@@ -1,5 +1,5 @@
 ---
-title: "Conjunto de dados do levantamento de reconhecimento de média intensidade 'Levantamento de Reconhecimento de Média Intensidade, Avaliação de Aptidão Agrícola das Terras e indicação de Culturas em Áreas Homogêneas de Solos de Alguns Municípios do Sudoeste do Estado de Mato Grosso.'"
+title: "Levantamento de Reconhecimento de Média Intensidade, Avaliação de Aptidão Agrícola das Terras e indicação de Culturas em Áreas Homogêneas de Solos de Alguns Municípios do Sudoeste do Estado de Mato Grosso"
 date: 2020-10-28
 slug: ../ctb0610
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
@@ -52,21 +52,21 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0610.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>320192 bytes</td>
+      <td>321886 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0610&files=ctb0610.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0610-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>4800 bytes</td>
+      <td>3877 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0610&files=ctb0610-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0610-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>748 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0610&files=ctb0610-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -52,7 +52,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0572.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>798725 bytes</td>
+      <td>799341 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0572&files=ctb0572.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -66,7 +66,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0572-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>2652 bytes</td>
+      <td>2789 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0572&files=ctb0572-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
@@ -80,7 +80,7 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0572-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>124988 bytes</td>
+      <td>125052 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0572&files=ctb0572-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>

@@ -6,10 +6,10 @@
 "organizacao_local" "Brasil"
 "organizacao_url" NA
 "dados_descricao" "Dados morfológicos, físicos e químicos de 82 perfis de solo, 267 amostras extra e 43 amostras para avaliação da fertilidade. Os dados foram produzidos em 1984, como parte do levantamento de reconhecimento dos solos de Santa Catarina (1:250.000), atualizado em 2004. A coleta e descrição de perfis, amostras extras e amostras para avaliação da fertilidade foram realziadas segundo o Manual de Descrição e Coleta de Solo no Campo (Lemos & Santos, 1984). Os locais de observação foram esolhidos de acordo com as unidades de solos que se pretendia definir. Os métodos utilizados nas análises laboratoriais seguiram o Manual de Métodos de Análise de Solos (EMBRAPA, 1979). (Dados originalmente obtidos do BDSolos e submetidos a rotinas de avaliação e melhoria de qualidade no FEBR.)"
+"dados_idioma" NA
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" NA
 "dados_publicacao" "http://ainfo.cnptia.embrapa.br/digital/bitstream/item/88186/1/BPD-46-2004-Santa-Catarina-.pdf; https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/964417/1/BPD462004SantaCatarina.pdf; http://geoinfo.cnps.embrapa.br/layers/geonode%3Alev_sc_estado_solos_lat_long_wgs84"
-"dados_idioma" NA
 "fonte_financeira" NA
 "dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
 "extensao_temporal" NA

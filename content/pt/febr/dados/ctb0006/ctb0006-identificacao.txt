@@ -6,10 +6,10 @@
 "organizacao_local" "BR 392, Km 78, Pelotas, Brasil, 96010-971"
 "organizacao_url" "https://www.embrapa.br/clima-temperado"
 "dados_descricao" "Dados do levantamento semidetalhado dos solos do município de Santa Maria, visando a identificação, distribuição geográfica e delimitação cartográfica dos tipos de solos encontrados, na escala 1:50.000. Foram realizadas ao todo 623 observações a campo, sendo __ tradagens e 72 perfis completos observados em trincheiras e barrancos de estradas, procurando seguir percursos previamente definidos, pela análise das cartas topográficas do munícipio. A descrição e coleta das amostras do solo seguiu o Manual de Descrição de Solo no Campo (LEMOS; SANTOS, 1996), enquanto os métodos analíticos laboratoriais seguiram o Manual de Métodos de Análise de Solo (EMBRAPA, 1997), ambos com vistas à classificação taxonômica conforme o Sistema Brasileiro de Classificação de Solos (SANTOS et al., 2013)."
+"dados_idioma" NA
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" "Zoneamento climático; Solo; Aptidão agrícola; Recurso natural; Rio Grande do Sul"
 "dados_publicacao" "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/140726/1/Zonemanto-SM-v9-web.pdf"
-"dados_idioma" NA
 "fonte_financeira" NA
 "dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
 "extensao_temporal" NA

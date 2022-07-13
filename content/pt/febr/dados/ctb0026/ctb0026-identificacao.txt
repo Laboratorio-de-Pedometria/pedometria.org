@@ -6,10 +6,10 @@
 "organizacao_local" "Av. Pádua Dias, 11.0, Piracicaba, Brasil, 13418-900"
 "organizacao_url" "http://www4.esalq.usp.br/"
 "dados_descricao" "Foram selecionadas amostras com grande variação de teores de óxidos de ferro. As amostras de Dematte1 foram realizadas na cidade de Barra Bonita, SP, nas camadas A (0-20 cm) e B (80-100 cm). As amostras de Dematte2 foram coletadas em Rafard, SP, apenas na camada A (0-20 cm). O método de determinação de laboratório foi via ataque sulfúrico determinado na ESALQ-USP."
+"dados_idioma" NA
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" "Sensoriamento remoto; Processamento de imagens; Pedologia"
 "dados_publicacao" NA
-"dados_idioma" NA
 "fonte_financeira" NA
 "dados_licenca" "CC BY 4.0 Atribuição"
 "extensao_temporal" NA

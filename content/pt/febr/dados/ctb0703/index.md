@@ -1,9 +1,9 @@
 ---
-title: "Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 4. '"
+title: "PROJETO RADAMBRASIL. Folha SB.22 Araguaia e parte da folha SC.22 Tocantins; Solos (volume 4)"
 date: 2020-10-28
 slug: ../ctb0703
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Departamento Nacional da Produção Mineral."]
+#authors: ["José Silva Rosatelli", "Lúcio Salgado Vieira", "João Viana Araujo", "Mario Pestana de Araujo", "Sérgio Sommer"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,35 +52,35 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0703.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>175866 bytes</td>
+      <td>176944 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0703&files=ctb0703.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0703-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3280 bytes</td>
+      <td>919 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0703&files=ctb0703-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0703-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>750 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0703&files=ctb0703-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0703-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12461 bytes</td>
+      <td>12228 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0703&files=ctb0703-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0703-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>14017 bytes</td>
+      <td>12777 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0703&files=ctb0703-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
