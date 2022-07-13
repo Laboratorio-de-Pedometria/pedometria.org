@@ -9,7 +9,7 @@
 "dados_idioma" NA
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" NA
-"dados_publicacao" "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/175686/1/BT-63-1980.pdf; https://cloud.utfpr.edu.br/index.php/s/j3mtqUrGWqSiudw"
+"dados_publicacao" "http://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/335996; https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/335996/1/BT631980.pdf; https://ainfo.cnptia.embrapa.br/digital/bitstream/item/175686/1/BT-63-1980.pdf; https://cloud.utfpr.edu.br/index.php/s/j3mtqUrGWqSiudw"
 "fonte_financeira" NA
 "dados_licenca" "CC BY-NC 4.0 Atribuição-NãoComercial"
 "extensao_temporal" NA
