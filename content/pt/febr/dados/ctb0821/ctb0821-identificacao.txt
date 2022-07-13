@@ -5,7 +5,7 @@
 "organizacao_nome" "Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA)"
 "organizacao_local" "Brasil"
 "organizacao_url" NA
-"dados_descricao" "Conjunto de dados referente ao Estudo Expedito de Solos no estado do Piauí Para Fins de Classificação, Correlação e Legenda Preliminar. Falta estimar coordenadas e anotar data de coleta. Falta digitalizar dados de observações pontuais sem coleta de solo."
+"dados_descricao" "Conjunto de dados referente ao Estudo Expedito de Solos no estado do Piauí Para Fins de Classificação, Correlação e Legenda Preliminar. Falta estimar coordenadas e anotar data de coleta. Falta digitalizar dados de observações pontuais sem coleta de solo e amostras extra."
 "dados_idioma" NA
 "area_conhecimento" "Gênese, Morfologia e Classificação dos Solos"
 "palavras_chave" NA
