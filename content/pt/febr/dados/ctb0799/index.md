@@ -1,9 +1,9 @@
 ---
-title: "Conjunto de dados do  'Revitalização do Rio São Francisco com base na Reconstituição de Matas Ciliares e Recuperação de Áreas Degradadas nos municípios de Petrolina, Lagoa Grande e Santa Maria da Boa Vista.'"
+title: "Revitalização do Rio São Francisco com base na Reconstituição de Matas Ciliares e Recuperação de Áreas Degradadas nos municípios de Petrolina, Lagoa Grande e Santa Maria da Boa Vista"
 date: 2020-10-28
 slug: ../ctb0799
 summary: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR) | A febre dos dados de solo no Brasil
-#authors: ["Tony Jarbas Ferreira Cunha", "Manoel Batista de Oliveira Neto", "Andréa Maria Alves de Lucena", "Wagner da Silva Oliveira", "Roberto O  de Santana", "Bruno N. Rocha", "Rodrigo César Flores Ferreira "]
+#authors: ["Tony Jarbas Ferreira Cunha", "Manoel Batista de Oliveira Neto", "Andréa Maria Alves de Lucena", "Wagner da Silva Oliveira", "Roberto O  de Santana", "Bruno N. Rocha", "Rodrigo César Flores Ferreira"]
 tags: [Dados, Dados Legados, Repositório de Dados, Base de Dados, Dados Abertos]
 ---
 
@@ -52,35 +52,35 @@ Use este identificador para citar ou linkar para este item: `https://www.pedomet
     <tr>
       <td>ctb0799.xlsx</td>
       <td>Coleção de todas as tabelas que compõe o conjunto de dados</td>
-      <td>243299 bytes</td>
+      <td>245573 bytes</td>
       <td>XLSX — Planilha do Office Open XML</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799.xlsx" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0799-identificacao.txt</td>
       <td>Metadados de citação</td>
-      <td>3442 bytes</td>
+      <td>1863 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-identificacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0799-versionamento.txt</td>
       <td>Histórico de modificações</td>
-      <td>718 bytes</td>
+      <td>795 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-versionamento.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0799-metadado.txt</td>
       <td>Metadados de métodos analíticos</td>
-      <td>12461 bytes</td>
+      <td>12345 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-metadado.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
     <tr>
       <td>ctb0799-observacao.txt</td>
       <td>Dados dos locais de observação do solo (pontos, perfis)</td>
-      <td>66179 bytes</td>
+      <td>60387 bytes</td>
       <td>TXT — Texto plano com valores separados por tabulação</td>
       <td><a href="https://cloud.utfpr.edu.br/index.php/s/Df6dhfzYJ1DDeso/download?path=%2Fctb0799&files=ctb0799-observacao.txt" class="btn btn-primary btn-block" role="button">Visualizar/Abrir</a></td>
     </tr>
