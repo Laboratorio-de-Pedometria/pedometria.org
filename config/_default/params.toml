@@ -93,11 +93,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Prolongamento da Rua Cerejeira", city = "Santa Helena", region = "PR", postcode = "89892-000", country = "Brasil", country_code = "BR"}
+# address = {street = "Prolongamento da Rua Cerejeira", city = "Santa Helena", region = "PR", postcode = "89892-000", country = "Brasil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-24.8462", longitude = "-54.343"}
+# coordinates = {latitude = "-24.8462", longitude = "-54.343"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -107,7 +107,7 @@ coordinates = {latitude = "-24.8462", longitude = "-54.343"}
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://goo.gl/KHqSed"
+# appointment_url = "https://goo.gl/KHqSed"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -116,7 +116,7 @@ contact_links = [
   # {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:xxxx?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://t.me/pedometria"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://t.me/pedometria"},
   ]
 
 ############################
