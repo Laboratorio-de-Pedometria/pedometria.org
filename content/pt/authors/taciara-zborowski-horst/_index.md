@@ -18,13 +18,13 @@ interests:
 - Predição de propriedades do solo
 - Padronização e harmonização de dados
 organizations:
-- name: Universidade Federal de Santa Maria
-  url: https://www.ufsm.br/
-role: Pesquisadora de Pós-Doutorado
+- name: Universidade Tecnológica Federal do Paraná - Dois Vizinhos
+  url: https://www.utfpr.edu.br
+role: Professora Adjunta
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tacihorst@gmail.com
+  link: mailto:taciaraz@utfpr.edu.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TaciaraHorst
@@ -40,8 +40,7 @@ social:
 superuser: false
 title: Taciara Zborowski Horst
 user_groups:
-- Pesquisador Principal
+- Líderes
 ---
 
-Taciara possui doutorado pelo Programa de Pós-Graduação em Ciência do Solo da Universidade Federal de Santa Maria. Foi bolsista de doutorado sanduíche do Programa Institucional de Internacionalização (CAPES-PrInt) e esteve por oito meses no Laboratório de Pedometria, Análise de Paisagem e SIG da Universidade da Flórida, nos Estados Unidos.
-Seus interesses de pesquisa incluem sensoriamento próximo para predição de propriedades do solo, e a padronização e harmonização de dados.
+<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vQ-rGEt1_ShYvvZpPf4JRuB5vtLMlpyK833wNdT2z4f8cqK_WNAwVFkeTP2UWnF7c3qKzGLdQDMBOPn/pub?embedded=true"></iframe>

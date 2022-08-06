@@ -3,7 +3,7 @@ title: Alessandro Samuel-Rosa
 authors:
   - admin
 superuser: true
-bio: Meus interesses de pesquisa incluem otimização amostral, geoestatística e aprendizado de máquina, e dados abertos do solo.
+bio: ""
 education:
   courses:
   - course: PhD em Agronomia-Ciência do Solo (Pedometria)
@@ -22,7 +22,7 @@ interests:
   - Funções de Pedotransferência
   - Dados Abertos do Solo
 organizations:
-  - name: Universidade Tecnológica Federal do Paraná
+  - name: Universidade Tecnológica Federal do Paraná - Santa Helena
     url: http://www.utfpr.edu.br/
   - name: Sociedade Brasileira de Ciência do Solo
     url: https://www.sbcs.org.br/
@@ -30,7 +30,7 @@ role: Professor Adjunto
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact'
+    link: mailto:alessandrorosa@utfpr.edu.br
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ASamuelRosa
@@ -44,11 +44,7 @@ social:
     icon_pack: fab
     link: https://github.com/samuel-rosa
 user_groups:
- - Pesquisador Principal
+ - Líderes
 ---
 
-Alessandro Samuel-Rosa é professor de classificação e mapeamento do solo, estatística aplicada e probabilidade, e geoprocessamento e sensoriamento remoto na Universidade Tecnológica Federal do Paraná. Seus interesses de pesquisa incluem otimização de configurações amostrais, modelos (geo)estatísticos e aprendizado de máquina, e padronização e harmonização de dados. Ele é o líder do Laboratório de Pedometria, que desenvolve os pacotes [`pedometrics`][rpedometrics], [`spsann`][rspsann] e [`febr`][rfebr] para R, e mantém o Repositório Brasileiro Livre para Dados Abertos do Solo.
-
-[rpedometrics]: https://CRAN.R-project.org/package=pedometrics
-[rspsann]: https://CRAN.R-project.org/package=spsann
-[rfebr]: https://CRAN.R-project.org/package=febr
+<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vRIdxyX87axAiLQqhpHO4MxdMCg9o9CwT75n2nhveBsJxh8JLwM6nQ5pnnh3QdPmhRE7OQOr8TQWoi4/pub?embedded=true"></iframe>
