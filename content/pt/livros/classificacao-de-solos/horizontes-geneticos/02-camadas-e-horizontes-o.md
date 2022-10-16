@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Camadas e horizontes O
-slug: camadas-e-horizontes-h
+slug: camadas-e-horizontes-o
 weight: 02
 # icon: book
 # icon_pack: fas
