@@ -31,49 +31,9 @@ social:
   link: https://github.com/MarcosAnjos
 superuser: false
 title: Marcos Alexandre dos Anjos
+url_source: https://docs.google.com/document/d/125D5Ay0YmC22utGkyQfwbnzDKFTQgQksso23vahgXp0/
 user_groups:
 - Pesquisadores
 ---
 
-Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR) campus Santa Helena, localizado no Oeste do Paraná. Formado pela UDACITY nos cursos de Nanodegree, sendo eles: Front End Developer, nos quais pude aprender sobre novas tecnologias, framework, padrões de projetos, e paradigmas de programação. Entusiasta do mundo dos dados, áreas de estudos: análise de dados, BigData, IA para Trading.
-
-Atualmente sou bolsista PROREC pela UTFPR, no projeto Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR). Experiência de trabalhar com organização dos datasets, curadoria dos dados, extração de dados em documentos PDF, sistema de catalogação e gerenciamento de metadados.
-
-### UTFPR -- PROREC 2019/2020
-
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
-__Data de início__: 2019-09-01<br>
-__Data de término__: 2020-08-31
-
-{{% btn %}}
-  [Relatório de atividades](https://docs.google.com/document/d/1b9eves6zX1DPj025eALVS-6pmVqZxlIqf3OW2qST0L4/)
-{{% /btn %}}
-{{% btn %}}
-  [Artigo SEI 2020](https://docs.google.com/document/d/1Shk9t2zDM1RQT9VcOBenaicATSf_30Ov_LCRg-1i55g/)
-{{% /btn %}}
-
-### UTFPR -- PROREC 2020/2021
-
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
-__Data de início__: 2020-09-01<br>
-__Data de término__: 2021-08-31
-
-{{% btn %}}
-  [Relatório de atividades](https://docs.google.com/document/d/1RhhxTI5OlXb0kJXsqnIljWyRcH-kRPx8JL9JquaLfY8/)
-{{% /btn %}}
-<!-- {{% btn %}}
-  [Artigo SEI 2021]()
-{{% /btn %}} -->
-
-### UTFPR -- PROREC 2021/2022
-
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
-__Data de início__: 2020-10-01<br>
-__Data de término__: 2021-09-30
-
-<!-- {{% btn %}}
-  [Relatório de atividades]()
-{{% /btn %}} -->
-<!-- {{% btn %}}
-  [Artigo SEI 2022]()
-{{% /btn %}} -->
+<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vRynpuLuKlNJb1E9LxNxdyBWL2In6N5HWHkHVCU1FunJ-tX7qj5X5tADWzLSrT3p3rTwplvIbqteiEN/pub?embedded=true"></iframe>
