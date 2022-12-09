@@ -43,4 +43,9 @@ user_groups:
 - Líderes
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 780px" src="https://docs.google.com/document/d/e/2PACX-1vQ-rGEt1_ShYvvZpPf4JRuB5vtLMlpyK833wNdT2z4f8cqK_WNAwVFkeTP2UWnF7c3qKzGLdQDMBOPn/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vQ-rGEt1_ShYvvZpPf4JRuB5vtLMlpyK833wNdT2z4f8cqK_WNAwVFkeTP2UWnF7c3qKzGLdQDMBOPn/pub?embedded=true"></iframe>
+
+Quer melhorar este conteúdo?<br>
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+
+[edit]: https://docs.google.com/document/d/15HKCyWIu5Xeye5j0YBUFKeePP3vQ2T4LGAU_aRv_HJo/edit?usp=sharing
