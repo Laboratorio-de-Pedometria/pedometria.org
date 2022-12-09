@@ -2,21 +2,21 @@
 authors:
 - taciara-zborowski-horst
 bio: ""
-education:
-  courses:
-  - course: PhD em Ciência do Solo (Pedometria)
-    institution: Universidade Federal de Santa Maria & University of Florida
-    year: 2022
-  - course: MSc em Ciência do Solo (Pedometria)
-    institution: Universidade Federal de Santa Maria
-    year: 2017
-  - course: BSc em Engenharia Florestal
-    institution: Universidade Federal do Pampa
-    year: 2015
-interests:
-- Sensoriamento próximo do solo
-- Predição de propriedades do solo
-- Padronização e harmonização de dados
+# education:
+#   courses:
+#   - course: PhD em Ciência do Solo (Pedometria)
+#     institution: Universidade Federal de Santa Maria & University of Florida
+#     year: 2022
+#   - course: MSc em Ciência do Solo (Pedometria)
+#     institution: Universidade Federal de Santa Maria
+#     year: 2017
+#   - course: BSc em Engenharia Florestal
+#     institution: Universidade Federal do Pampa
+#     year: 2015
+# interests:
+# - Sensoriamento próximo do solo
+# - Predição de propriedades do solo
+# - Padronização e harmonização de dados
 organizations:
 - name: Universidade Tecnológica Federal do Paraná - Dois Vizinhos
   url: https://www.utfpr.edu.br
@@ -43,4 +43,4 @@ user_groups:
 - Líderes
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vQ-rGEt1_ShYvvZpPf4JRuB5vtLMlpyK833wNdT2z4f8cqK_WNAwVFkeTP2UWnF7c3qKzGLdQDMBOPn/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 780px" src="https://docs.google.com/document/d/e/2PACX-1vQ-rGEt1_ShYvvZpPf4JRuB5vtLMlpyK833wNdT2z4f8cqK_WNAwVFkeTP2UWnF7c3qKzGLdQDMBOPn/pub?embedded=true"></iframe>

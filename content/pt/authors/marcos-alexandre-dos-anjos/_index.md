@@ -3,19 +3,19 @@ authors:
   - marcos-alexandre-dos-anjos
 bio: Meus interesses de pesquisa incluem desenvolvimento de sistemas web e data science
 email: marcosanjos@alunos.utfpr.edu.br
-education:
-  courses:
-    - course: Nanodegree – Web Front-End Developer
-      institution: UDACITY
-      year: 2018
+# education:
+#   courses:
+#     - course: Nanodegree – Web Front-End Developer
+#       institution: UDACITY
+#       year: 2018
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Bolsista de Iniciação à Extensão
-interests:
-  - Desenvolvimento de Sistemas Web
-  - Mobile Development
-  - Data Science
+# interests:
+#   - Desenvolvimento de Sistemas Web
+#   - Mobile Development
+#   - Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,4 +36,4 @@ user_groups:
 - Pesquisadores
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vRynpuLuKlNJb1E9LxNxdyBWL2In6N5HWHkHVCU1FunJ-tX7qj5X5tADWzLSrT3p3rTwplvIbqteiEN/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 780px" src="https://docs.google.com/document/d/e/2PACX-1vRynpuLuKlNJb1E9LxNxdyBWL2In6N5HWHkHVCU1FunJ-tX7qj5X5tADWzLSrT3p3rTwplvIbqteiEN/pub?embedded=true"></iframe>

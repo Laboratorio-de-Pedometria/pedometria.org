@@ -4,23 +4,23 @@ authors:
   - admin
 superuser: true
 bio: ""
-education:
-  courses:
-  - course: PhD em Agronomia-Ciência do Solo (Pedometria)
-    institution: Universidade Federal Rural do Rio de Janeiro & ISRIC World Soil Information
-    year: 2016
-  - course: MSc em Ciência do Solo (Pedometria)
-    institution: Universidade Federal de Santa Maria
-    year: 2012
-  - course: BSc em Agronomia (Ciência do Solo)
-    institution: Universidade Federal de Santa Maria
-    year: 2010
-interests:
-  - Modelagem Geoestatística
-  - Otimização Amostral Espacial
-  - Análise de Incerteza
-  - Funções de Pedotransferência
-  - Dados Abertos do Solo
+# education:
+#   courses:
+#   - course: PhD em Agronomia-Ciência do Solo (Pedometria)
+#     institution: Universidade Federal Rural do Rio de Janeiro & ISRIC World Soil Information
+#     year: 2016
+#   - course: MSc em Ciência do Solo (Pedometria)
+#     institution: Universidade Federal de Santa Maria
+#     year: 2012
+#   - course: BSc em Agronomia (Ciência do Solo)
+#     institution: Universidade Federal de Santa Maria
+#     year: 2010
+# interests:
+#   - Modelagem Geoestatística
+#   - Otimização Amostral Espacial
+#   - Análise de Incerteza
+#   - Funções de Pedotransferência
+#   - Dados Abertos do Solo
 organizations:
   - name: Universidade Tecnológica Federal do Paraná - Santa Helena
     url: http://www.utfpr.edu.br/
@@ -47,4 +47,4 @@ user_groups:
  - Líderes
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 280px" src="https://docs.google.com/document/d/e/2PACX-1vRIdxyX87axAiLQqhpHO4MxdMCg9o9CwT75n2nhveBsJxh8JLwM6nQ5pnnh3QdPmhRE7OQOr8TQWoi4/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 780px" src="https://docs.google.com/document/d/e/2PACX-1vRIdxyX87axAiLQqhpHO4MxdMCg9o9CwT75n2nhveBsJxh8JLwM6nQ5pnnh3QdPmhRE7OQOr8TQWoi4/pub?embedded=true"></iframe>
