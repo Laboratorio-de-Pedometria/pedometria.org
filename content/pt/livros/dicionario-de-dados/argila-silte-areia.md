@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Distribuição do Tamanho de Partículas
+linktitle: Argila, Silte e Areia
 # weight: 1
 # icon: book
 # icon_pack: fas
 
 # Page metadata.
-title: Distribuição do Tamanho de Partículas
-date: "2022-12-01"
+title: Argila, Silte e Areia
+date: "2022-12-10"
 type: book  # Do not modify.
 ---
 
