@@ -5,7 +5,7 @@ email: mikaelmessias@alunos.utfpr.edu.br
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Bolsista de Iniciação Científica
+role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas

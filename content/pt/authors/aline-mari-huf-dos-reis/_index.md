@@ -11,7 +11,7 @@ email:
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Pesquisadora de Pós-Doutorado
+role: Pós-Doutoranda
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development

@@ -11,7 +11,7 @@ email:
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Mestranda
+role: Doutoranda
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development

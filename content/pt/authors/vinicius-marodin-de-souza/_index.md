@@ -34,7 +34,7 @@ user_groups:
 # - Coorientado(a) de Doutorado
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
-role: "Bolsista de Iniciação Científica"
+role: "Iniciante à Ciência"
 
 # Organizações/Afiliações
 organizations:

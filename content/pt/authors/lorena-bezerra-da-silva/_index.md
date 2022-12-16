@@ -36,7 +36,7 @@ user_groups:
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
 # - Monitor(a) de Graduação
-role: "Monitora de Graduação"
+role: "Iniciante à Ciência"
 
 # Organizações/Afiliações
 organizations:
