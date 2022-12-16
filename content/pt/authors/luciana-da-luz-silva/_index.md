@@ -1,6 +1,6 @@
 ---
 authors:
-  - luciana-silva-luz
+  - luciana-da-luz-silva
 bio: ""
 email: 
 # education:
@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://github.com/MarcosAnjos
 superuser: false
-title: Luciana Silva Luz
+title: Luciana da Luz Silva
 user_groups:
 - Pesquisadores
 ---
