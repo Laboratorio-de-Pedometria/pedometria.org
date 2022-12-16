@@ -1,7 +1,7 @@
 ---
 authors:
   - marcos-alexandre-dos-anjos
-bio: Meus interesses de pesquisa incluem desenvolvimento de sistemas web e data science
+bio: ""
 email: marcosanjos@alunos.utfpr.edu.br
 # education:
 #   courses:
@@ -11,7 +11,7 @@ email: marcosanjos@alunos.utfpr.edu.br
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Bolsista de Iniciação à Extensão
+role: Iniciante à Ciência
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
@@ -31,7 +31,6 @@ social:
   link: https://github.com/MarcosAnjos
 superuser: false
 title: Marcos Alexandre dos Anjos
-url_source: https://docs.google.com/document/d/125D5Ay0YmC22utGkyQfwbnzDKFTQgQksso23vahgXp0/
 user_groups:
 - Pesquisadores
 ---

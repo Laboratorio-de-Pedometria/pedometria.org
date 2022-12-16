@@ -9,7 +9,7 @@ education:
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Bolsista de Iniciação Científica
+role: Iniciante à Ciência
 interests:
   - Agricultura de Precisão
   - Topografia

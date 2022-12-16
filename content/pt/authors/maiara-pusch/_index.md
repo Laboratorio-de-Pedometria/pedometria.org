@@ -18,7 +18,7 @@ education:
 organizations:
 - name: Universidade Estadual de Campinas
   url: https://www.unicamp.br/
-role: Coorientada de Doutorado
+role: Doutoranda
 social:
 - icon: envelope
   icon_pack: fas

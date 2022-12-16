@@ -35,7 +35,7 @@ user_groups:
 # - Coorientado(a) de Mestrado
 # - Pesquisador Externo
 # - Orientado(a) Mestrado
-role: "Orientada de Mestrado"
+role: "Mestranda"
 
 # Organizações/Afiliações
 organizations:

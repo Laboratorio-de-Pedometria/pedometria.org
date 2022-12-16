@@ -24,8 +24,6 @@ bio: ""
 organizations:
   - name: Universidade Tecnológica Federal do Paraná - Santa Helena
     url: http://www.utfpr.edu.br/
-  - name: Sociedade Brasileira de Ciência do Solo
-    url: https://www.sbcs.org.br/
 role: Professor Adjunto
 social:
   - icon: envelope

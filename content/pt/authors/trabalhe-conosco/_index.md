@@ -20,7 +20,7 @@ authors:
 # organizations:
 # - name: Universidade Federal de Santa Maria
 #   url: https://www.ufsm.br/
-# role: Pesquisadora de Pós-Doutorado
+role: Clique para saber como
 # social:
 # - icon: envelope
 #   icon_pack: fas
@@ -40,7 +40,7 @@ authors:
 superuser: false
 title: Trabalhe Conosco
 user_groups:
-- Pesquisadores
+- Líderes
 ---
 
 <iframe frameborder="0" style="width: 100%; height: 2500px" src="https://docs.google.com/document/d/e/2PACX-1vRtob2wGlxKMQUv8n3tGzxuK97dfdPVkOaTQ657-1By2ilGUwEQ8EJAN8iiqBb7RsH_fWO3gpL8fKdU/pub?embedded=true"></iframe>

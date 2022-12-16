@@ -1,6 +1,6 @@
 ---
 authors:
-  - vitor-peruzzi
+  - wallace-vieira-da-silva
 bio: ""
 email: marcosanjos@alunos.utfpr.edu.br
 # education:
@@ -11,7 +11,7 @@ email: marcosanjos@alunos.utfpr.edu.br
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+role: Mestrando
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
@@ -30,14 +30,14 @@ social:
   icon_pack: fab
   link: https://github.com/MarcosAnjos
 superuser: false
-title: Vitor Peruzzi de Almeida
+title: Wallace Vieira da Silva
 user_groups:
 - Pesquisadores
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vR2u8YcrMJyT3cfQm8rLTaha4YlR0aqdYotAGsuLmifOU9aHlD1dV2APEefWUc7TWAD_MBHt4I_zRu8/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vSl1uwNl3DIIIBymlpt0HBIaBMGzM1Pzj4SOM6ggJr86cmNfkc3EEB-2WHt-1TvLlx1Z48aUcJ88OZJ/pub?embedded=true"></iframe>
 
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-[edit]: https://docs.google.com/document/d/1GbttX_FDfa4wcAFk81h8qpSSEgq4cwzygLHYzYoXSug/edit?usp=sharing
+[edit]: https://docs.google.com/document/d/1U3VUqSFxHHBdJOY0E6h0Xrzxg60uG1AgAGHflSIbOoQ/edit?usp=sharing

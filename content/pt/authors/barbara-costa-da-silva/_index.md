@@ -1,17 +1,17 @@
 ---
 authors:
-  - vitor-peruzzi
+  - barbara-costa-da-silva
 bio: ""
-email: marcosanjos@alunos.utfpr.edu.br
+email: 
 # education:
 #   courses:
-#     - course: Nanodegree – Web Front-End Developer
-#       institution: UDACITY
-#       year: 2018
+#     - course: 
+#       institution: 
+#       year: 
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+role: Doutoranda
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
@@ -30,14 +30,14 @@ social:
   icon_pack: fab
   link: https://github.com/MarcosAnjos
 superuser: false
-title: Vitor Peruzzi de Almeida
+title: Bárbara Costa da Silva
 user_groups:
 - Pesquisadores
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vR2u8YcrMJyT3cfQm8rLTaha4YlR0aqdYotAGsuLmifOU9aHlD1dV2APEefWUc7TWAD_MBHt4I_zRu8/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vS_6OapryNTe7JwaX6MK7ifVRqMz7i_hxF9E27PWZwMfwrr2V7lgRyo-pwXP7JWfoKsGalrKeKaSoE7/pub?embedded=true"></iframe>
 
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-[edit]: https://docs.google.com/document/d/1GbttX_FDfa4wcAFk81h8qpSSEgq4cwzygLHYzYoXSug/edit?usp=sharing
+[edit]: https://docs.google.com/document/d/1OVMWsfrBsHZmRD3JRi5oRetT0wFLWB26bc05RANe6vE/edit?usp=sharing

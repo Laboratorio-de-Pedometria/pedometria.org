@@ -17,6 +17,7 @@ subtitle = ""
                  "Pesquisadores",
                  "Estudantes de Pós-Graduação",
                  "Estudantes de Graduação",
+                 "Estudantes",
                  #"Administration",
                  #"Visitors",
                  "Egressos"

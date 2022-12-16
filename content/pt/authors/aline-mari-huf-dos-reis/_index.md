@@ -1,6 +1,6 @@
 ---
 authors:
-  - 
+  - aline-mari-huf-dos-reis
 bio: ""
 email: 
 # education:
@@ -11,7 +11,7 @@ email:
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Pesquisadora
+role: Pesquisadora de Pós-Doutorado
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
