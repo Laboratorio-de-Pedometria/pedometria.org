@@ -16,9 +16,9 @@ organizations:
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
 # interests:
-#   - Desenvolvimento de Sistemas Web
-#   - Mobile Development
-#   - Data Science
+#   - 
+#   - 
+#   - 
 social:
 - icon: envelope
   icon_pack: fas
