@@ -29,6 +29,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/David-Oliveira-Pontes
 - icon: github
   icon_pack: fab
   link: https://github.com/DavidOPontes
