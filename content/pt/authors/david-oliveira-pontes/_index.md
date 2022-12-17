@@ -28,7 +28,7 @@ social:
   link: http://lattes.cnpq.br/8387199814986272
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/DavidOPontes
