@@ -19,10 +19,10 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcosanjos@alunos.utfpr.edu.br
+  link: mailto:beatriz.280203@alunos.utfpr.edu
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1542622723054085
+  link: http://lattes.cnpq.br/9682620002509113
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=a1QnRDQAAAAJ
