@@ -37,6 +37,9 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/6763043931071514
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Taciara-Horst-Heinen
 superuser: false
 title: Taciara Zborowski Horst
 user_groups:
