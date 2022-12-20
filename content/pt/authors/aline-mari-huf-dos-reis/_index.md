@@ -25,7 +25,7 @@ social:
   link: http://lattes.cnpq.br/1570834132484121
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com/citations?hl=pt-BR&user=i8ugrfUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Hufaline
