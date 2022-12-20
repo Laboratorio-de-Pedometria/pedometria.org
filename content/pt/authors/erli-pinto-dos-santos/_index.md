@@ -19,16 +19,19 @@ role: Doutorando
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcosanjos@alunos.utfpr.edu.br
+  link: mailto:erlipinto@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1542622723054085
+  link: http://lattes.cnpq.br/7809641306338262
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=a1QnRDQAAAAJ
+  link: https://scholar.google.com/citations?user=uOD5fw8AAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
-  link: https://github.com/MarcosAnjos
+  link: https://github.com/eupassarinho
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Erli-Santos
 superuser: false
 title: Erli Pinto dos Santos
 user_groups:
