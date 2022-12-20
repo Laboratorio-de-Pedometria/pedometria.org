@@ -19,16 +19,19 @@ role: Pós-Doutoranda
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcosanjos@alunos.utfpr.edu.br
+  link: mailto:huf.aline@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1542622723054085
+  link: http://lattes.cnpq.br/1570834132484121
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=a1QnRDQAAAAJ
+  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/MarcosAnjos
+  link: https://github.com/Hufaline
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Aline-Huf-Dos-Reis
 superuser: false
 title: Aline Mari Huf dos Reis
 user_groups:
