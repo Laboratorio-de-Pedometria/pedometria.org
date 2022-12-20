@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MarcosAnjos
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Marcos-Alexandre-Anjos
 superuser: false
 title: Marcos Alexandre dos Anjos
 user_groups:
