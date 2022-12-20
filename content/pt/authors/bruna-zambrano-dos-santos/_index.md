@@ -19,16 +19,19 @@ role: Mestranda
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcosanjos@alunos.utfpr.edu.br
+  link: mailto:agrimensurazambrano@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1542622723054085
+  link: http://lattes.cnpq.br/8400521459875664
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=a1QnRDQAAAAJ
+  link: https://scholar.google.com/citations?hl=pt-BR&user=wE_bZWoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/MarcosAnjos
+  link: https://github.com/ZAMBRRANO
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Bruna-Zambrano
 superuser: false
 title: Bruna Zambrano
 user_groups:
