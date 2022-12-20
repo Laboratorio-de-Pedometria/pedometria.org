@@ -41,6 +41,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/samuel-rosa
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/David-Oliveira-Pontes
 user_groups:
  - Líderes
 ---
