@@ -29,9 +29,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:alessandrorosa@utfpr.edu.br
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ASamuelRosa
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/ASamuelRosa
   - icon: lattes
     icon_pack: ai
     link: http://lattes.cnpq.br/1609751519717461
