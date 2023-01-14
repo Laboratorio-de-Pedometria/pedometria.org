@@ -24,4 +24,6 @@ design:
   columns: '2'
 ---
 
-Envie uma mensagem de e-mail com seu<br>comentário ou dúvida para um dos<br>membros da nossa [equipe](#equipe).
+Envie uma mensagem de e-mail com seu<br>
+comentário ou dúvida para um dos<br>
+membros da nossa [equipe](#equipe).
