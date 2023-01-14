@@ -153,7 +153,7 @@ address_format = "en-us"
 main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -219,7 +219,7 @@ plugins_js  = ["d3_tabulate"]
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -270,7 +270,7 @@ plugins_js  = ["d3_tabulate"]
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
