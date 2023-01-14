@@ -15,6 +15,7 @@ projects:
   - febr
 authors:
   - marcos-alexandre-dos-anjos
+draft: true
 ---
 
 Você já deve estar sabendo que o Laboratório de Pedometria elegeu o Tabula como ferramenta de extração de dados do solo de arquivos no formato PDF. Se não sabe, então leia nossa [matéria][materia] anterior sobre o uso do Tabula. Na presente matéria você vai saber mais sobre como descarregar e executar o Tábula nos sistemas operacional [Ubuntu 18.04 LTS][ubuntu] e [Windows 10][windows].
