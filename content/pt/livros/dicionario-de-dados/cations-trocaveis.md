@@ -1,12 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: Complexo Sortivo
+linktitle: Cátions trocáveis
 # weight: 1
 # icon: book
 # icon_pack: fas
 
 # Page metadata.
-title: Complexo Sortivo
+title: Cátions trocáveis
 date: "2022-11-23"
 type: book  # Do not modify.
 ---
