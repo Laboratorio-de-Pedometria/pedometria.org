@@ -45,4 +45,4 @@ superuser: false
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-[edit]: https://docs.google.com/document/d/1yTrKqisoBcu-HkV4_O4IFshsDC-bKDQBBSqBiP7Lcvs/edit
+[edit]: https://docs.google.com/document/d/1yTrKqisoBcu-HkV4_O4IFshsDC-bKDQBBSqBiP7Lcvs/edit?usp=sharing
