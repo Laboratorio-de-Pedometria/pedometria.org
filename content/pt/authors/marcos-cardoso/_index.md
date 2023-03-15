@@ -22,19 +22,19 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davidpontes@alunos.utfpr.edu.br
+  link: mailto:marcoscardoso@alunos.utfpr.edu.br
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/8387199814986272
+  link: http://lattes.cnpq.br/8167522617917644
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com/citations?user=dG-WqTsAAAAJ&hl=pt-BR&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPontes
+  link: https://github.com/CardosoMvs
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/David-Oliveira-Pontes
+  link: https://www.researchgate.net/profile/Marcos-Cardoso-10
 superuser: false
 ---
 
