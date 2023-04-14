@@ -39,7 +39,7 @@ superuser: false
 ---
 
 <!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vSQkKQVSkWCxKz6G-iFSjA8TqtqagXdbZoNpKEdo6vLjQq3GoELK9MxZzG1XH8vOXFxJ5bmbUyBQaiP/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src=""></iframe>
 
 <!-- HTML e Markdown -->
 Quer melhorar este conteúdo?<br>
