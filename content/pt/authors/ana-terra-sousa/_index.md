@@ -1,7 +1,7 @@
 ---
 authors:
-  - david-oliveira-pontes
-title: David Oliveira Pontes
+  - ana-terra-sousa
+title: Ana Terra Sousa
 user_groups:
 - Pesquisadores
 bio: ""
