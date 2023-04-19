@@ -21,6 +21,10 @@ tags:
   - Publicação
   - Iniciação científica
   - PIBIC
+  - Escrita científica
+  - Escrita acadêmica
+  - Relatório
+  - Projeto
 
 # Categoria do conteúdo da página (escolha uma ou mais)
 # - Bolsa
@@ -62,4 +66,23 @@ projects: []
 url_source: https://docs.google.com/document/d/1uYjYfNATdhaYBIIjCiVobhjotenM1mPsgMVHrN1nUHo/
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 6000px" src="https://docs.google.com/document/d/e/2PACX-1vSKMay2pVUxo3URtgEVLuadxYc-7GiXcxBTR5GsbjVC6TjZZuetqOPTzJv6GDBMnLopA21ZOCRyLuSH/pub?embedded=true"></iframe>
+<!-- <iframe frameborder="0" style="width: 100%; height: 6000px" src="https://docs.google.com/document/d/e/2PACX-1vSKMay2pVUxo3URtgEVLuadxYc-7GiXcxBTR5GsbjVC6TjZZuetqOPTzJv6GDBMnLopA21ZOCRyLuSH/pub?embedded=true"></iframe> -->
+
+A comunicação é uma das partes mais importantes da atividade científica. Dentre as formas de
+comunicação científica, a escrita foi, continua sendo e sempre será a principal delas. E tudo começa
+com a redação de resumos para apresentação em eventos científicos. É nesses eventos que estudantes
+de iniciação científica (IC) desenvolvem as habilidades necessárias para escrever bem.
+
+Uma etapa crucial de qualquer evento científico é a avaliação preliminar dos trabalhos submetidos.
+Ao longo dos anos, verifiquei que muitos equívocos se repetem nos trabalhos ano após ano. São
+deslizes na organização dos resumos, no estilo de escrita, na apresentação dos resultados etc.
+Isso acaba desviando o olhar do avaliador dos aspectos científicos mais importantes de um trabalho.
+
+Nesta página, até abril de 2022, eu reuni recomendações para escrever bons resumos para eventos
+científicos. O objetivo era ajudar estudantes de IC a evitar equívocos na preparação de seus textos.
+Com textos melhor escritos e organizados, aumentamos as chances de avançar cientificamente. E isso é
+o que mais queremos!
+
+O conteúdo que eu reuni nesta página fez tanto sucesso que eu decidi iniciar um livro digital sobre
+__como escrever textos científicos__. O livro está disponível inteiramente grátis no endereço
+www.pedometria.org/livros/como-escrever-um-texto-cientifico/. Espero que você goste!
