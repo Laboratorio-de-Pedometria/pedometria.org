@@ -1,7 +1,7 @@
 ---
 authors:
-  - ana-terra-sousa
-title: Ana Terra Sousa
+  - ana-caroline-pretto
+title: Ana Caroline Pretto
 user_groups:
 - Pesquisadores
 bio: ""
@@ -22,19 +22,19 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davidpontes@alunos.utfpr.edu.br
+  link: mailto:davidpontes@alunos.utfpr.edu.
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/8387199814986272
+  link: http://lattes.cnpq.br/83871998149862
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPontes
+  link: https://github.com/DavidOPont
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/David-Oliveira-Pontes
+  link: https://www.researchgate.net/profile/David-Oliveira-Pont
 superuser: false
 ---
 
