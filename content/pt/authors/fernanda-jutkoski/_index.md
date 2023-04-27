@@ -1,7 +1,7 @@
 ---
 authors:
-  - ana-caroline-pretto
-title: Ana Caroline Pretto
+  - fernanda-jutkoski
+title: Fernanda Jutkoski
 user_groups:
 - Pesquisadores
 bio: ""
