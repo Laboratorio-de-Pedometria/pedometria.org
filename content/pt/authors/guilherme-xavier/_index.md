@@ -1,7 +1,7 @@
 ---
 authors:
-  - ana-caroline-pretto
-title: Ana Caroline Pretto
+  - guilherme-galvão-xavier-da-silva
+title: Guilherme Galvão Xavier da Silva
 user_groups:
 - Pesquisadores
 bio: ""
