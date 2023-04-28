@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Notícias
+title: Blog
 view: 2
 ---
