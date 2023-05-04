@@ -12,6 +12,8 @@ summary: "A limpeza de dados tem como objetivo garantir que os dados estejam em 
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
 authors:
   - admin
+  - vitor-peruzzi-de-almeida
+  - debora-liriel-kerber-kempner
 
 # Palavras-chave da postagem (especifique três ou mais)
 tags:
@@ -60,4 +62,4 @@ projects:
 url_source: https://docs.google.com/document/d/1_7P-MYXa_sTspeb-zsbPXIZFD4zKK2zRZoTGQ1KL6r4/edit?usp=sharing
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 1500px" src="https://docs.google.com/document/d/e/2PACX-1vTbHts_DVF8w5QEuxQuKLIf2xGrQgzSXi1GSZ6bUZYwV8RgQmZeRh2ZRhoSbB_MJUs6Rr2ev039o8UK/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 3000px" src="https://docs.google.com/document/d/e/2PACX-1vTbHts_DVF8w5QEuxQuKLIf2xGrQgzSXi1GSZ6bUZYwV8RgQmZeRh2ZRhoSbB_MJUs6Rr2ev039o8UK/pub?embedded=true"></iframe>
