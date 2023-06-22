@@ -3,11 +3,11 @@ title: SoilData
 slug: soildata
 url: /soildata/
 summary: "Repositório Brasileiro de Dados do Solo"
-authors:
-  - admin
+# authors:
+#   - admin
 image:
   preview_only: true
-date: '2016-12-05'
+date: '2023-06-21'
 categories:
   - Pesquisa
   - Extensão
