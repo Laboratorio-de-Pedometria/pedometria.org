@@ -1,8 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Mapeamento espaço-temporal de propriedades do solo usando dados abertos no Google Earth Engine
-summary: "Este curso utilizará a plataforma Google Earth Engine para realizar exercícios de mapeamento espaço-temporal de recursos do solo que possam ser aplicados no monitoramento ambiental em nível de bioma. O exercício incluirá a obtenção e processamento de séries temporais de dados espaciais abertos do Landsat e dados espaciais abertos produzidos por outras iniciativas. Dados pontuais de solo e de meio ambiente serão utilizados para treinar modelos de regressão baseados em algoritmos de aprendizado de máquina e produzir informações de recursos do solo no espaço e no tempo. Dentre as principais fontes de dados base para o exercício estão a Rede MapBiomas e o Repositório de Dados do Solo Brasileiro (SoilData)
-"
+summary: "Minicurso introdutório ao Mapeamento espaço-temporal de propriedades do solo usando dados abertos no Google Earth Engine (GEE). Ao final do minicurso, os participantes são capazes de executar o codigo em JavaScript no GEE para produzir uma série temporal de mapas de solo."
 weight: 4
 
 # Page metadata.
@@ -24,7 +23,8 @@ toc: true  # Show table of contents? true/false
 #     weight: 2
 ---
 
-Minicurso introdutório ao Mapeamento espaço-temporal de propriedades do solo usando dados abertos no Google Earth Engine (GEE). Ao final do minicurso, os participantes são capazes de executar o codigo em JavaScript no GEE para produzir uma série temporal de mapas de solo. 
+Este curso utilizará a plataforma Google Earth Engine para realizar exercícios de mapeamento espaço-temporal de recursos do solo que possam ser aplicados no monitoramento ambiental em nível de bioma. O exercício incluirá a obtenção e processamento de séries temporais de dados espaciais abertos do Landsat e dados espaciais abertos produzidos por outras iniciativas. Dados pontuais de solo e de meio ambiente serão utilizados para treinar modelos de regressão baseados em algoritmos de aprendizado de máquina e produzir informações de recursos do solo no espaço e no tempo. Dentre as principais fontes de dados base para o exercício estão a Rede MapBiomas e o Repositório de Dados do Solo Brasileiro (SoilData)
+
 
 ## Especificações
 
