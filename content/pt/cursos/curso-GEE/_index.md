@@ -38,6 +38,6 @@ Minicurso introdutório ao Mapeamento espaço-temporal de propriedades do solo u
 
 * Horst, Taciara Zborowski. Mapeamento espaço-temporal de propriedades do solo usando dados abertos no Google Earth Engine. MapBiomas - SOLO
 
- URL: https://docs.google.com/presentation/d/1lLvAjGfZNfwAxyKD9JNoCzsB1TQU_9gKoc6wzhhYeyw/edit?usp=drive_link
- URL: https://docs.google.com/document/d/1_SlF9QV-sV8IKBZmiVJ_tDwPyIzOIp3m_1PNZ_BQOtE/edit?usp=drive_link
- URL: https://docs.google.com/document/d/1_SlF9QV-sV8IKBZmiVJ_tDwPyIzOIp3m_1PNZ_BQOtE/edit?usp=drive_link
+* __URL:__ https://docs.google.com/presentation/d/1lLvAjGfZNfwAxyKD9JNoCzsB1TQU_9gKoc6wzhhYeyw/edit?usp=drive_link
+* __URL:__ https://docs.google.com/document/d/1_SlF9QV-sV8IKBZmiVJ_tDwPyIzOIp3m_1PNZ_BQOtE/edit?usp=drive_link
+* __URL:__ https://docs.google.com/document/d/1_SlF9QV-sV8IKBZmiVJ_tDwPyIzOIp3m_1PNZ_BQOtE/edit?usp=drive_link
