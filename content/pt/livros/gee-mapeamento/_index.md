@@ -10,4 +10,4 @@ Quer melhorar este conteúdo?<br>
 
 [edit]: https://docs.google.com/document/d/1_SlF9QV-sV8IKBZmiVJ_tDwPyIzOIp3m_1PNZ_BQOtE/edit
 
-<iframe frameborder="0" style="width: 150%; height: 1000px" src="https://docs.google.com/document/d/e/2PACX-1vT-MbsZH3fyPxBcyVCml-xXBp58k277cSHg5mc0_SPjGNwRAm5xqXffJ4JHodzLAVzGa2KddtxxbwJO/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 300%; height: 1000px" src="https://docs.google.com/document/d/e/2PACX-1vT-MbsZH3fyPxBcyVCml-xXBp58k277cSHg5mc0_SPjGNwRAm5xqXffJ4JHodzLAVzGa2KddtxxbwJO/pub?embedded=true"></iframe>
