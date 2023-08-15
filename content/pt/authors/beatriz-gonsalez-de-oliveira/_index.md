@@ -1,21 +1,11 @@
 ---
 authors:
-  - beatriz-gonsalez-de-oliveira
-bio: ""
-email: 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
+- beatriz-gonsalez-de-oliveira
+email: beatriz.280203@alunos.utfpr.edu
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
-# interests:
-#   - Desenvolvimento de Sistemas Web
-#   - Mobile Development
-#   - Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,21 +13,20 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/9682620002509113
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=a1QnRDQAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/MarcosAnjos
 superuser: false
 title: Beatriz Gonsalez de Oliveira
 user_groups:
-- Pesquisadores
+  - Egressos
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vRnsI8K-WVLOzo-8amOaF5TxxAMPAeuSSilsh-cSVqvSYAZT_exBQ5C6QTicrhHzdt49FOdWH0PLERU/pub?embedded=true"></iframe>
+Beatriz Gonsalez de Oliveira é estudante de Agronomia.
 
-Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+### UTFPR -- PIVICT 2022/2023
 
-[edit]: https://docs.google.com/document/d/19ypslK13H36uRmpst8MzE7qVHEjsCwW7m6bvKjhVf5I/edit?usp=sharing
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
+__Data de início__: 2022-06-01<br>
+__Data de término__: 2023-02-01
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEfO9j07m-l26aWh8)
+{{% /btn %}}
