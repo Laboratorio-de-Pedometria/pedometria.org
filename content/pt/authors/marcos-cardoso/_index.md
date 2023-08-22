@@ -28,7 +28,7 @@ social:
   link: http://lattes.cnpq.br/8167522617917644
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=dG-WqTsAAAAJ&hl=pt-BR&oi=ao
+  link: https://scholar.google.com.br/citations?user=vYVLV2EAAAAJ&hl=pt-BR&authuser=4
 - icon: github
   icon_pack: fab
   link: https://github.com/CardosoMvs
