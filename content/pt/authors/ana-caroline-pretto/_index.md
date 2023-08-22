@@ -28,7 +28,7 @@ social:
   link: http://lattes.cnpq.br/3960710187597715
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&
+  link: https://scholar.google.com/citations?user=j0HK-7IA
 - icon: github
   icon_pack: fab
   link: https://github.com/carolpretto
