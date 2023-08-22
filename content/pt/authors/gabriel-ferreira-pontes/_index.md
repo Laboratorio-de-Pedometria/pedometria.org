@@ -1,21 +1,11 @@
 ---
 authors:
-  - gabriel-ferreira-pontes
-bio: ""
-email: 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
+- gabriel-ferreira-pontes
+email: gfpontes.unb@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
-# interests:
-#   - Desenvolvimento de Sistemas Web
-#   - Mobile Development
-#   - Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,24 +13,19 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/3151760376899151
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/DavidOPontes
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Gabriel-Pontes-10
 superuser: false
 title: Gabriel Ferreira Pontes
 user_groups:
-- Pesquisadores
+  - Egressos
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vSB9pdUTpEkxBKriquajfZcHSO8hueXrhsfgrO6VSDcaQH80OlBVohGXm333UvuZJVZ01mR3LRP_GVV/pub?embedded=true"></iframe>
+Gabriel é estudante de Ciências Biológicas. Trabalhou por três anos com bioquímica de bactérias fixadoras de nitrogênio e de suas interações na rizosfera. Atualmente, é estagiário no Laboratório de Ecologia de Ecossistemas da Universidade de Brasília. Tem experiência em compilação, resgate e curadoria de dados.
 
-Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-[edit]: https://docs.google.com/document/d/15bcYk7_i1uSiEzg0fvsCWeU0yTNbe8hrdJMJKsQnmP4/edit?usp=sharing
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
+__Data de início__: 2022-11-01<br>
+__Data de término__: 2023-02-01
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEfO9j07m-aWh8)
+{{% /btn %}}
