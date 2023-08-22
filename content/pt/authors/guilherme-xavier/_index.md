@@ -22,24 +22,24 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davidpontes@alunos.utfpr.edu.
+  link: mailto:guilhermexaviertatui@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/83871998149862
+  link: https://lattes.cnpq.br/2220255544443875
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&
+  link: https://scholar.google.com/citatio
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPont
+  link: https://github.com/GuiX2000
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/David-Oliveira-Pont
+  link: https://www.researchgate.net/profile/Guilherme-Galvao-Xavier-Da-Silva
 superuser: false
 ---
 
 <!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src=""></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vSpJmKDuxksc-qXe-gX9jsdLbbFL1WwFrxzi-0-ZslMHpDSEYqaHxLt2NTYYe948t0fWITMZmq3lO8A/pub?embedded=true"></iframe>
 
 <!-- HTML e Markdown -->
 Quer melhorar este conteúdo?<br>
