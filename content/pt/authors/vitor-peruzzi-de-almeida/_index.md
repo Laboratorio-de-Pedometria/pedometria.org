@@ -2,7 +2,7 @@
 authors:
   - vitor-peruzzi
 bio: ""
-email: marcosanjos@alunos.utfpr.edu.br
+email: vitorperuzi@gmail.com
 # education:
 #   courses:
 #     - course: Nanodegree – Web Front-End Developer
@@ -25,10 +25,10 @@ social:
   link: http://lattes.cnpq.br/6862089296579302
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com.br/citations?user=vbL7ZdYAAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPontes
+  link: https://github.com/Vitorperuzzi
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Vitor-Peruzzi
