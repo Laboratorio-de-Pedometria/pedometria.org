@@ -22,19 +22,19 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davidpontes@alunos.utfpr.edu.br
+  link: mailto:anaterrasousa@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/8387199814986272
+  link: http://lattes.cnpq.br/2217728948365068
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com/citations?user=j0HK-7IA
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPontes
+  link: https://github.com/
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/David-Oliveira-Pontes
+  link: https://www.researchgate.net/profile/
 superuser: false
 ---
 
