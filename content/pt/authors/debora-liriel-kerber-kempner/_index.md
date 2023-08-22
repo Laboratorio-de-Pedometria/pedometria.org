@@ -25,10 +25,10 @@ social:
   link: http://lattes.cnpq.br/2569410943832682
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&hl
+  link: https://scholar.google.com/citati
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPontes
+  link: https://github.com/deborakerber
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Debora-Kerber-Kempner
