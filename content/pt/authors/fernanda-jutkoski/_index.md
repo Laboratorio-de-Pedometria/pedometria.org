@@ -22,19 +22,19 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davidpontes@alunos.utfpr.edu.
+  link: mailto:fernandajutkoski@alunos.utfpr.edu.br
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/83871998149862
+  link: http://lattes.cnpq.br/2465360243306206
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IAAAAJ&
+  link: https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&authuser=2&user=dW97oUsAAAAJ&gmla=AOV7GLOOsdmPhJy6nspkube5p7JvUiPKH-l_AaYAV-9Br2teoKRcLiqmgP3eCS_cWUyEMCEs_YpyQEkVUSaVyEuyoP-NieZ4lM76Tzh1bBURwRQ01z_l1JPy1PnE5Q7EyBI
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidOPont
+  link: https://github.com/fernandajutkoski
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/David-Oliveira-Pont
+  link: https://www.researchgate.net/profile/Fernanda-Jutkoski
 superuser: false
 ---
 
