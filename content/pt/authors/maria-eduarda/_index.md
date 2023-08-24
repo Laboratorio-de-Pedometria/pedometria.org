@@ -28,7 +28,7 @@ social:
   link: http://lattes.cnpq.br/3426776076107671
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
   link: https://github.com/ferreiracardoso-mariaeduarda
