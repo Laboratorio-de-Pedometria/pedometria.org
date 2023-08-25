@@ -9,9 +9,9 @@ email: marcosanjos@alunos.utfpr.edu.br
 #       institution: UDACITY
 #       year: 2018
 organizations:
-- name: Universidade Tecnológica Federal do Paraná
-  url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+- name:  Universidade Estadual Oeste do Paraná
+  url: https://www.unioeste.br/
+role: Mestrando
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
