@@ -8,7 +8,7 @@ weight: 4
 title: Mapeamento Digital de Recursos do Solo em R
 date: "2023-10-19"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false 
 # type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
