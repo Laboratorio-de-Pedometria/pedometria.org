@@ -11,16 +11,6 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 # type: docs  # Do not modify.
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-# menu:
-#   example:
-#     name: Apresentação
-#     weight: 1
-#   horizon:
-#     name: Horizontes diagnósticos
-#     weight: 2
 ---
 ## Objetivos
 
@@ -28,8 +18,6 @@ toc: true  # Show table of contents? true/false
 * Introduzir os conceitos de mapeamento digital de solos
 * Oferecer práticas em importação e visualizar dados espaciais no R
 * Executar código em R para produção de mapas de recursos do solo
-
-
 
 ## Especificações
 
@@ -45,5 +33,5 @@ toc: true  # Show table of contents? true/false
 
 ## Material de apoio
 
-* Horst, Taciara Zborowski. Introdução ao R para Mapeamento de Recursos do Solo 
+* Introdução ao R para Mapeamento de Recursos do Solo 
 * __URL:__ https://docs.google.com/document/d/1GhtglfHkRTPbSdHgRBu9FzjKztNZCZUFffqvJU-Yhq8/edit
