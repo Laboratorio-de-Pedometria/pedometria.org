@@ -33,17 +33,17 @@ toc: true  # Show table of contents? true/false
 ## Especificações
 
 * __Carga horária:__ 4 horas
-* __Modalidade:__ presencial 
+* __Modalidade:__ Presencial 
 * __Formação mínima:__ Discentes da Agronomia
-* __Recursos mínimos:__ computador e conexão à internet
+* __Recursos mínimos:__ Computador com conexão à internet
 * __N° max de participantes:__ 20 pessoas
 
 ## Materiais Necessários
 
 * Conjuntos de dados para práticas (serão fornecidos durante o curso).
-* Computador com R e RStudio instalados. Para maior aproveitamento do curso, siga as instruções do documento abaixo (Introdução ao R para Mapeamento de Recursos do Solo) e venha com o R e o RStudio já instalado no seu computador!
+* Computador com __R e RStudio__ instalados. Para maior aproveitamento do curso, siga as instruções do documento abaixo (Introdução ao R para Mapeamento de Recursos do Solo) e venha com o R e o RStudio já instalado no seu computador!
 
 ## Material de apoio
 
-* Horst, Taciara Zborowski. Introdução ao R para Mapeamento de Recursos do Solo 
+*  Introdução ao R para Mapeamento de Recursos do Solo 
 * __URL:__ https://docs.google.com/document/d/1GhtglfHkRTPbSdHgRBu9FzjKztNZCZUFffqvJU-Yhq8/edit
