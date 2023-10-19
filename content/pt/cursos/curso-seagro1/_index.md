@@ -47,3 +47,5 @@ toc: true  # Show table of contents? true/false
 
 *  Introdução ao R para Mapeamento de Recursos do Solo 
 * __URL:__ https://docs.google.com/document/d/1GhtglfHkRTPbSdHgRBu9FzjKztNZCZUFffqvJU-Yhq8/edit
+*  CookBook - Mapeamento Digital do Solo no R
+* __URL:__ https://docs.google.com/document/d/1e6MIiy9W5SAXC78ZKe3zuckNmFFJPcJfZazlxuoEx9s/edit#heading=h.p6t4r4x995vi
