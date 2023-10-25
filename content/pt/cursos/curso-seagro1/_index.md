@@ -23,30 +23,30 @@ toc: true  # Show table of contents? true/false
 #     weight: 2
 ---
 
-## Especificações
+## Objetivos
 
-* Familiarizar os participantes com as capacidades de R para MDS
-* Introduzir os conceitos de mapeamento digital de solos
-* Oferecer práticas em importação e visualizar dados espaciais no R
-* Executar código em R para produção de mapas de recursos do solo
+* Ao final deste curso você deverá ser capaz de:
+* Entender as bases do mapeamento digital de solos
+* Encontrar e utilizar dados abertos de solo disponíveis do repositório Soildata
+* Executar códigos para produzir mapas de propriedades de solo
 
 ## Especificações
 
 * __Carga horária:__ 4 horas
 * __Modalidade:__ Presencial 
-* __Formação mínima:__ Discentes da Agronomia
+* __Formação mínima:__ Discentes a partir do 3º Semestre 
 * __Recursos mínimos:__ Computador com conexão à internet
 * __N° max de participantes:__ 20 pessoas
 
 ## Materiais Necessários
 
 * Conjuntos de dados para práticas (serão fornecidos durante o curso).
-* Computador com __R e RStudio__ instalados. Para maior aproveitamento do curso, siga as instruções do documento abaixo (Introdução ao R para Mapeamento de Recursos do Solo) e venha com o R e o RStudio já instalado no seu computador!
+* Computador com __R e RStudio__ instalados. Para maior aproveitamento do curso, siga as instruções do documento abaixo e venha com o R e o RStudio já instalado no seu computador!
 
 ## Material de apoio
 
-*  Introdução ao R para Mapeamento de Recursos do Solo 
-* __URL:__ https://docs.google.com/document/d/1GhtglfHkRTPbSdHgRBu9FzjKztNZCZUFffqvJU-Yhq8/edit
+*  Introdução ao R 
+* __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/https://www.pedometria.org/livros/introducao-ao-r/_book/
 *  CookBook - Mapeamento Digital do Solo no R
 * __URL:__ https://docs.google.com/document/d/1e6MIiy9W5SAXC78ZKe3zuckNmFFJPcJfZazlxuoEx9s/edit#heading=h.p6t4r4x995vi
 *  Script R 
