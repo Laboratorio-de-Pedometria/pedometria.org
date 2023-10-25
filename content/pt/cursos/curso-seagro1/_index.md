@@ -46,7 +46,7 @@ toc: true  # Show table of contents? true/false
 ## Material de apoio
 
 *  Introdução ao R 
-* __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/https://www.pedometria.org/livros/introducao-ao-r/_book/
+* __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/
 *  CookBook - Mapeamento Digital do Solo no R
 * __URL:__ https://docs.google.com/document/d/1e6MIiy9W5SAXC78ZKe3zuckNmFFJPcJfZazlxuoEx9s/edit#heading=h.p6t4r4x995vi
 *  Script R 
