@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Capítulo 01
+linktitle: Cap 1 - Instalar o QGIS
 slug: tutorial-inicial
 weight: 01
 
