@@ -49,5 +49,5 @@ toc: true  # Show table of contents? true/false
 * __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/
 *  CookBook - Mapeamento Digital do Solo no R
 * __URL:__ https://docs.google.com/document/d/1e6MIiy9W5SAXC78ZKe3zuckNmFFJPcJfZazlxuoEx9s/edit#heading=h.p6t4r4x995vi
-* Script  Curso
+* Script Curso
 * __URL:__ https://drive.google.com/file/d/1ZxIR5IMMIQ61AOOAIwlNxXfk7sRynVjp/view?usp=sharing
