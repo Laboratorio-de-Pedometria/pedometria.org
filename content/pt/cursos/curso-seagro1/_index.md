@@ -45,6 +45,8 @@ toc: true  # Show table of contents? true/false
 
 ## Material de apoio
  
+* Script para o Curso
+* __URL:__ https://drive.google.com/file/d/1ZxIR5IMMIQ61AOOAIwlNxXfk7sRynVjp/view?usp=sharing
 *  Introdução ao R 
 * __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/
 *  CookBook - Mapeamento Digital do Solo no R
