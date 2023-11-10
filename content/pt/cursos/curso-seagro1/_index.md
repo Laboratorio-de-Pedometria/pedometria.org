@@ -44,7 +44,7 @@ toc: true  # Show table of contents? true/false
 * Computador com __R e RStudio__ instalados. Para maior aproveitamento do curso, siga as instruções do documento abaixo e venha com o R e o RStudio já instalado no seu computador!
 
 ## Material de apoio
-
+ 
 *  Introdução ao R 
 * __URL:__ https://www.pedometria.org/livros/introducao-ao-r/_book/
 *  CookBook - Mapeamento Digital do Solo no R
