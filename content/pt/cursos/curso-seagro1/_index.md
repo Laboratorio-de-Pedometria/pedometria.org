@@ -1,4 +1,4 @@
----
+----
 # Course title, summary, and position.
 linktitle: Mapeamento Digital de Recursos do Solo em R
 summary: "Minicurso ofertado na X Semana Acadêmica da Agronomia (SEAGRO) Universidade Tecnológica Federal do Paraná (UTFPR) do Câmpus Dois Vizinhos."
