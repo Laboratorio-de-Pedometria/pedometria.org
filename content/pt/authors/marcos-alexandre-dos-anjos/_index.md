@@ -19,7 +19,7 @@ role: Mestrando
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcosanjos@alunos.utfpr.edu.br
+  link: mailto:dev.marcosanjos@gmail.com 
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/1542622723054085
