@@ -1,24 +1,11 @@
 ---
 authors:
   - ana-terra-sousa
-title: Ana Terra Sousa
-user_groups:
-- Pesquisadores
-bio: ""
-# email: 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
+email: anaterrasousa@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
-# interests:
-#   - 
-#   - 
-#   - 
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,23 +13,19 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/2217728948365068
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=j0HK-7IA
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/
 superuser: false
+title: Ana Terra Sousa
+user_groups:
+  - Egressos
 ---
 
-<!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src=""></iframe>
 
-<!-- HTML e Markdown -->
-Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+### UTFPR -- PIVICT 2023/2024
 
-[edit]: https://docs.google.com/document/d/1EhGgyrgeTVTteyHE5Bg49MgBvkTKOJWcGr2rPcOUF98/edit?usp=sharing
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
+__Data de início__: 2023-03-01<br>
+__Data de término__: 2024-03-01
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEfO9j07m-l26aW8)
+{{% /btn %}}
