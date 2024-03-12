@@ -6,7 +6,7 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Aconteceu na última semana: 1º Workshop sobre Solos e Informações de Solo no Brasil"
 subtitle: ""
-summary: ""
+summary: "A Universidade Tecnológica Federal do Paraná (UTFPR) sediou, entre 04 e 08 de março de 2024, o 1º Workshop sobre Solos e Informações de Solo no Brasil. O evento foi marcado pela colaboração entre os campi Santa Helena e Dois Vizinhos da UTFPR e o Pólo do Instituto de Desenvolvimento Rural do Paraná (IDR) de Santa Tereza do Oeste."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
