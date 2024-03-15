@@ -13,6 +13,8 @@ summary: "A Universidade Tecnológica Federal do Paraná (UTFPR) sediou, entre 0
 authors:
   - admin
   - taciara-zborowski-horst
+  - david-oliveira-pontes
+  - ana-caroline-pretto
 
 # Palavras-chave da postagem (especifique três ou mais)
 tags:
@@ -45,7 +47,7 @@ draft: false
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
 # focal_point: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: "Auditório cheio, durante o Workshop sobre Solos"
+  caption: "Auditório cheio durante o Workshop sobre Solos"
   focal_point: ""
   preview_only: false
 
