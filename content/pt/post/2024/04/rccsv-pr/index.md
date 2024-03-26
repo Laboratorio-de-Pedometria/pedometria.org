@@ -4,7 +4,7 @@
 # Título da postagem
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Professores da UTFPR Participam da 1ª Reunião de Correlação e Classificação de Solos Fluviais do Oeste do Paraná"
+title: "Primeira Reunião de Correlação e Classificação de Solos Fluviais do Oeste do Paraná"
 subtitle: ""
 summary: "A professora Taciara Zborowski Horst (UTFPR-DV) e o professor Alessandro Samuel-Rosa (UTFPR-SH e FB) do Laboratório de Pedometria participaram, na última semana, da 1ª Reunião de Correlação e Classificação de Solos Fluviais (1ª RCC), uma iniciativa liderada pela Embrapa Florestas."
 
