@@ -6,7 +6,7 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Segundo Workshop Conjunto dos Grupos de Trabalho Mapeamento Digital de Solos e GlobalSoilMap"
 subtitle: ""
-summary: "Na semana, de 07 a 09 /02, os professores da UTFPR, Taciara Zborowski Horst (Dois Vizinhos) e Alessandro Samuel-Rosa (Santa Helena & Francisco Beltrão) participaram da conferência Soil Mapping for a Sustainable Future - 2nd joint Workshop of the IUSS Working Groups Digital Soil Mapping and Global Soil Map, que aconteceu em Orléans na França."
+summary: "Na semana, de 07 a 09/02/2023, os professores da UTFPR, Taciara Zborowski Horst (Dois Vizinhos) e Alessandro Samuel-Rosa (Santa Helena & Francisco Beltrão) participaram da conferência Soil Mapping for a Sustainable Future - 2nd joint Workshop of the IUSS Working Groups Digital Soil Mapping and Global Soil Map, que aconteceu em Orléans na França."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
