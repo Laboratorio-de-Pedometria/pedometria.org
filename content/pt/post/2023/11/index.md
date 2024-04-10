@@ -6,7 +6,7 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Laboratório de Pedometria Realiza Oficinas de Publicação de Dados de Pesquisa em Ciência do Solo"
 subtitle: ""
-summary: "Durante o mês de outubro, o Laboratório de Pedometria (www.pedometria.org) da UTFPR realizou duas edições da Oficina de Publicação de Dados de Pesquisa em Ciência do Solo. A primeira edição ocorreu entre os dias 19 e 20 de outubro na Universidade Federal de Goiás (UFG)"
+summary: "Durante o mês de outubro, o Laboratório de Pedometria da UTFPR realizou duas edições da Oficina de Publicação de Dados de Pesquisa em Ciência do Solo. A primeira edição ocorreu entre os dias 19 e 20 de outubro na Universidade Federal de Goiás (UFG)"
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
