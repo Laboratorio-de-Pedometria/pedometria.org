@@ -66,3 +66,8 @@ url_source: https://docs.google.com/document/d/1R5DP9tYNLeJXrc4QA1gsXOBad-QZnCdB
 ---
 
 <iframe frameborder="0" style="width: 100%; height: 3000px" src="https://docs.google.com/document/d/e/2PACX-1vTHYfvUbd-SXxa0fL8YIs6u-Pm_JZex5o-6FDqVAyUHe7c0XXL8iWV4N5I_i0lQmITSZerrd7kvnFv1/pub?embedded=true"></iframe"></iframe>
+
+## Código Fonte
+
+Para acessar o código fonte utilizados, visite o seguinte link no GitHub:
+[Descarregando e Manuseando Dados do SoilGrids com R e GDAL - Código Fonte](https://github.com/Laboratorio-de-Pedometria/rtutorial/blob/main/src/2024-04-Descarregando-e-Manuseando-Dados-do-SoilGrids.R)
