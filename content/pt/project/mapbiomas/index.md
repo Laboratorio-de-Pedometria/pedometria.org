@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MapBiomas Solo"
@@ -23,7 +23,7 @@ date: 2024-05-13
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -34,6 +34,11 @@ image:
 #   icon: twitter
 ---
 
-Somos uma rede colaborativa de ONGs, universidades e startups de tecnologia. Produzimos mapas anuais da cobertura e uso da terra e monitoramos a superfície de água e as cicatrizes de fogo mensalmente com dados a partir de 1985. Desde 2023, também mapeamos o estoque anual de carbono orgânico do solo (COS) em todo o Brasil com resolução espacial de 30 m.
+O MapBiomas é uma rede colaborativa de ONGs, universidades e startups de tecnologia. Produzimos mapas anuais da cobertura e uso da terra e monitoramos a superfície de água e as cicatrizes de fogo mensalmente com dados a partir de 1985. Desde 2023, também mapeamos o estoque anual de carbono orgânico do solo (COS) em todo o Brasil com resolução espacial de 30 m.
 
-Nosso objetivo é revelar a dinâmica espaço-temporal do COS e suas relações com as mudanças na cobertura e uso da terra, clima e práticas de manejo do solo. Empregando dados de campo e satelitários, computação em nuvem e aprendizado de máquina, produzimos uma série inédita de mapas anuais do estoque de COS do período 1985-2021 (coleção beta).
+O objetivo do MapBiomas Solo é revelar a dinâmica espaço-temporal do COS e suas relações com as mudanças na cobertura e uso da terra, clima e práticas de manejo do solo. Empregando dados de campo e satelitários, computação em nuvem e aprendizado de máquina, produzimos uma série inédita de mapas anuais do estoque de COS do período 1985-2021 (coleção beta).
+
+Acesso:
+
+* Plataforma com série de mapas: https://plataforma.brasil.mapbiomas.org/solo
+* Documento com descrição da metodologia: https://brasil.mapbiomas.org/metodo-mapbiomas-solo/
