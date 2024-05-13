@@ -11,7 +11,7 @@ summary: "O SoilGrids, desenvolvido pelo ISRIC World Soil Information, consiste 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
 authors:
-
+  - admin
 
 # Palavras-chave da postagem (especifique três ou mais)
 tags:
@@ -33,11 +33,11 @@ tags:
 # - Publicação
 # - Software
 categories:
-  - Pesquisa
-  - Desenvolvimento
+  - Ensino
+  - Software
   - Extensão
 
-date: 2024-03-23
+date: 2024-05-13
 featured: false
 draft: false
 
@@ -59,15 +59,10 @@ projects:
   - febr
 
 # Link para o código fonte
-source_code: "https://github.com/Laboratorio-de-Pedometria/rtutorial/blob/main/src/2024-04-Descarregando-e-Manuseando-Dados-do-SoilGrids.R"
+url_code: "https://github.com/Laboratorio-de-Pedometria/rtutorial/blob/main/src/2024-04-Descarregando-e-Manuseando-Dados-do-SoilGrids.R"
 
 # URL do documento original
 url_source: https://docs.google.com/document/d/1R5DP9tYNLeJXrc4QA1gsXOBad-QZnCdBGpezNpjltWE/edit
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 3000px" src="https://docs.google.com/document/d/e/2PACX-1vTHYfvUbd-SXxa0fL8YIs6u-Pm_JZex5o-6FDqVAyUHe7c0XXL8iWV4N5I_i0lQmITSZerrd7kvnFv1/pub?embedded=true"></iframe"></iframe>
-
-## Código Fonte
-
-Para acessar o código fonte utilizados, visite o seguinte link no GitHub:
-[Descarregando e Manuseando Dados do SoilGrids com R e GDAL - Código Fonte](https://github.com/Laboratorio-de-Pedometria/rtutorial/blob/main/src/2024-04-Descarregando-e-Manuseando-Dados-do-SoilGrids.R)
+<iframe frameborder="0" style="width: 100%; height: 5000px" src="https://docs.google.com/document/d/e/2PACX-1vTHYfvUbd-SXxa0fL8YIs6u-Pm_JZex5o-6FDqVAyUHe7c0XXL8iWV4N5I_i0lQmITSZerrd7kvnFv1/pub?embedded=true"></iframe"></iframe>
