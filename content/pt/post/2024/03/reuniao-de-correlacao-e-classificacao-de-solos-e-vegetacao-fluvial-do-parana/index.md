@@ -4,9 +4,9 @@
 # Título da postagem
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Primeira Reunião de Correlação e Classificação de Solos Fluviais do Oeste do Paraná"
+title: "Reunião de Correlação e Classificação de Solos Fluviais do Paraná"
 subtitle: ""
-summary: "A professora Taciara Zborowski Horst (UTFPR-DV) e o professor Alessandro Samuel-Rosa (UTFPR-SH e FB)participaram da I Reunião de Correlação e Classificação de Solos Fluviais do Paraná, uma iniciativa liderada pela Embrapa Florestas."
+summary: "A professora Taciara Zborowski Horst e o professor Alessandro Samuel-Rosa participaram da Primeira Reunião de Correlação e Classificação de Solos Fluviais do Oeste do Paraná, uma iniciativa liderada pela Embrapa Florestas."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
@@ -59,7 +59,7 @@ image:
 # Caso não esteja associado a projeto, use 'projects = []'
 projects:
   - febr
-url_source: https://docs.google.com/document/d/1mznWIV5y1FNAa7QNFhhUcHx3aVur8pJwF5ChN1NAXLY/edit
+url_source: https://docs.google.com/document/d/14V2iR55FaZZt-s5egIfHOcivKW6BUkZs8ik1eZDT_Fg/edit
 ---
 
 <iframe frameborder="0" style="width: 100%; height: 4000px" src="https://docs.google.com/document/d/e/2PACX-1vT2F8ljxSrwWjl_9yUo8QG3l1EwJzTBzEDDL2HiGnoKM3vH15EswE3MhoqFJ1zIT8JhQUgoMGOXWfmJ/pub?embedded=true"></iframe>
