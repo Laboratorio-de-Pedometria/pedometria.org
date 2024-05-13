@@ -6,14 +6,14 @@
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
 title: "Primeira Reunião de Correlação e Classificação de Solos Fluviais do Oeste do Paraná"
 subtitle: ""
-summary: "A professora Taciara Zborowski Horst (UTFPR-DV) e o professor Alessandro Samuel-Rosa (UTFPR-SH e FB) do Laboratório de Pedometria participaram, na última semana, da 1ª Reunião de Correlação e Classificação de Solos Fluviais (1ª RCC), uma iniciativa liderada pela Embrapa Florestas."
+summary: "A professora Taciara Zborowski Horst (UTFPR-DV) e o professor Alessandro Samuel-Rosa (UTFPR-SH e FB)participaram da I Reunião de Correlação e Classificação de Solos Fluviais do Paraná, uma iniciativa liderada pela Embrapa Florestas."
 
 # Autores da postagem
 # Para membros da equipe do Laboratório de Pedometria, use códigos de identificação conforme 'content/authors'
 authors:
   - admin
   - taciara-zborowski-horst
-
+  - david-oliveira-pontes
 
 # Palavras-chave da postagem (especifique três ou mais)
 tags:
@@ -36,8 +36,8 @@ tags:
 # - Software
 categories:
   - Pesquisa
-  - Desenvolvimento
   - Extensão
+  - Evento
 
 date: 2024-03-12
 featured: false
@@ -47,7 +47,7 @@ draft: false
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
 # focal_point: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: "Especialistas discutem e exploram camadas de solo durante a 1ª RCC"
+  caption: "Especialistas analisam e discutem perfis de solo"
   focal_point: ""
   preview_only: false
 
@@ -62,4 +62,4 @@ projects:
 url_source: https://docs.google.com/document/d/1mznWIV5y1FNAa7QNFhhUcHx3aVur8pJwF5ChN1NAXLY/edit
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 6000px" src="https://docs.google.com/document/d/e/2PACX-1vT2F8ljxSrwWjl_9yUo8QG3l1EwJzTBzEDDL2HiGnoKM3vH15EswE3MhoqFJ1zIT8JhQUgoMGOXWfmJ/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 4000px" src="https://docs.google.com/document/d/e/2PACX-1vT2F8ljxSrwWjl_9yUo8QG3l1EwJzTBzEDDL2HiGnoKM3vH15EswE3MhoqFJ1zIT8JhQUgoMGOXWfmJ/pub?embedded=true"></iframe>
