@@ -9,7 +9,7 @@ date: "2024-06-11"
 type: book  # Do not modify.
 ---
 
-## Descrição dos temas
+<!-- ## Descrição dos temas
 
 * Ambiente de análise de dados
   * R/RStudio
@@ -34,4 +34,4 @@ type: book  # Do not modify.
 * Simulação espacial e propagação de incerteza
   * Predição versus simulação estocástica
   * Simulação sequencial gaussiana
-  * Visualização da incerteza e aplicações
+  * Visualização da incerteza e aplicações -->
