@@ -9,15 +9,6 @@ date: "2024-06-11"
 type: book  # Do not modify.
 ---
 
-A disciplina _Modelagem Geoestatística do Ambiente_ aborda os seguintes temas de estudo:
-
-1. Propriedades dos dados espaciais
-1. Modelos de explicação da variação espacial
-1. Técnicas para estimativa de parâmetros e predição espacial
-1. Avaliação de modelos geoestatísticos
-1. Simulações geoestatísticas para propagação de incerteza
-1. Ferramentas para análise de dados espaciais
-
 ## Descrição dos temas
 
 * Ambiente de análise de dados
