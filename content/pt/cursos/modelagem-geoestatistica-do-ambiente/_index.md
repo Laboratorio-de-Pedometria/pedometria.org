@@ -9,7 +9,23 @@ toc: false
 
 <!-- https://github.com/samuel-rosa/samuel-rosa.github.io-source/blob/master/content/teaching/2017-09-18-ufsm-sol-843.Rmd -->
 
-Disciplina institutional da Universidade Tecnológica Federal do Paraná (UTFPR), ofertada na modalidade _remota_ pelo Programa de Pós-Graduação em Engenharia Ambiental (PPGEA).
+## Descrição Geral
+
+Essa disciplina irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas. Ele também irá apresentá-lo a referências bibliográficas chave e ao processo inovador de aprendizagem/autoavaliação baseado na continuada reflexão sobre o conhecimento visitado e reconstrução do conhecimento próprio.
+
+Embora essa disciplina introduzirá uma série de ferramentas de análise de dados e desenvolvimento integrado, sistemas de gerenciamento de código fonte, aos fundamentos da programação letrada, e às plataformas de divulgação científica, o seu alicerce é a geoestatística: em resumo, estatística aplicada a dados com localização conhecida, sobre a qual será esperado que você demonstre maior domínio a cada tarefa cumprida.
+
+Nós abordaremos diversos tópicos, dentre eles a caracterização dos dados espaciais e ferramentas para sua análise, o estudo de modelos clássicos e modernos de explicação da variação espacial, a descrição de técnicas robustas para estimativa de parâmetros e predição espacial, e a demonstração de procedimentos para avaliação de modelos geoestatísticos. Contudo, na maior parte do tempo, nós estaremos nos preparando para finalmente elaborar um delineamento experimental baseado em simulações geoestatísticas para um estudo de propagação de incerteza que possa será aplicado ao problema de pesquisa de seu projeto de pesquisa.
+
+## Identificação da disciplina
+
+**Instituição**: Universidade Tecnológica Federal do Paraná<br>
+**Unidade**: Programa de Pós-Graduação em Engenharia Ambiental<br>
+**Código**: xxxx<br>
+**Créditos**: 4 (3 - 1)<br>
+**Carga horária**: 60 horas<br>
+**Nível**: Mestrado/Doutorado<br>
+**Instrutor**: Dr. Alessandro Samuel-Rosa
 
 Discentes de Programa de Pós-Graduação da UTFPR ou outra Instituição de Ensino Superior; Profissionais com diploma de graduação; Estudantes de graduação a partir do oitavo período (Programa de Aceleração da Pós-Graduação)
 
@@ -38,7 +54,7 @@ A bibliografia da disciplina _Modelagem Geoestatística do Ambiente_ é dividida
 
 ### Básica
 
-A bibliografia básica é composta por três livros que abordam os conceitos fundamentais da geoestatística.
+A bibliografia básica é composta por três livros que abordam os conceitos fundamentais da geoestatística. São eles:
 
 * Yamamoto, J. K.; Landim, P. M. B. Geoestatística: conceitos e aplicações. São Paulo, SP: Oficina de Textos, c2013. 215 p. ISBN 9788579750779. <https://biblioteca.utfpr.edu.br/acervo/263375/>
 * Druck, S.; Carvalho, M.S.; Câmara, G.; Monteiro, A.V.M. (eds) Análise Espacial de Dados Geográficos. Brasília, EMBRAPA, 2004. ISBN 8573832606. <http://www.dpi.inpe.br/gilberto/livro/analise/>
@@ -46,7 +62,7 @@ A bibliografia básica é composta por três livros que abordam os conceitos fun
 
 ### Complementar
 
-A bibliografia complementar é composta por cinco livros que abordam os conceitos avançados da geoestatística.
+A bibliografia complementar é composta por cinco livros que abordam os conceitos avançados da geoestatística. São eles:
 
 * Diggle, P. J.; Ribeiro Jr, P. J. Model-based geostatistics. New York: Springer, 2007, 228p. ISBN 9780387329079. <http://www.leg.ufpr.br/mbgbook/>
 * Goovaerts, P. Geostatistics for natural resources evaluation. Oxford: Oxford University Press, 1997, 483p. ISBN 9780195115383. <https://osf.io/swzm8>
