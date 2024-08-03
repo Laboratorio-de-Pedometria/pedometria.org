@@ -8,6 +8,7 @@ weight: 1
 # Page metadata.
 title: Objetivos
 date: "2024-06-11"
+draft: true
 type: book  # Do not modify.
 ---
 

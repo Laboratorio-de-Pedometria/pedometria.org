@@ -1,6 +1,6 @@
 ---
 title: Modelagem Geoestatística do Ambiente
-summary: Disciplina institutional da Universidade Tecnológica Federal do Paraná (UTFPR), ofertada na modalidade remota pelo Programa de Pós-Graduação em Engenharia Ambiental (PPGEA).
+summary: Disciplina do PPG em Engenharia Ambiental (PPGEA) da Universidade Tecnológica Federal do Paraná (UTFPR) e do PPG em Modelagem em Ciências da Terra e do Ambiente (PPGM) da Universidade Estadual de Feira de Santana (UEFS)
 type: book  # Do not modify.
 toc: false
 ---
@@ -9,24 +9,32 @@ toc: false
 
 <!-- https://github.com/samuel-rosa/samuel-rosa.github.io-source/blob/master/content/teaching/2017-09-18-ufsm-sol-843.Rmd -->
 
-Disciplina institutional da Universidade Tecnológica Federal do Paraná (UTFPR), ofertada na modalidade remota pelo Programa de Pós-Graduação em Engenharia Ambiental (PPGEA).
+Disciplina do PPG em Engenharia Ambiental (PPGEA) da Universidade Tecnológica Federal do Paraná (UTFPR) e do PPG em Modelagem em Ciências da Terra e do Ambiente (PPGM) da Universidade Estadual de Feira de Santana (UEFS), ofertada na modalidade remota.
 
 ## Identificação
 
-__Instituição__: Universidade Tecnológica Federal do Paraná (UTFPR)<br>
-__Unidade__: Programa de Pós-Graduação em Engenharia Ambiental (PPGEA)<br>
-__Código__: xxxx<br>
-__Créditos__: 4 (3 - 1)<br>
-__Carga horária__: 60 horas<br>
-__Nível__: Mestrado/Doutorado<br>
-__Instrutor__: Dr. Alessandro Samuel-Rosa
+* __Instituição:__
+  * Universidade Tecnológica Federal do Paraná (UTFPR)
+  * Universidade Estadual de Feira de Santana (UEFS)
+* __Unidade:__
+  * Programa de Pós-Graduação em Engenharia Ambiental (PPGEA)
+  * Programa de Pós-Graduação em Modelagem em Ciências da Terra e do Ambiente (PPGM)
+* __Código:__
+  * MGA46EA
+  * ???????
+* __Créditos:__ 4 (3 - 1)
+* __Carga horária__: 60 horas
+* __Nível:__ Mestrado/Doutorado
+* __Instrutor:__
+  * Dr. Alessandro Samuel-Rosa
+  * Dr. Alessandro Samuel-Rosa e Dra. Carolina Oliveira de Santana
 
 ## Público
 
-* Discentes de Programa de Pós-Graduação da UTFPR
+* Discentes de Programa de Pós-Graduação da UTFPR e UEFS
 * Discentes de Programa de Pós-Graduação de outras Instituições de Ensino Superior
 * Profissionais com diploma de graduação
-* Estudantes de graduação a partir do oitavo período (Programa de Aceleração da Pós-Graduação)
+* Estudantes de graduação da UTFPR a partir do oitavo período (Programa de Aceleração da Pós-Graduação)
 
 ## Objetivos
 
