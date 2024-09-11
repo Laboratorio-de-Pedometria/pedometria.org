@@ -1,7 +1,7 @@
 ---
 authors:
-  - marcos-felipe-dos-santos
-title: Marcos Felipe dos Santos Bueno
+  - guilherme-attila-ribeiro-sárkány
+title: Guilherme Attila Ribeiro Sárkány
 user_groups:
 - Pesquisadores
 bio: ""
@@ -22,27 +22,27 @@ role: Iniciante à Ciência
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marcos_bueno_99@hotmail.com
+  link: mailto:guilhermeattila13@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/4732183995649840
+  link: http://lattes.cnpq.br/1954438830215094
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=nG7h50EAAAAJ&hl=pt-BR
+  link: https://scholar.google.com/citations?view_op=new_articles&hl=pt-BR&imq=Guilherme+Attila+Ribeiro+S%C3%A1rk%C3%A1ny#
 - icon: github
   icon_pack: fab
-  link: https://github.com/Marcosbueno1999/mar.git
+  link: https://github.com/GuiAttila
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Marcos-Felipe-Dos-Santos-Bueno
+  link: https://www.researchgate.net/profile/Guilherme-Sarkany
 superuser: false
 ---
 
 <!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vTgm7YudNoqNZfIHoF46N81GFmsb4mBywQl_9fL1bPpRZZYcaTJKVn1yOE9szt7JmXWncaJ3mXJhpRS/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/19mQlgHM9EQ_8hPMTOAN50j0xYQNPfhnp9btrbNdbqsA/pub?embedded=true"></iframe>
 
 <!-- HTML e Markdown -->
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-[edit]: https://docs.google.com/document/d/1pxdFyBBGzmExkOFs8aRKZsMWd6OfU8f5MzkmagkOOrk/edit
+[edit]: https://docs.google.com/document/d/19mQlgHM9EQ_8hPMTOAN50j0xYQNPfhnp9btrbNdbqsA/edit
