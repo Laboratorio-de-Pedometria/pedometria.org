@@ -66,4 +66,4 @@ projects:
 url_source: https://docs.google.com/document/d/1CF621Ua7UtHbz_mo7_2bAsczr2-Liz2lCgtBy6bFMnU/edit?usp=sharing
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 12000px" src="https://docs.google.com/document/d/e/2PACX-1vR5MwzViCkAWGoCb3DEIIdfN-QEJWCyhPFWNzsMrS84huTyEJswaD9NAwMAGT7Mhv9YNNt6NLUGPCA-/pub?embedded=true"></iframe"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 8000px" src="https://docs.google.com/document/d/e/2PACX-1vR5MwzViCkAWGoCb3DEIIdfN-QEJWCyhPFWNzsMrS84huTyEJswaD9NAwMAGT7Mhv9YNNt6NLUGPCA-/pub?embedded=true"></iframe">
