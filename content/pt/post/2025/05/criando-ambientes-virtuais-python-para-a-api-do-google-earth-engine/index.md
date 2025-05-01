@@ -56,9 +56,8 @@ image:
 # - febr: Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)
 # - spsann: Otimização de Amostras Espaciais via Recozimento Simulado (SPSANN)
 # Caso não esteja associado a projeto, use 'projects = []'
-# projects:
-#   - febr
-projects = []
+projects:
+  - febr
 
 # Link para o código fonte
 # url_code: 
