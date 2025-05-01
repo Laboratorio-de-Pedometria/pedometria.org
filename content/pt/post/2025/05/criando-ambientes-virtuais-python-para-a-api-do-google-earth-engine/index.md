@@ -46,7 +46,7 @@ draft: false
 # Adicione uma imagem retangular (com até 720 pixels de largura) nomeada 'featured' ao diretório desta postagem
 # focal_point: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: "O SoilData utiliza o Trello para gestão do resgate de dados de solo"
+  caption: "Experimente compbinar Python com R para fluxos de trabalho geoespaciais no Google Earth Engine."
   focal_point: ""
   preview_only: false
 
