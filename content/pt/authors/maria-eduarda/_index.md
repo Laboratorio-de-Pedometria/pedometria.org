@@ -1,48 +1,32 @@
 ---
 authors:
-  - maria-eduarda-ferreira-cardoso
-title: Maria Eduarda Ferreira Cardoso 
-user_groups:
-- Pesquisadores
-bio: ""
-# email: 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
+- maria-eduarda-ferreira-cardoso
+email: mariaeduardaferreira286@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
-# interests:
-#   - 
-#   - 
-#   - 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mariaeduardaferreira286@gmail.com
+  link: mailto:mmariaeduardaferreira286@gmail.com
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/3426776076107671
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ferreiracardoso-mariaeduarda
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Maria-Ferreira-Cardoso-2
+  link: http://lattes.cnpq.br/0865349429783859
 superuser: false
+title: Maria Eduarda Ferreira Cardoso
+user_groups:
+  - Egressos
 ---
 
-<!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vQsMujoubOmqmaSkspmiCuNShkgXrOzJBa1hX3tB4p9BLQTTvQTgJnxYjxWC0kSXlPsbomtkUakhwLm/pub?embedded=true"></iframe>
+Maria Eduarda é graduanda de Agronomia pela Universidade Tecnológica Federal do Paraná (UTFPR).
 
-<!-- HTML e Markdown -->
-Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+### UTFPR -- PIVICT 2023/2025
 
-[edit]: https://docs.google.com/document/d/1Zz3FiOFh3DnFkEGvgvK_p9aqqstI3E7WF925NON9exM/edit
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
+__Data de início__: 2023-09-01<br>
+__Data de término__: 2024-06-01
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEf9j07m-l26aWh8)
+{{% /btn %}}
