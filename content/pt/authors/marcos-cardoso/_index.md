@@ -14,7 +14,7 @@ bio: ""
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+role: Mestrando
 # interests:
 #   - 
 #   - 
