@@ -1,24 +1,11 @@
 ---
 authors:
-  - mary-evelyn-santos-alencastro
-title: Mary Evelyn Santos Alencastro
-user_groups:
-- Pesquisadores
-bio: ""
-# email: 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
+- mary-evelyn-santos-alencastro
+email: maryalencastro@alunos.utfpr.edu.br
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
-# interests:
-#   - 
-#   - 
-#   - 
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,23 +13,20 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/2561391480864030
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=pt-BR&authuser=1&user=gDbpvMIAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/maryalencastro
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Mary-Evelyn-Alencastro
 superuser: false
+title: Mary Evelyn Santos Alencastro
+user_groups:
+  - Egressos
 ---
 
-<!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vTPN3-eqHnH9HuPUq1qhuNjxnqU8EQFrJVmizoFBsXBT0f5JLDHF8wQGHMHcvJ68PIF4iAxoxsALsrk/pub?embedded=true"></iframe>
+Graduanda em Ciência da Computação pela Universidade Tecnológica Federal do Paraná - UTFPR, campus Santa Helena. Atualmente é membro do Laboratório de Pedometria (LdP), com foco na gestão e curadoria de dados.
 
-<!-- HTML e Markdown -->
-Quer melhorar este conteúdo?<br>
-[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+### UTFPR -- PIVICT 2023/2025
 
-[edit]: https://docs.google.com/document/d/1wpmxDibrNh3wdqeVSnGTAki-J6BxqJNIUjPPx4uavao/edit
+__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
+__Data de início__: 2023-09-01<br>
+__Data de término__: 2025-03-01
+
+{{% btn %}}
+  [Plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEf9j07m-l26aWh8)
+{{% /btn %}}
