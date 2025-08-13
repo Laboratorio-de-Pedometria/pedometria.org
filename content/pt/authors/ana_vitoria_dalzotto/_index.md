@@ -21,7 +21,7 @@ user_groups:
 
 Ana Vitoria é estudante de Agronomia.
 
-### UTFPR -- PIVICT 2023/2025
+### UTFPR -- PIVICT 2024/2025
 
 __Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
 __Data de início__: 2023-06-01<br>
