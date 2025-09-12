@@ -40,11 +40,11 @@ Você também pode __encontrar dados__ para utilizar em suas atividades de ensin
     </td>
     <td style="width: 50%; background-color: white; border-top: white;">
       <div class="card">
-        <a href="https://github.com/Laboratorio-de-Pedometria/mapbiomas-solo" class="card-image hover-overlay">
+        <a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/" class="card-image hover-overlay">
           <img src="/soildata/processed.png" alt="Acessar dados processados" class="img-responsive ls-is-cached lazyloaded">
         </a>
         <div class="card-text">
-          <h4><a href="https://github.com/Laboratorio-de-Pedometria/mapbiomas-solo">Acessar dados processados</a></h4>
+          <h4><a href="https://pedometria.shinyapps.io/febr-busca-de-dados-processados/">Acessar dados processados</a></h4>
         </div>
       </div>
     </td>
