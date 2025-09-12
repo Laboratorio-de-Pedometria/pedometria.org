@@ -4,7 +4,7 @@
 # Título da postagem
 # Inicie as palavras com letra maiúscula (title case)
 # Veja mais em https://www.thoughtco.com/which-words-in-a-title-should-be-capitalized-1691026
-title: "Lançamento da Coleção 2 do MapBiomas Solo – Novos Avanços no Mapeamento do Solo Brasileiro"
+title: "Lançamento da Coleção 2 do MapBiomas Solo--Novos Avanços no Mapeamento do Solo Brasileiro"
 subtitle: ""
 summary: "No dia 6 de dezembro, o Ministério da Agricultura e Pecuária (MAPA), em Brasília, foi palco do lançamento da segunda coleção de mapas de propriedades do solo para o território nacional produzidos pelo MapBiomas Solo."
 
@@ -18,7 +18,8 @@ tags:
   - MapBiomas Solo
   - Lançamento
   - Textura do Solo
-  - Pedometria
+  - SoilData
+  - Estoque de Carbono do Solo
 
 # Categoria do conteúdo da página (escolha uma ou mais)
 # - Bolsa
@@ -58,12 +59,13 @@ image:
 # Caso não esteja associado a projeto, use 'projects = []'
 projects:
   - febr
+  - mapbiomas
 
 # Link para o código fonte
 # url_code: 
 
 # URL do documento original
-url_source: https://docs.google.com/document/d/1MXXpro_94pXk6JOswrMNXzUl4Rh2Daq0T_XW337mb_E/edit?tab=t.0
+url_source: https://docs.google.com/document/d/1m5xpw6cihEz_3r1Qsyib3ApcdHrSNQdfNHqVVNIvk-4/edit?usp=sharing
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 19000px" src="https://docs.google.com/document/d/e/2PACX-1vQFnG0QxEK3JKlRHSS9jFBpxd1mdK1WTF21o9XBi2vW925CxIlhJBwRxO3-1k6wtxiunUFJGzJfSxUC/pub?embedded=true"></iframe">
+<iframe frameborder="0" style="width: 100%; height: 6600px" src="https://docs.google.com/document/d/e/2PACX-1vT4kXRu3ceF_rW5F-SJw9fOwmskffZjOH1oYJ0HFx8OqOLMFPkGak6vRKciypb2KuQPbDUUBDzBwEkL/pub?embedded=true"></iframe>

@@ -65,4 +65,4 @@ url_code: "https://github.com/Laboratorio-de-Pedometria/rtutorial/blob/main/src/
 url_source: https://docs.google.com/document/d/1R5DP9tYNLeJXrc4QA1gsXOBad-QZnCdBGpezNpjltWE/edit
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 13850px" src="https://docs.google.com/document/d/e/2PACX-1vTHYfvUbd-SXxa0fL8YIs6u-Pm_JZex5o-6FDqVAyUHe7c0XXL8iWV4N5I_i0lQmITSZerrd7kvnFv1/pub?embedded=true"></iframe">
+<iframe frameborder="0" style="width: 100%; height: 13850px" src="https://docs.google.com/document/d/e/2PACX-1vTHYfvUbd-SXxa0fL8YIs6u-Pm_JZex5o-6FDqVAyUHe7c0XXL8iWV4N5I_i0lQmITSZerrd7kvnFv1/pub?embedded=true"></iframe>
