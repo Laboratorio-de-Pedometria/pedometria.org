@@ -38,7 +38,7 @@ user_groups:
 - Pesquisadores
 ---
 
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vRynpuLuKlNJb1E9LxNxdyBWL2In6N5HWHkHVCU1FunJ-tX7qj5X5tADWzLSrT3p3rTwplvIbqteiEN/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 1200px" src="https://docs.google.com/document/d/e/2PACX-1vRynpuLuKlNJb1E9LxNxdyBWL2In6N5HWHkHVCU1FunJ-tX7qj5X5tADWzLSrT3p3rTwplvIbqteiEN/pub?embedded=true"></iframe>
 
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
