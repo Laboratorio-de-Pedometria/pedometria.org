@@ -1,15 +1,11 @@
 ---
 authors:
   - matheus-ferreira-ramos
-email: matheusramos@alunos.utfpr.edu.br
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:matheusramos@alunos.utfpr.edu.br
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/1502739519386205
@@ -19,20 +15,9 @@ user_groups:
   - Egressos
 ---
 
-Graduando no curso de Bacharelado em Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), câmpus Santa Helena.
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vQcjuxJ684qX1HsxtZzoFb4DU4O0XpMucTGCi9rVoghi5bC1GbR8SReWwtH_4ueuiF8qi5RzAmyqQoi/pub?embedded=true"></iframe>
 
-### UTFPR -- PIBIS 2018/2019
+Quer melhorar este conteúdo?<br>
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo<br>
-__Data de início__: 2018-08-01<br>
-__Data de término__: 2019-07-31
-
-{{% btn %}}
-  [Plano de trabalho](https://docs.google.com/document/d/1xkjNqejZtoBl9P4UhHWb_OBceVY2fo6ovgpgbdAtr7I)
-{{% /btn %}}
-{{% btn %}}
-  [Relatório de atividades -- parcial](https://docs.google.com/document/d/1j5gtqtH2Iqyns0lW4ya-btnx_IJBjpH0T-Vj-uorwys)
-{{% /btn %}}
-{{% btn %}}
-  [Relatório de atividades -- final](https://drive.google.com/file/d/1eiRveZTwcJ7rKUlAHJ4lbKA8RhOBvTA9)
-{{% /btn %}}
+[edit]: https://docs.google.com/document/d/1r4ymDqJXKBF6BuevAk6Z_CcelUyz4dT_hBiFTdA3OcA/edit?usp=sharing
