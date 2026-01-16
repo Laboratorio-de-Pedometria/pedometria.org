@@ -1,15 +1,11 @@
 ---
 authors:
 - gabriel-ferreira-pontes
-email: gfpontes.unb@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:gfpontes.unb@gmail.com
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/3151760376899151
