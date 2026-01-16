@@ -44,27 +44,6 @@ organizations:
 # Biografia curta, mostrada no final das postagens de sua autoria
 bio: "Estudante de Engenharia da Computação na Universidade Tecnológica Federal do Paraná, câmpus Pato Branco."
 
-# Liste até cinco de seus interesses técnico-científicos
-# Por exemplo: Modelagem Geoestatística, Otimização Amostral Espacial, Análise de Incerteza, Funções de Pedotransferência
-interests:
-  - "Programação"
-  - "Aprendizado de máquina"
-
-# Educação formal: título, instituição e ano de conclusão
-# Inclui graduação, mestrado e doutorado
-# Caso não tenha concluído algum desses níveis, comente usando #
-education:
-  courses:
-#  - course: PhD em ???
-#    institution: Nome da Instituição
-#    year: ANO
-#  - course: MSc em ???
-#    institution: Nome da Instituição
-#    year: ANO
-  - course: BSc em Engenharia da Computação (e-MEC 115616)
-    institution: Universidade Tecnológica Federal do Paraná
-    year: 2022
-
 # Redes Sociais/Acadêmicas
 # e-mail pessoal
 # Currículo Lattes
@@ -85,19 +64,9 @@ social:
   link: https://github.com/Leticia147
 ---
 
-Estudante de Engenharia da Computação na Universidade Tecnológica Federal do Paraná, Câmpus Pato branco (UTFPR-PB). Durante minha graduação, ministrei aulas de informática básica para a terceira idade no projeto Escola PatoBranco Digital. Também participei como desenvolvedora da cédula drone da equipe de robótica da universidade, a PatoBots.
+<iframe frameborder="0" style="width: 100%; height: 500px" src="https://docs.google.com/document/d/e/2PACX-1vTz1jbJSgznKr22W-1GupFvvmQDU25TLvWpjvVx8DbOf1YOY3V3tBdF5kWrrwLQLNyZW5_INyF0CsN9/pub?embedded=true"></iframe>
 
-### UTFPR -- REA 2020
+Quer melhorar este conteúdo?<br>
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-__Título__: Desenvolvimento de um Software Livre e de Código Aberto para o Aprendizado Ativo da Classificação de Solos<br>
-__Data de início__: 2021-03-01<br>
-__Data de término__: 2021-06-31
-
-{{% btn %}}
-  [Plano de trabalho](https://docs.google.com/document/u/1/d/1rBmD7tSX8j4myaGMpj7htKkzDNq86vsr/)
-{{% /btn %}}
-<!--
-{{% btn %}}
-  [Relatório de atividades](url-do-relatorio-de-atividades)
-{{% /btn %}}
--->
+[edit]: https://docs.google.com/document/d/1Cqoe5MVPvYn0VBHtL7LqrBLj8ZB-Z3yvMohKqXsb-88/edit?usp=sharing
