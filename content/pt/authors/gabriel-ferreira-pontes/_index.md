@@ -19,11 +19,7 @@ user_groups:
   - Egressos
 ---
 
-Gabriel é estudante de Ciências Biológicas. Trabalhou por três anos com bioquímica de bactérias fixadoras de nitrogênio e de suas interações na rizosfera. Atualmente, é estagiário no Laboratório de Ecologia de Ecossistemas da Universidade de Brasília. Tem experiência em compilação, resgate e curadoria de dados.
-
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
-__Data de início__: 2022-11-01<br>
-__Data de término__: 2023-02-01
+<iframe frameborder="0" style="width: 100%; height: 1200px" src="https://docs.google.com/document/d/e/2PACX-1vSB9pdUTpEkxBKriquajfZcHSO8hueXrhsfgrO6VSDcaQH80OlBVohGXm333UvuZJVZ01mR3LRP_GVV/pub?embedded=true"></iframe>
 
 Quer melhorar este conteúdo?<br>
 [<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
