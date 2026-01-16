@@ -1,15 +1,11 @@
 ---
 authors:
 - graziele-feltrin-dias-wendling
-email: grazi.wendling@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
 role: Doutoranda
 social:
-- icon: envelope
-  icon_pack: fas
-  link: grazi.wendling@gmail.com
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/1251227155465303
@@ -19,9 +15,9 @@ user_groups:
   - Egressos
 ---
 
-Graziele está realizando o doutorado em Ciências do Solo, tendo como ênfase da pesquisa a avaliação da qualidade de dados analíticos, padronização de metodologia, curadoria e harmonização de dados analíticos de solos. Possui experiência de mais de 15 anos em análises químicas de solo e agronômicas, além de experiência em gestão da qualidade (ISO/IEC 17025). Contribui para o trabalho de harmonização e padronização de metodologias analíticas em solos pela Global Soil Partnership - GLOSOLAN.
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vTVWgZnOl3R_YPTyQ00Cs7yjX6HWo6e7IZeq-MgeBaxL1j683R-O6f3epGJGiMKUf9ClpDwtdztrpz5/pub?embedded=true"></iframe>
 
+Quer melhorar este conteúdo?<br>
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
 
-__Título__: Repositório Brasileiro Livre para Dados Abertos do Solo: Tarefa I -- Região Sudeste<br>
-__Data de início__: Abril/2022 <br>
-__Data de término__: Agosto/2023
+[edit]: https://docs.google.com/document/d/1-MWfDNqIqFiW3dROgPCP7-YIMJwRmQSvo7N6LN95bd8/edit?usp=sharing
