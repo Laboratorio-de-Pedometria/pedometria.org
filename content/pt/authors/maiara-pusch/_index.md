@@ -2,27 +2,20 @@
 authors:
 - maiara-pusch
 bio: ""
-education:
-  courses:
-  - course: MSc em Engenharia Agrícola
-    institution: Universidade Federal da Grande Dourados
-    year: 
-  - course: BSc em Engenharia Agrícola
-    institution: Universidade Federal da Grande Dourados
-    year: 
+# education:
+#   courses:
+#   - course: MSc em Engenharia Agrícola
+#     institution: Universidade Federal da Grande Dourados
+#     year: 
+#   - course: BSc em Engenharia Agrícola
+#     institution: Universidade Federal da Grande Dourados
+#     year: 
 # interests:
-# - 
-# - 
-# - 
-# - 
 organizations:
 - name: Universidade Estadual de Campinas
   url: https://www.unicamp.br/
 role: Doutoranda
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:maiarapuschh@hotmail.com
 - icon: twitter
   icon_pack: fab
   link: 
@@ -41,4 +34,9 @@ user_groups:
 - Egressos
 ---
 
-Possui Graduação e Mestrado em Engenharia Agrícola pela Universidade Federal da Grande Dourados (UFGD). Cursando Doutorado em Engenharia Agrícola pela Universidade Estadual de Campinas (UNICAMP) na área de máquinas agrícolas com ênfase em Agricultura de Precisão. Integrante do Grupo Interdisciplinar de Tecnologia em Agricultura de Precisão GITAP.
+<iframe frameborder="0" style="width: 100%; height: 1000px" src="https://docs.google.com/document/d/e/2PACX-1vRKT5Z5EMidJwnUxd4fNN5dux52rzCv-5UZbXVVGQVCWO6OkkaSeTWiDWmYTSQmguoCUw6-WEFmpfbN/pub?embedded=true"></iframe>
+
+Quer melhorar este conteúdo?<br>
+[<i class="fa fa-edit" aria-hidden="true"></i> Sugira modificações no Google Docs][edit]
+
+[edit]: https://docs.google.com/document/d/1cPxYOJQjMrnZr4NWvxREIl5i69ntKc5GHH_eMsrp8jA/edit?usp=sharing
