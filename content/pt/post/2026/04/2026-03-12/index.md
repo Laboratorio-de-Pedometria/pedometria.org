@@ -24,9 +24,6 @@ projects: []
 url_source: ""
 ---
 
-III Workshop Solos e Informação de Solos no Brasil  
-7, 8 e 9 de abril de 2026 — Dois Vizinhos (PR)
-
 O III Workshop Solos e Informação de Solos no Brasil, uma atividade vinculada ao projeto MapBiomas Solo (Chamadas CNPq Universal 2023 e ApProjInter 2024), ocorrerá nos dias 7, 8 e 9 de abril de 2026 na UTFPR Dois Vizinhos. 
 
 O objetivo do III Workshop é promover aprendizado, intercâmbio e capacitação técnica na área de ciência do solo, preparando a base para a produção da Coleção 4 do MapBiomas Solo. A programação inclui uma oficina da iniciativa MapBiomas Solo dedicada a métodos e processos para a produção de dados espaciais e temporais sobre solos, além da apresentação e discussão do repositório SoilData para gestão e abertura de dados de solo.
@@ -45,7 +42,7 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
 
 - 14:40–17:00 — Lab 2Prog  
   Workshop: Introdução ao Google Earth Engine (Mariana Dias, GDE Earth Engine)
-- 18:00 — Auditório Douglas Sampaio  
+- 18:00 — Auditório Douglas Sampaio
   Abertura do III Workshop: Clima, emergência climática e impactos na erosão do solo  
   Abertura por: Profa. Dra. Taciara Zborowski Horst (UTFPR Dois Vizinhos) e Prof. Dr. Alessandro Samuel-Rosa (UTFPR Santa Helena)  
   Painel de abertura: Prof. Dr. Frederico (UTFPR Dois Vizinhos)  
@@ -57,49 +54,37 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
 - 08:30–09:30 — Sala de Reuniões do G10  
   Café de recepção
 - 09:30–09:45 — Sala de Reuniões do G10  
-  Abertura e apresentação geral do projeto
+  Abertura e apresentação geral do projeto (Chamadas CNPq Universal 2023 e ApProjInter 2024)
 - 09:45–10:45 — Sala de Reuniões do G10  
   Avaliação e comparação dos mapas de carbono e granulometria entre diferentes iniciativas e coleções (Prof. Dr. Erli Pinto dos Santos, UFRRJ)
 - 10:45–12:00 — Sala de Reuniões do G10  
   MapBiomas Solo: Apresentação de estatísticas de área e cruzamentos ambientais para identificação de problemas na modelagem do carbono e granulometria
 - 14:00–17:30 — Sala de Reuniões do G10
-  - Representação de variáveis climáticas nos modelos de carbono (Prof. Dr. Fabrício Oliveira, UTFPR)
-  - Avaliação da correlação/associação entre carbono do solo e variáveis meteorológicas (Prof. Dr. Erli Pinto dos Santos, UFRRJ)
-  - Avaliação da correlação/associação entre carbono do solo e classes climáticas (Prof. Dr. Fabrício Oliveira e Profa. Dra. Lisiane Sobucki, UTFPR).  
-  - Mãos na massa: o desafio de produzir dados meteorológicos e climáticos para modelagem na resolução de 30 m
+  Representação de variáveis climáticas nos modelos de carbono (Prof. Dr. Fabrício Oliveira, UTFPR)
+  Avaliação da correlação/associação entre carbono do solo e variáveis meteorológicas (Prof. Dr. Erli Pinto dos Santos, UFRRJ)
+  Avaliação da correlação/associação entre carbono do solo e classes climáticas (Prof. Dr. Fabrício Oliveira e Profa. Dra. Lisiane Sobucki, UTFPR).  
+  Mãos na massa: o desafio de produzir dados meteorológicos e climáticos para modelagem na resolução de 30 m (Mariana Dias, GDE Earth Engine)
 - 20:00 — Jantar de confraternização
 
 ### 09/04 — quinta-feira
 
-- 09:00–12:00 — Sala de Reuniões do G10  
-  - Validação cruzada e estatísticas dos modelos — Prof. Dr. Alessandro Samuel-Rosa  
-  - Estoques de carbono da Amazônia — Delara Cassamo  
-  - Direcionamento: filtragem das amostras e priorização do esforço do repositório no processamento de dados pontuais e/ou resgate
-- 14:00–14:30 — Sala de Reuniões do G10  
-  - Explicação sobre covariáveis descartadas e problemas relacionados — Profa. Dra. Taciara Zborowski Horst e Prof. Dr. Alessandro Samuel-Rosa  
-  - Hands-on: Mariana Dias
-- 14:30–15:30 — Sala de Reuniões do G10  
-  Como lidar com os dados de uso e cobertura? — Wallace Vieira e Marcos Cardoso
-- 15:30–18:00 — Sala de Reuniões do G10  
-  Como representar o manejo? — Ana, Marcos Cardoso, Alessandro Samuel-Rosa
-- 18:00–18:30 — Sala de Reuniões do G10  
-  Direcionamento do esforço do repositório no processamento de dados pontuais e/ou resgate
+Local: Sala de Reuniões do G10
+
+- 09:00–12:00
+  Critérios e procedimentos de filtragem de amostras para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
+  Estatísticas de desempenho preditivo da modelagem do carbono e granulometria (Alessandro Samuel-Rosa--UTFPR)  
+  Validação da tendência temporal dos estoques de carbono da Amazônia (Delara Cassamo--UTFPR)  
+  Discussão: priorização do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
+- 14:00–14:30
+  Critérios e procedimentos de seleção de covariáveis para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
+- 14:30–15:30  
+  Representação de dados históricos de uso e cobertura da terra na modelagem do carbono (Wallace Vieira--IPAM e Marcos Cardoso--UFG)
+- 15:30–18:00  
+  Representação de dados históricos de manejo do solo na modelagem do carbono (Ana Pretto--UFG, Marcos Cardoso--UFG e Alessandro Samuel-Rosa--UTFPR)
+- 18:00–18:30  
+  Direcionamento do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
 - 18:30 — Encerramento e tarefas para casa
 
-Inscrições e submissão de trabalhos
-Informações sobre inscrição, envio de resumos e programação detalhada serão divulgadas em breve. Para dúvidas e contato com a organização, enviar e‑mail para: [inserir e‑mail de contato].
+## Inscrições
 
-Organização
-Comitê organizador do III Workshop Solos e Informação de Solos no Brasil — em parceria com instituições locais e nacionais.
-
-Apoio e patrocínio
-[Incluir órgãos/instituições apoiadoras quando confirmados]
-
-Participe — contribua para o fortalecimento da informação de solos no Brasil!
-
-Versão curta para redes sociais:
-III Workshop Solos e Informação de Solos no Brasil — 7–9 abr/2026, Dois Vizinhos (PR). Oficina MapBiomas Solo, apresentação do repositório SoilData e exercícios práticos em Google Earth Engine. Inscrições em breve. Saiba mais: [link]
-
-Observações para publicação
-- Se quiser imagem featured: defina featured: true no front-matter e adicione arquivo de imagem (jpg/png) chamado "featured" na mesma pasta do index.md.  
-- Substituir os placeholders de e‑mail e link antes da publicação final.
+Informações sobre inscrição serão divulgadas em breve. Para dúvidas e contato com a organização, enviar e‑mail para: alessandrorosa ou taciaraz em @utfpr.edu.br.
