@@ -41,29 +41,30 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
 ### 07/04 — terça-feira
 
 - 14:40–17:00 — Lab 2Prog  
-  Workshop: Introdução ao Google Earth Engine (Mariana Dias, GDE Earth Engine)
+  - Workshop: Introdução ao Google Earth Engine (Mariana Dias, GDE Earth Engine)
 - 18:00 — Auditório Douglas Sampaio
-  Abertura do III Workshop: Clima, emergência climática e impactos na erosão do solo  
-  Abertura por: Profa. Dra. Taciara Zborowski Horst (UTFPR Dois Vizinhos) e Prof. Dr. Alessandro Samuel-Rosa (UTFPR Santa Helena)  
-  Painel de abertura: Prof. Dr. Frederico (UTFPR Dois Vizinhos)  
-  Palestras principais: Profa. Dra. Leila Limberger (Unioeste); Prof. Dr. Anderson (UTFPR Santa Helena)
-  Moderador: Frederico (UTFPR Dois Vizinhos)
+  - Abertura do III Workshop: Clima, emergência climática e impactos na erosão do solo (Taciara Zborowski Horst--UTFPR e Alessandro Samuel-Rosa--UTFPR)  
+  - Painel de abertura: Prof. Dr. Frederico (UTFPR Dois Vizinhos)  
+  - Palestras principais: Profa. Dra. Leila Limberger (Unioeste); Prof. Dr. Anderson (UTFPR Santa Helena)
+  - Moderador: Frederico (UTFPR Dois Vizinhos)
 
 ### 08/04 — quarta-feira
 
-- 08:30–09:30 — Sala de Reuniões do G10  
-  Café de recepção
-- 09:30–09:45 — Sala de Reuniões do G10  
-  Abertura e apresentação geral do projeto (Chamadas CNPq Universal 2023 e ApProjInter 2024)
-- 09:45–10:45 — Sala de Reuniões do G10  
-  Avaliação e comparação dos mapas de carbono e granulometria entre diferentes iniciativas e coleções (Prof. Dr. Erli Pinto dos Santos, UFRRJ)
-- 10:45–12:00 — Sala de Reuniões do G10  
-  MapBiomas Solo: Apresentação de estatísticas de área e cruzamentos ambientais para identificação de problemas na modelagem do carbono e granulometria
-- 14:00–17:30 — Sala de Reuniões do G10
-  Representação de variáveis climáticas nos modelos de carbono (Prof. Dr. Fabrício Oliveira, UTFPR)
-  Avaliação da correlação/associação entre carbono do solo e variáveis meteorológicas (Prof. Dr. Erli Pinto dos Santos, UFRRJ)
-  Avaliação da correlação/associação entre carbono do solo e classes climáticas (Prof. Dr. Fabrício Oliveira e Profa. Dra. Lisiane Sobucki, UTFPR).  
-  Mãos na massa: o desafio de produzir dados meteorológicos e climáticos para modelagem na resolução de 30 m (Mariana Dias, GDE Earth Engine)
+Local: Sala de Reuniões do G10
+
+- 08:30–09:30  
+  - Café de recepção
+- 09:30–09:45  
+  - Abertura e apresentação geral do projeto, Chamadas CNPq Universal 2023 e ApProjInter 2024 (Taciara Zborowski Horst--UTFPR e Alessandro Samuel-Rosa--UTFPR)
+- 09:45–10:45  
+  - Avaliação e comparação dos mapas de carbono e granulometria entre diferentes iniciativas e coleções (Erli Pinto dos Santos--UFRRJ)
+- 10:45–12:00  
+  - MapBiomas Solo: Apresentação de estatísticas de área e cruzamentos ambientais para identificação de problemas na modelagem do carbono e granulometria
+- 14:00–17:30
+  - Representação de variáveis climáticas nos modelos de carbono (Fabrício Oliveira--UTFPR)
+  - Avaliação da correlação/associação entre carbono do solo e variáveis meteorológicas (Erli Pinto dos Santos--UFRRJ)
+  - Avaliação da correlação/associação entre carbono do solo e classes climáticas (Fabrício Oliveira e Lisiane Sobucki--UTFPR).  
+  - Mãos na massa: o desafio de produzir dados meteorológicos e climáticos para modelagem na resolução de 30 m (Mariana Dias--GDE Earth Engine)
 - 20:00 — Jantar de confraternização
 
 ### 09/04 — quinta-feira
@@ -71,18 +72,18 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
 Local: Sala de Reuniões do G10
 
 - 09:00–12:00
-  Critérios e procedimentos de filtragem de amostras para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
-  Estatísticas de desempenho preditivo da modelagem do carbono e granulometria (Alessandro Samuel-Rosa--UTFPR)  
-  Validação da tendência temporal dos estoques de carbono da Amazônia (Delara Cassamo--UTFPR)  
-  Discussão: priorização do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
+  - Critérios e procedimentos de filtragem de amostras para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
+  - Estatísticas de desempenho preditivo da modelagem do carbono e granulometria (Alessandro Samuel-Rosa--UTFPR)  
+  - Validação da tendência temporal dos estoques de carbono da Amazônia (Delara Cassamo--UTFPR)  
+  - Discussão: priorização do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
 - 14:00–14:30
-  Critérios e procedimentos de seleção de covariáveis para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
+  - Critérios e procedimentos de seleção de covariáveis para modelagem adotados na Coleção 3 (Taciara Zborowski Horst--UTFPR)
 - 14:30–15:30  
-  Representação de dados históricos de uso e cobertura da terra na modelagem do carbono (Wallace Vieira--IPAM e Marcos Cardoso--UFG)
+  - Representação de dados históricos de uso e cobertura da terra na modelagem do carbono (Wallace Vieira--IPAM e Marcos Cardoso--UFG)
 - 15:30–18:00  
-  Representação de dados históricos de manejo do solo na modelagem do carbono (Ana Pretto--UFG, Marcos Cardoso--UFG e Alessandro Samuel-Rosa--UTFPR)
+  - Representação de dados históricos de manejo do solo na modelagem do carbono (Ana Pretto--UFG, Marcos Cardoso--UFG e Alessandro Samuel-Rosa--UTFPR)
 - 18:00–18:30  
-  Direcionamento do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
+  - Direcionamento do esforço do Repositório SoilData no processamento de dados pontuais e/ou resgate
 - 18:30 — Encerramento e tarefas para casa
 
 ## Inscrições
