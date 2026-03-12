@@ -27,24 +27,17 @@ url_source: ""
 III Workshop Solos e Informação de Solos no Brasil  
 7, 8 e 9 de abril de 2026 — Dois Vizinhos (PR)
 
-O III Workshop Solos e Informação de Solos no Brasil é uma atividade vinculada ao projeto MapBiomas Solo (Chamadas CNPq Universal 2023 e ApProjInter 2024) e tem como objetivo promover aprendizado, intercâmbio e capacitação técnica na área de ciência do solo. A programação inclui uma oficina da iniciativa MapBiomas Solo dedicada a métodos e processos para a produção de dados espaciais e temporais sobre solos, além da apresentação e discussão do repositório SoilData para gestão e abertura de dados de solo.
+O III Workshop Solos e Informação de Solos no Brasil, uma atividade vinculada ao projeto MapBiomas Solo (Chamadas CNPq Universal 2023 e ApProjInter 2024), ocorrerá nos dias 7, 8 e 9 de abril de 2026 na UTFPR Dois Vizinhos. 
+
+O objetivo do III Workshop é promover aprendizado, intercâmbio e capacitação técnica na área de ciência do solo, preparando a base para a produção da Coleção 4 do MapBiomas Solo. A programação inclui uma oficina da iniciativa MapBiomas Solo dedicada a métodos e processos para a produção de dados espaciais e temporais sobre solos, além da apresentação e discussão do repositório SoilData para gestão e abertura de dados de solo.
 
 Serão também realizados exercícios práticos de mapeamento digital usando Google Earth Engine, com foco em fluxos de trabalho replicáveis, e palestras abertas ao público sobre conservação e manejo sustentável do solo, em alusão ao Dia Nacional da Conservação do Solo (15 de abril), no contexto da emergência climática.
 
-O objetivo geral do III Workshop é proporcionar momentos de formação técnica, apresentação de metodologias e promoção de colaborações científicas e técnicas, fortalecendo a rede nacional de pesquisa em ciência do solo.
-
-## Atividades principais
-
-- Oficina técnica da iniciativa MapBiomas Solo: métodos, estratégias e processos para produção de dados espaciais e temporais sobre solos em escala nacional.  
-- Apresentação e discussão do repositório SoilData, voltado à gestão e abertura de dados de solo.  
-- Exercícios práticos de mapeamento digital de solos utilizando Google Earth Engine, com ênfase em fluxos de trabalho reprodutíveis para análise e modelagem espacial.  
-- Palestras abertas ao público sobre conservação do solo e manejo sustentável (em alusão ao Dia Nacional da Conservação do Solo, 15 de abril).
-
 ## Público-alvo
 
-As sessões abertas do III Workshop são direcionadas a uma ampla gama de participantes: estudantes de graduação e pós-graduação, técnicos administrativos e laboratoristas, docentes e pesquisadores, visitantes e colaboradores temporários de instituições de ensino, pesquisa e extensão. Adicionalmente, o evento acolhe agricultores da região, tomadores de decisão, representantes do poder municipal, profissionais da assistência técnica e extensão rural, prestadores de serviços, setor financeiro e toda pessoa interessada no manejo e conservação do solo e no uso de dados e informações de solos.
+As sessões abertas do III Workshop são direcionadas a estudantes de graduação e pós-graduação, técnicos administrativos e laboratoristas, docentes e pesquisadores, visitantes e colaboradores temporários de instituições de ensino, pesquisa e extensão. O evento também acolhe agricultores da região, tomadores de decisão, representantes do poder municipal, profissionais da assistência técnica e extensão rural, prestadores de serviços, setor financeiro e toda pessoa interessada no manejo e conservação do solo e no uso de dados e informações de solos.
 
-A sessão fechada do III Workshop visa reunir especificamente integrantes do Laboratório de Pedometria da UTFPR, membros da iniciativa MapBiomas Solo da rede MapBiomas e pesquisadores convidados para atividades e discussões técnicas específicas.
+As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório de Pedometria da UTFPR, membros da iniciativa MapBiomas Solo e pesquisadores convidados para atividades e discussões técnicas específicas.
 
 ## Agenda
 
