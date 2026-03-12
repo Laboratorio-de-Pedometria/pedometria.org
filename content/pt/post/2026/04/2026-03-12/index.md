@@ -38,7 +38,7 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
 
 ## Agenda
 
-### 07/04 — terça-feira
+### 07/04 — terça-feira (aberta)
 
 - 14:40–17:00 — Lab 2Prog  
   - Workshop: Introdução ao Google Earth Engine (Mariana Dias, GDE Earth Engine)
@@ -48,14 +48,14 @@ As sessões fechadas do III Workshop visam reunir os integrantes do Laboratório
   - Palestras principais: Profa. Dra. Leila Limberger (Unioeste); Prof. Dr. Anderson (UTFPR Santa Helena)
   - Moderador: Frederico (UTFPR Dois Vizinhos)
 
-### 08/04 — quarta-feira
+### 08/04 — quarta-feira (fechada)
 
 Local: Sala de Reuniões do G10
 
 - 08:30–09:30  
-  - Café de recepção
+  - Recepção aos participantes
 - 09:30–09:45  
-  - Abertura e apresentação geral do projeto, Chamadas CNPq Universal 2023 e ApProjInter 2024 (Taciara Zborowski Horst--UTFPR e Alessandro Samuel-Rosa--UTFPR)
+  - Abertura e apresentação geral do projeto CNPq Universal 2023 e ApProjInter 2024 (Taciara Zborowski Horst--UTFPR e Alessandro Samuel-Rosa--UTFPR)
 - 09:45–10:45  
   - Avaliação e comparação dos mapas de carbono e granulometria entre diferentes iniciativas e coleções (Erli Pinto dos Santos--UFRRJ)
 - 10:45–12:00  
@@ -65,9 +65,9 @@ Local: Sala de Reuniões do G10
   - Avaliação da correlação/associação entre carbono do solo e variáveis meteorológicas (Erli Pinto dos Santos--UFRRJ)
   - Avaliação da correlação/associação entre carbono do solo e classes climáticas (Fabrício Oliveira e Lisiane Sobucki--UTFPR).  
   - Mãos na massa: o desafio de produzir dados meteorológicos e climáticos para modelagem na resolução de 30 m (Mariana Dias--GDE Earth Engine)
-- 20:00 — Jantar de confraternização
+- 20:00 — Confraternização
 
-### 09/04 — quinta-feira
+### 09/04 — quinta-feira (fechada)
 
 Local: Sala de Reuniões do G10
 
