@@ -12,17 +12,17 @@ bio: ""
 #       institution: 
 #       year: 
 organizations:
-- name: Universidade Tecnológica Federal do Paraná
-  url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+- name: Universidade Federal de Goiás
+  url: https://ufg.br
+role: Mestranda 
 # interests:
 #   - 
 #   - 
 #   - 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:anapretto@alunos.utfpr.edu.br
+#- icon: envelope
+  #icon_pack: fas
+  #link: mailto:anapretto@alunos.utfpr.edu.br
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/3960710187597715
@@ -39,7 +39,7 @@ superuser: false
 ---
 
 <!-- HTML -->
-<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vRFn5MneUte0wJMZH5xvzAqgHkZumhFEOMjFaKpGLgCsoNYmtIqE-G20NYKeIv8NQ/pub?embedded=true"></iframe>
+<iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vRQyAylnkEr32uUHRbZsl9pkNOvNvqm19-pp4V6gynT-ZIdnmoQZugr12GH_rDl_bnoarhqWRADKiTy/pub?embedded=true"></iframe>
 
 <!-- HTML e Markdown -->
 Quer melhorar este conteúdo?<br>
