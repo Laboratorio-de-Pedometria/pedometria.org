@@ -3,7 +3,7 @@ authors:
   - theresa-rocco-pereira-barbosa
 title: Theresa Rocco Pereira Barbosa
 user_groups:
-- Pesquisadores
+- Egressos
 bio: ""
 # email: 
 # education:
