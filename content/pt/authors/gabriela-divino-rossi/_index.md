@@ -3,7 +3,7 @@ authors:
   - gabriela-divino-rossi
 title: Gabriela Rossi
 user_groups:
-- Pesquisadores
+- Egressos
 bio: ""
 # email: 
 # education:
