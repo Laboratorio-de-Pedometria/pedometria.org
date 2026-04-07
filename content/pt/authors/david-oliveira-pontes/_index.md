@@ -3,7 +3,7 @@ authors:
   - david-oliveira-pontes
 title: David Oliveira Pontes
 user_groups:
-- Pesquisadores
+- Egressos
 bio: ""
 # email: 
 # education:
