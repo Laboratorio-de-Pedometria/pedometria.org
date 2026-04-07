@@ -3,7 +3,7 @@ authors:
   - pedro-estevan-barth
 title: Pedro Estevan Barth
 user_groups:
-- Pesquisadores
+- Egressos
 bio: ""
 # email: 
 # education:
