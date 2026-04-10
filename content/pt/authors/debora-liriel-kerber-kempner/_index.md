@@ -35,7 +35,7 @@ social:
 superuser: false
 title: Débora Liriel Kerber Kempner
 user_groups:
-- Pesquisadores
+- Egressos
 ---
 
 <iframe frameborder="0" style="width: 100%; height: 900px" src="https://docs.google.com/document/d/e/2PACX-1vS9dzc1eqjP7HW8r7NqOQ3Ggc35MzLiheWGlEw4d2G9hPaBLUEp_ujM4YRtJAGIrtA_laDuoSRW8tLe/pub?embedded=true"></iframe>
