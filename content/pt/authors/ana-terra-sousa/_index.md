@@ -7,9 +7,9 @@ organizations:
   url: http://www.utfpr.edu.br/
 role: Iniciante à Ciência
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:anaterrasousa@gmail.com
+# - icon: envelope
+#   icon_pack: fas
+#   link: 
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/2217728948365068
