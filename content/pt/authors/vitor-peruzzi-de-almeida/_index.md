@@ -11,7 +11,7 @@ email: vitorperuzi@gmail.com
 organizations:
 - name: Universidade Tecnológica Federal do Paraná
   url: http://www.utfpr.edu.br/
-role: Iniciante à Ciência
+role: Mestrando
 # interests:
 #   - Desenvolvimento de Sistemas Web
 #   - Mobile Development
