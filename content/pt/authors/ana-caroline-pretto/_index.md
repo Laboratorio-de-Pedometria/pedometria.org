@@ -22,7 +22,7 @@ role: Mestranda
 social:
 #- icon: envelope
   #icon_pack: fas
-  #link: mailto:anapretto@alunos.utfpr.edu.br
+  #link: 
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/3960710187597715
