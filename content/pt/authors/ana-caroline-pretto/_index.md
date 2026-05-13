@@ -14,7 +14,7 @@ bio: ""
 organizations:
 - name: Universidade Federal de Goiás
   url: https://ufg.br
-role: Mestranda 
+role: Mestranda
 # interests:
 #   - 
 #   - 
